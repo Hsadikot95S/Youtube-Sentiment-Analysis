@@ -1,0 +1,50 @@
+Video Number : 1 --> RESIDENT EVIL 4 REMAKE CHAINSAW DEMO PS5 Full Walkthrough Gameplay Part 1 &amp; ENDING (RE4 REMAKE)
+Sentiment Vader
+Positive sentiment : 67.62246117084827
+Negative sentiment : 16.845878136200717
+Neutral sentiment : 15.531660692951016
+Video Number : 2 --> STRAY PS5 Walkthrough Gameplay Part 6 - THE EYES (FULL GAME)
+Sentiment Vader
+Positive sentiment : 58.25825825825825
+Negative sentiment : 11.11111111111111
+Neutral sentiment : 30.630630630630627
+Video Number : 3 --> LOOPMANCER Walkthrough Gameplay Part 1 - INTRO (FULL GAME)
+Sentiment Vader
+Positive sentiment : 59.04365904365905
+Negative sentiment : 16.424116424116423
+Neutral sentiment : 24.532224532224532
+Video Number : 4 --> OUTRIDERS WORLDSLAYER Walkthrough Gameplay Part 1 - INTRO (FULL GAME)
+Sentiment Vader
+Positive sentiment : 59.92217898832685
+Negative sentiment : 14.396887159533073
+Neutral sentiment : 25.680933852140075
+Video Number : 5 --> THE QUARRY Walkthrough Gameplay Part 23 - SILAS (FULL GAME)
+Sentiment Vader
+Positive sentiment : 54.70383275261324
+Negative sentiment : 22.299651567944252
+Neutral sentiment : 22.99651567944251
+Video Number : 6 --> THE QUARRY Walkthrough Gameplay Part 22 - SCRAPYARD (FULL GAME)
+Sentiment Vader
+Positive sentiment : 57.92880258899677
+Negative sentiment : 19.41747572815534
+Neutral sentiment : 22.653721682847898
+Video Number : 7 --> THE QUARRY Walkthrough Gameplay Part 6 - KAITLYN (FULL GAME)
+Sentiment Vader
+Positive sentiment : 52.84552845528455
+Negative sentiment : 21.680216802168022
+Neutral sentiment : 25.474254742547426
+Video Number : 8 --> THE QUARRY Walkthrough Gameplay Part 5 - RYAN (FULL GAME)
+Sentiment Vader
+Positive sentiment : 54.02298850574713
+Negative sentiment : 21.379310344827587
+Neutral sentiment : 24.597701149425287
+Video Number : 9 --> THE QUARRY Walkthrough Gameplay Part 1 - PROLOGUE (FULL GAME)
+Sentiment Vader
+Positive sentiment : 46.400000000000006
+Negative sentiment : 29.360000000000003
+Neutral sentiment : 24.240000000000002
+Video Number : 10 --> SNIPER ELITE 5 Walkthrough Gameplay Part 3 - SECRET ROOM (FULL GAME)
+Sentiment Vader
+Positive sentiment : 60.08583690987125
+Negative sentiment : 18.4549356223176
+Neutral sentiment : 21.45922746781116

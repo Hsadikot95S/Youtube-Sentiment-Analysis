@@ -1,0 +1,5 @@
+Video Number : 1 --> World&#39;s Brightest Flashlight | OT38
+Sentiment Vader
+Positive sentiment : 40.23965983764979
+Negative sentiment : 36.56745264785466
+Neutral sentiment : 23.192887514495556

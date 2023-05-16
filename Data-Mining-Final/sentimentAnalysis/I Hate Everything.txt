@@ -1,0 +1,2000 @@
+Video Number : 1 --> Sonic, Disney Movies, Invisible Men &amp; Fire Portraits - The Quest For The Best #5
+Sentiment Vader
+Positive sentiment : 47.18256949661908
+Negative sentiment : 25.99549211119459
+Neutral sentiment : 26.82193839218633
+Sentiment Afinn
+Positive sentiment : 38.99323816679189
+Negative sentiment : 22.389181066867017
+Neutral sentiment : 38.6175807663411
+Sentiment NRC
+anger : 0.07382417146259178
+anticipation : 0.12839849176423893
+disgust : 0.07382417146259178
+fear : 0.10577495534828339
+joy : 0.10676721571740425
+negative : 0.14407620559634848
+positive : 0.19924588211946814
+sadness : 0.07025203413375669
+surprise : 0.05278825163722961
+trust : 0.12462790236157968
+Video Number : 2 --> I HATE 13 Reasons Why (Season 3)
+Sentiment Vader
+Positive sentiment : 32.4315297261189
+Negative sentiment : 40.247160988643955
+Neutral sentiment : 27.321309285237138
+Sentiment Afinn
+Positive sentiment : 26.68670674682699
+Negative sentiment : 35.07014028056113
+Neutral sentiment : 38.24315297261189
+Sentiment NRC
+anger : 0.10393032276952353
+anticipation : 0.11871477713532899
+disgust : 0.09353729049257117
+fear : 0.15479762863207203
+joy : 0.07326355851569934
+negative : 0.18978262460660178
+positive : 0.18341506257776477
+sadness : 0.11688501793164019
+surprise : 0.04669545487813804
+trust : 0.14242845641513577
+Video Number : 3 --> The Best Trilogy of ALL TIME
+Sentiment Vader
+Positive sentiment : 47.699999999999996
+Negative sentiment : 26.066666666666666
+Neutral sentiment : 26.23333333333333
+Sentiment Afinn
+Positive sentiment : 39.56666666666667
+Negative sentiment : 21.266666666666666
+Neutral sentiment : 39.166666666666664
+Sentiment NRC
+anger : 0.07798323188239348
+anticipation : 0.11691742276329391
+disgust : 0.10129780636269668
+fear : 0.10118295624210405
+joy : 0.10256115768921557
+negative : 0.212243022855174
+positive : 0.2274032387734007
+sadness : 0.06936947283794648
+surprise : 0.04639944871942116
+trust : 0.11772137360744228
+Video Number : 4 --> The WORST Films I saw in 2019
+Sentiment Vader
+Positive sentiment : 41.266666666666666
+Negative sentiment : 35.06666666666667
+Neutral sentiment : 23.666666666666668
+Sentiment Afinn
+Positive sentiment : 32.33333333333333
+Negative sentiment : 34.43333333333333
+Neutral sentiment : 33.233333333333334
+Sentiment NRC
+anger : 0.09421747878575802
+anticipation : 0.13130959671069897
+disgust : 0.09343014609395503
+fear : 0.15090543259557343
+joy : 0.09920391916717697
+negative : 0.1961333216691453
+positive : 0.2325255883124836
+sadness : 0.11670020120724346
+surprise : 0.05546321406701076
+trust : 0.11180124223602485
+Video Number : 5 --> I HATE STAR WARS: THE RISE OF SKYWALKER
+Sentiment Vader
+Positive sentiment : 38.4
+Negative sentiment : 40.93333333333333
+Neutral sentiment : 20.666666666666668
+Sentiment Afinn
+Positive sentiment : 34.36666666666667
+Negative sentiment : 37.666666666666664
+Neutral sentiment : 27.96666666666667
+Sentiment NRC
+anger : 0.09781596108063348
+anticipation : 0.15464237656557292
+disgust : 0.08301418072663286
+fear : 0.15174412586688749
+joy : 0.1236414449849912
+negative : 0.21421177931891108
+positive : 0.2138494979815754
+sadness : 0.10728703032812338
+surprise : 0.05646413414760377
+trust : 0.14015112307214575
+Video Number : 6 --> Destiny 2: Shadowkeep - IHE
+Sentiment Vader
+Positive sentiment : 46.059322033898304
+Negative sentiment : 31.186440677966104
+Neutral sentiment : 22.75423728813559
+Sentiment Afinn
+Positive sentiment : 37.92372881355932
+Negative sentiment : 25.97457627118644
+Neutral sentiment : 36.10169491525424
+Sentiment NRC
+anger : 0.0803030303030303
+anticipation : 0.12575757575757576
+disgust : 0.05283267457180501
+fear : 0.0852437417654809
+joy : 0.10329380764163373
+negative : 0.15790513833992095
+positive : 0.20243741765480897
+sadness : 0.06870882740447957
+surprise : 0.051976284584980235
+trust : 0.12015810276679842
+Video Number : 7 --> Logan Paul&#39;s AWFUL Airplane Rip-off
+Sentiment Vader
+Positive sentiment : 39.06666666666666
+Negative sentiment : 35.86666666666667
+Neutral sentiment : 25.066666666666666
+Sentiment Afinn
+Positive sentiment : 29.76666666666667
+Negative sentiment : 32.233333333333334
+Neutral sentiment : 38.0
+Sentiment NRC
+anger : 0.1182551168079388
+anticipation : 0.12280339053132107
+disgust : 0.1180483770932396
+fear : 0.14347736200124045
+joy : 0.09313624147198676
+negative : 0.20860037213148647
+positive : 0.19175108538350216
+sadness : 0.10316311763489766
+surprise : 0.060678106264213355
+trust : 0.12094273309902832
+Video Number : 8 --> Date/Epic &amp; Disaster Movie - The WORST Trilogy of all Time
+Sentiment Vader
+Positive sentiment : 40.33333333333333
+Negative sentiment : 40.666666666666664
+Neutral sentiment : 19.0
+Sentiment Afinn
+Positive sentiment : 34.4
+Negative sentiment : 34.599999999999994
+Neutral sentiment : 31.0
+Sentiment NRC
+anger : 0.10770719122863592
+anticipation : 0.14801676878426315
+disgust : 0.10424056755885198
+fear : 0.14213157046114155
+joy : 0.11681715575620767
+negative : 0.20243469848435988
+positive : 0.2254111576910674
+sadness : 0.10238632699129313
+surprise : 0.06651080296678491
+trust : 0.11455981941309255
+Video Number : 9 --> I HATE FUNKO POP VINYLS
+Sentiment Vader
+Positive sentiment : 37.7
+Negative sentiment : 36.3
+Neutral sentiment : 26.0
+Sentiment Afinn
+Positive sentiment : 31.566666666666666
+Negative sentiment : 32.9
+Neutral sentiment : 35.53333333333333
+Sentiment NRC
+anger : 0.13543132917755882
+anticipation : 0.09139352503519002
+disgust : 0.1307058113814599
+fear : 0.1525236275889805
+joy : 0.09139352503519002
+negative : 0.2997184797908707
+positive : 0.18670822441182386
+sadness : 0.12004826060727931
+surprise : 0.15825457470339835
+trust : 0.09762718680876735
+Video Number : 10 --> Uwe Boll&#39;s CRAZY Letterboxd Reviews
+Sentiment Vader
+Positive sentiment : 43.733333333333334
+Negative sentiment : 27.200000000000003
+Neutral sentiment : 29.06666666666667
+Sentiment Afinn
+Positive sentiment : 32.6
+Negative sentiment : 27.23333333333333
+Neutral sentiment : 40.166666666666664
+Sentiment NRC
+anger : 0.10904255319148937
+anticipation : 0.11546985815602837
+disgust : 0.08909574468085106
+fear : 0.11048315602836879
+joy : 0.11170212765957446
+negative : 0.1918218085106383
+positive : 0.23636968085106383
+sadness : 0.08532801418439716
+surprise : 0.06748670212765957
+trust : 0.1330895390070922
+Video Number : 11 --> I HATE Superhero Movies (2018)
+Sentiment Vader
+Positive sentiment : 47.56666666666667
+Negative sentiment : 33.2
+Neutral sentiment : 19.233333333333334
+Sentiment Afinn
+Positive sentiment : 40.266666666666666
+Negative sentiment : 29.366666666666667
+Neutral sentiment : 30.366666666666664
+Sentiment NRC
+anger : 0.12522540573031457
+anticipation : 0.13170373338676283
+disgust : 0.12275429105723636
+fear : 0.17411340412742937
+joy : 0.10786081613571094
+negative : 0.2500500901622921
+positive : 0.2097108127963668
+sadness : 0.1131369798971482
+surprise : 0.06685366993922394
+trust : 0.11540773392105791
+Video Number : 12 --> Going beast mode on Dreamworks Super Star Kartz (Donkey Gameplay)
+Sentiment Vader
+Positive sentiment : 40.29792238337907
+Negative sentiment : 21.795374362994906
+Neutral sentiment : 37.90670325362603
+Sentiment Afinn
+Positive sentiment : 28.890631125048998
+Negative sentiment : 18.580948647589178
+Neutral sentiment : 52.52842022736181
+Sentiment NRC
+anger : 0.07009104964782684
+anticipation : 0.11269541315925098
+disgust : 0.09397010822882666
+fear : 0.09122143961518639
+joy : 0.1046211991066827
+negative : 0.1733379144476894
+positive : 0.21010135715512798
+sadness : 0.06837313176430167
+surprise : 0.04432228139494932
+trust : 0.12042604363511424
+Video Number : 13 --> I HATE ANTHEM
+Sentiment Vader
+Positive sentiment : 42.66666666666667
+Negative sentiment : 36.8
+Neutral sentiment : 20.533333333333335
+Sentiment Afinn
+Positive sentiment : 36.7
+Negative sentiment : 30.4
+Neutral sentiment : 32.9
+Sentiment NRC
+anger : 0.08698296836982969
+anticipation : 0.10541362530413625
+disgust : 0.07664233576642336
+fear : 0.09768856447688565
+joy : 0.08375912408759124
+negative : 0.17183698296836983
+positive : 0.18211678832116787
+sadness : 0.08059610705596107
+surprise : 0.04714111922141119
+trust : 0.10346715328467153
+Video Number : 14 --> The Most HATED YouTube Videos
+Sentiment Vader
+Positive sentiment : 30.0
+Negative sentiment : 38.56666666666666
+Neutral sentiment : 31.433333333333337
+Sentiment Afinn
+Positive sentiment : 25.933333333333337
+Negative sentiment : 27.633333333333333
+Neutral sentiment : 46.43333333333333
+Sentiment NRC
+anger : 0.1499055217300021
+anticipation : 0.1051858072643292
+disgust : 0.13300440898593324
+fear : 0.16628175519630484
+joy : 0.08261599832038631
+negative : 0.23231156833928196
+positive : 0.1623976485408356
+sadness : 0.14129750157463783
+surprise : 0.04157043879907621
+trust : 0.09311358387570859
+Video Number : 15 --> I HATE r/gaming
+Sentiment Vader
+Positive sentiment : 35.16666666666667
+Negative sentiment : 38.266666666666666
+Neutral sentiment : 26.566666666666666
+Sentiment Afinn
+Positive sentiment : 28.299999999999997
+Negative sentiment : 34.36666666666667
+Neutral sentiment : 37.333333333333336
+Sentiment NRC
+anger : 0.12235649546827794
+anticipation : 0.09651772936873906
+disgust : 0.11838130068373351
+fear : 0.11917633964064239
+joy : 0.09039592940054063
+negative : 0.2068691365876928
+positive : 0.20130386388933058
+sadness : 0.11392908252504373
+surprise : 0.04166004134202576
+trust : 0.1219589759898235
+Video Number : 16 --> The Most Terrible (&amp; EPIC) Films of 2018
+Sentiment Vader
+Positive sentiment : 45.300000000000004
+Negative sentiment : 26.866666666666667
+Neutral sentiment : 27.833333333333332
+Sentiment Afinn
+Positive sentiment : 35.833333333333336
+Negative sentiment : 24.9
+Neutral sentiment : 39.266666666666666
+Sentiment NRC
+anger : 0.0976375046142488
+anticipation : 0.14073458840900702
+disgust : 0.09016242155777039
+fear : 0.13076781100036913
+joy : 0.10889627168696936
+negative : 0.20367294204503505
+positive : 0.2117017349575489
+sadness : 0.09357696566998892
+surprise : 0.061461794019933555
+trust : 0.12338501291989665
+Video Number : 17 --> The (NOT BLOCKBUSTER) Collection - The Search For The Worst - IHE
+Sentiment Vader
+Positive sentiment : 34.699999999999996
+Negative sentiment : 36.06666666666667
+Neutral sentiment : 29.233333333333334
+Sentiment Afinn
+Positive sentiment : 26.6
+Negative sentiment : 32.0
+Neutral sentiment : 41.4
+Sentiment NRC
+anger : 0.06982380907989186
+anticipation : 0.14542742612100307
+disgust : 0.07942574811224014
+fear : 0.15353780180852056
+joy : 0.12165563531276219
+negative : 0.21646313041856996
+positive : 0.20005593362543114
+sadness : 0.08464621981914794
+surprise : 0.04549268201733942
+trust : 0.13125757434511046
+Video Number : 18 --> I HATE YOUTUBE REWIND 2018
+Sentiment Vader
+Positive sentiment : 38.06666666666666
+Negative sentiment : 32.53333333333333
+Neutral sentiment : 29.4
+Sentiment Afinn
+Positive sentiment : 28.666666666666668
+Negative sentiment : 27.766666666666666
+Neutral sentiment : 43.56666666666666
+Sentiment NRC
+anger : 0.12235078474052011
+anticipation : 0.11387329591018444
+disgust : 0.11536258448848666
+fear : 0.12636040783594912
+joy : 0.10207354794363616
+negative : 0.19337839385954864
+positive : 0.19887730553327987
+sadness : 0.10516668576010998
+surprise : 0.053728949478749
+trust : 0.14583572001374728
+Video Number : 19 --> I HATE &#39;LIVE ACTION&#39; DISNEY REMAKES
+Sentiment Vader
+Positive sentiment : 46.666666666666664
+Negative sentiment : 28.96666666666667
+Neutral sentiment : 24.366666666666667
+Sentiment Afinn
+Positive sentiment : 35.13333333333333
+Negative sentiment : 29.06666666666667
+Neutral sentiment : 35.8
+Sentiment NRC
+anger : 0.09287176623860041
+anticipation : 0.12823376139959056
+disgust : 0.07097214467398721
+fear : 0.1375395495998511
+joy : 0.10118493703083317
+negative : 0.15472423847633227
+positive : 0.28171722811588806
+sadness : 0.09163099447856567
+surprise : 0.05645511508158074
+trust : 0.11576400521124139
+Video Number : 20 --> I HATE TIKTOK
+Sentiment Vader
+Positive sentiment : 28.999999999999996
+Negative sentiment : 44.9
+Neutral sentiment : 26.1
+Sentiment Afinn
+Positive sentiment : 22.366666666666667
+Negative sentiment : 40.8
+Neutral sentiment : 36.833333333333336
+Sentiment NRC
+anger : 0.14795186043943911
+anticipation : 0.09837694600861212
+disgust : 0.15192668654079716
+fear : 0.17919841006955944
+joy : 0.1086452467704538
+negative : 0.27282764712377167
+positive : 0.1896875345036988
+sadness : 0.18173788230098267
+surprise : 0.045268852821022415
+trust : 0.12664237606271392
+Video Number : 21 --> Show Dogs (2018) - The Search For The Worst - IHE
+Sentiment Vader
+Positive sentiment : 32.300000000000004
+Negative sentiment : 32.300000000000004
+Neutral sentiment : 35.4
+Sentiment Afinn
+Positive sentiment : 25.933333333333337
+Negative sentiment : 29.666666666666668
+Neutral sentiment : 44.4
+Sentiment NRC
+anger : 0.09195748094665063
+anticipation : 0.12063778580024068
+disgust : 0.08333333333333333
+fear : 0.11562374649017249
+joy : 0.08644203770557561
+negative : 0.1648616125150421
+positive : 0.16736863217007622
+sadness : 0.08694344163658244
+surprise : 0.04412354592860008
+trust : 0.11081026875250702
+Video Number : 22 --> Venom, Searching, Tag &amp; More - The Quest For The Best #4
+Sentiment Vader
+Positive sentiment : 51.647785787847575
+Negative sentiment : 27.96086508753862
+Neutral sentiment : 20.3913491246138
+Sentiment Afinn
+Positive sentiment : 44.490216271884655
+Negative sentiment : 27.342945417095777
+Neutral sentiment : 28.166838311019564
+Sentiment NRC
+anger : 0.19919480281819013
+anticipation : 0.14264800073199743
+disgust : 0.19068533260133588
+fear : 0.235428675999634
+joy : 0.11126361057736298
+negative : 0.27513953701162047
+positive : 0.2090767682313112
+sadness : 0.0876566932015738
+surprise : 0.06633726781956263
+trust : 0.11721108976118584
+Video Number : 23 --> I HATE Destiny 2: Forsaken
+Sentiment Vader
+Positive sentiment : 44.1
+Negative sentiment : 38.333333333333336
+Neutral sentiment : 17.566666666666666
+Sentiment Afinn
+Positive sentiment : 36.7
+Negative sentiment : 36.9
+Neutral sentiment : 26.400000000000002
+Sentiment NRC
+anger : 0.11745164960182025
+anticipation : 0.10475540386803185
+disgust : 0.07285551763367464
+fear : 0.11185437997724687
+joy : 0.08650739476678043
+negative : 0.21360637087599546
+positive : 0.1904891922639363
+sadness : 0.10475540386803185
+surprise : 0.049146757679180884
+trust : 0.10967007963594995
+Video Number : 24 --> I HATE SUPREME
+Sentiment Vader
+Positive sentiment : 52.300000000000004
+Negative sentiment : 26.566666666666666
+Neutral sentiment : 21.133333333333333
+Sentiment Afinn
+Positive sentiment : 26.666666666666668
+Negative sentiment : 33.03333333333333
+Neutral sentiment : 40.300000000000004
+Sentiment NRC
+anger : 0.1615858602237717
+anticipation : 0.09356251013458732
+disgust : 0.09291389654613263
+fear : 0.09250851305334847
+joy : 0.08002270147559591
+negative : 0.24801362088535756
+positive : 0.1562347981190206
+sadness : 0.0872385276471542
+surprise : 0.04370034052213394
+trust : 0.12072320415112697
+Video Number : 25 --> Mission Impossible: Fallout, Incredibles 2 and Awful Blockbusters - The Quest For The Best #3
+Sentiment Vader
+Positive sentiment : 51.48427115640231
+Negative sentiment : 27.69162605228179
+Neutral sentiment : 20.82410279131591
+Sentiment Afinn
+Positive sentiment : 43.11032343819229
+Negative sentiment : 24.900310146211783
+Neutral sentiment : 31.98936641559592
+Sentiment NRC
+anger : 0.08708769106999195
+anticipation : 0.17125905068382943
+disgust : 0.07713193885760257
+fear : 0.13123491552695093
+joy : 0.12670957361222848
+negative : 0.19388576025744167
+positive : 0.251206757843926
+sadness : 0.09412711182622686
+surprise : 0.06425985518905873
+trust : 0.126005631536605
+Video Number : 26 --> Sherlock Gnomes (2018) - The Search For The Worst - IHE
+Sentiment Vader
+Positive sentiment : 36.266666666666666
+Negative sentiment : 29.2
+Neutral sentiment : 34.53333333333333
+Sentiment Afinn
+Positive sentiment : 28.26666666666667
+Negative sentiment : 26.766666666666666
+Neutral sentiment : 44.96666666666667
+Sentiment NRC
+anger : 0.18113711001642036
+anticipation : 0.1337233169129721
+disgust : 0.17651888341543515
+fear : 0.21510673234811165
+joy : 0.09903530377668308
+negative : 0.2638546798029557
+positive : 0.19006568144499178
+sadness : 0.08538587848932677
+surprise : 0.05008210180623974
+trust : 0.11104269293924467
+Video Number : 27 --> I HATE LOVE ISLAND
+Sentiment Vader
+Positive sentiment : 44.233333333333334
+Negative sentiment : 32.7
+Neutral sentiment : 23.066666666666666
+Sentiment Afinn
+Positive sentiment : 35.766666666666666
+Negative sentiment : 31.2
+Neutral sentiment : 33.03333333333333
+Sentiment NRC
+anger : 0.11254208754208754
+anticipation : 0.10488215488215488
+disgust : 0.11675084175084174
+fear : 0.14436026936026936
+joy : 0.12407407407407407
+negative : 0.19873737373737374
+positive : 0.20883838383838385
+sadness : 0.11018518518518519
+surprise : 0.03367003367003367
+trust : 0.14444444444444443
+Video Number : 28 --> 13 Reasons Why I HATE 13 Reasons Why (Season 2)
+Sentiment Vader
+Positive sentiment : 30.766666666666666
+Negative sentiment : 50.66666666666667
+Neutral sentiment : 18.566666666666666
+Sentiment Afinn
+Positive sentiment : 27.166666666666668
+Negative sentiment : 44.9
+Neutral sentiment : 27.933333333333334
+Sentiment NRC
+anger : 0.1356633008356546
+anticipation : 0.10145369080779944
+disgust : 0.1152942200557103
+fear : 0.17744603064066852
+joy : 0.06737465181058495
+negative : 0.22323293871866295
+positive : 0.17387708913649025
+sadness : 0.13692548746518104
+surprise : 0.040520543175487464
+trust : 0.16573816155988857
+Video Number : 29 --> I HATE deviantART (2018)
+Sentiment Vader
+Positive sentiment : 37.0
+Negative sentiment : 31.466666666666665
+Neutral sentiment : 31.533333333333335
+Sentiment Afinn
+Positive sentiment : 28.000000000000004
+Negative sentiment : 29.9
+Neutral sentiment : 42.1
+Sentiment NRC
+anger : 0.11622546103509816
+anticipation : 0.15414931588340275
+disgust : 0.13533610945865557
+fear : 0.13080011897679952
+joy : 0.1474568709101725
+negative : 0.22880725758477097
+positive : 0.2243456276026175
+sadness : 0.17140095181439619
+surprise : 0.0966686496133254
+trust : 0.1138459250446163
+Video Number : 30 --> F the Prom (The Fine Bros. Movie) - The Search For The Worst - IHE
+Sentiment Vader
+Positive sentiment : 40.56666666666667
+Negative sentiment : 36.0
+Neutral sentiment : 23.433333333333334
+Sentiment Afinn
+Positive sentiment : 36.5
+Negative sentiment : 30.966666666666665
+Neutral sentiment : 32.53333333333333
+Sentiment NRC
+anger : 0.0960011549011116
+anticipation : 0.10617872094701891
+disgust : 0.07947163274144652
+fear : 0.11484047928396131
+joy : 0.08105962176988596
+negative : 0.17106972715461238
+positive : 0.18839324382849718
+sadness : 0.08856647899523604
+surprise : 0.04879457196477552
+trust : 0.1668110293056157
+Video Number : 31 --> Superhero Movies (2017) - IHE
+Sentiment Vader
+Positive sentiment : 48.9
+Negative sentiment : 27.633333333333333
+Neutral sentiment : 23.466666666666665
+Sentiment Afinn
+Positive sentiment : 40.2
+Negative sentiment : 26.066666666666666
+Neutral sentiment : 33.733333333333334
+Sentiment NRC
+anger : 0.08727941176470588
+anticipation : 0.13683823529411765
+disgust : 0.0736029411764706
+fear : 0.13242647058823528
+joy : 0.11573529411764706
+negative : 0.17470588235294118
+positive : 0.2580147058823529
+sadness : 0.08955882352941176
+surprise : 0.07419117647058823
+trust : 0.14669117647058824
+Video Number : 32 --> Something BIG Happened (Fortnite Story Time)
+Sentiment Vader
+Positive sentiment : 32.666666666666664
+Negative sentiment : 27.333333333333332
+Neutral sentiment : 40.0
+Sentiment Afinn
+Positive sentiment : 21.8
+Negative sentiment : 24.766666666666666
+Neutral sentiment : 53.43333333333333
+Sentiment NRC
+anger : 0.09628438728117185
+anticipation : 0.12593783494105038
+disgust : 0.10521614862450876
+fear : 0.11772061450518043
+joy : 0.08538763844230082
+negative : 0.2075741336191497
+positive : 0.19060378706680958
+sadness : 0.09431939978563773
+surprise : 0.040371561271882815
+trust : 0.09789210432297249
+Video Number : 33 --> Trying To Watch: Woody Woodpecker (2017)
+Sentiment Vader
+Positive sentiment : 34.696406443618336
+Negative sentiment : 28.1908302354399
+Neutral sentiment : 37.11276332094176
+Sentiment Afinn
+Positive sentiment : 28.1908302354399
+Negative sentiment : 25.712515489467165
+Neutral sentiment : 46.09665427509294
+Sentiment NRC
+anger : 0.08465286236297198
+anticipation : 0.11936662606577345
+disgust : 0.07592367032074705
+fear : 0.12241169305724726
+joy : 0.08465286236297198
+negative : 0.1607795371498173
+positive : 0.20036540803897684
+sadness : 0.07937474624441737
+surprise : 0.045676004872107184
+trust : 0.10475030450669914
+Video Number : 34 --> Woody Woodpecker (2017) - The Search For The Worst - IHE
+Sentiment Vader
+Positive sentiment : 35.66666666666667
+Negative sentiment : 33.766666666666666
+Neutral sentiment : 30.566666666666663
+Sentiment Afinn
+Positive sentiment : 27.566666666666666
+Negative sentiment : 30.633333333333333
+Neutral sentiment : 41.8
+Sentiment NRC
+anger : 0.10791132362529884
+anticipation : 0.12193001521408389
+disgust : 0.10095631384481635
+fear : 0.1422516844164312
+joy : 0.08541621386655075
+negative : 0.19713105846555096
+positive : 0.20343403607911323
+sadness : 0.10497717887415779
+surprise : 0.059986959356661596
+trust : 0.10943273201477939
+Video Number : 35 --> I HATE HUNT DOWN THE FREEMAN (TERRIBLE GAME I&#39;M IN)
+Sentiment Vader
+Positive sentiment : 39.900000000000006
+Negative sentiment : 32.1
+Neutral sentiment : 28.000000000000004
+Sentiment Afinn
+Positive sentiment : 30.4
+Negative sentiment : 29.333333333333332
+Neutral sentiment : 40.266666666666666
+Sentiment NRC
+anger : 0.08728636205092431
+anticipation : 0.09914544820369725
+disgust : 0.08423439134984304
+fear : 0.10149982560167423
+joy : 0.08344959888385071
+negative : 0.16262643878618765
+positive : 0.18887338681548657
+sadness : 0.09583188001395186
+surprise : 0.047000348796651555
+trust : 0.10943494942448552
+Video Number : 36 --> I HATE YOUTUBE IN THE NEWS
+Sentiment Vader
+Positive sentiment : 33.63333333333333
+Negative sentiment : 38.56666666666666
+Neutral sentiment : 27.800000000000004
+Sentiment Afinn
+Positive sentiment : 25.933333333333337
+Negative sentiment : 35.9
+Neutral sentiment : 38.166666666666664
+Sentiment NRC
+anger : 0.11309778424159467
+anticipation : 0.10548378817691847
+disgust : 0.105825990247241
+fear : 0.13208999914449482
+joy : 0.08700487637950209
+negative : 0.20831551030883738
+positive : 0.18513132004448626
+sadness : 0.10428608093078963
+surprise : 0.05287021986483018
+trust : 0.11780306270852939
+Video Number : 37 --> Trying To Watch: The Yummy Gummy Search for Santa
+Sentiment Vader
+Positive sentiment : 32.8009828009828
+Negative sentiment : 31.265356265356264
+Neutral sentiment : 35.93366093366093
+Sentiment Afinn
+Positive sentiment : 23.525798525798525
+Negative sentiment : 28.68550368550369
+Neutral sentiment : 47.78869778869779
+Sentiment NRC
+anger : 0.16294050776809396
+anticipation : 0.10344827586206896
+disgust : 0.12713148920045472
+fear : 0.20386510041682457
+joy : 0.07427055702917772
+negative : 0.2571049640015157
+positive : 0.1367942402425161
+sadness : 0.13641530882910194
+surprise : 0.03183023872679045
+trust : 0.0865858279651383
+Video Number : 38 --> I&#39;M SO DONE - The Last Jedi Comment Comeback
+Sentiment Vader
+Positive sentiment : 40.9
+Negative sentiment : 44.7
+Neutral sentiment : 14.399999999999999
+Sentiment Afinn
+Positive sentiment : 36.233333333333334
+Negative sentiment : 40.699999999999996
+Neutral sentiment : 23.066666666666666
+Sentiment NRC
+anger : 0.09822776501476863
+anticipation : 0.14397768296685265
+disgust : 0.07643583852970134
+fear : 0.1466360354446997
+joy : 0.10961601575319987
+negative : 0.21296357072530359
+positive : 0.210206760748277
+sadness : 0.10190351165080407
+surprise : 0.0514932720708894
+trust : 0.1424351821463735
+Video Number : 39 --> Star Wars: The Last Jedi - IHE
+Sentiment Vader
+Positive sentiment : 40.5
+Negative sentiment : 49.36666666666667
+Neutral sentiment : 10.133333333333333
+Sentiment Afinn
+Positive sentiment : 38.83333333333333
+Negative sentiment : 42.0
+Neutral sentiment : 19.166666666666668
+Sentiment NRC
+anger : 0.11372899890645194
+anticipation : 0.16211021638996587
+disgust : 0.09281903436391954
+fear : 0.1671140272392882
+joy : 0.132286178215197
+negative : 0.24031547204824866
+positive : 0.22566855552241774
+sadness : 0.11793750207111377
+surprise : 0.057030188554196906
+trust : 0.15243397289326308
+Video Number : 40 --> Trying To Watch: The (NOT DREAMWORKS) Collection
+Sentiment Vader
+Positive sentiment : 33.766666666666666
+Negative sentiment : 27.96666666666667
+Neutral sentiment : 38.266666666666666
+Sentiment Afinn
+Positive sentiment : 26.93333333333333
+Negative sentiment : 25.166666666666664
+Neutral sentiment : 47.9
+Sentiment NRC
+anger : 0.12566237698713095
+anticipation : 0.12371579971882773
+disgust : 0.08748783389207311
+fear : 0.19465772683032334
+joy : 0.07743051800583974
+negative : 0.20103817454309506
+positive : 0.1635124905374716
+sadness : 0.09073212933924515
+surprise : 0.03590353628203742
+trust : 0.08943441116037634
+Video Number : 41 --> The (NOT DREAMWORKS) Collection - The Search For The Worst - IHE (9 MOVIES!)
+Sentiment Vader
+Positive sentiment : 34.300000000000004
+Negative sentiment : 28.933333333333334
+Neutral sentiment : 36.766666666666666
+Sentiment Afinn
+Positive sentiment : 27.0
+Negative sentiment : 26.466666666666665
+Neutral sentiment : 46.53333333333333
+Sentiment NRC
+anger : 0.08580783561025178
+anticipation : 0.11155018629332732
+disgust : 0.08795303150050807
+fear : 0.14971209213051823
+joy : 0.08072710850175002
+negative : 0.1808738850626623
+positive : 0.1623574573783448
+sadness : 0.07677543186180422
+surprise : 0.04482330360167099
+trust : 0.09732415038952241
+Video Number : 42 --> I HATE YOUTUBE REWIND 2017
+Sentiment Vader
+Positive sentiment : 35.16666666666667
+Negative sentiment : 38.800000000000004
+Neutral sentiment : 26.033333333333335
+Sentiment Afinn
+Positive sentiment : 27.200000000000003
+Negative sentiment : 36.0
+Neutral sentiment : 36.8
+Sentiment NRC
+anger : 0.150547088706526
+anticipation : 0.11547479484173505
+disgust : 0.13813989839781166
+fear : 0.16471277842907386
+joy : 0.0979874951152794
+negative : 0.24658069558421258
+positive : 0.19460726846424384
+sadness : 0.13472059398202424
+surprise : 0.0492379835873388
+trust : 0.12250879249706917
+Video Number : 43 --> I HATE BIG MOUTH
+Sentiment Vader
+Positive sentiment : 44.333333333333336
+Negative sentiment : 35.333333333333336
+Neutral sentiment : 20.333333333333332
+Sentiment Afinn
+Positive sentiment : 41.266666666666666
+Negative sentiment : 30.333333333333336
+Neutral sentiment : 28.4
+Sentiment NRC
+anger : 0.08137059214903526
+anticipation : 0.11610113107119095
+disgust : 0.08962075848303393
+fear : 0.12807717897538257
+joy : 0.09221556886227544
+negative : 0.17132401862940785
+positive : 0.17784431137724552
+sadness : 0.0844311377245509
+surprise : 0.07225548902195608
+trust : 0.18855622089155022
+Video Number : 44 --> Trying to Watch: Not Cool (2014)
+Sentiment Vader
+Positive sentiment : 35.76072821846554
+Negative sentiment : 30.992631122670133
+Neutral sentiment : 33.24664065886432
+Sentiment Afinn
+Positive sentiment : 29.258777633289988
+Negative sentiment : 24.79410489813611
+Neutral sentiment : 45.94711746857391
+Sentiment NRC
+anger : 0.1069332064096462
+anticipation : 0.11930826590512454
+disgust : 0.09741392987466285
+fear : 0.13660161827701095
+joy : 0.0982072029192448
+negative : 0.18245280025384739
+positive : 0.22211645248294462
+sadness : 0.09931778518165953
+surprise : 0.05759162303664921
+trust : 0.14437569411391402
+Video Number : 45 --> Not Cool (2014) - The Search For The Worst - IHE
+Sentiment Vader
+Positive sentiment : 37.9
+Negative sentiment : 36.7
+Neutral sentiment : 25.4
+Sentiment Afinn
+Positive sentiment : 32.33333333333333
+Negative sentiment : 31.6
+Neutral sentiment : 36.06666666666667
+Sentiment NRC
+anger : 0.1206896551724138
+anticipation : 0.11567232256887429
+disgust : 0.11466885604816639
+fear : 0.13373471994161648
+joy : 0.09688013136288999
+negative : 0.212461229702609
+positive : 0.20762634555738005
+sadness : 0.10846560846560846
+surprise : 0.05874840357598978
+trust : 0.11831782521437693
+Video Number : 46 --> I HATE BEING SUSPENDED FROM TWITTER
+Sentiment Vader
+Positive sentiment : 27.566666666666666
+Negative sentiment : 52.800000000000004
+Neutral sentiment : 19.633333333333333
+Sentiment Afinn
+Positive sentiment : 23.366666666666667
+Negative sentiment : 49.166666666666664
+Neutral sentiment : 27.46666666666667
+Sentiment NRC
+anger : 0.2726547774394664
+anticipation : 0.08300710453820502
+disgust : 0.25105118167319124
+fear : 0.28345657532260404
+joy : 0.06727562708423952
+negative : 0.379585326953748
+positive : 0.1456430332028418
+sadness : 0.25467594606350585
+surprise : 0.04552704074235175
+trust : 0.1250543714658547
+Video Number : 47 --> I HATE THE RICK AND MORTY FANBASE (&amp; HATERS)
+Sentiment Vader
+Positive sentiment : 40.06666666666667
+Negative sentiment : 40.6
+Neutral sentiment : 19.333333333333332
+Sentiment Afinn
+Positive sentiment : 38.5
+Negative sentiment : 34.233333333333334
+Neutral sentiment : 27.266666666666666
+Sentiment NRC
+anger : 0.10239158704132979
+anticipation : 0.0984338779894838
+disgust : 0.09854695539096511
+fear : 0.12557245434499914
+joy : 0.07971956804432634
+negative : 0.1930796630293436
+positive : 0.16413184825012722
+sadness : 0.0964550234635608
+surprise : 0.040368632328829084
+trust : 0.153615649912365
+Video Number : 48 --> I HATE DESTINY 2 - I&#39;m Done.
+Sentiment Vader
+Positive sentiment : 47.833333333333336
+Negative sentiment : 32.0
+Neutral sentiment : 20.166666666666664
+Sentiment Afinn
+Positive sentiment : 37.9
+Negative sentiment : 30.4
+Neutral sentiment : 31.7
+Sentiment NRC
+anger : 0.1008059665584025
+anticipation : 0.11385781306387585
+disgust : 0.07049200048117406
+fear : 0.11067003488511969
+joy : 0.09978347167087694
+negative : 0.18952243474076746
+positive : 0.19559725730783112
+sadness : 0.09713701431492842
+surprise : 0.05461325634548298
+trust : 0.11945146156622158
+Video Number : 49 --> The Gummy Bear Movie (2012) - The Search For The Worst - IHE
+Sentiment Vader
+Positive sentiment : 30.633333333333333
+Negative sentiment : 35.03333333333333
+Neutral sentiment : 34.333333333333336
+Sentiment Afinn
+Positive sentiment : 23.333333333333332
+Negative sentiment : 31.966666666666665
+Neutral sentiment : 44.7
+Sentiment NRC
+anger : 0.1548517975881889
+anticipation : 0.10086780119463541
+disgust : 0.11619519891806604
+fear : 0.1853938915812014
+joy : 0.07618618280175814
+negative : 0.1990307674969007
+positive : 0.15518990194973514
+sadness : 0.10999661895638453
+surprise : 0.04361546263946805
+trust : 0.096923250309929
+Video Number : 50 --> I HATE THE EMOJI MOVIE
+Sentiment Vader
+Positive sentiment : 33.766666666666666
+Negative sentiment : 35.6
+Neutral sentiment : 30.633333333333333
+Sentiment Afinn
+Positive sentiment : 24.566666666666666
+Negative sentiment : 30.466666666666665
+Neutral sentiment : 44.96666666666667
+Sentiment NRC
+anger : 0.12905993381541855
+anticipation : 0.14339992646157618
+disgust : 0.12072557911508763
+fear : 0.16006863586223802
+joy : 0.10270866527760755
+negative : 0.21411937737467826
+positive : 0.2082363034685623
+sadness : 0.12881480573599705
+surprise : 0.05956612329942395
+trust : 0.1291824978551293
+Video Number : 51 --> XX - The Search For The Worst - IHE (AWFUL Horror Movie)
+Sentiment Vader
+Positive sentiment : 35.96666666666667
+Negative sentiment : 42.733333333333334
+Neutral sentiment : 21.3
+Sentiment Afinn
+Positive sentiment : 30.9
+Negative sentiment : 37.1
+Neutral sentiment : 32.0
+Sentiment NRC
+anger : 0.10846113476004432
+anticipation : 0.1340602950609365
+disgust : 0.10146364219488017
+fear : 0.13353548311854918
+joy : 0.1091025715785177
+negative : 0.20520146947343867
+positive : 0.24829436118724124
+sadness : 0.1234474313371042
+surprise : 0.10228001632748265
+trust : 0.1453729080412852
+Video Number : 52 --> Trying To Watch: Left Behind (2014)
+Sentiment Vader
+Positive sentiment : 50.656370656370655
+Negative sentiment : 27.683397683397683
+Neutral sentiment : 21.66023166023166
+Sentiment Afinn
+Positive sentiment : 42.972972972972975
+Negative sentiment : 28.803088803088805
+Neutral sentiment : 28.223938223938223
+Sentiment NRC
+anger : 0.12214467005076142
+anticipation : 0.12785532994923857
+disgust : 0.11389593908629442
+fear : 0.15973984771573604
+joy : 0.21621192893401014
+negative : 0.20812182741116753
+positive : 0.2980647208121827
+sadness : 0.12531725888324874
+surprise : 0.05171319796954315
+trust : 0.12071700507614214
+Video Number : 53 --> Left Behind (2014) - The Search For The Worst - IHE
+Sentiment Vader
+Positive sentiment : 45.53333333333333
+Negative sentiment : 36.46666666666666
+Neutral sentiment : 18.0
+Sentiment Afinn
+Positive sentiment : 39.13333333333333
+Negative sentiment : 34.1
+Neutral sentiment : 26.766666666666666
+Sentiment NRC
+anger : 0.10763134347437045
+anticipation : 0.15320209638246196
+disgust : 0.09069410712003068
+fear : 0.17422983510162343
+joy : 0.12974562188418765
+negative : 0.20644254122459416
+positive : 0.24734756487281095
+sadness : 0.1126805573309472
+surprise : 0.056180493416847756
+trust : 0.18151604243896202
+Video Number : 54 --> I HATE MY WEIRD OLD VIDEOS
+Sentiment Vader
+Positive sentiment : 37.36666666666667
+Negative sentiment : 29.03333333333333
+Neutral sentiment : 33.6
+Sentiment Afinn
+Positive sentiment : 27.23333333333333
+Negative sentiment : 29.333333333333332
+Neutral sentiment : 43.43333333333334
+Sentiment NRC
+anger : 0.11195844385499558
+anticipation : 0.1198054818744474
+disgust : 0.11472148541114058
+fear : 0.12389478337754199
+joy : 0.10587975243147657
+negative : 0.1789345711759505
+positive : 0.20015473032714412
+sadness : 0.10908488063660478
+surprise : 0.048519009725906274
+trust : 0.10466401414677277
+Video Number : 55 --> Alien: Covenant, Logan, Tower &amp; More - The Quest For The Best #2
+Sentiment Vader
+Positive sentiment : 50.3
+Negative sentiment : 25.900000000000002
+Neutral sentiment : 23.799999999999997
+Sentiment Afinn
+Positive sentiment : 40.86666666666667
+Negative sentiment : 24.6
+Neutral sentiment : 34.53333333333333
+Sentiment NRC
+anger : 0.08976660682226212
+anticipation : 0.15149841182157162
+disgust : 0.11828476729733463
+fear : 0.1704875017262809
+joy : 0.11241541223587902
+negative : 0.20059384062974728
+positive : 0.23532661234636099
+sadness : 0.09729319154812871
+surprise : 0.05931501173871012
+trust : 0.12525894213506422
+Video Number : 56 --> I HATE FIDGET SPINNERS?
+Sentiment Vader
+Positive sentiment : 30.033333333333335
+Negative sentiment : 48.66666666666667
+Neutral sentiment : 21.3
+Sentiment Afinn
+Positive sentiment : 23.033333333333335
+Negative sentiment : 47.46666666666667
+Neutral sentiment : 29.5
+Sentiment NRC
+anger : 0.14467149719123992
+anticipation : 0.08165757551086868
+disgust : 0.13530896360823902
+fear : 0.15411544410974518
+joy : 0.06504925506798014
+negative : 0.2544166734511113
+positive : 0.16046568427908492
+sadness : 0.14019376373850037
+surprise : 0.03297240087926402
+trust : 0.09818448261825287
+Video Number : 57 --> I HATE SING (2016)
+Sentiment Vader
+Positive sentiment : 39.83333333333333
+Negative sentiment : 30.833333333333336
+Neutral sentiment : 29.333333333333332
+Sentiment Afinn
+Positive sentiment : 31.133333333333336
+Negative sentiment : 27.700000000000003
+Neutral sentiment : 41.16666666666667
+Sentiment NRC
+anger : 0.10269838451979407
+anticipation : 0.17841292384164745
+disgust : 0.09657376176105095
+fear : 0.1255991478785727
+joy : 0.15213917983312622
+negative : 0.2014024498491035
+positive : 0.2528847860820167
+sadness : 0.1486774365347062
+surprise : 0.05769572164033375
+trust : 0.16687377951358068
+Video Number : 58 --> Childhood Trauma - IHE (Scariest Movies for Kids)
+Sentiment Vader
+Positive sentiment : 25.833333333333336
+Negative sentiment : 53.6
+Neutral sentiment : 20.566666666666666
+Sentiment Afinn
+Positive sentiment : 17.833333333333336
+Negative sentiment : 52.46666666666666
+Neutral sentiment : 29.7
+Sentiment NRC
+anger : 0.13505160039813505
+anticipation : 0.17633191890617633
+disgust : 0.08895175231808895
+fear : 0.20980669495520982
+joy : 0.07779349363507779
+negative : 0.23573785950023574
+positive : 0.15516789774215517
+sadness : 0.09157106186809157
+surprise : 0.08947561422808947
+trust : 0.07093090261407094
+Video Number : 59 --> Hacksaw Ridge, T2 Trainspotting, A Monster Calls &amp; More - The Quest For The Best #1
+Sentiment Vader
+Positive sentiment : 39.733333333333334
+Negative sentiment : 19.766666666666666
+Neutral sentiment : 40.5
+Sentiment Afinn
+Positive sentiment : 31.733333333333334
+Negative sentiment : 16.866666666666667
+Neutral sentiment : 51.4
+Sentiment NRC
+anger : 0.08554799033604217
+anticipation : 0.1357346804304854
+disgust : 0.07676257412694927
+fear : 0.14638699758401055
+joy : 0.10597408302218318
+negative : 0.17252361080606193
+positive : 0.23325280035141666
+sadness : 0.09048978695365693
+surprise : 0.052712497254557435
+trust : 0.1373819459696903
+Video Number : 60 --> I HATE SNAPCHAT
+Sentiment Vader
+Positive sentiment : 33.766666666666666
+Negative sentiment : 36.1
+Neutral sentiment : 30.133333333333333
+Sentiment Afinn
+Positive sentiment : 24.5
+Negative sentiment : 34.266666666666666
+Neutral sentiment : 41.233333333333334
+Sentiment NRC
+anger : 0.11552346570397112
+anticipation : 0.089118102114492
+disgust : 0.11676121712222795
+fear : 0.11799896854048479
+joy : 0.10170190820010315
+negative : 0.19473955647240845
+positive : 0.18380608561113976
+sadness : 0.11222279525528624
+surprise : 0.03445074780814853
+trust : 0.1225373904074265
+Video Number : 61 --> IHE is OVER
+Sentiment Vader
+Positive sentiment : 42.733333333333334
+Negative sentiment : 30.9
+Neutral sentiment : 26.366666666666667
+Sentiment Afinn
+Positive sentiment : 29.299999999999997
+Negative sentiment : 28.933333333333334
+Neutral sentiment : 41.766666666666666
+Sentiment NRC
+anger : 0.10235591641155331
+anticipation : 0.14228670304805005
+disgust : 0.13456675096499401
+fear : 0.14854252628776787
+joy : 0.1044855583654998
+negative : 0.2526287767869027
+positive : 0.19805670171702383
+sadness : 0.1054172767203514
+surprise : 0.05204312524956742
+trust : 0.09836283774790364
+Video Number : 62 --> YouTube vs IHE 2017: Suspended For No Reason
+Sentiment Vader
+Positive sentiment : 30.8
+Negative sentiment : 42.8
+Neutral sentiment : 26.400000000000002
+Sentiment Afinn
+Positive sentiment : 24.96666666666667
+Negative sentiment : 40.43333333333333
+Neutral sentiment : 34.599999999999994
+Sentiment NRC
+anger : 0.12272149215769394
+anticipation : 0.1327893175074184
+disgust : 0.11964815599830436
+fear : 0.12992793556591775
+joy : 0.0980288257736329
+negative : 0.2252013565069945
+positive : 0.18461212378126324
+sadness : 0.11254768969902501
+surprise : 0.0609368376430691
+trust : 0.13713437897414157
+Video Number : 63 --> Trying to Watch: Who Killed Captain Alex (2010)
+Sentiment Vader
+Positive sentiment : 36.46532438478747
+Negative sentiment : 25.63758389261745
+Neutral sentiment : 37.89709172259508
+Sentiment Afinn
+Positive sentiment : 28.501118568232663
+Negative sentiment : 22.818791946308725
+Neutral sentiment : 48.68008948545861
+Sentiment NRC
+anger : 0.08705074950334116
+anticipation : 0.1408705074950334
+disgust : 0.06899042802961892
+fear : 0.16037565468665343
+joy : 0.14628860393715007
+negative : 0.1627234964782373
+positive : 0.27162723496478236
+sadness : 0.10872313527180784
+surprise : 0.07946541448437783
+trust : 0.1197399313707784
+Video Number : 64 --> Who Killed Captain Alex (2010) - The Search For The Worst - IHE (Uganda&#39;s First Action Movie)
+Sentiment Vader
+Positive sentiment : 47.66666666666667
+Negative sentiment : 20.233333333333334
+Neutral sentiment : 32.1
+Sentiment Afinn
+Positive sentiment : 36.53333333333333
+Negative sentiment : 19.366666666666667
+Neutral sentiment : 44.1
+Sentiment NRC
+anger : 0.0825364871665828
+anticipation : 0.14620030196275793
+disgust : 0.06529944640161046
+fear : 0.1431806743834927
+joy : 0.1688475088072471
+negative : 0.15764972320080523
+positive : 0.3013336688475088
+sadness : 0.10304479114242576
+surprise : 0.07070961248112732
+trust : 0.15702063412179165
+Video Number : 65 --> REAL or FAKE? - WORST COMMENTS EVER
+Sentiment Vader
+Positive sentiment : 30.666666666666664
+Negative sentiment : 34.63333333333333
+Neutral sentiment : 34.699999999999996
+Sentiment Afinn
+Positive sentiment : 23.066666666666666
+Negative sentiment : 33.6
+Neutral sentiment : 43.333333333333336
+Sentiment NRC
+anger : 0.08980662078007211
+anticipation : 0.08849557522123894
+disgust : 0.08510870752758658
+fear : 0.10903528897629193
+joy : 0.08401616956189227
+negative : 0.24756910302633017
+positive : 0.21949087730798644
+sadness : 0.0961433409810991
+surprise : 0.05834152736807604
+trust : 0.15765322844968863
+Video Number : 66 --> I HATED 2016
+Sentiment Vader
+Positive sentiment : 29.333333333333332
+Negative sentiment : 48.9
+Neutral sentiment : 21.766666666666666
+Sentiment Afinn
+Positive sentiment : 21.633333333333333
+Negative sentiment : 46.5
+Neutral sentiment : 31.866666666666667
+Sentiment NRC
+anger : 0.12336838288614939
+anticipation : 0.12391225525743292
+disgust : 0.11258158085569253
+fear : 0.17993110949963742
+joy : 0.10288252356780275
+negative : 0.26015228426395937
+positive : 0.17639593908629442
+sadness : 0.17703045685279187
+surprise : 0.07686729514140682
+trust : 0.10895576504713561
+Video Number : 67 --> Trying To Watch: The Fred Movie Trilogy
+Sentiment Vader
+Positive sentiment : 34.4
+Negative sentiment : 32.5
+Neutral sentiment : 33.1
+Sentiment Afinn
+Positive sentiment : 25.766666666666666
+Negative sentiment : 32.63333333333333
+Neutral sentiment : 41.6
+Sentiment NRC
+anger : 0.10859997621030094
+anticipation : 0.14904246461282264
+disgust : 0.12453907458070655
+fear : 0.15760675627453313
+joy : 0.09860830260497205
+negative : 0.21743784941120495
+positive : 0.1955513262757226
+sadness : 0.1046746758653503
+surprise : 0.049720471036041394
+trust : 0.10955156417271321
+Video Number : 68 --> The Fred Movie Trilogy - The Search For The Worst - IHE
+Sentiment Vader
+Positive sentiment : 36.766666666666666
+Negative sentiment : 32.83333333333333
+Neutral sentiment : 30.4
+Sentiment Afinn
+Positive sentiment : 26.833333333333332
+Negative sentiment : 29.166666666666668
+Neutral sentiment : 44.0
+Sentiment NRC
+anger : 0.09419652670916685
+anticipation : 0.138052319191031
+disgust : 0.09969224005275885
+fear : 0.1349747197186195
+joy : 0.11134315234117388
+negative : 0.2098263354583425
+positive : 0.19619696636623435
+sadness : 0.09584524071224446
+surprise : 0.0640800175862827
+trust : 0.11134315234117388
+Video Number : 69 --> I HATE YOUTUBE REWIND 2016
+Sentiment Vader
+Positive sentiment : 29.233333333333334
+Negative sentiment : 33.233333333333334
+Neutral sentiment : 37.53333333333334
+Sentiment Afinn
+Positive sentiment : 21.5
+Negative sentiment : 31.5
+Neutral sentiment : 47.0
+Sentiment NRC
+anger : 0.14784586566764785
+anticipation : 0.1151993577736152
+disgust : 0.1503880117741504
+fear : 0.16015520470966016
+joy : 0.0945945945945946
+negative : 0.2237088573722237
+positive : 0.20591383462670593
+sadness : 0.13874765854963875
+surprise : 0.049906341985549905
+trust : 0.11279100883061279
+Video Number : 70 --> Suicide Squad (2016) - The Search For The Worst - IHE
+Sentiment Vader
+Positive sentiment : 42.43333333333334
+Negative sentiment : 42.233333333333334
+Neutral sentiment : 15.333333333333332
+Sentiment Afinn
+Positive sentiment : 39.46666666666667
+Negative sentiment : 33.6
+Neutral sentiment : 26.93333333333333
+Sentiment NRC
+anger : 0.09951456310679611
+anticipation : 0.1346776201145133
+disgust : 0.08495145631067962
+fear : 0.13038337067463282
+joy : 0.12646253422952453
+negative : 0.23251182474483445
+positive : 0.22485685835200397
+sadness : 0.09161065471745083
+surprise : 0.07829225790390838
+trust : 0.12951207368683096
+Video Number : 71 --> ANNOYING DESTINY PLAYERS (Comment Comeback)
+Sentiment Vader
+Positive sentiment : 40.699999999999996
+Negative sentiment : 38.46666666666667
+Neutral sentiment : 20.833333333333336
+Sentiment Afinn
+Positive sentiment : 32.766666666666666
+Negative sentiment : 38.06666666666666
+Neutral sentiment : 29.166666666666668
+Sentiment NRC
+anger : 0.11089899340506769
+anticipation : 0.09944463727872267
+disgust : 0.10022561610551892
+fear : 0.158538701839639
+joy : 0.10708087469628601
+negative : 0.212079139187782
+positive : 0.18977785491148907
+sadness : 0.09996528982992017
+surprise : 0.04625130163137799
+trust : 0.11263450190905935
+Video Number : 72 --> I HATE DESTINY RISE OF IRON - Same Sh*t Different Day
+Sentiment Vader
+Positive sentiment : 49.733333333333334
+Negative sentiment : 30.733333333333334
+Neutral sentiment : 19.53333333333333
+Sentiment Afinn
+Positive sentiment : 38.6
+Negative sentiment : 31.366666666666664
+Neutral sentiment : 30.033333333333335
+Sentiment NRC
+anger : 0.09324024119327198
+anticipation : 0.11171056807362742
+disgust : 0.0781973976515392
+fear : 0.09876229768327516
+joy : 0.1145668041891463
+negative : 0.1826721675658521
+positive : 0.238590923516344
+sadness : 0.08079974611234529
+surprise : 0.05388765471278959
+trust : 0.14325610917169151
+Video Number : 73 --> I HATE WEIRD PARODY CHANNELS
+Sentiment Vader
+Positive sentiment : 31.133333333333336
+Negative sentiment : 31.566666666666666
+Neutral sentiment : 37.3
+Sentiment Afinn
+Positive sentiment : 20.733333333333334
+Negative sentiment : 29.76666666666667
+Neutral sentiment : 49.5
+Sentiment NRC
+anger : 0.11986863711001643
+anticipation : 0.07950191570881227
+disgust : 0.11494252873563218
+fear : 0.14956212370005473
+joy : 0.08689107827038861
+negative : 0.27367268746579093
+positive : 0.15503557744937055
+sadness : 0.11152162014230979
+surprise : 0.031746031746031744
+trust : 0.10344827586206896
+Video Number : 74 --> Trying To Watch: Shark Exorcist
+Sentiment Vader
+Positive sentiment : 35.725190839694655
+Negative sentiment : 29.312977099236644
+Neutral sentiment : 34.961832061068705
+Sentiment Afinn
+Positive sentiment : 27.480916030534353
+Negative sentiment : 26.183206106870227
+Neutral sentiment : 46.33587786259542
+Sentiment NRC
+anger : 0.09455212152959665
+anticipation : 0.11471974855945521
+disgust : 0.09848088004190676
+fear : 0.12598218962807753
+joy : 0.07543216343635412
+negative : 0.22210581456259823
+positive : 0.16998428496595075
+sadness : 0.10188580408590885
+surprise : 0.041906757464641176
+trust : 0.12152959664745941
+Video Number : 75 --> Shark Exorcist (2015) - The Search For The Worst - IHE
+Sentiment Vader
+Positive sentiment : 35.333333333333336
+Negative sentiment : 32.93333333333333
+Neutral sentiment : 31.733333333333334
+Sentiment Afinn
+Positive sentiment : 26.23333333333333
+Negative sentiment : 29.799999999999997
+Neutral sentiment : 43.96666666666667
+Sentiment NRC
+anger : 0.09397410822389866
+anticipation : 0.11716494365278941
+disgust : 0.09695445655210953
+fear : 0.12731675514575766
+joy : 0.082332122566825
+negative : 0.24206016578187575
+positive : 0.17118375710161124
+sadness : 0.09276334171556301
+surprise : 0.05718543354754587
+trust : 0.12200800968613207
+Video Number : 76 --> leafy, idubbbz and ricegum in the title.mp4
+Sentiment Vader
+Positive sentiment : 20.166666666666664
+Negative sentiment : 18.833333333333332
+Neutral sentiment : 61.0
+Sentiment Afinn
+Positive sentiment : 16.466666666666665
+Negative sentiment : 17.96666666666667
+Neutral sentiment : 65.56666666666666
+Sentiment NRC
+anger : 0.11923758865248227
+anticipation : 0.1012854609929078
+disgust : 0.10660460992907801
+fear : 0.12898936170212766
+joy : 0.09175531914893617
+negative : 0.2074468085106383
+positive : 0.17087765957446807
+sadness : 0.10593971631205673
+surprise : 0.04144503546099291
+trust : 0.11569148936170212
+Video Number : 77 --> The 100 WORST YouTube Channels
+Sentiment Vader
+Positive sentiment : 28.9
+Negative sentiment : 34.300000000000004
+Neutral sentiment : 36.8
+Sentiment Afinn
+Positive sentiment : 20.233333333333334
+Negative sentiment : 32.13333333333333
+Neutral sentiment : 47.63333333333333
+Sentiment NRC
+anger : 0.1078838174273859
+anticipation : 0.10594744121715076
+disgust : 0.10525587828492393
+fear : 0.11286307053941909
+joy : 0.07634854771784233
+negative : 0.18312586445366527
+positive : 0.1698478561549101
+sadness : 0.09571230982019364
+surprise : 0.04536652835408022
+trust : 0.11632088520055325
+Video Number : 78 --> How To Take Criticism
+Sentiment Vader
+Positive sentiment : 37.53333333333334
+Negative sentiment : 37.1
+Neutral sentiment : 25.366666666666664
+Sentiment Afinn
+Positive sentiment : 29.433333333333334
+Negative sentiment : 36.4
+Neutral sentiment : 34.166666666666664
+Sentiment NRC
+anger : 0.1048724630814183
+anticipation : 0.0927900181631525
+disgust : 0.09673852957435047
+fear : 0.10068704098554845
+joy : 0.08765695332859512
+negative : 0.2822395956724315
+positive : 0.17776198373213298
+sadness : 0.08994708994708994
+surprise : 0.0433546552949538
+trust : 0.09815999368238174
+Video Number : 79 --> Silly, Silly YouTube...
+Sentiment Vader
+Positive sentiment : 38.2
+Negative sentiment : 34.766666666666666
+Neutral sentiment : 27.03333333333333
+Sentiment Afinn
+Positive sentiment : 28.4
+Negative sentiment : 31.5
+Neutral sentiment : 40.1
+Sentiment NRC
+anger : 0.11294650343786684
+anticipation : 0.10766392755324501
+disgust : 0.08762367935602884
+fear : 0.1107663927553245
+joy : 0.11453966124434009
+negative : 0.17642126446419587
+positive : 0.2076136173067248
+sadness : 0.0867013248364917
+surprise : 0.05844373637430823
+trust : 0.1613281905081335
+Video Number : 80 --> The (NOT DISNEY) Collection - The Search For The Worst - IHE (8 MOVIES!)
+Sentiment Vader
+Positive sentiment : 40.699999999999996
+Negative sentiment : 28.433333333333334
+Neutral sentiment : 30.866666666666664
+Sentiment Afinn
+Positive sentiment : 26.8
+Negative sentiment : 26.866666666666667
+Neutral sentiment : 46.33333333333333
+Sentiment NRC
+anger : 0.07867041783890799
+anticipation : 0.14785870584557675
+disgust : 0.07033447952485151
+fear : 0.1436907366885485
+joy : 0.08273418776701053
+negative : 0.15327706574971345
+positive : 0.2085026570803376
+sadness : 0.07491924559758258
+surprise : 0.04574346149838491
+trust : 0.10096905282900906
+Video Number : 81 --> I HATE MUSICAL.LY
+Sentiment Vader
+Positive sentiment : 23.599999999999998
+Negative sentiment : 36.13333333333333
+Neutral sentiment : 40.266666666666666
+Sentiment Afinn
+Positive sentiment : 19.066666666666666
+Negative sentiment : 32.96666666666667
+Neutral sentiment : 47.96666666666667
+Sentiment NRC
+anger : 0.13264640667797054
+anticipation : 0.1072127298813095
+disgust : 0.13812442937263597
+fear : 0.14947176209730012
+joy : 0.12899439154819356
+negative : 0.22890309116994914
+positive : 0.21259945219773052
+sadness : 0.18025303247684885
+surprise : 0.037172296856658404
+trust : 0.11216903612886396
+Video Number : 82 --> I HATE DUST (FINALLY EXPOSED?)
+Sentiment Vader
+Positive sentiment : 34.06666666666667
+Negative sentiment : 41.833333333333336
+Neutral sentiment : 24.099999999999998
+Sentiment Afinn
+Positive sentiment : 29.96666666666667
+Negative sentiment : 36.6
+Neutral sentiment : 33.43333333333333
+Sentiment NRC
+anger : 0.13494667760459392
+anticipation : 0.049835931091058244
+disgust : 0.14161197703035275
+fear : 0.15258408531583265
+joy : 0.09054552912223134
+negative : 0.5675758818703855
+positive : 0.13668990976210008
+sadness : 0.1401763740771124
+surprise : 0.02020098441345365
+trust : 0.05475799835931091
+Video Number : 83 --> Keemstar Is Going DOWN (PEWDIEPIE &amp; LEAFY?)
+Sentiment Vader
+Positive sentiment : 37.0
+Negative sentiment : 29.76666666666667
+Neutral sentiment : 33.233333333333334
+Sentiment Afinn
+Positive sentiment : 27.400000000000002
+Negative sentiment : 27.03333333333333
+Neutral sentiment : 45.56666666666666
+Sentiment NRC
+anger : 0.1411229135053111
+anticipation : 0.11515764626538526
+disgust : 0.1374135896138931
+fear : 0.16776260327094925
+joy : 0.09711684370257967
+negative : 0.23672230652503792
+positive : 0.17551846231664137
+sadness : 0.13623335019389649
+surprise : 0.042825830382734784
+trust : 0.11836115326251896
+Video Number : 84 --> I HATE ANXIETY (AND STALKERS)
+Sentiment Vader
+Positive sentiment : 57.53333333333334
+Negative sentiment : 33.56666666666667
+Neutral sentiment : 8.9
+Sentiment Afinn
+Positive sentiment : 55.96666666666666
+Negative sentiment : 24.9
+Neutral sentiment : 19.133333333333333
+Sentiment NRC
+anger : 0.07888059160443703
+anticipation : 0.14880736605524542
+disgust : 0.05578916841876314
+fear : 0.12890596679475097
+joy : 0.1262596969477271
+negative : 0.1845138838541289
+positive : 0.2177191328934967
+sadness : 0.08968317262379467
+surprise : 0.06467048502863772
+trust : 0.14699485246139346
+Video Number : 85 --> I HATE REVIEW SCORES
+Sentiment Vader
+Positive sentiment : 30.133333333333333
+Negative sentiment : 27.666666666666668
+Neutral sentiment : 42.199999999999996
+Sentiment Afinn
+Positive sentiment : 24.3
+Negative sentiment : 25.166666666666664
+Neutral sentiment : 50.53333333333333
+Sentiment NRC
+anger : 0.09983554222695172
+anticipation : 0.1484956950759408
+disgust : 0.09316049143852181
+fear : 0.10563993421689077
+joy : 0.13688691109606269
+negative : 0.18535358421205378
+positive : 0.2263712876076231
+sadness : 0.10331817742091516
+surprise : 0.08832349811357261
+trust : 0.12982490084163684
+Video Number : 86 --> Trying To Watch: Laserblast
+Sentiment Vader
+Positive sentiment : 34.67954345917472
+Negative sentiment : 37.22563652326602
+Neutral sentiment : 28.094820017559265
+Sentiment Afinn
+Positive sentiment : 26.33889376646181
+Negative sentiment : 35.55750658472344
+Neutral sentiment : 38.10359964881475
+Sentiment NRC
+anger : 0.14846891432106402
+anticipation : 0.13300340241261985
+disgust : 0.14382926074853078
+fear : 0.21527992576554283
+joy : 0.09990720692854933
+negative : 0.25054129291679555
+positive : 0.17104856170739252
+sadness : 0.13918960717599752
+surprise : 0.045468605010825856
+trust : 0.1042375502629137
+Video Number : 87 --> Laserblast - The Search For The Worst - IHE
+Sentiment Vader
+Positive sentiment : 41.93333333333334
+Negative sentiment : 28.299999999999997
+Neutral sentiment : 29.76666666666667
+Sentiment Afinn
+Positive sentiment : 31.966666666666665
+Negative sentiment : 26.033333333333335
+Neutral sentiment : 42.0
+Sentiment NRC
+anger : 0.10453216374269006
+anticipation : 0.1149749373433584
+disgust : 0.10891812865497076
+fear : 0.1613408521303258
+joy : 0.10286131996658313
+negative : 0.20770676691729323
+positive : 0.20196324143692565
+sadness : 0.08563074352548036
+surprise : 0.05545112781954887
+trust : 0.11789891395154553
+Video Number : 88 --> WORST COMMENTS EVER (Comment Comeback)
+Sentiment Vader
+Positive sentiment : 39.733333333333334
+Negative sentiment : 38.266666666666666
+Neutral sentiment : 22.0
+Sentiment Afinn
+Positive sentiment : 28.26666666666667
+Negative sentiment : 39.56666666666667
+Neutral sentiment : 32.166666666666664
+Sentiment NRC
+anger : 0.174961964790263
+anticipation : 0.08845903064551185
+disgust : 0.1735492284286025
+fear : 0.15822647250597696
+joy : 0.11660508585090197
+negative : 0.26352966746359485
+positive : 0.18985003260160835
+sadness : 0.14768528580743318
+surprise : 0.05933492718974136
+trust : 0.10399913062377744
+Video Number : 89 --> I HATE YOUTUBE DRAMA
+Sentiment Vader
+Positive sentiment : 40.53333333333333
+Negative sentiment : 34.699999999999996
+Neutral sentiment : 24.766666666666666
+Sentiment Afinn
+Positive sentiment : 28.999999999999996
+Negative sentiment : 35.199999999999996
+Neutral sentiment : 35.8
+Sentiment NRC
+anger : 0.12346237337192474
+anticipation : 0.10112156295224313
+disgust : 0.11034732272069464
+fear : 0.1312409551374819
+joy : 0.10302098408104197
+negative : 0.2010672937771346
+positive : 0.1871382054992764
+sadness : 0.10691027496382055
+surprise : 0.04079232995658466
+trust : 0.11116136034732273
+Video Number : 90 --> I HATE SUPERHERO MOVIES
+Sentiment Vader
+Positive sentiment : 52.63333333333333
+Negative sentiment : 33.06666666666666
+Neutral sentiment : 14.299999999999999
+Sentiment Afinn
+Positive sentiment : 48.6
+Negative sentiment : 27.73333333333333
+Neutral sentiment : 23.666666666666668
+Sentiment NRC
+anger : 0.091617326269866
+anticipation : 0.1529032928222707
+disgust : 0.09146151449049549
+fear : 0.128440843461099
+joy : 0.13825698556144178
+negative : 0.18281915446141062
+positive : 0.2762023475641425
+sadness : 0.10029084865482497
+surprise : 0.0918250753090267
+trust : 0.15949932481562273
+Video Number : 91 --> I HATE COLLABORATION VIDEOS
+Sentiment Vader
+Positive sentiment : 29.5
+Negative sentiment : 41.66666666666667
+Neutral sentiment : 28.833333333333332
+Sentiment Afinn
+Positive sentiment : 21.8
+Negative sentiment : 39.83333333333333
+Neutral sentiment : 38.36666666666667
+Sentiment NRC
+anger : 0.182184704548318
+anticipation : 0.09462013355171979
+disgust : 0.18609046239133173
+fear : 0.1984376968627945
+joy : 0.08277686783419427
+negative : 0.29746755701146527
+positive : 0.16278190752173366
+sadness : 0.175759102935618
+surprise : 0.038931586241653014
+trust : 0.09033639914325312
+Video Number : 92 --> Trying to Watch: The Amazing Bulk
+Sentiment Vader
+Positive sentiment : 33.266666666666666
+Negative sentiment : 38.6
+Neutral sentiment : 28.133333333333333
+Sentiment Afinn
+Positive sentiment : 24.2
+Negative sentiment : 36.833333333333336
+Neutral sentiment : 38.96666666666667
+Sentiment NRC
+anger : 0.1448679621325361
+anticipation : 0.10974090682610863
+disgust : 0.17015445939212756
+fear : 0.17737917289486796
+joy : 0.0838315894369706
+negative : 0.23903836571998008
+positive : 0.15931738913801693
+sadness : 0.1367713004484305
+surprise : 0.04422022919780767
+trust : 0.10276532137518685
+Video Number : 93 --> The Amazing Bulk - The Search For The Worst - IHE
+Sentiment Vader
+Positive sentiment : 35.46666666666667
+Negative sentiment : 35.766666666666666
+Neutral sentiment : 28.76666666666667
+Sentiment Afinn
+Positive sentiment : 25.933333333333337
+Negative sentiment : 33.36666666666667
+Neutral sentiment : 40.699999999999996
+Sentiment NRC
+anger : 0.12339955849889625
+anticipation : 0.09547461368653422
+disgust : 0.12781456953642384
+fear : 0.15474613686534217
+joy : 0.07869757174392936
+negative : 0.2448123620309051
+positive : 0.16909492273730684
+sadness : 0.12041942604856512
+surprise : 0.04933774834437086
+trust : 0.11545253863134658
+Video Number : 94 --> I HATE DURR PLANT (AND JOKE THIEVES)
+Sentiment Vader
+Positive sentiment : 31.8
+Negative sentiment : 31.366666666666664
+Neutral sentiment : 36.833333333333336
+Sentiment Afinn
+Positive sentiment : 21.7
+Negative sentiment : 29.26666666666667
+Neutral sentiment : 49.03333333333333
+Sentiment NRC
+anger : 0.10687229437229437
+anticipation : 0.09577922077922078
+disgust : 0.10538419913419914
+fear : 0.11728896103896104
+joy : 0.0808982683982684
+negative : 0.2150974025974026
+positive : 0.15936147186147187
+sadness : 0.0992965367965368
+surprise : 0.0533008658008658
+trust : 0.09347943722943723
+Video Number : 95 --> I HATE DAMN DANIEL
+Sentiment Vader
+Positive sentiment : 28.76666666666667
+Negative sentiment : 39.86666666666667
+Neutral sentiment : 31.366666666666664
+Sentiment Afinn
+Positive sentiment : 18.933333333333334
+Negative sentiment : 39.766666666666666
+Neutral sentiment : 41.3
+Sentiment NRC
+anger : 0.23721690403922485
+anticipation : 0.09455988792902172
+disgust : 0.2352323137987392
+fear : 0.12654681298155498
+joy : 0.09339248190520663
+negative : 0.32640672425869716
+positive : 0.16075180947933693
+sadness : 0.1154564557553117
+surprise : 0.052883492878823254
+trust : 0.10681765117908008
+Video Number : 96 --> I HATE UNBOXING VIDEOS
+Sentiment Vader
+Positive sentiment : 27.633333333333333
+Negative sentiment : 15.7
+Neutral sentiment : 56.666666666666664
+Sentiment Afinn
+Positive sentiment : 17.166666666666668
+Negative sentiment : 14.799999999999999
+Neutral sentiment : 68.03333333333333
+Sentiment NRC
+anger : 0.08747975005785698
+anticipation : 0.08863688960888683
+disgust : 0.08539689886600324
+fear : 0.11085396898866003
+joy : 0.08933117333950474
+negative : 0.15690812311964822
+positive : 0.18051376996065727
+sadness : 0.09071974080074056
+surprise : 0.04744272159222402
+trust : 0.08354547558435547
+Video Number : 97 --> I HATE YOUR VIDEO REQUESTS
+Sentiment Vader
+Positive sentiment : 12.066666666666666
+Negative sentiment : 77.16666666666666
+Neutral sentiment : 10.766666666666666
+Sentiment Afinn
+Positive sentiment : 7.966666666666667
+Negative sentiment : 77.0
+Neutral sentiment : 15.033333333333335
+Sentiment NRC
+anger : 0.34573628108961707
+anticipation : 0.04905250690880379
+disgust : 0.34810501381760756
+fear : 0.3526450848795894
+joy : 0.0435254638768259
+negative : 0.45213185945519146
+positive : 0.08951835767864193
+sadness : 0.34879589419660484
+surprise : 0.02536517962889854
+trust : 0.05556652191077773
+Video Number : 98 --> 5 EPIC Ways To Be a YouTube Celebrity! ✔
+Sentiment Vader
+Positive sentiment : 40.6
+Negative sentiment : 29.633333333333333
+Neutral sentiment : 29.76666666666667
+Sentiment Afinn
+Positive sentiment : 29.56666666666667
+Negative sentiment : 30.2
+Neutral sentiment : 40.233333333333334
+Sentiment NRC
+anger : 0.09550797649034425
+anticipation : 0.11167086481947942
+disgust : 0.0927791771620487
+fear : 0.11691855583543241
+joy : 0.10684298908480269
+negative : 0.18157010915197314
+positive : 0.2086481947942905
+sadness : 0.09613769941225861
+surprise : 0.046914357682619645
+trust : 0.11209068010075567
+Video Number : 99 --> FINE JOB, BROS. (IHE REACTS)
+Sentiment Vader
+Positive sentiment : 34.4
+Negative sentiment : 39.6
+Neutral sentiment : 26.0
+Sentiment Afinn
+Positive sentiment : 28.1
+Negative sentiment : 36.53333333333333
+Neutral sentiment : 35.36666666666667
+Sentiment NRC
+anger : 0.1602910990856503
+anticipation : 0.1217577906325807
+disgust : 0.0983392423959694
+fear : 0.15730546743795484
+joy : 0.10319089382347453
+negative : 0.18361634633327115
+positive : 0.19527896995708155
+sadness : 0.10132487404366486
+surprise : 0.04730360141817503
+trust : 0.13920507557380107
+Video Number : 100 --> YOUTUBE IS A JOKE! (YOU WON&#39;T BELIEVE THIS)
+Sentiment Vader
+Positive sentiment : 40.1
+Negative sentiment : 35.8
+Neutral sentiment : 24.099999999999998
+Sentiment Afinn
+Positive sentiment : 33.46666666666667
+Negative sentiment : 34.03333333333333
+Neutral sentiment : 32.5
+Sentiment NRC
+anger : 0.1082570070931754
+anticipation : 0.11521245093313133
+disgust : 0.08449831278837545
+fear : 0.10075063700847049
+joy : 0.09565456924454238
+negative : 0.17808690861510915
+positive : 0.19922870325735142
+sadness : 0.07361751945458302
+surprise : 0.0532332483988706
+trust : 0.1495764754493492

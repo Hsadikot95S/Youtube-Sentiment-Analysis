@@ -1,0 +1,10 @@
+{
+    "VideoCount": 10,
+    "CommentCount": 2500,
+    "ApiServiceName": "youtube",
+    "ApiVersion": "v3",
+    "OAuthFile": "auth/OauthKeys.json",
+    "Scopes": [
+        "https://www.googleapis.com/auth/youtube.force-ssl"
+    ]
+}

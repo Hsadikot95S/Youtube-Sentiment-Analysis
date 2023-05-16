@@ -1,0 +1,3981 @@
+Video Number : 1 --> 5 THINGS I HATE ABOUT 2020 C8 AND GIVING $10,000 CAR TO A FAN! *Vehicle Virgins*
+Sentiment Vader
+Positive sentiment : 76.86895338610378
+Negative sentiment : 9.586631486367635
+Neutral sentiment : 13.544415127528584
+Sentiment Afinn
+Positive sentiment : 71.15215479331574
+Negative sentiment : 7.387862796833773
+Neutral sentiment : 21.459982409850483
+Sentiment NRC
+anger : 0.03822805578342904
+anticipation : 0.16784249384741592
+disgust : 0.027071369975389663
+fear : 0.06431501230516817
+joy : 0.21985233798195242
+negative : 0.06694011484823625
+positive : 0.2963084495488105
+sadness : 0.035767022149302705
+surprise : 0.06874487284659557
+trust : 0.17358490566037735
+Video Number : 2 --> SPECIAL DELIVERY! FIRST REVIEW OF NEW TESLA MODEL Y 2020! - VEHICLE VIRGINS UPDATE
+Sentiment Vader
+Positive sentiment : 46.04105571847507
+Negative sentiment : 22.28739002932551
+Neutral sentiment : 31.671554252199414
+Sentiment Afinn
+Positive sentiment : 41.05571847507331
+Negative sentiment : 13.78299120234604
+Neutral sentiment : 45.16129032258064
+Sentiment NRC
+anger : 0.051330798479087454
+anticipation : 0.1188212927756654
+disgust : 0.051330798479087454
+fear : 0.08460076045627377
+joy : 0.10076045627376426
+negative : 0.1150190114068441
+positive : 0.24429657794676807
+sadness : 0.06939163498098859
+surprise : 0.0370722433460076
+trust : 0.1188212927756654
+Video Number : 3 --> HOW TO CURE YOUR CAR FROM CHINA CORONAVIRUS 😱 *COVID-19*
+Sentiment Vader
+Positive sentiment : 41.14285714285714
+Negative sentiment : 25.71428571428571
+Neutral sentiment : 33.14285714285714
+Sentiment Afinn
+Positive sentiment : 37.142857142857146
+Negative sentiment : 19.142857142857142
+Neutral sentiment : 43.714285714285715
+Sentiment NRC
+anger : 0.05752636625119847
+anticipation : 0.11792905081495686
+disgust : 0.052732502396931925
+fear : 0.07574304889741132
+joy : 0.10067114093959731
+negative : 0.14669223394055608
+positive : 0.1965484180249281
+sadness : 0.05560882070949185
+surprise : 0.06040268456375839
+trust : 0.11984659635666348
+Video Number : 4 --> $60,000 2020 C8 CORVETTE VEHICLE VIRGINS REVIEW!
+Sentiment Vader
+Positive sentiment : 52.72988505747126
+Negative sentiment : 14.511494252873563
+Neutral sentiment : 32.758620689655174
+Sentiment Afinn
+Positive sentiment : 44.396551724137936
+Negative sentiment : 10.057471264367816
+Neutral sentiment : 45.54597701149425
+Sentiment NRC
+anger : 0.05187032418952618
+anticipation : 0.1226932668329177
+disgust : 0.047880299251870324
+fear : 0.058354114713216956
+joy : 0.12468827930174564
+negative : 0.09276807980049875
+positive : 0.22743142144638404
+sadness : 0.05236907730673317
+surprise : 0.05187032418952618
+trust : 0.1371571072319202
+Video Number : 5 --> THE TRUTH ABOUT MY MCLAREN *SELLING IT?!*
+Sentiment Vader
+Positive sentiment : 52.95429208472687
+Negative sentiment : 11.817168338907468
+Neutral sentiment : 35.22853957636566
+Sentiment Afinn
+Positive sentiment : 45.26198439241917
+Negative sentiment : 9.364548494983277
+Neutral sentiment : 45.373467112597545
+Sentiment NRC
+anger : 0.037319422150882825
+anticipation : 0.12881219903691815
+disgust : 0.0377207062600321
+fear : 0.05898876404494382
+joy : 0.1673354735152488
+negative : 0.07423756019261638
+positive : 0.23595505617977527
+sadness : 0.03892455858747994
+surprise : 0.0521669341894061
+trust : 0.13162118780096307
+Video Number : 6 --> TEACHING ANNA HOW TO DRIVE A FERRARI :)
+Sentiment Vader
+Positive sentiment : 44.021024967148485
+Negative sentiment : 15.768725361366624
+Neutral sentiment : 40.21024967148489
+Sentiment Afinn
+Positive sentiment : 34.69119579500657
+Negative sentiment : 13.66622864651774
+Neutral sentiment : 51.64257555847569
+Sentiment NRC
+anger : 0.08048048048048048
+anticipation : 0.15315315315315314
+disgust : 0.054654654654654654
+fear : 0.07807807807807808
+joy : 0.15675675675675677
+negative : 0.12252252252252252
+positive : 0.25225225225225223
+sadness : 0.05225225225225225
+surprise : 0.08288288288288288
+trust : 0.16276276276276277
+Video Number : 7 --> MY $2,000,000 DOLLAR GARAGE UPDATE!!
+Sentiment Vader
+Positive sentiment : 38.87867647058824
+Negative sentiment : 19.11764705882353
+Neutral sentiment : 42.00367647058824
+Sentiment Afinn
+Positive sentiment : 31.801470588235293
+Negative sentiment : 14.88970588235294
+Neutral sentiment : 53.30882352941176
+Sentiment NRC
+anger : 0.06362098138747885
+anticipation : 0.12791878172588833
+disgust : 0.050761421319796954
+fear : 0.06869712351945854
+joy : 0.1170896785109983
+negative : 0.11065989847715736
+positive : 0.19390862944162437
+sadness : 0.06429780033840947
+surprise : 0.049407783417935704
+trust : 0.12859560067681894
+Video Number : 8 --> I BOUGHT A HALF MILLION DOLLAR ROLLS ROYCE CULLINAN
+Sentiment Vader
+Positive sentiment : 42.333333333333336
+Negative sentiment : 20.0
+Neutral sentiment : 37.666666666666664
+Sentiment Afinn
+Positive sentiment : 34.53333333333333
+Negative sentiment : 13.8
+Neutral sentiment : 51.66666666666667
+Sentiment NRC
+anger : 0.07029997710098465
+anticipation : 0.13533318067323105
+disgust : 0.05472864666819327
+fear : 0.05495763682161667
+joy : 0.11884588962674605
+negative : 0.11907487978016945
+positive : 0.20151133501259447
+sadness : 0.05289672544080604
+surprise : 0.06320128234485917
+trust : 0.1385390428211587
+Video Number : 9 --> MY MCLAREN P1 WAS CRASHED...
+Sentiment Vader
+Positive sentiment : 44.86666666666667
+Negative sentiment : 23.533333333333335
+Neutral sentiment : 31.6
+Sentiment Afinn
+Positive sentiment : 35.8
+Negative sentiment : 20.0
+Neutral sentiment : 44.2
+Sentiment NRC
+anger : 0.05806053119209389
+anticipation : 0.12394482190652666
+disgust : 0.06361951822112415
+fear : 0.07988470249124974
+joy : 0.10747374922791847
+negative : 0.13465101914762198
+positive : 0.18982911262095944
+sadness : 0.06897261684167182
+surprise : 0.07411982705373688
+trust : 0.12003294214535722
+Video Number : 10 --> BUYING A MCLAREN P1 ON APRIL FOOLS DAY
+Sentiment Vader
+Positive sentiment : 45.75260804769001
+Negative sentiment : 19.448584202682564
+Neutral sentiment : 34.79880774962742
+Sentiment Afinn
+Positive sentiment : 33.53204172876304
+Negative sentiment : 15.499254843517138
+Neutral sentiment : 50.96870342771982
+Sentiment NRC
+anger : 0.05715902659875495
+anticipation : 0.11346915676287493
+disgust : 0.06932654216185626
+fear : 0.07272212790039616
+joy : 0.10469722693831353
+negative : 0.13752122241086587
+positive : 0.18845500848896435
+sadness : 0.05461233729485003
+surprise : 0.056310130164119974
+trust : 0.11997736276174306
+Video Number : 11 --> AM I BUYING A MCLAREN P1???!!! *CHEAP P1??*
+Sentiment Vader
+Positive sentiment : 45.968489341983314
+Negative sentiment : 17.42354031510658
+Neutral sentiment : 36.6079703429101
+Sentiment Afinn
+Positive sentiment : 35.31047265987025
+Negative sentiment : 13.34569045412419
+Neutral sentiment : 51.343836886005555
+Sentiment NRC
+anger : 0.060435132957292505
+anticipation : 0.1297340854149879
+disgust : 0.0531829170024174
+fear : 0.05761482675261886
+joy : 0.12610797743755037
+negative : 0.12288477034649477
+positive : 0.21474617244157937
+sadness : 0.06325543916196616
+surprise : 0.06486704270749395
+trust : 0.12651087832393232
+Video Number : 12 --> $1.6 MILLION MERCEDES 300SL Ft. Carrol Shelby&#39;s Friend Lee!
+Sentiment Vader
+Positive sentiment : 56.14035087719298
+Negative sentiment : 16.764132553606238
+Neutral sentiment : 27.09551656920078
+Sentiment Afinn
+Positive sentiment : 44.639376218323584
+Negative sentiment : 12.865497076023392
+Neutral sentiment : 42.49512670565302
+Sentiment NRC
+anger : 0.038322487346348515
+anticipation : 0.10267534345625452
+disgust : 0.04193781634128706
+fear : 0.04338394793926247
+joy : 0.1475054229934924
+negative : 0.08676789587852494
+positive : 0.24367317425885757
+sadness : 0.04772234273318872
+surprise : 0.038322487346348515
+trust : 0.12509038322487345
+Video Number : 13 --> I BROKE MY NEW FERRARI!!!
+Sentiment Vader
+Positive sentiment : 50.062893081761004
+Negative sentiment : 16.10062893081761
+Neutral sentiment : 33.83647798742138
+Sentiment Afinn
+Positive sentiment : 43.144654088050316
+Negative sentiment : 10.69182389937107
+Neutral sentiment : 46.16352201257862
+Sentiment NRC
+anger : 0.06201550387596899
+anticipation : 0.1111111111111111
+disgust : 0.04496124031007752
+fear : 0.06821705426356589
+joy : 0.14573643410852713
+negative : 0.11317829457364341
+positive : 0.2186046511627907
+sadness : 0.07080103359173126
+surprise : 0.05478036175710594
+trust : 0.14418604651162792
+Video Number : 14 --> 5 THINGS I HATE ABOUT MY NEW MAYBACH
+Sentiment Vader
+Positive sentiment : 38.860103626943
+Negative sentiment : 27.461139896373055
+Neutral sentiment : 33.67875647668394
+Sentiment Afinn
+Positive sentiment : 33.33333333333333
+Negative sentiment : 22.452504317789295
+Neutral sentiment : 44.21416234887737
+Sentiment NRC
+anger : 0.085219707057257
+anticipation : 0.09986684420772303
+disgust : 0.08788282290279627
+fear : 0.08788282290279627
+joy : 0.10452729693741677
+negative : 0.14247669773635152
+positive : 0.17643142476697737
+sadness : 0.08854860186418109
+surprise : 0.0426098535286285
+trust : 0.10918774966711052
+Video Number : 15 --> 10 AMAZING FEATURES OF THE TESLA MODEL 3 *Track Mode V2*
+Sentiment Vader
+Positive sentiment : 48.5207100591716
+Negative sentiment : 15.384615384615385
+Neutral sentiment : 36.09467455621302
+Sentiment Afinn
+Positive sentiment : 39.25049309664694
+Negative sentiment : 11.637080867850099
+Neutral sentiment : 49.112426035502956
+Sentiment NRC
+anger : 0.047104247104247106
+anticipation : 0.13745173745173744
+disgust : 0.03861003861003861
+fear : 0.047104247104247106
+joy : 0.14362934362934363
+negative : 0.09961389961389962
+positive : 0.2571428571428571
+sadness : 0.044787644787644784
+surprise : 0.05637065637065637
+trust : 0.12355212355212356
+Video Number : 16 --> MAKING MY NEW FERRARI 812 FASTER THAN A HYPERCAR!
+Sentiment Vader
+Positive sentiment : 50.3767491926803
+Negative sentiment : 17.115177610333692
+Neutral sentiment : 32.508073196986004
+Sentiment Afinn
+Positive sentiment : 43.48762109795479
+Negative sentiment : 12.594187298170075
+Neutral sentiment : 43.91819160387514
+Sentiment NRC
+anger : 0.053184281842818426
+anticipation : 0.11686991869918699
+disgust : 0.05420054200542006
+fear : 0.05589430894308943
+joy : 0.1714092140921409
+negative : 0.10230352303523035
+positive : 0.252710027100271
+sadness : 0.04200542005420054
+surprise : 0.05047425474254742
+trust : 0.15142276422764228
+Video Number : 17 --> TWIN TURBO LAMBORGHINI RACES ROLLS ROYCE LOL! *Road Rage*!
+Sentiment Vader
+Positive sentiment : 39.83739837398374
+Negative sentiment : 24.390243902439025
+Neutral sentiment : 35.77235772357724
+Sentiment Afinn
+Positive sentiment : 33.33333333333333
+Negative sentiment : 16.260162601626014
+Neutral sentiment : 50.40650406504065
+Sentiment NRC
+anger : 0.06333333333333334
+anticipation : 0.115
+disgust : 0.065
+fear : 0.065
+joy : 0.11833333333333333
+negative : 0.155
+positive : 0.215
+sadness : 0.055
+surprise : 0.05333333333333334
+trust : 0.125
+Video Number : 18 --> MODDED 2020 FORD GT500 VS ACURA NSX *Shocking Results*
+Sentiment Vader
+Positive sentiment : 45.774647887323944
+Negative sentiment : 17.95774647887324
+Neutral sentiment : 36.267605633802816
+Sentiment Afinn
+Positive sentiment : 42.25352112676056
+Negative sentiment : 14.43661971830986
+Neutral sentiment : 43.309859154929576
+Sentiment NRC
+anger : 0.06866952789699571
+anticipation : 0.1301859799713877
+disgust : 0.04721030042918455
+fear : 0.08011444921316166
+joy : 0.12875536480686695
+negative : 0.12017167381974249
+positive : 0.1917024320457797
+sadness : 0.05722460658082976
+surprise : 0.05722460658082976
+trust : 0.10300429184549356
+Video Number : 19 --> STRAIGHT PIPED FORD GT SHUTS DOWN MIAMI *SO LOUD*
+Sentiment Vader
+Positive sentiment : 46.37096774193548
+Negative sentiment : 22.379032258064516
+Neutral sentiment : 31.25
+Sentiment Afinn
+Positive sentiment : 36.895161290322584
+Negative sentiment : 15.524193548387096
+Neutral sentiment : 47.58064516129033
+Sentiment NRC
+anger : 0.07444168734491315
+anticipation : 0.10256410256410256
+disgust : 0.06865177832919768
+fear : 0.08023159636062861
+joy : 0.09842845326716294
+negative : 0.15053763440860216
+positive : 0.1662531017369727
+sadness : 0.076095947063689
+surprise : 0.052109181141439205
+trust : 0.1141439205955335
+Video Number : 20 --> $32 MILLION PORSCHE DESIGN TOWER PENTHOUSE CRIBS TOUR!
+Sentiment Vader
+Positive sentiment : 46.420824295010846
+Negative sentiment : 16.48590021691974
+Neutral sentiment : 37.093275488069416
+Sentiment Afinn
+Positive sentiment : 36.22559652928417
+Negative sentiment : 12.364425162689804
+Neutral sentiment : 51.40997830802603
+Sentiment NRC
+anger : 0.05931417979610751
+anticipation : 0.08989805375347544
+disgust : 0.04448563484708063
+fear : 0.04633920296570899
+joy : 0.10472659870250231
+negative : 0.09731232622798888
+positive : 0.2381835032437442
+sadness : 0.04633920296570899
+surprise : 0.042632066728452274
+trust : 0.1195551436515292
+Video Number : 21 --> HOUSE SHOPPING IN A ROLLS ROYCE *Feat. 3LAU*
+Sentiment Vader
+Positive sentiment : 46.55819774718398
+Negative sentiment : 23.90488110137672
+Neutral sentiment : 29.536921151439298
+Sentiment Afinn
+Positive sentiment : 39.54943679599499
+Negative sentiment : 18.272841051314142
+Neutral sentiment : 42.17772215269087
+Sentiment NRC
+anger : 0.06627218934911243
+anticipation : 0.1368836291913215
+disgust : 0.06666666666666667
+fear : 0.06745562130177515
+joy : 0.1495069033530572
+negative : 0.11203155818540433
+positive : 0.2358974358974359
+sadness : 0.06666666666666667
+surprise : 0.05483234714003945
+trust : 0.1495069033530572
+Video Number : 22 --> &quot;Wraith Talk&quot; - Feat.  Lil Mosey *Unreleased Music*
+Sentiment Vader
+Positive sentiment : 38.86666666666667
+Negative sentiment : 30.2
+Neutral sentiment : 30.933333333333334
+Sentiment Afinn
+Positive sentiment : 29.133333333333333
+Negative sentiment : 24.4
+Neutral sentiment : 46.46666666666667
+Sentiment NRC
+anger : 0.09329173166926677
+anticipation : 0.12324492979719189
+disgust : 0.09609984399375975
+fear : 0.0970358814352574
+joy : 0.10483619344773791
+negative : 0.1594383775351014
+positive : 0.19750390015600625
+sadness : 0.090795631825273
+surprise : 0.0452418096723869
+trust : 0.12542901716068644
+Video Number : 23 --> Wraith Talk - Feat. Lil Mosey *Unreleased*
+Sentiment Vader
+Positive sentiment : 37.533512064343164
+Negative sentiment : 29.2225201072386
+Neutral sentiment : 33.24396782841823
+Sentiment Afinn
+Positive sentiment : 27.61394101876676
+Negative sentiment : 22.5201072386059
+Neutral sentiment : 49.865951742627345
+Sentiment NRC
+anger : 0.1012311901504788
+anticipation : 0.13132694938440492
+disgust : 0.09439124487004104
+fear : 0.1012311901504788
+joy : 0.13406292749658003
+negative : 0.1545827633378933
+positive : 0.2216142270861833
+sadness : 0.07934336525307797
+surprise : 0.06566347469220246
+trust : 0.11627906976744186
+Video Number : 24 --> BUYING A FERRARI 812 SUPERFAST AT AGE 25 *emotional*
+Sentiment Vader
+Positive sentiment : 53.733333333333334
+Negative sentiment : 15.8
+Neutral sentiment : 30.466666666666665
+Sentiment Afinn
+Positive sentiment : 37.333333333333336
+Negative sentiment : 12.466666666666667
+Neutral sentiment : 50.2
+Sentiment NRC
+anger : 0.0580875781948168
+anticipation : 0.12719690199582961
+disgust : 0.05093833780160858
+fear : 0.05451295799821269
+joy : 0.12898421209413166
+negative : 0.1149836163240989
+positive : 0.21686029192731607
+sadness : 0.06196008340780459
+surprise : 0.050044682752457555
+trust : 0.1310694072088174
+Video Number : 25 --> BUYING A ROLLS ROYCE WRAITH AT AGE 25!!!
+Sentiment Vader
+Positive sentiment : 46.0
+Negative sentiment : 15.2
+Neutral sentiment : 38.800000000000004
+Sentiment Afinn
+Positive sentiment : 32.800000000000004
+Negative sentiment : 11.1
+Neutral sentiment : 56.10000000000001
+Sentiment NRC
+anger : 0.05246636771300448
+anticipation : 0.11704035874439461
+disgust : 0.04708520179372197
+fear : 0.06278026905829596
+joy : 0.12017937219730941
+negative : 0.11883408071748879
+positive : 0.20179372197309417
+sadness : 0.0515695067264574
+surprise : 0.04349775784753363
+trust : 0.13946188340807175
+Video Number : 26 --> VEGAS POLICE USE UNLAWFUL INTIMIDATION ON LAMBORGHINI OWNER
+Sentiment Vader
+Positive sentiment : 36.994949494949495
+Negative sentiment : 32.70202020202021
+Neutral sentiment : 30.303030303030305
+Sentiment Afinn
+Positive sentiment : 31.186868686868685
+Negative sentiment : 22.727272727272727
+Neutral sentiment : 46.08585858585859
+Sentiment NRC
+anger : 0.09356913183279743
+anticipation : 0.10643086816720257
+disgust : 0.05048231511254019
+fear : 0.15594855305466238
+joy : 0.054340836012861736
+negative : 0.1440514469453376
+positive : 0.16045016077170418
+sadness : 0.057234726688102894
+surprise : 0.047909967845659165
+trust : 0.19035369774919614
+Video Number : 27 --> F90 BMW M5 RACES SUPRA FOR PINK SLIPS!
+Sentiment Vader
+Positive sentiment : 36.144578313253014
+Negative sentiment : 20.080321285140563
+Neutral sentiment : 43.77510040160642
+Sentiment Afinn
+Positive sentiment : 27.710843373493976
+Negative sentiment : 14.056224899598394
+Neutral sentiment : 58.23293172690763
+Sentiment NRC
+anger : 0.05660377358490566
+anticipation : 0.1018867924528302
+disgust : 0.04716981132075472
+fear : 0.05849056603773585
+joy : 0.10566037735849057
+negative : 0.12830188679245283
+positive : 0.19245283018867926
+sadness : 0.04716981132075472
+surprise : 0.05471698113207547
+trust : 0.12264150943396226
+Video Number : 28 --> IS THE 2020 POLARIS SLINGSHOT REALLY WORTH $30,000
+Sentiment Vader
+Positive sentiment : 45.72649572649573
+Negative sentiment : 15.81196581196581
+Neutral sentiment : 38.46153846153847
+Sentiment Afinn
+Positive sentiment : 42.30769230769231
+Negative sentiment : 9.82905982905983
+Neutral sentiment : 47.863247863247864
+Sentiment NRC
+anger : 0.05263157894736842
+anticipation : 0.0865874363327674
+disgust : 0.050933786078098474
+fear : 0.059422750424448216
+joy : 0.09507640067911714
+negative : 0.09507640067911714
+positive : 0.22071307300509338
+sadness : 0.042444821731748725
+surprise : 0.05432937181663837
+trust : 0.12224108658743633
+Video Number : 29 --> I GOT ARRESTED...
+Sentiment Vader
+Positive sentiment : 40.22038567493113
+Negative sentiment : 32.231404958677686
+Neutral sentiment : 27.548209366391184
+Sentiment Afinn
+Positive sentiment : 32.78236914600551
+Negative sentiment : 26.033057851239672
+Neutral sentiment : 41.18457300275482
+Sentiment NRC
+anger : 0.09227129337539432
+anticipation : 0.12460567823343849
+disgust : 0.06821766561514196
+fear : 0.16876971608832808
+joy : 0.08280757097791798
+negative : 0.22397476340694006
+positive : 0.17152996845425866
+sadness : 0.07925867507886436
+surprise : 0.05323343848580442
+trust : 0.1975552050473186
+Video Number : 30 --> THIS RX7 IS INSANE!!
+Sentiment Vader
+Positive sentiment : 45.20547945205479
+Negative sentiment : 11.415525114155251
+Neutral sentiment : 43.37899543378995
+Sentiment Afinn
+Positive sentiment : 34.47488584474886
+Negative sentiment : 8.67579908675799
+Neutral sentiment : 56.849315068493155
+Sentiment NRC
+anger : 0.033962264150943396
+anticipation : 0.1119496855345912
+disgust : 0.028930817610062894
+fear : 0.06918238993710692
+joy : 0.10943396226415095
+negative : 0.08176100628930817
+positive : 0.16729559748427672
+sadness : 0.026415094339622643
+surprise : 0.0389937106918239
+trust : 0.14339622641509434
+Video Number : 31 --> 2019 Was The CRAZIEST Year EVER!
+Sentiment Vader
+Positive sentiment : 49.519230769230774
+Negative sentiment : 15.384615384615385
+Neutral sentiment : 35.09615384615385
+Sentiment Afinn
+Positive sentiment : 37.019230769230774
+Negative sentiment : 12.01923076923077
+Neutral sentiment : 50.96153846153846
+Sentiment NRC
+anger : 0.047058823529411764
+anticipation : 0.1623529411764706
+disgust : 0.04470588235294118
+fear : 0.05647058823529412
+joy : 0.16470588235294117
+negative : 0.09411764705882353
+positive : 0.28705882352941176
+sadness : 0.04
+surprise : 0.07294117647058823
+trust : 0.16
+Video Number : 32 --> 1200WHP NISSAN SKYLINE R34 GTR FIRST DRIVE! *Sequential Manual*
+Sentiment Vader
+Positive sentiment : 41.8
+Negative sentiment : 18.133333333333333
+Neutral sentiment : 40.06666666666667
+Sentiment Afinn
+Positive sentiment : 30.599999999999998
+Negative sentiment : 11.200000000000001
+Neutral sentiment : 58.199999999999996
+Sentiment NRC
+anger : 0.04887320119467825
+anticipation : 0.0977464023893565
+disgust : 0.053760521314146076
+fear : 0.04941623676350801
+joy : 0.0665218571816454
+negative : 0.11159380939451534
+positive : 0.1656258484930763
+sadness : 0.04317132772196579
+surprise : 0.033939723051859896
+trust : 0.08525658430627206
+Video Number : 33 --> MY MCLAREN 600LT IS NOW THE FASTEST CAR I’VE EVER OWNED!
+Sentiment Vader
+Positive sentiment : 41.41414141414141
+Negative sentiment : 14.545454545454545
+Neutral sentiment : 44.04040404040404
+Sentiment Afinn
+Positive sentiment : 27.474747474747474
+Negative sentiment : 13.131313131313133
+Neutral sentiment : 59.3939393939394
+Sentiment NRC
+anger : 0.06074766355140187
+anticipation : 0.1233644859813084
+disgust : 0.044859813084112146
+fear : 0.07757009345794393
+joy : 0.07196261682242991
+negative : 0.1102803738317757
+positive : 0.1560747663551402
+sadness : 0.056074766355140186
+surprise : 0.0514018691588785
+trust : 0.07476635514018691
+Video Number : 34 --> SAYING GOODBYE TO MY MERCEDES E63S *Emotional*
+Sentiment Vader
+Positive sentiment : 34.212629896083136
+Negative sentiment : 12.070343725019985
+Neutral sentiment : 53.71702637889688
+Sentiment Afinn
+Positive sentiment : 17.186250999200638
+Negative sentiment : 8.872901678657074
+Neutral sentiment : 73.94084732214229
+Sentiment NRC
+anger : 0.05122950819672131
+anticipation : 0.09579918032786885
+disgust : 0.040983606557377046
+fear : 0.056864754098360656
+joy : 0.08094262295081968
+negative : 0.1091188524590164
+positive : 0.1603483606557377
+sadness : 0.05993852459016393
+surprise : 0.0430327868852459
+trust : 0.09375
+Video Number : 35 --> DAILYDRIVENEXOTICS GAVE ME THEIR FERRARI FF!
+Sentiment Vader
+Positive sentiment : 37.32004429678849
+Negative sentiment : 7.419712070874862
+Neutral sentiment : 55.26024363233666
+Sentiment Afinn
+Positive sentiment : 21.92691029900332
+Negative sentiment : 5.758582502768549
+Neutral sentiment : 72.31450719822813
+Sentiment NRC
+anger : 0.043124491456468676
+anticipation : 0.09601301871440195
+disgust : 0.03905614320585842
+fear : 0.05695687550854353
+joy : 0.10496338486574451
+negative : 0.10170870626525631
+positive : 0.24410089503661514
+sadness : 0.04231082180634662
+surprise : 0.05044751830756713
+trust : 0.10252237591537836
+Video Number : 36 --> EXTREMELY DISAPPOINTED WITH MY TURBO SUPRA :(
+Sentiment Vader
+Positive sentiment : 36.42960812772134
+Negative sentiment : 33.52685050798258
+Neutral sentiment : 30.043541364296082
+Sentiment Afinn
+Positive sentiment : 35.703918722786646
+Negative sentiment : 24.238026124818575
+Neutral sentiment : 40.05805515239477
+Sentiment NRC
+anger : 0.07439908431896222
+anticipation : 0.1266692102251049
+disgust : 0.07783288821060663
+fear : 0.07096528042731781
+joy : 0.09462037390309043
+negative : 0.14765356734070964
+positive : 0.17130866081648227
+sadness : 0.08202975963372758
+surprise : 0.052651659671880964
+trust : 0.11484166348721862
+Video Number : 37 --> ELECTRIC SCOOTER RACES FERRARI! *Shocking Results*
+Sentiment Vader
+Positive sentiment : 44.303797468354425
+Negative sentiment : 18.9873417721519
+Neutral sentiment : 36.708860759493675
+Sentiment Afinn
+Positive sentiment : 33.33333333333333
+Negative sentiment : 12.658227848101266
+Neutral sentiment : 54.008438818565395
+Sentiment NRC
+anger : 0.07582938388625593
+anticipation : 0.11611374407582939
+disgust : 0.061611374407582936
+fear : 0.07109004739336493
+joy : 0.12085308056872038
+negative : 0.11611374407582939
+positive : 0.23222748815165878
+sadness : 0.05687203791469194
+surprise : 0.04028436018957346
+trust : 0.11848341232227488
+Video Number : 38 --> HOUSE UPDATE!
+Sentiment Vader
+Positive sentiment : 39.20367534456356
+Negative sentiment : 10.796324655436447
+Neutral sentiment : 50.0
+Sentiment Afinn
+Positive sentiment : 33.00153139356814
+Negative sentiment : 5.5895865237366005
+Neutral sentiment : 61.40888208269525
+Sentiment NRC
+anger : 0.030596788851863073
+anticipation : 0.16540442290215088
+disgust : 0.01847924871251136
+fear : 0.04695546803998788
+joy : 0.10875492275068162
+negative : 0.06361708573159648
+positive : 0.17721902453801877
+sadness : 0.02817328082399273
+surprise : 0.05967888518630718
+trust : 0.10663435322629507
+Video Number : 39 --> COCKY LAMBORGHINI AVENTADOR OWNER DESTROYED BY MCLAREN!
+Sentiment Vader
+Positive sentiment : 45.287958115183244
+Negative sentiment : 13.612565445026178
+Neutral sentiment : 41.09947643979058
+Sentiment Afinn
+Positive sentiment : 33.50785340314136
+Negative sentiment : 8.900523560209423
+Neutral sentiment : 57.59162303664922
+Sentiment NRC
+anger : 0.03753026634382567
+anticipation : 0.0774818401937046
+disgust : 0.04600484261501211
+fear : 0.05569007263922518
+joy : 0.10048426150121065
+negative : 0.09927360774818401
+positive : 0.16343825665859565
+sadness : 0.048426150121065374
+surprise : 0.044794188861985475
+trust : 0.11259079903147699
+Video Number : 40 --> THE 1000HP V10 M5 THATS FASTER THAN A BUGATTI
+Sentiment Vader
+Positive sentiment : 42.23194748358862
+Negative sentiment : 18.599562363238512
+Neutral sentiment : 39.16849015317287
+Sentiment Afinn
+Positive sentiment : 33.479212253829324
+Negative sentiment : 10.722100656455142
+Neutral sentiment : 55.798687089715536
+Sentiment NRC
+anger : 0.05897435897435897
+anticipation : 0.08846153846153847
+disgust : 0.05
+fear : 0.06025641025641026
+joy : 0.09743589743589744
+negative : 0.11282051282051282
+positive : 0.19743589743589743
+sadness : 0.047435897435897434
+surprise : 0.046153846153846156
+trust : 0.09230769230769231
+Video Number : 41 --> I MESSED UP BUYING THE MCLAREN 600LT!
+Sentiment Vader
+Positive sentiment : 44.25837320574163
+Negative sentiment : 17.22488038277512
+Neutral sentiment : 38.516746411483254
+Sentiment Afinn
+Positive sentiment : 34.688995215311
+Negative sentiment : 13.397129186602871
+Neutral sentiment : 51.91387559808612
+Sentiment NRC
+anger : 0.03913894324853229
+anticipation : 0.1232876712328767
+disgust : 0.04892367906066536
+fear : 0.05577299412915851
+joy : 0.11056751467710371
+negative : 0.1223091976516634
+positive : 0.1898238747553816
+sadness : 0.05283757338551859
+surprise : 0.040117416829745595
+trust : 0.1086105675146771
+Video Number : 42 --> WE SHOULDN&#39;T HAVE DONE THAT...*Bad Idea*
+Sentiment Vader
+Positive sentiment : 40.816326530612244
+Negative sentiment : 14.577259475218659
+Neutral sentiment : 44.606413994169095
+Sentiment Afinn
+Positive sentiment : 35.27696793002916
+Negative sentiment : 9.037900874635568
+Neutral sentiment : 55.68513119533528
+Sentiment NRC
+anger : 0.06140350877192982
+anticipation : 0.14912280701754385
+disgust : 0.05263157894736842
+fear : 0.1023391812865497
+joy : 0.1286549707602339
+negative : 0.12134502923976608
+positive : 0.22660818713450293
+sadness : 0.05116959064327485
+surprise : 0.039473684210526314
+trust : 0.17251461988304093
+Video Number : 43 --> I BOUGHT THE NEW TESLA CYBERTRUCK WITH MY AMEX!
+Sentiment Vader
+Positive sentiment : 36.36363636363637
+Negative sentiment : 18.98989898989899
+Neutral sentiment : 44.64646464646464
+Sentiment Afinn
+Positive sentiment : 26.86868686868687
+Negative sentiment : 12.929292929292929
+Neutral sentiment : 60.2020202020202
+Sentiment NRC
+anger : 0.052202283849918436
+anticipation : 0.08809135399673736
+disgust : 0.04730831973898858
+fear : 0.053833605220228384
+joy : 0.07911908646003263
+negative : 0.12479608482871125
+positive : 0.17047308319738988
+sadness : 0.04404567699836868
+surprise : 0.0367047308319739
+trust : 0.14192495921696574
+Video Number : 44 --> BUYING A 2020 BMW X5M?! *New Car*
+Sentiment Vader
+Positive sentiment : 40.86242299794661
+Negative sentiment : 9.856262833675565
+Neutral sentiment : 49.28131416837782
+Sentiment Afinn
+Positive sentiment : 27.31006160164271
+Negative sentiment : 7.905544147843943
+Neutral sentiment : 64.78439425051334
+Sentiment NRC
+anger : 0.05202312138728324
+anticipation : 0.10982658959537572
+disgust : 0.06936416184971098
+fear : 0.049132947976878616
+joy : 0.12355491329479769
+negative : 0.12644508670520233
+positive : 0.21170520231213874
+sadness : 0.09826589595375723
+surprise : 0.06141618497109826
+trust : 0.1315028901734104
+Video Number : 45 --> ALEX CHOI ACTUALLY TRIED TO KILL ME *NOT CLICKBAIT*
+Sentiment Vader
+Positive sentiment : 37.23897911832947
+Negative sentiment : 27.494199535962878
+Neutral sentiment : 35.266821345707655
+Sentiment Afinn
+Positive sentiment : 28.190255220417633
+Negative sentiment : 20.88167053364269
+Neutral sentiment : 50.92807424593968
+Sentiment NRC
+anger : 0.08633093525179857
+anticipation : 0.13617677286742036
+disgust : 0.06680369989722508
+fear : 0.1130524152106886
+joy : 0.10020554984583761
+negative : 0.21377183967112023
+positive : 0.18396711202466598
+sadness : 0.10380267214799589
+surprise : 0.0750256937307297
+trust : 0.1264131551901336
+Video Number : 46 --> 800HP MCLAREN DESTROYS TIRES!
+Sentiment Vader
+Positive sentiment : 37.5
+Negative sentiment : 15.384615384615385
+Neutral sentiment : 47.11538461538461
+Sentiment Afinn
+Positive sentiment : 25.961538461538463
+Negative sentiment : 10.096153846153847
+Neutral sentiment : 63.942307692307686
+Sentiment NRC
+anger : 0.04810126582278481
+anticipation : 0.1240506329113924
+disgust : 0.05569620253164557
+fear : 0.05569620253164557
+joy : 0.09620253164556962
+negative : 0.11645569620253164
+positive : 0.1620253164556962
+sadness : 0.05063291139240506
+surprise : 0.0379746835443038
+trust : 0.08860759493670886
+Video Number : 47 --> RACING ALEX CHOI&#39;S MCLAREN 720S *Shocking Results*
+Sentiment Vader
+Positive sentiment : 41.34615384615385
+Negative sentiment : 16.826923076923077
+Neutral sentiment : 41.82692307692308
+Sentiment Afinn
+Positive sentiment : 31.009615384615387
+Negative sentiment : 12.01923076923077
+Neutral sentiment : 56.97115384615385
+Sentiment NRC
+anger : 0.07001321003963012
+anticipation : 0.166446499339498
+disgust : 0.05151915455746367
+fear : 0.10700132100396301
+joy : 0.13606340819022458
+negative : 0.14795244385733158
+positive : 0.20871862615587847
+sadness : 0.043593130779392336
+surprise : 0.06605019815059446
+trust : 0.11096433289299867
+Video Number : 48 --> I TUNED MY MCLAREN 600LT *INSANE POWER*
+Sentiment Vader
+Positive sentiment : 42.71047227926078
+Negative sentiment : 19.301848049281315
+Neutral sentiment : 37.98767967145791
+Sentiment Afinn
+Positive sentiment : 32.238193018480494
+Negative sentiment : 9.856262833675565
+Neutral sentiment : 57.90554414784395
+Sentiment NRC
+anger : 0.05107252298263534
+anticipation : 0.09397344228804903
+disgust : 0.049029622063329927
+fear : 0.06230847803881512
+joy : 0.10316649642492338
+negative : 0.13687436159346272
+positive : 0.17262512768130744
+sadness : 0.045965270684371805
+surprise : 0.045965270684371805
+trust : 0.08273748723186926
+Video Number : 49 --> BIGGER TURBO FOR MY 2020 SUPRA! *More Power*
+Sentiment Vader
+Positive sentiment : 45.69288389513109
+Negative sentiment : 18.726591760299627
+Neutral sentiment : 35.580524344569284
+Sentiment Afinn
+Positive sentiment : 38.20224719101123
+Negative sentiment : 10.486891385767791
+Neutral sentiment : 51.31086142322098
+Sentiment NRC
+anger : 0.047058823529411764
+anticipation : 0.10441176470588236
+disgust : 0.057352941176470586
+fear : 0.04852941176470588
+joy : 0.12941176470588237
+negative : 0.09411764705882353
+positive : 0.2323529411764706
+sadness : 0.04411764705882353
+surprise : 0.03529411764705882
+trust : 0.14558823529411766
+Video Number : 50 --> 5 INSANE Features Of The Lamborghini Huracan Evo! *I NEED ONE*
+Sentiment Vader
+Positive sentiment : 47.25848563968668
+Negative sentiment : 12.532637075718014
+Neutral sentiment : 40.2088772845953
+Sentiment Afinn
+Positive sentiment : 33.94255874673629
+Negative sentiment : 8.093994778067886
+Neutral sentiment : 57.96344647519582
+Sentiment NRC
+anger : 0.036061026352288486
+anticipation : 0.10957004160887657
+disgust : 0.02912621359223301
+fear : 0.052704576976421634
+joy : 0.10124826629680998
+negative : 0.08876560332871013
+positive : 0.16920943134535368
+sadness : 0.049930651872399444
+surprise : 0.04299583911234397
+trust : 0.11095700416088766
+Video Number : 51 --> What It’s Like To Drive A Lamborghini Huracan Performante! *POV*
+Sentiment Vader
+Positive sentiment : 56.02836879432624
+Negative sentiment : 20.56737588652482
+Neutral sentiment : 23.404255319148938
+Sentiment Afinn
+Positive sentiment : 47.5177304964539
+Negative sentiment : 11.347517730496454
+Neutral sentiment : 41.13475177304964
+Sentiment NRC
+anger : 0.05220883534136546
+anticipation : 0.11244979919678715
+disgust : 0.060240963855421686
+fear : 0.07630522088353414
+joy : 0.10040160642570281
+negative : 0.10441767068273092
+positive : 0.21686746987951808
+sadness : 0.060240963855421686
+surprise : 0.020080321285140562
+trust : 0.07630522088353414
+Video Number : 52 --> EVERYTHING I HATE ABOUT MY 2020 TOYOTA SUPRA!
+Sentiment Vader
+Positive sentiment : 35.08771929824561
+Negative sentiment : 26.169590643274855
+Neutral sentiment : 38.74269005847953
+Sentiment Afinn
+Positive sentiment : 28.50877192982456
+Negative sentiment : 21.49122807017544
+Neutral sentiment : 50.0
+Sentiment NRC
+anger : 0.0973397823458283
+anticipation : 0.07194679564691657
+disgust : 0.08827085852478839
+fear : 0.08101571946795647
+joy : 0.0501813784764208
+negative : 0.14268440145102781
+positive : 0.1457073760580411
+sadness : 0.08585247883917775
+surprise : 0.02720677146311971
+trust : 0.10399032648125756
+Video Number : 53 --> LOUD Exhaust For My Mclaren!!
+Sentiment Vader
+Positive sentiment : 44.48979591836735
+Negative sentiment : 15.510204081632653
+Neutral sentiment : 40.0
+Sentiment Afinn
+Positive sentiment : 35.51020408163265
+Negative sentiment : 9.387755102040817
+Neutral sentiment : 55.10204081632652
+Sentiment NRC
+anger : 0.04991394148020654
+anticipation : 0.1359724612736661
+disgust : 0.05335628227194492
+fear : 0.08089500860585198
+joy : 0.09466437177280551
+negative : 0.14974182444061962
+positive : 0.16006884681583478
+sadness : 0.04819277108433735
+surprise : 0.04475043029259897
+trust : 0.09294320137693632
+Video Number : 54 --> COMPLETE TOUR OF MY SUPERCAR COLLECTION!
+Sentiment Vader
+Positive sentiment : 37.826086956521735
+Negative sentiment : 12.173913043478262
+Neutral sentiment : 50.0
+Sentiment Afinn
+Positive sentiment : 29.891304347826086
+Negative sentiment : 8.152173913043478
+Neutral sentiment : 61.95652173913043
+Sentiment NRC
+anger : 0.04040404040404041
+anticipation : 0.12477718360071301
+disgust : 0.038027332144979206
+fear : 0.050505050505050504
+joy : 0.1140819964349376
+negative : 0.0784313725490196
+positive : 0.19726678550207963
+sadness : 0.035056446821152706
+surprise : 0.05228758169934641
+trust : 0.09269162210338681
+Video Number : 55 --> TAKING DELIVERY OF A NEW FORD GT!
+Sentiment Vader
+Positive sentiment : 60.13824884792627
+Negative sentiment : 9.56221198156682
+Neutral sentiment : 30.29953917050691
+Sentiment Afinn
+Positive sentiment : 41.244239631336406
+Negative sentiment : 8.410138248847925
+Neutral sentiment : 50.34562211981567
+Sentiment NRC
+anger : 0.029411764705882353
+anticipation : 0.1048834628190899
+disgust : 0.03496115427302997
+fear : 0.03496115427302997
+joy : 0.11098779134295228
+negative : 0.09211986681465038
+positive : 0.195338512763596
+sadness : 0.04328523862375139
+surprise : 0.04439511653718091
+trust : 0.10432852386237514
+Video Number : 56 --> MY MERCEDES E63S AMG IS BROKEN! *Here’s Why*
+Sentiment Vader
+Positive sentiment : 42.25352112676056
+Negative sentiment : 23.004694835680752
+Neutral sentiment : 34.74178403755869
+Sentiment Afinn
+Positive sentiment : 31.92488262910798
+Negative sentiment : 16.901408450704224
+Neutral sentiment : 51.173708920187785
+Sentiment NRC
+anger : 0.052521008403361345
+anticipation : 0.0819327731092437
+disgust : 0.03991596638655462
+fear : 0.07983193277310924
+joy : 0.06512605042016807
+negative : 0.11554621848739496
+positive : 0.12394957983193278
+sadness : 0.06512605042016807
+surprise : 0.031512605042016806
+trust : 0.07352941176470588
+Video Number : 57 --> FIRST DRIVE/REACTION TO MY 700HP MCLAREN 600LT *It&#39;s Too Fast*
+Sentiment Vader
+Positive sentiment : 39.523809523809526
+Negative sentiment : 17.61904761904762
+Neutral sentiment : 42.857142857142854
+Sentiment Afinn
+Positive sentiment : 30.0
+Negative sentiment : 10.476190476190476
+Neutral sentiment : 59.523809523809526
+Sentiment NRC
+anger : 0.07323943661971831
+anticipation : 0.08169014084507042
+disgust : 0.04225352112676056
+fear : 0.08732394366197183
+joy : 0.07323943661971831
+negative : 0.13802816901408452
+positive : 0.1295774647887324
+sadness : 0.04225352112676056
+surprise : 0.03380281690140845
+trust : 0.07323943661971831
+Video Number : 58 --> I FINALLY TUNED MY MCLAREN 600LT *CRAZY POWER*
+Sentiment Vader
+Positive sentiment : 43.09623430962343
+Negative sentiment : 13.389121338912133
+Neutral sentiment : 43.51464435146444
+Sentiment Afinn
+Positive sentiment : 34.72803347280335
+Negative sentiment : 7.949790794979079
+Neutral sentiment : 57.32217573221757
+Sentiment NRC
+anger : 0.05555555555555555
+anticipation : 0.10858585858585859
+disgust : 0.06060606060606061
+fear : 0.05808080808080808
+joy : 0.12626262626262627
+negative : 0.12373737373737374
+positive : 0.22474747474747475
+sadness : 0.047979797979797977
+surprise : 0.03282828282828283
+trust : 0.07575757575757576
+Video Number : 59 --> 2020 Bentley Flying Spur First Drive Review! - Better Than A Rolls Royce Ghost?
+Sentiment Vader
+Positive sentiment : 52.131147540983605
+Negative sentiment : 10.491803278688524
+Neutral sentiment : 37.37704918032787
+Sentiment Afinn
+Positive sentiment : 34.0983606557377
+Negative sentiment : 6.885245901639345
+Neutral sentiment : 59.01639344262295
+Sentiment NRC
+anger : 0.0452418096723869
+anticipation : 0.11388455538221529
+disgust : 0.0358814352574103
+fear : 0.078003120124805
+joy : 0.09516380655226209
+negative : 0.09828393135725429
+positive : 0.1856474258970359
+sadness : 0.0421216848673947
+surprise : 0.0483619344773791
+trust : 0.11388455538221529
+Video Number : 60 --> INSANE FEATURES OF THE 2020 CHARGER HELLCAT WIDEBODY!
+Sentiment Vader
+Positive sentiment : 38.70967741935484
+Negative sentiment : 12.903225806451612
+Neutral sentiment : 48.38709677419355
+Sentiment Afinn
+Positive sentiment : 30.205278592375368
+Negative sentiment : 9.970674486803519
+Neutral sentiment : 59.82404692082112
+Sentiment NRC
+anger : 0.041428571428571426
+anticipation : 0.11
+disgust : 0.04857142857142857
+fear : 0.06428571428571428
+joy : 0.07714285714285714
+negative : 0.08571428571428572
+positive : 0.19
+sadness : 0.047142857142857146
+surprise : 0.03428571428571429
+trust : 0.09
+Video Number : 61 --> FIRST DRIVE IN MY TUNED 2020 TOYOTA SUPRA! *0-60 In 3.9s!*
+Sentiment Vader
+Positive sentiment : 46.38297872340426
+Negative sentiment : 9.361702127659575
+Neutral sentiment : 44.25531914893617
+Sentiment Afinn
+Positive sentiment : 34.326241134751776
+Negative sentiment : 6.24113475177305
+Neutral sentiment : 59.43262411347517
+Sentiment NRC
+anger : 0.038135593220338986
+anticipation : 0.10663841807909605
+disgust : 0.03036723163841808
+fear : 0.04449152542372881
+joy : 0.10451977401129943
+negative : 0.09957627118644068
+positive : 0.2062146892655367
+sadness : 0.0423728813559322
+surprise : 0.04449152542372881
+trust : 0.08757062146892655
+Video Number : 62 --> I STRAIGHT PIPED MY 2020 TOYOTA SUPRA! *Way Too Loud!*
+Sentiment Vader
+Positive sentiment : 47.113884555382214
+Negative sentiment : 19.50078003120125
+Neutral sentiment : 33.38533541341654
+Sentiment Afinn
+Positive sentiment : 42.27769110764431
+Negative sentiment : 7.956318252730108
+Neutral sentiment : 49.765990639625585
+Sentiment NRC
+anger : 0.042687747035573126
+anticipation : 0.07509881422924901
+disgust : 0.04743083003952569
+fear : 0.04743083003952569
+joy : 0.06640316205533597
+negative : 0.13754940711462452
+positive : 0.14624505928853754
+sadness : 0.043478260869565216
+surprise : 0.04426877470355731
+trust : 0.08142292490118577
+Video Number : 63 --> INSANE Features Of The 2020 Bentley Flying Spur!
+Sentiment Vader
+Positive sentiment : 29.967689822294023
+Negative sentiment : 9.8546042003231
+Neutral sentiment : 60.17770597738288
+Sentiment Afinn
+Positive sentiment : 24.232633279483036
+Negative sentiment : 7.189014539579968
+Neutral sentiment : 68.578352180937
+Sentiment NRC
+anger : 0.02769110764430577
+anticipation : 0.05811232449297972
+disgust : 0.03627145085803432
+fear : 0.02613104524180967
+joy : 0.09633385335413416
+negative : 0.09828393135725429
+positive : 0.18876755070202808
+sadness : 0.13455538221528862
+surprise : 0.01794071762870515
+trust : 0.1060842433697348
+Video Number : 64 --> 2019 Porsche GT2RS Review - The Best 911 Ever?
+Sentiment Vader
+Positive sentiment : 52.77777777777778
+Negative sentiment : 25.0
+Neutral sentiment : 22.22222222222222
+Sentiment Afinn
+Positive sentiment : 45.98765432098765
+Negative sentiment : 16.666666666666664
+Neutral sentiment : 37.34567901234568
+Sentiment NRC
+anger : 0.06577181208053691
+anticipation : 0.1610738255033557
+disgust : 0.07114093959731543
+fear : 0.12080536912751678
+joy : 0.11006711409395974
+negative : 0.1261744966442953
+positive : 0.20536912751677852
+sadness : 0.06040268456375839
+surprise : 0.038926174496644296
+trust : 0.08993288590604027
+Video Number : 65 --> TAKING DELIVERY OF MY 2020 TOYOTA SUPRA!
+Sentiment Vader
+Positive sentiment : 44.617467840216655
+Negative sentiment : 14.353419092755585
+Neutral sentiment : 41.02911306702776
+Sentiment Afinn
+Positive sentiment : 31.82125930941097
+Negative sentiment : 9.20785375761679
+Neutral sentiment : 58.97088693297224
+Sentiment NRC
+anger : 0.04872611464968153
+anticipation : 0.10222929936305733
+disgust : 0.04936305732484077
+fear : 0.04904458598726115
+joy : 0.08471337579617834
+negative : 0.1070063694267516
+positive : 0.1735668789808917
+sadness : 0.06656050955414013
+surprise : 0.056687898089171976
+trust : 0.08885350318471337
+Video Number : 66 --> FINALLY REPLACING MY E63! *You&#39;ll Never Guess The Car*
+Sentiment Vader
+Positive sentiment : 28.066666666666666
+Negative sentiment : 6.4
+Neutral sentiment : 65.53333333333333
+Sentiment Afinn
+Positive sentiment : 18.666666666666668
+Negative sentiment : 3.933333333333333
+Neutral sentiment : 77.4
+Sentiment NRC
+anger : 0.039623908663532575
+anticipation : 0.12088650100738751
+disgust : 0.040295500335795834
+fear : 0.04768300873069174
+joy : 0.10946944257891202
+negative : 0.08126259234385494
+positive : 0.20349227669576897
+sadness : 0.041638683680322364
+surprise : 0.05842847548690396
+trust : 0.12088650100738751
+Video Number : 67 --> I RACED MY RARE FERRARI ON NETFLIX
+Sentiment Vader
+Positive sentiment : 43.247126436781606
+Negative sentiment : 15.660919540229884
+Neutral sentiment : 41.09195402298851
+Sentiment Afinn
+Positive sentiment : 35.05747126436782
+Negative sentiment : 14.224137931034484
+Neutral sentiment : 50.7183908045977
+Sentiment NRC
+anger : 0.04399524375743163
+anticipation : 0.19143876337693222
+disgust : 0.04399524375743163
+fear : 0.11533888228299644
+joy : 0.089179548156956
+negative : 0.10404280618311534
+positive : 0.17360285374554102
+sadness : 0.06599286563614744
+surprise : 0.0469678953626635
+trust : 0.10523186682520809
+Video Number : 68 --> WE ACTUALLY RAIDED AREA 51 *Cops Everywhere*
+Sentiment Vader
+Positive sentiment : 40.275650842266465
+Negative sentiment : 16.69218989280245
+Neutral sentiment : 43.03215926493109
+Sentiment Afinn
+Positive sentiment : 31.546707503828486
+Negative sentiment : 12.098009188361408
+Neutral sentiment : 56.35528330781011
+Sentiment NRC
+anger : 0.07594038325053229
+anticipation : 0.10716820440028389
+disgust : 0.1022001419446416
+fear : 0.15259048970901348
+joy : 0.07806955287437899
+negative : 0.1980127750177431
+positive : 0.17388218594748048
+sadness : 0.05535841022001419
+surprise : 0.057487579843860895
+trust : 0.1185237757274663
+Video Number : 69 --> 865WHP MCLAREN 600LT DESTROYS 720S *Time To Mod My Car!*
+Sentiment Vader
+Positive sentiment : 45.51971326164875
+Negative sentiment : 18.63799283154122
+Neutral sentiment : 35.842293906810035
+Sentiment Afinn
+Positive sentiment : 29.39068100358423
+Negative sentiment : 13.620071684587815
+Neutral sentiment : 56.98924731182796
+Sentiment NRC
+anger : 0.04931972789115646
+anticipation : 0.11054421768707483
+disgust : 0.04931972789115646
+fear : 0.04931972789115646
+joy : 0.10374149659863946
+negative : 0.11564625850340136
+positive : 0.17687074829931973
+sadness : 0.05782312925170068
+surprise : 0.04251700680272109
+trust : 0.09523809523809523
+Video Number : 70 --> 2020 Mclaren GT First Drive Review! - A Supercar More Comfortable Than A Mercedes!
+Sentiment Vader
+Positive sentiment : 62.757201646090536
+Negative sentiment : 10.905349794238683
+Neutral sentiment : 26.337448559670783
+Sentiment Afinn
+Positive sentiment : 50.20576131687243
+Negative sentiment : 7.4074074074074066
+Neutral sentiment : 42.38683127572017
+Sentiment NRC
+anger : 0.03353057199211045
+anticipation : 0.13609467455621302
+disgust : 0.054240631163708086
+fear : 0.046351084812623275
+joy : 0.1242603550295858
+negative : 0.08481262327416174
+positive : 0.2564102564102564
+sadness : 0.04339250493096647
+surprise : 0.05719921104536489
+trust : 0.14990138067061143
+Video Number : 71 --> INSIDE A $250 MILLION MANSION IN ST TROPEZ!
+Sentiment Vader
+Positive sentiment : 57.24137931034483
+Negative sentiment : 10.344827586206897
+Neutral sentiment : 32.41379310344827
+Sentiment Afinn
+Positive sentiment : 41.724137931034484
+Negative sentiment : 7.931034482758621
+Neutral sentiment : 50.3448275862069
+Sentiment NRC
+anger : 0.03605015673981191
+anticipation : 0.10815047021943573
+disgust : 0.048589341692789965
+fear : 0.04075235109717868
+joy : 0.1238244514106583
+negative : 0.10188087774294671
+positive : 0.22100313479623823
+sadness : 0.05329153605015674
+surprise : 0.048589341692789965
+trust : 0.0877742946708464
+Video Number : 72 --> MEET THE CRAZY $3 MILLION LAMBORGHINI SIAN THAT WAS BUILT WITH MIT!
+Sentiment Vader
+Positive sentiment : 40.0
+Negative sentiment : 15.11111111111111
+Neutral sentiment : 44.888888888888886
+Sentiment Afinn
+Positive sentiment : 32.88888888888889
+Negative sentiment : 12.88888888888889
+Neutral sentiment : 54.22222222222223
+Sentiment NRC
+anger : 0.04426559356136821
+anticipation : 0.096579476861167
+disgust : 0.05030181086519115
+fear : 0.05030181086519115
+joy : 0.06639839034205232
+negative : 0.12877263581488935
+positive : 0.14084507042253522
+sadness : 0.06639839034205232
+surprise : 0.028169014084507043
+trust : 0.09456740442655935
+Video Number : 73 --> BUGATTI CHIRON 304MPH WORLD RECORD DOESN&#39;T COUNT?!
+Sentiment Vader
+Positive sentiment : 46.788990825688074
+Negative sentiment : 13.302752293577983
+Neutral sentiment : 39.908256880733944
+Sentiment Afinn
+Positive sentiment : 36.69724770642202
+Negative sentiment : 9.174311926605505
+Neutral sentiment : 54.12844036697248
+Sentiment NRC
+anger : 0.036653386454183264
+anticipation : 0.07250996015936255
+disgust : 0.035856573705179286
+fear : 0.04780876494023904
+joy : 0.06454183266932272
+negative : 0.07091633466135458
+positive : 0.20637450199203186
+sadness : 0.034262948207171316
+surprise : 0.027888446215139442
+trust : 0.1394422310756972
+Video Number : 74 --> THE HENNESSEY VENOM GT IS INSANE *270MPH*
+Sentiment Vader
+Positive sentiment : 41.55844155844156
+Negative sentiment : 14.935064935064934
+Neutral sentiment : 43.506493506493506
+Sentiment Afinn
+Positive sentiment : 32.142857142857146
+Negative sentiment : 9.090909090909092
+Neutral sentiment : 58.76623376623377
+Sentiment NRC
+anger : 0.10241820768136557
+anticipation : 0.10099573257467995
+disgust : 0.10241820768136557
+fear : 0.11948790896159317
+joy : 0.05547652916073969
+negative : 0.16927453769559034
+positive : 0.15362731152204837
+sadness : 0.034139402560455195
+surprise : 0.025604551920341393
+trust : 0.06827880512091039
+Video Number : 75 --> RARE 800HP LAMBORGHINI WITH A $1 MILLION DOLLAR CAMERA ATTACHED!
+Sentiment Vader
+Positive sentiment : 55.5052790346908
+Negative sentiment : 9.95475113122172
+Neutral sentiment : 34.53996983408748
+Sentiment Afinn
+Positive sentiment : 41.32730015082956
+Negative sentiment : 6.93815987933635
+Neutral sentiment : 51.734539969834096
+Sentiment NRC
+anger : 0.05025996533795494
+anticipation : 0.1386481802426343
+disgust : 0.038128249566724434
+fear : 0.05719237435008666
+joy : 0.15164644714038128
+negative : 0.12998266897746968
+positive : 0.23050259965337955
+sadness : 0.04592720970537262
+surprise : 0.05719237435008666
+trust : 0.12478336221837089
+Video Number : 76 --> MEET THE $9 MILLION BUGATTI CENTODIECI - THE FASTEST BUGATTI EVER!
+Sentiment Vader
+Positive sentiment : 39.34426229508197
+Negative sentiment : 11.475409836065573
+Neutral sentiment : 49.18032786885246
+Sentiment Afinn
+Positive sentiment : 30.87431693989071
+Negative sentiment : 7.923497267759563
+Neutral sentiment : 61.20218579234973
+Sentiment NRC
+anger : 0.05246422893481717
+anticipation : 0.10651828298887123
+disgust : 0.04292527821939587
+fear : 0.05087440381558029
+joy : 0.10492845786963434
+negative : 0.10015898251192369
+positive : 0.1987281399046105
+sadness : 0.04292527821939587
+surprise : 0.04451510333863275
+trust : 0.10492845786963434
+Video Number : 77 --> I FINALLY DRIVE A MCLAREN P1 - MY NEW $2 MILLION DREAM CAR!
+Sentiment Vader
+Positive sentiment : 51.32275132275132
+Negative sentiment : 13.492063492063492
+Neutral sentiment : 35.18518518518518
+Sentiment Afinn
+Positive sentiment : 35.978835978835974
+Negative sentiment : 9.25925925925926
+Neutral sentiment : 54.761904761904766
+Sentiment NRC
+anger : 0.03694267515923567
+anticipation : 0.09936305732484077
+disgust : 0.044585987261146494
+fear : 0.03821656050955414
+joy : 0.09426751592356689
+negative : 0.07133757961783439
+positive : 0.18853503184713377
+sadness : 0.050955414012738856
+surprise : 0.02802547770700637
+trust : 0.07643312101910828
+Video Number : 78 --> COCKY MCLAREN DESTROYED BY TWIN TURBO LAMBORGHINI!
+Sentiment Vader
+Positive sentiment : 37.30569948186528
+Negative sentiment : 18.134715025906736
+Neutral sentiment : 44.559585492227974
+Sentiment Afinn
+Positive sentiment : 30.05181347150259
+Negative sentiment : 12.694300518134716
+Neutral sentiment : 57.2538860103627
+Sentiment NRC
+anger : 0.05112781954887218
+anticipation : 0.0887218045112782
+disgust : 0.058646616541353384
+fear : 0.05714285714285714
+joy : 0.10827067669172932
+negative : 0.15338345864661654
+positive : 0.21503759398496242
+sadness : 0.08571428571428572
+surprise : 0.02857142857142857
+trust : 0.0887218045112782
+Video Number : 79 --> SWAPPING MY MCLAREN FOR A FORD GT!
+Sentiment Vader
+Positive sentiment : 55.970149253731336
+Negative sentiment : 12.189054726368159
+Neutral sentiment : 31.8407960199005
+Sentiment Afinn
+Positive sentiment : 40.049751243781095
+Negative sentiment : 11.691542288557214
+Neutral sentiment : 48.258706467661696
+Sentiment NRC
+anger : 0.04314159292035398
+anticipation : 0.13163716814159293
+disgust : 0.03650442477876106
+fear : 0.09292035398230089
+joy : 0.10176991150442478
+negative : 0.1084070796460177
+positive : 0.17035398230088494
+sadness : 0.04424778761061947
+surprise : 0.059734513274336286
+trust : 0.11836283185840708
+Video Number : 80 --> LOUD PAGANI DESTROYS FERRARI LAFERRARI!
+Sentiment Vader
+Positive sentiment : 41.561181434599156
+Negative sentiment : 17.932489451476794
+Neutral sentiment : 40.50632911392405
+Sentiment Afinn
+Positive sentiment : 30.37974683544304
+Negative sentiment : 12.658227848101266
+Neutral sentiment : 56.9620253164557
+Sentiment NRC
+anger : 0.055229142185663924
+anticipation : 0.0881316098707403
+disgust : 0.05170387779083431
+fear : 0.04935370152761457
+joy : 0.09400705052878966
+negative : 0.11515863689776733
+positive : 0.1762632197414806
+sadness : 0.0681551116333725
+surprise : 0.04465334900117509
+trust : 0.10810810810810811
+Video Number : 81 --> BMW M3 HEAD TO HEAD REVIEW! F80 Vs E92 - Is The V8 Still King?
+Sentiment Vader
+Positive sentiment : 53.72050816696915
+Negative sentiment : 15.063520871143377
+Neutral sentiment : 31.21597096188748
+Sentiment Afinn
+Positive sentiment : 44.283121597096184
+Negative sentiment : 8.348457350272232
+Neutral sentiment : 47.368421052631575
+Sentiment NRC
+anger : 0.04241948153967007
+anticipation : 0.0840534171249018
+disgust : 0.0384917517674784
+fear : 0.05263157894736842
+joy : 0.0997643362136685
+negative : 0.12175962293794187
+positive : 0.18774548311076197
+sadness : 0.04320502749410841
+surprise : 0.04320502749410841
+trust : 0.10840534171249018
+Video Number : 82 --> 2020 BMW M850i Review - Better Than An S-Class Coupe?
+Sentiment Vader
+Positive sentiment : 43.27272727272727
+Negative sentiment : 15.636363636363637
+Neutral sentiment : 41.090909090909086
+Sentiment Afinn
+Positive sentiment : 36.0
+Negative sentiment : 12.0
+Neutral sentiment : 52.0
+Sentiment NRC
+anger : 0.06423357664233577
+anticipation : 0.08613138686131387
+disgust : 0.072992700729927
+fear : 0.049635036496350364
+joy : 0.04817518248175182
+negative : 0.11532846715328467
+positive : 0.16934306569343066
+sadness : 0.05401459854014599
+surprise : 0.0364963503649635
+trust : 0.0905109489051095
+Video Number : 83 --> GIRLS REACT TO MCLAREN 720S LAUNCH *HILARIOUS*
+Sentiment Vader
+Positive sentiment : 45.892351274787536
+Negative sentiment : 18.413597733711047
+Neutral sentiment : 35.69405099150141
+Sentiment Afinn
+Positive sentiment : 35.41076487252124
+Negative sentiment : 15.58073654390935
+Neutral sentiment : 49.008498583569406
+Sentiment NRC
+anger : 0.10043668122270742
+anticipation : 0.13537117903930132
+disgust : 0.08442503639010189
+fear : 0.06986899563318777
+joy : 0.11499272197962154
+negative : 0.1470160116448326
+positive : 0.21251819505094613
+sadness : 0.039301310043668124
+surprise : 0.049490538573508006
+trust : 0.0975254730713246
+Video Number : 84 --> 2020 LAMBORGHINI HURACAN EVO REVIEW - Better Than A Performante?
+Sentiment Vader
+Positive sentiment : 37.20472440944882
+Negative sentiment : 11.811023622047244
+Neutral sentiment : 50.98425196850393
+Sentiment Afinn
+Positive sentiment : 28.937007874015748
+Negative sentiment : 7.480314960629922
+Neutral sentiment : 63.582677165354326
+Sentiment NRC
+anger : 0.03870967741935484
+anticipation : 0.08817204301075268
+disgust : 0.04086021505376344
+fear : 0.04086021505376344
+joy : 0.07096774193548387
+negative : 0.0956989247311828
+positive : 0.14731182795698924
+sadness : 0.043010752688172046
+surprise : 0.025806451612903226
+trust : 0.09247311827956989
+Video Number : 85 --> MEET THE $1.4 MILLION SENNA GTR! *DREAM CAR*
+Sentiment Vader
+Positive sentiment : 44.6215139442231
+Negative sentiment : 16.334661354581673
+Neutral sentiment : 39.04382470119522
+Sentiment Afinn
+Positive sentiment : 32.669322709163346
+Negative sentiment : 10.756972111553784
+Neutral sentiment : 56.573705179282875
+Sentiment NRC
+anger : 0.06561085972850679
+anticipation : 0.09502262443438914
+disgust : 0.058823529411764705
+fear : 0.06787330316742081
+joy : 0.08823529411764706
+negative : 0.1244343891402715
+positive : 0.17647058823529413
+sadness : 0.05203619909502263
+surprise : 0.05656108597285068
+trust : 0.10180995475113122
+Video Number : 86 --> MEET THE FASTEST HYPERCAR EVER MADE! *RIP KOENIGSEGG*
+Sentiment Vader
+Positive sentiment : 43.26424870466321
+Negative sentiment : 14.507772020725387
+Neutral sentiment : 42.2279792746114
+Sentiment Afinn
+Positive sentiment : 33.41968911917099
+Negative sentiment : 13.989637305699482
+Neutral sentiment : 52.59067357512953
+Sentiment NRC
+anger : 0.040667361835245046
+anticipation : 0.10218978102189781
+disgust : 0.045881126173096975
+fear : 0.05943691345151199
+joy : 0.07507820646506778
+negative : 0.11783107403545359
+positive : 0.2064650677789364
+sadness : 0.03128258602711158
+surprise : 0.02502606882168926
+trust : 0.12825860271115747
+Video Number : 87 --> MY NEW SUPERCAR FOR THE NEXT TWO MONTHS!
+Sentiment Vader
+Positive sentiment : 32.88530465949821
+Negative sentiment : 19.982078853046595
+Neutral sentiment : 47.132616487455195
+Sentiment Afinn
+Positive sentiment : 25.627240143369175
+Negative sentiment : 18.189964157706093
+Neutral sentiment : 56.18279569892473
+Sentiment NRC
+anger : 0.043596730245231606
+anticipation : 0.11035422343324251
+disgust : 0.04677565849227974
+fear : 0.06357856494096276
+joy : 0.0681198910081744
+negative : 0.10354223433242507
+positive : 0.14259763851044505
+sadness : 0.055404178019981834
+surprise : 0.04677565849227974
+trust : 0.07538601271571299
+Video Number : 88 --> NOT TAKING DELIVERY OF A &#39;19 FORD GT AT AGE 24!
+Sentiment Vader
+Positive sentiment : 44.41087613293052
+Negative sentiment : 10.574018126888216
+Neutral sentiment : 45.01510574018127
+Sentiment Afinn
+Positive sentiment : 29.003021148036257
+Negative sentiment : 7.250755287009064
+Neutral sentiment : 63.74622356495468
+Sentiment NRC
+anger : 0.025477707006369428
+anticipation : 0.09713375796178345
+disgust : 0.025477707006369428
+fear : 0.044585987261146494
+joy : 0.08121019108280254
+negative : 0.09235668789808917
+positive : 0.14171974522292993
+sadness : 0.03503184713375796
+surprise : 0.03821656050955414
+trust : 0.11942675159235669
+Video Number : 89 --> HERE’S WHY THE $200,000 MCLAREN GT IS AMAZING
+Sentiment Vader
+Positive sentiment : 48.963317384370015
+Negative sentiment : 11.004784688995215
+Neutral sentiment : 40.03189792663477
+Sentiment Afinn
+Positive sentiment : 33.49282296650718
+Negative sentiment : 8.133971291866029
+Neutral sentiment : 58.3732057416268
+Sentiment NRC
+anger : 0.03577106518282989
+anticipation : 0.07790143084260731
+disgust : 0.04848966613672496
+fear : 0.033386327503974564
+joy : 0.06677265500794913
+negative : 0.09379968203497616
+positive : 0.1383147853736089
+sadness : 0.03259141494435612
+surprise : 0.037360890302066775
+trust : 0.08744038155802862
+Video Number : 90 --> LETTING MY SISTER DRIVE MY MCLAREN 600LT!!
+Sentiment Vader
+Positive sentiment : 52.85481239804242
+Negative sentiment : 14.02936378466558
+Neutral sentiment : 33.115823817292004
+Sentiment Afinn
+Positive sentiment : 41.109298531810765
+Negative sentiment : 11.256117455138662
+Neutral sentiment : 47.63458401305057
+Sentiment NRC
+anger : 0.056461001164144355
+anticipation : 0.09371362048894064
+disgust : 0.03958090803259604
+fear : 0.06519208381839348
+joy : 0.09487776484284051
+negative : 0.1140861466821886
+positive : 0.17112922002328287
+sadness : 0.04074505238649592
+surprise : 0.050058207217694994
+trust : 0.08847497089639116
+Video Number : 91 --> MY AVENTADOR SVJ IS HERE!
+Sentiment Vader
+Positive sentiment : 34.029227557411275
+Negative sentiment : 20.041753653444676
+Neutral sentiment : 45.92901878914405
+Sentiment Afinn
+Positive sentiment : 27.766179540709814
+Negative sentiment : 14.718162839248434
+Neutral sentiment : 57.51565762004175
+Sentiment NRC
+anger : 0.04609331084879146
+anticipation : 0.09162450815064643
+disgust : 0.04103428892636313
+fear : 0.0713884204609331
+joy : 0.0657672849915683
+negative : 0.17088251826869028
+positive : 0.1433389544688027
+sadness : 0.07419898819561552
+surprise : 0.03035413153456998
+trust : 0.09274873524451939
+Video Number : 92 --> DRIVING A FORD GT40 - THE MOST LEGENDARY RACECAR OF ALL TIME
+Sentiment Vader
+Positive sentiment : 48.38012958963283
+Negative sentiment : 13.174946004319654
+Neutral sentiment : 38.44492440604751
+Sentiment Afinn
+Positive sentiment : 36.285097192224626
+Negative sentiment : 9.935205183585314
+Neutral sentiment : 53.77969762419006
+Sentiment NRC
+anger : 0.05335489086499596
+anticipation : 0.10024252223120453
+disgust : 0.04203718674211803
+fear : 0.05739692805173808
+joy : 0.08488278092158448
+negative : 0.08649959579628133
+positive : 0.19805982215036377
+sadness : 0.03799514955537591
+surprise : 0.04042037186742118
+trust : 0.07518189167340339
+Video Number : 93 --> TAKING DELIVERY OF A NEW LAMBORGHINI URUS!!
+Sentiment Vader
+Positive sentiment : 37.05357142857143
+Negative sentiment : 13.660714285714285
+Neutral sentiment : 49.28571428571429
+Sentiment Afinn
+Positive sentiment : 26.25
+Negative sentiment : 9.910714285714285
+Neutral sentiment : 63.83928571428571
+Sentiment NRC
+anger : 0.03955135773317592
+anticipation : 0.07733175914994096
+disgust : 0.047815820543093274
+fear : 0.048996458087367176
+joy : 0.07319952774498228
+negative : 0.11097992916174734
+positive : 0.1552538370720189
+sadness : 0.047225501770956316
+surprise : 0.04250295159386069
+trust : 0.08618654073199528
+Video Number : 94 --> THE NEW 1000HP FERRARI SF90 WILL KILL BUGATTI!
+Sentiment Vader
+Positive sentiment : 32.58293838862559
+Negative sentiment : 15.52132701421801
+Neutral sentiment : 51.8957345971564
+Sentiment Afinn
+Positive sentiment : 28.436018957345972
+Negative sentiment : 8.175355450236967
+Neutral sentiment : 63.38862559241706
+Sentiment NRC
+anger : 0.036924939467312345
+anticipation : 0.09443099273607748
+disgust : 0.04963680387409201
+fear : 0.05205811138014528
+joy : 0.0841404358353511
+negative : 0.10714285714285714
+positive : 0.17433414043583534
+sadness : 0.044794188861985475
+surprise : 0.04055690072639225
+trust : 0.10956416464891042
+Video Number : 95 --> This OLD Corvette DESTROYS Supercars!!!
+Sentiment Vader
+Positive sentiment : 55.0682261208577
+Negative sentiment : 11.890838206627679
+Neutral sentiment : 33.04093567251462
+Sentiment Afinn
+Positive sentiment : 43.27485380116959
+Negative sentiment : 8.382066276803119
+Neutral sentiment : 48.343079922027286
+Sentiment NRC
+anger : 0.0425531914893617
+anticipation : 0.08730741012472487
+disgust : 0.03778429933969186
+fear : 0.05575935436537051
+joy : 0.09427732942039618
+negative : 0.08033749082905356
+positive : 0.19442406456346295
+sadness : 0.036683785766691124
+surprise : 0.04475421863536317
+trust : 0.08914159941305942
+Video Number : 96 --> 5 Things I HATE About My Mclaren 600LT
+Sentiment Vader
+Positive sentiment : 32.95454545454545
+Negative sentiment : 25.649350649350648
+Neutral sentiment : 41.396103896103895
+Sentiment Afinn
+Positive sentiment : 26.2987012987013
+Negative sentiment : 20.454545454545457
+Neutral sentiment : 53.246753246753244
+Sentiment NRC
+anger : 0.08653846153846154
+anticipation : 0.07992788461538461
+disgust : 0.07752403846153846
+fear : 0.10817307692307693
+joy : 0.05709134615384615
+negative : 0.16766826923076922
+positive : 0.11598557692307693
+sadness : 0.11358173076923077
+surprise : 0.026442307692307692
+trust : 0.06490384615384616
+Video Number : 97 --> FINALLY REUNITING WITH DAILYDRIVENEXOTICS!
+Sentiment Vader
+Positive sentiment : 43.993506493506494
+Negative sentiment : 10.714285714285714
+Neutral sentiment : 45.2922077922078
+Sentiment Afinn
+Positive sentiment : 33.76623376623377
+Negative sentiment : 8.116883116883116
+Neutral sentiment : 58.11688311688312
+Sentiment NRC
+anger : 0.052899287894201424
+anticipation : 0.12614445574771108
+disgust : 0.04170905391658189
+fear : 0.06307222787385554
+joy : 0.11393692777212615
+negative : 0.11800610376398779
+positive : 0.19328585961342828
+sadness : 0.052899287894201424
+surprise : 0.0508646998982706
+trust : 0.09562563580874874
+Video Number : 98 --> TOP 5 BUDGET SUPERCARS UNDER $100,000! *Affordable Exotics*
+Sentiment Vader
+Positive sentiment : 47.51243781094527
+Negative sentiment : 11.194029850746269
+Neutral sentiment : 41.29353233830846
+Sentiment Afinn
+Positive sentiment : 40.049751243781095
+Negative sentiment : 7.711442786069651
+Neutral sentiment : 52.23880597014925
+Sentiment NRC
+anger : 0.03754693366708386
+anticipation : 0.10012515644555695
+disgust : 0.025031289111389236
+fear : 0.0425531914893617
+joy : 0.10638297872340426
+negative : 0.09011264080100125
+positive : 0.2428035043804756
+sadness : 0.03128911138923655
+surprise : 0.056320400500625784
+trust : 0.14518147684605756
+Video Number : 99 --> REPLACING MY E63S AMG WITH A MCLAREN GT
+Sentiment Vader
+Positive sentiment : 45.87301587301587
+Negative sentiment : 11.904761904761903
+Neutral sentiment : 42.22222222222222
+Sentiment Afinn
+Positive sentiment : 30.793650793650794
+Negative sentiment : 11.26984126984127
+Neutral sentiment : 57.936507936507944
+Sentiment NRC
+anger : 0.04961020552799433
+anticipation : 0.07512402551381998
+disgust : 0.041814316087880936
+fear : 0.05457122608079376
+joy : 0.06449326718639263
+negative : 0.1034727143869596
+positive : 0.14599574769666904
+sadness : 0.05386250885896527
+surprise : 0.03118355776045358
+trust : 0.09000708717221828
+Video Number : 100 --> RACING A FERRARI 488 IN MY MCLAREN 600LT! *shocking results*
+Sentiment Vader
+Positive sentiment : 41.99066874027994
+Negative sentiment : 16.174183514774494
+Neutral sentiment : 41.835147744945566
+Sentiment Afinn
+Positive sentiment : 26.749611197511662
+Negative sentiment : 16.174183514774494
+Neutral sentiment : 57.07620528771385
+Sentiment NRC
+anger : 0.03644501278772379
+anticipation : 0.09910485933503836
+disgust : 0.03388746803069054
+fear : 0.05051150895140665
+joy : 0.04475703324808184
+negative : 0.08631713554987212
+positive : 0.1323529411764706
+sadness : 0.04283887468030691
+surprise : 0.026854219948849106
+trust : 0.061381074168797956
+Video Number : 101 --> WHY I HATE THE $225,000 MERCEDES G65 AMG
+Sentiment Vader
+Positive sentiment : 43.35260115606936
+Negative sentiment : 18.20809248554913
+Neutral sentiment : 38.4393063583815
+Sentiment Afinn
+Positive sentiment : 34.104046242774565
+Negative sentiment : 15.028901734104046
+Neutral sentiment : 50.86705202312138
+Sentiment NRC
+anger : 0.08653846153846154
+anticipation : 0.078125
+disgust : 0.0829326923076923
+fear : 0.08173076923076923
+joy : 0.06610576923076923
+negative : 0.12379807692307693
+positive : 0.16105769230769232
+sadness : 0.07932692307692307
+surprise : 0.03125
+trust : 0.0889423076923077
+Video Number : 102 --> 700HP MERCEDES E63S AMG VS HELLCAT ON SLICKS!
+Sentiment Vader
+Positive sentiment : 44.62242562929062
+Negative sentiment : 16.704805491990847
+Neutral sentiment : 38.672768878718536
+Sentiment Afinn
+Positive sentiment : 36.84210526315789
+Negative sentiment : 14.187643020594965
+Neutral sentiment : 48.970251716247134
+Sentiment NRC
+anger : 0.04573170731707317
+anticipation : 0.10467479674796748
+disgust : 0.042682926829268296
+fear : 0.06097560975609756
+joy : 0.09247967479674797
+negative : 0.1209349593495935
+positive : 0.17276422764227642
+sadness : 0.08434959349593496
+surprise : 0.022357723577235773
+trust : 0.07317073170731707
+Video Number : 103 --> MY MCLAREN 600LT IS AS FAST AS A BUGATTI!!!
+Sentiment Vader
+Positive sentiment : 28.49462365591398
+Negative sentiment : 9.67741935483871
+Neutral sentiment : 61.82795698924731
+Sentiment Afinn
+Positive sentiment : 21.908602150537636
+Negative sentiment : 7.258064516129033
+Neutral sentiment : 70.83333333333334
+Sentiment NRC
+anger : 0.05258215962441314
+anticipation : 0.11643192488262911
+disgust : 0.04976525821596244
+fear : 0.06948356807511737
+joy : 0.0835680751173709
+negative : 0.11173708920187793
+positive : 0.1755868544600939
+sadness : 0.048826291079812206
+surprise : 0.05539906103286385
+trust : 0.09577464788732394
+Video Number : 104 --> What It&#39;s Like To Drive A 2019 Porsche Panamera Turbo S E-Hybrid! (POV)
+Sentiment Vader
+Positive sentiment : 50.0
+Negative sentiment : 8.433734939759036
+Neutral sentiment : 41.566265060240966
+Sentiment Afinn
+Positive sentiment : 41.566265060240966
+Negative sentiment : 4.819277108433735
+Neutral sentiment : 53.6144578313253
+Sentiment NRC
+anger : 0.03591160220994475
+anticipation : 0.07734806629834254
+disgust : 0.04143646408839779
+fear : 0.04143646408839779
+joy : 0.08839779005524862
+negative : 0.09116022099447514
+positive : 0.17403314917127072
+sadness : 0.04696132596685083
+surprise : 0.022099447513812154
+trust : 0.07734806629834254
+Video Number : 105 --> TAKING DELIVERY OF THE MOST EXPENSIVE BMW M3 IN THE US!
+Sentiment Vader
+Positive sentiment : 37.13298791018998
+Negative sentiment : 14.162348877374784
+Neutral sentiment : 48.704663212435236
+Sentiment Afinn
+Positive sentiment : 28.324697754749568
+Negative sentiment : 8.808290155440414
+Neutral sentiment : 62.86701208981002
+Sentiment NRC
+anger : 0.04276985743380855
+anticipation : 0.08655804480651731
+disgust : 0.05091649694501019
+fear : 0.04175152749490835
+joy : 0.0855397148676171
+negative : 0.10081466395112017
+positive : 0.17718940936863545
+sadness : 0.045824847250509164
+surprise : 0.03665987780040733
+trust : 0.0835030549898167
+Video Number : 106 --> 10 INSANE Features Of The Porsche Panamera Turbo S E-Hybrid Sport Turismo
+Sentiment Vader
+Positive sentiment : 40.12539184952978
+Negative sentiment : 12.852664576802509
+Neutral sentiment : 47.02194357366771
+Sentiment Afinn
+Positive sentiment : 30.721003134796238
+Negative sentiment : 7.523510971786834
+Neutral sentiment : 61.75548589341693
+Sentiment NRC
+anger : 0.05112781954887218
+anticipation : 0.06917293233082707
+disgust : 0.02556390977443609
+fear : 0.045112781954887216
+joy : 0.06466165413533835
+negative : 0.09022556390977443
+positive : 0.14285714285714285
+sadness : 0.03759398496240601
+surprise : 0.03458646616541353
+trust : 0.07067669172932331
+Video Number : 107 --> DRIVING A MCLAREN THROUGH BEVERLY HILLS *Funny Reactions*
+Sentiment Vader
+Positive sentiment : 44.927536231884055
+Negative sentiment : 15.03623188405797
+Neutral sentiment : 40.03623188405797
+Sentiment Afinn
+Positive sentiment : 33.15217391304348
+Negative sentiment : 10.326086956521738
+Neutral sentiment : 56.52173913043478
+Sentiment NRC
+anger : 0.04591265397536394
+anticipation : 0.09182530795072788
+disgust : 0.03807390817469205
+fear : 0.06382978723404255
+joy : 0.11086226203807391
+negative : 0.11646136618141098
+positive : 0.1702127659574468
+sadness : 0.05823068309070549
+surprise : 0.043673012318029114
+trust : 0.09070548712206047
+Video Number : 108 --> Lotus Evora 400 Review - A Ferrari For $100,000?
+Sentiment Vader
+Positive sentiment : 47.66146993318486
+Negative sentiment : 9.35412026726058
+Neutral sentiment : 42.98440979955457
+Sentiment Afinn
+Positive sentiment : 41.87082405345212
+Negative sentiment : 4.67706013363029
+Neutral sentiment : 53.4521158129176
+Sentiment NRC
+anger : 0.04456824512534819
+anticipation : 0.11327762302692665
+disgust : 0.04735376044568245
+fear : 0.04271123491179202
+joy : 0.09935004642525534
+negative : 0.10120705663881151
+positive : 0.18662952646239556
+sadness : 0.031569173630454965
+surprise : 0.04828226555246054
+trust : 0.12256267409470752
+Video Number : 109 --> IS THE 2019 VW JETTA GLI A LEGITIMATE SPORTS CAR?!
+Sentiment Vader
+Positive sentiment : 49.53846153846154
+Negative sentiment : 15.384615384615385
+Neutral sentiment : 35.07692307692308
+Sentiment Afinn
+Positive sentiment : 42.769230769230774
+Negative sentiment : 6.153846153846154
+Neutral sentiment : 51.07692307692307
+Sentiment NRC
+anger : 0.03427172582619339
+anticipation : 0.10403916768665851
+disgust : 0.030599755201958383
+fear : 0.056303549571603426
+joy : 0.11505507955936352
+negative : 0.06487148102815178
+positive : 0.20563035495716034
+sadness : 0.033047735618115054
+surprise : 0.046511627906976744
+trust : 0.11015911872705018
+Video Number : 110 --> LEXUS LFA REVIEW - WHY ITS A BARGAIN AT $400,000!
+Sentiment Vader
+Positive sentiment : 47.32142857142857
+Negative sentiment : 11.011904761904761
+Neutral sentiment : 41.66666666666667
+Sentiment Afinn
+Positive sentiment : 41.66666666666667
+Negative sentiment : 5.357142857142857
+Neutral sentiment : 52.976190476190474
+Sentiment NRC
+anger : 0.023622047244094488
+anticipation : 0.09186351706036745
+disgust : 0.028871391076115485
+fear : 0.03280839895013123
+joy : 0.10236220472440945
+negative : 0.08136482939632546
+positive : 0.2020997375328084
+sadness : 0.048556430446194225
+surprise : 0.03412073490813648
+trust : 0.10498687664041995
+Video Number : 111 --> BUGATTI CHIRON FIRST DRIVE REVIEW! WORTH $4 MILLION?
+Sentiment Vader
+Positive sentiment : 41.98473282442748
+Negative sentiment : 16.030534351145036
+Neutral sentiment : 41.98473282442748
+Sentiment Afinn
+Positive sentiment : 34.160305343511446
+Negative sentiment : 10.400763358778626
+Neutral sentiment : 55.43893129770993
+Sentiment NRC
+anger : 0.039285714285714285
+anticipation : 0.0875
+disgust : 0.048660714285714286
+fear : 0.049553571428571426
+joy : 0.065625
+negative : 0.11294642857142857
+positive : 0.15803571428571428
+sadness : 0.04285714285714286
+surprise : 0.03794642857142857
+trust : 0.07678571428571429
+Video Number : 112 --> What It&#39;s Like To Drive A Lexus LFA! POV DRIVE *INSANE EXHAUST*
+Sentiment Vader
+Positive sentiment : 49.82698961937716
+Negative sentiment : 14.273356401384083
+Neutral sentiment : 35.89965397923876
+Sentiment Afinn
+Positive sentiment : 40.484429065743946
+Negative sentiment : 8.650519031141869
+Neutral sentiment : 50.86505190311419
+Sentiment NRC
+anger : 0.03504335260115607
+anticipation : 0.09248554913294797
+disgust : 0.03829479768786127
+fear : 0.037210982658959536
+joy : 0.07369942196531792
+negative : 0.07984104046242775
+positive : 0.16437861271676302
+sadness : 0.04010115606936416
+surprise : 0.03359826589595376
+trust : 0.07297687861271676
+Video Number : 113 --> HOUSE UPDATE: MY NEW DRIVEWAY IS FINISHED!
+Sentiment Vader
+Positive sentiment : 26.466666666666665
+Negative sentiment : 6.533333333333332
+Neutral sentiment : 67.0
+Sentiment Afinn
+Positive sentiment : 17.066666666666666
+Negative sentiment : 3.933333333333333
+Neutral sentiment : 79.0
+Sentiment NRC
+anger : 0.028414755732801594
+anticipation : 0.07676969092721835
+disgust : 0.025423728813559324
+fear : 0.0353938185443669
+joy : 0.06181455633100698
+negative : 0.07028913260219342
+positive : 0.1719840478564307
+sadness : 0.03389830508474576
+surprise : 0.027916251246261216
+trust : 0.08125623130608176
+Video Number : 114 --> INSANE FEATURES OF THE KOENIGSEGG JESKO!
+Sentiment Vader
+Positive sentiment : 41.07981220657277
+Negative sentiment : 14.553990610328638
+Neutral sentiment : 44.36619718309859
+Sentiment Afinn
+Positive sentiment : 32.863849765258216
+Negative sentiment : 9.15492957746479
+Neutral sentiment : 57.981220657277
+Sentiment NRC
+anger : 0.06142506142506143
+anticipation : 0.08845208845208845
+disgust : 0.05036855036855037
+fear : 0.07125307125307126
+joy : 0.09090909090909091
+negative : 0.12162162162162163
+positive : 0.19164619164619165
+sadness : 0.05773955773955774
+surprise : 0.028255528255528257
+trust : 0.09336609336609336
+Video Number : 115 --> The 2020 Ferrari F8 Tributo! - A Pista For $300,000?
+Sentiment Vader
+Positive sentiment : 41.34615384615385
+Negative sentiment : 12.980769230769232
+Neutral sentiment : 45.67307692307692
+Sentiment Afinn
+Positive sentiment : 32.45192307692308
+Negative sentiment : 9.134615384615383
+Neutral sentiment : 58.41346153846154
+Sentiment NRC
+anger : 0.0550122249388753
+anticipation : 0.07212713936430318
+disgust : 0.0488997555012225
+fear : 0.0488997555012225
+joy : 0.09290953545232274
+negative : 0.10268948655256724
+positive : 0.16992665036674817
+sadness : 0.05867970660146699
+surprise : 0.039119804400977995
+trust : 0.10268948655256724
+Video Number : 116 --> SECRET FEATURES OF THE $2.3 MILLION MCLAREN SPEEDTAIL!
+Sentiment Vader
+Positive sentiment : 42.69406392694064
+Negative sentiment : 12.785388127853881
+Neutral sentiment : 44.52054794520548
+Sentiment Afinn
+Positive sentiment : 33.789954337899545
+Negative sentiment : 8.447488584474886
+Neutral sentiment : 57.76255707762557
+Sentiment NRC
+anger : 0.019187358916478554
+anticipation : 0.10045146726862303
+disgust : 0.040632054176072234
+fear : 0.033860045146726865
+joy : 0.11851015801354402
+negative : 0.06884875846501129
+positive : 0.1930022573363431
+sadness : 0.045146726862302484
+surprise : 0.0327313769751693
+trust : 0.10496613995485328
+Video Number : 117 --> TAKING DELIVERY OF MY NEW MCLAREN 600LT *FINALLY*
+Sentiment Vader
+Positive sentiment : 54.666666666666664
+Negative sentiment : 13.266666666666666
+Neutral sentiment : 32.06666666666666
+Sentiment Afinn
+Positive sentiment : 36.13333333333333
+Negative sentiment : 9.0
+Neutral sentiment : 54.86666666666666
+Sentiment NRC
+anger : 0.05198996055934026
+anticipation : 0.10935819290068124
+disgust : 0.052707063463607026
+fear : 0.05342416636787379
+joy : 0.11294370742201507
+negative : 0.10111150950161348
+positive : 0.18572965220509144
+sadness : 0.07314449623520976
+surprise : 0.052707063463607026
+trust : 0.10039440659734672
+Video Number : 118 --> Is The Polaris Slingshot SLR Actually FUN For $30,000?
+Sentiment Vader
+Positive sentiment : 41.127348643006265
+Negative sentiment : 17.954070981210858
+Neutral sentiment : 40.91858037578288
+Sentiment Afinn
+Positive sentiment : 36.53444676409186
+Negative sentiment : 9.18580375782881
+Neutral sentiment : 54.27974947807933
+Sentiment NRC
+anger : 0.058881256133464184
+anticipation : 0.10402355250245339
+disgust : 0.04808635917566242
+fear : 0.07065750736015702
+joy : 0.09224730127576054
+negative : 0.12659470068694798
+positive : 0.20314033366045142
+sadness : 0.03925417075564279
+surprise : 0.0323846908734053
+trust : 0.10598626104023552
+Video Number : 119 --> 2019 Mclaren 720S Spider Review! - Is It Worth $315,000?
+Sentiment Vader
+Positive sentiment : 51.10410094637224
+Negative sentiment : 15.930599369085174
+Neutral sentiment : 32.965299684542586
+Sentiment Afinn
+Positive sentiment : 38.01261829652997
+Negative sentiment : 8.675078864353312
+Neutral sentiment : 53.31230283911672
+Sentiment NRC
+anger : 0.06417546709991877
+anticipation : 0.11535337124289195
+disgust : 0.07473598700243704
+fear : 0.08935824532900082
+joy : 0.07798537774167344
+negative : 0.10722989439480098
+positive : 0.21364744110479286
+sadness : 0.060926076360682375
+surprise : 0.05523964256701868
+trust : 0.10316815597075549
+Video Number : 120 --> What It&#39;s Like To Drive The NEW 2019 AUDI RS5! (POV)
+Video Number : 121 --> 2019 Audi RS5 Review - Better Than An M3?
+Sentiment Vader
+Positive sentiment : 47.294117647058826
+Negative sentiment : 17.41176470588235
+Neutral sentiment : 35.294117647058826
+Sentiment Afinn
+Positive sentiment : 41.17647058823529
+Negative sentiment : 9.647058823529411
+Neutral sentiment : 49.1764705882353
+Sentiment NRC
+anger : 0.060267857142857144
+anticipation : 0.09263392857142858
+disgust : 0.05022321428571429
+fear : 0.041294642857142856
+joy : 0.09486607142857142
+negative : 0.10714285714285714
+positive : 0.17299107142857142
+sadness : 0.05357142857142857
+surprise : 0.05357142857142857
+trust : 0.08928571428571429
+Video Number : 122 --> THE $300,000 MCLAREN 600LT SPIDER IS EPIC!
+Sentiment Vader
+Positive sentiment : 47.43875278396437
+Negative sentiment : 12.694877505567929
+Neutral sentiment : 39.86636971046771
+Sentiment Afinn
+Positive sentiment : 36.30289532293987
+Negative sentiment : 8.68596881959911
+Neutral sentiment : 55.01113585746103
+Sentiment NRC
+anger : 0.03638644918444166
+anticipation : 0.11543287327478043
+disgust : 0.056461731493099125
+fear : 0.06148055207026349
+joy : 0.09912170639899624
+negative : 0.10163111668757842
+positive : 0.19824341279799249
+sadness : 0.0451693851944793
+surprise : 0.04767879548306148
+trust : 0.09159347553324969
+Video Number : 123 --> DID I REALLY SELL MY FERRARI?!
+Sentiment Vader
+Positive sentiment : 43.90243902439025
+Negative sentiment : 12.84074605451937
+Neutral sentiment : 43.25681492109039
+Sentiment Afinn
+Positive sentiment : 34.28981348637016
+Negative sentiment : 9.612625538020087
+Neutral sentiment : 56.09756097560976
+Sentiment NRC
+anger : 0.05358661752197335
+anticipation : 0.15537283810603914
+disgust : 0.04990076552310746
+fear : 0.08534165012758718
+joy : 0.13609299688120216
+negative : 0.10660618089027502
+positive : 0.21633115962574426
+sadness : 0.05642188829033173
+surprise : 0.05358661752197335
+trust : 0.11936489934788773
+Video Number : 124 --> MAINTENANCE COSTS ON A 150,000 MILE LAMBORGINI - $$$
+Sentiment Vader
+Positive sentiment : 35.42673107890499
+Negative sentiment : 12.560386473429952
+Neutral sentiment : 52.012882447665056
+Sentiment Afinn
+Positive sentiment : 28.34138486312399
+Negative sentiment : 8.212560386473431
+Neutral sentiment : 63.44605475040258
+Sentiment NRC
+anger : 0.04230118443316413
+anticipation : 0.0922165820642978
+disgust : 0.03637901861252115
+fear : 0.04145516074450085
+joy : 0.11421319796954314
+negative : 0.08544839255499154
+positive : 0.19035532994923857
+sadness : 0.047377326565143825
+surprise : 0.048223350253807105
+trust : 0.09390862944162437
+Video Number : 125 --> 2019 Audi Q8 Review - A Lamborghini Urus For ONLY $80,000?
+Sentiment Vader
+Positive sentiment : 44.483362521891415
+Negative sentiment : 13.660245183887914
+Neutral sentiment : 41.85639229422067
+Sentiment Afinn
+Positive sentiment : 38.17863397548161
+Negative sentiment : 8.581436077057793
+Neutral sentiment : 53.239929947460595
+Sentiment NRC
+anger : 0.04227782571182054
+anticipation : 0.09490940465918896
+disgust : 0.04314063848144953
+fear : 0.04227782571182054
+joy : 0.07851596203623813
+negative : 0.10526315789473684
+positive : 0.18550474547023296
+sadness : 0.04486626402070751
+surprise : 0.05176876617773943
+trust : 0.090595340811044
+Video Number : 126 --> STRAIGHT PIPING MY MOM&#39;S CAR PRANK! *Way Too Loud*
+Sentiment Vader
+Positive sentiment : 47.199999999999996
+Negative sentiment : 14.2
+Neutral sentiment : 38.6
+Sentiment Afinn
+Positive sentiment : 39.93333333333333
+Negative sentiment : 9.6
+Neutral sentiment : 50.46666666666667
+Sentiment NRC
+anger : 0.05983847283406755
+anticipation : 0.08296622613803231
+disgust : 0.05690161527165932
+fear : 0.06093979441997063
+joy : 0.06204111600587372
+negative : 0.14170337738619676
+positive : 0.14170337738619676
+sadness : 0.049926578560939794
+surprise : 0.04405286343612335
+trust : 0.0697503671071953
+Video Number : 127 --> 5 Things I HATE About The 2020 Toyota Supra
+Sentiment Vader
+Positive sentiment : 35.723114956736715
+Negative sentiment : 23.23856613102596
+Neutral sentiment : 41.03831891223733
+Sentiment Afinn
+Positive sentiment : 28.80098887515451
+Negative sentiment : 19.15945611866502
+Neutral sentiment : 52.03955500618047
+Sentiment NRC
+anger : 0.08286334056399132
+anticipation : 0.08850325379609544
+disgust : 0.0650759219088937
+fear : 0.06984815618221259
+joy : 0.06464208242950109
+negative : 0.11670281995661605
+positive : 0.16138828633405639
+sadness : 0.07678958785249458
+surprise : 0.03644251626898048
+trust : 0.11193058568329718
+Video Number : 128 --> The $350,000 Aston Martin DBS Superleggera Is AMAZING
+Sentiment Vader
+Positive sentiment : 42.22222222222222
+Negative sentiment : 14.285714285714285
+Neutral sentiment : 43.492063492063494
+Sentiment Afinn
+Positive sentiment : 33.33333333333333
+Negative sentiment : 10.476190476190476
+Neutral sentiment : 56.19047619047619
+Sentiment NRC
+anger : 0.053156146179401995
+anticipation : 0.08305647840531562
+disgust : 0.05647840531561462
+fear : 0.05647840531561462
+joy : 0.08637873754152824
+negative : 0.09966777408637874
+positive : 0.19435215946843853
+sadness : 0.053156146179401995
+surprise : 0.044850498338870434
+trust : 0.09136212624584718
+Video Number : 129 --> WE JUMPED THE FORD RAPTOR 100 FEET!!! *Bad Idea*
+Sentiment Vader
+Positive sentiment : 41.127348643006265
+Negative sentiment : 13.361169102296449
+Neutral sentiment : 45.51148225469729
+Sentiment Afinn
+Positive sentiment : 31.106471816283925
+Negative sentiment : 11.064718162839249
+Neutral sentiment : 57.82881002087683
+Sentiment NRC
+anger : 0.07611241217798595
+anticipation : 0.0936768149882904
+disgust : 0.06206088992974239
+fear : 0.09836065573770492
+joy : 0.1522248243559719
+negative : 0.13817330210772832
+positive : 0.22014051522248243
+sadness : 0.0936768149882904
+surprise : 0.03044496487119438
+trust : 0.14988290398126464
+Video Number : 130 --> HOUSE UPDATE
+Sentiment Vader
+Positive sentiment : 38.85135135135135
+Negative sentiment : 10.923423423423422
+Neutral sentiment : 50.22522522522522
+Sentiment Afinn
+Positive sentiment : 30.292792792792795
+Negative sentiment : 7.207207207207207
+Neutral sentiment : 62.5
+Sentiment NRC
+anger : 0.03589177250138045
+anticipation : 0.097736057426836
+disgust : 0.03147432357813363
+fear : 0.04527885146327996
+joy : 0.097736057426836
+negative : 0.10215350635008283
+positive : 0.17393705135284374
+sadness : 0.03810049696300387
+surprise : 0.03699613473219216
+trust : 0.10160132523467698
+Video Number : 131 --> IS THE $300,000 REZVANI TANK ACTUALLY BULLET PROOF?!
+Sentiment Vader
+Positive sentiment : 33.06666666666666
+Negative sentiment : 22.6
+Neutral sentiment : 44.333333333333336
+Sentiment Afinn
+Positive sentiment : 25.6
+Negative sentiment : 19.6
+Neutral sentiment : 54.800000000000004
+Sentiment NRC
+anger : 0.14012917719741647
+anticipation : 0.07273237854535243
+disgust : 0.03369839932603201
+fear : 0.15136197697276046
+joy : 0.04015725919685482
+negative : 0.1946082561078349
+positive : 0.13844425723111486
+sadness : 0.06627351867452963
+surprise : 0.06627351867452963
+trust : 0.09828699803426004
+Video Number : 132 --> The BEST Cars Under $5,000! *Cheap FUN*
+Sentiment Vader
+Positive sentiment : 48.81516587677725
+Negative sentiment : 8.530805687203792
+Neutral sentiment : 42.65402843601896
+Sentiment Afinn
+Positive sentiment : 42.65402843601896
+Negative sentiment : 5.450236966824645
+Neutral sentiment : 51.8957345971564
+Sentiment NRC
+anger : 0.037408759124087594
+anticipation : 0.12226277372262774
+disgust : 0.030109489051094892
+fear : 0.032846715328467155
+joy : 0.12043795620437957
+negative : 0.08759124087591241
+positive : 0.19708029197080293
+sadness : 0.03193430656934307
+surprise : 0.05474452554744526
+trust : 0.10583941605839416
+Video Number : 133 --> GARAGE UPDATE! WHERE IS MY AVENTADOR SVJ AND 600LT?
+Sentiment Vader
+Positive sentiment : 38.0
+Negative sentiment : 12.071428571428571
+Neutral sentiment : 49.92857142857143
+Sentiment Afinn
+Positive sentiment : 27.071428571428573
+Negative sentiment : 9.428571428571429
+Neutral sentiment : 63.5
+Sentiment NRC
+anger : 0.029676934635612322
+anticipation : 0.10894064613072878
+disgust : 0.038692712246431255
+fear : 0.03944402704733283
+joy : 0.11908339594290007
+negative : 0.10142749812171299
+positive : 0.20097670924117206
+sadness : 0.056348610067618335
+surprise : 0.048835462058602556
+trust : 0.10142749812171299
+Video Number : 134 --> 2020 Toyota Supra First Look! *Worth $50,000?*
+Sentiment Vader
+Positive sentiment : 40.68914956011731
+Negative sentiment : 23.533724340175954
+Neutral sentiment : 35.77712609970675
+Sentiment Afinn
+Positive sentiment : 39.66275659824047
+Negative sentiment : 15.175953079178885
+Neutral sentiment : 45.16129032258064
+Sentiment NRC
+anger : 0.07927205428747687
+anticipation : 0.08605798889574337
+disgust : 0.09376927822331894
+fear : 0.06785934608266501
+joy : 0.06878470080197409
+negative : 0.14774830351634793
+positive : 0.16193707587908698
+sadness : 0.08760024676125848
+surprise : 0.04688463911165947
+trust : 0.094694632942628
+Video Number : 135 --> What It&#39;s Like To Drive A 2019 Ferrari Portofino (POV)
+Sentiment Vader
+Positive sentiment : 54.891304347826086
+Negative sentiment : 11.956521739130435
+Neutral sentiment : 33.15217391304348
+Sentiment Afinn
+Positive sentiment : 45.108695652173914
+Negative sentiment : 8.695652173913043
+Neutral sentiment : 46.19565217391305
+Sentiment NRC
+anger : 0.038461538461538464
+anticipation : 0.09467455621301775
+disgust : 0.04240631163708087
+fear : 0.0601577909270217
+joy : 0.08974358974358974
+negative : 0.07790927021696252
+positive : 0.21696252465483234
+sadness : 0.03254437869822485
+surprise : 0.04240631163708087
+trust : 0.09960552268244575
+Video Number : 136 --> The $215,000 Ferrari Portofino Is EXTREMELY Underrated
+Sentiment Vader
+Positive sentiment : 53.67647058823529
+Negative sentiment : 12.254901960784313
+Neutral sentiment : 34.068627450980394
+Sentiment Afinn
+Positive sentiment : 44.85294117647059
+Negative sentiment : 7.598039215686274
+Neutral sentiment : 47.549019607843135
+Sentiment NRC
+anger : 0.05234460196292257
+anticipation : 0.10468920392584515
+disgust : 0.05125408942202835
+fear : 0.06652126499454744
+joy : 0.11014176663031625
+negative : 0.11777535441657579
+positive : 0.2039258451472192
+sadness : 0.04798255179934569
+surprise : 0.05016357688113413
+trust : 0.11777535441657579
+Video Number : 137 --> Top 10 AMAZING Features Of The Tesla Model 3
+Sentiment Vader
+Positive sentiment : 45.266666666666666
+Negative sentiment : 21.266666666666666
+Neutral sentiment : 33.46666666666667
+Sentiment Afinn
+Positive sentiment : 39.733333333333334
+Negative sentiment : 13.333333333333334
+Neutral sentiment : 46.93333333333333
+Sentiment NRC
+anger : 0.039473684210526314
+anticipation : 0.09308719560094265
+disgust : 0.04183032207384132
+fear : 0.04124116260801257
+joy : 0.05911233307148468
+negative : 0.0974076983503535
+positive : 0.18735271013354282
+sadness : 0.034956794972505895
+surprise : 0.04673998428908091
+trust : 0.10624509033778476
+Video Number : 138 --> What It&#39;s Like To Drive A &#39;19 Porsche GT3RS! (POV)
+Sentiment Vader
+Positive sentiment : 49.08136482939632
+Negative sentiment : 15.616797900262466
+Neutral sentiment : 35.30183727034121
+Sentiment Afinn
+Positive sentiment : 37.53280839895013
+Negative sentiment : 8.923884514435695
+Neutral sentiment : 53.54330708661418
+Sentiment NRC
+anger : 0.03896920175989944
+anticipation : 0.10433689503456946
+disgust : 0.05719673161533627
+fear : 0.05845380263984915
+joy : 0.10873664362036455
+negative : 0.11879321181646763
+positive : 0.20490257699560024
+sadness : 0.059710873664362035
+surprise : 0.046511627906976744
+trust : 0.10810810810810811
+Video Number : 139 --> 2019 BMW X5 Review - The Best Yet?
+Sentiment Vader
+Positive sentiment : 43.341404358353515
+Negative sentiment : 8.716707021791766
+Neutral sentiment : 47.94188861985472
+Sentiment Afinn
+Positive sentiment : 34.866828087167065
+Negative sentiment : 6.053268765133172
+Neutral sentiment : 59.07990314769975
+Sentiment NRC
+anger : 0.04247572815533981
+anticipation : 0.09466019417475728
+disgust : 0.038834951456310676
+fear : 0.03762135922330097
+joy : 0.09101941747572816
+negative : 0.0970873786407767
+positive : 0.21359223300970873
+sadness : 0.0412621359223301
+surprise : 0.03762135922330097
+trust : 0.11529126213592233
+Video Number : 140 --> 650hp Roush F150 Review - Better Than A Raptor?
+Sentiment Vader
+Positive sentiment : 41.56378600823045
+Negative sentiment : 12.345679012345679
+Neutral sentiment : 46.09053497942387
+Sentiment Afinn
+Positive sentiment : 35.80246913580247
+Negative sentiment : 5.349794238683128
+Neutral sentiment : 58.8477366255144
+Sentiment NRC
+anger : 0.04621072088724584
+anticipation : 0.06099815157116451
+disgust : 0.04990757855822551
+fear : 0.04990757855822551
+joy : 0.07948243992606285
+negative : 0.08872458410351201
+positive : 0.1645101663585952
+sadness : 0.04621072088724584
+surprise : 0.03512014787430684
+trust : 0.14417744916820702
+Video Number : 141 --> MOM REACTS TO FERRARI LAUNCH!
+Sentiment Vader
+Positive sentiment : 46.30225080385852
+Negative sentiment : 12.861736334405144
+Neutral sentiment : 40.836012861736336
+Sentiment Afinn
+Positive sentiment : 32.79742765273312
+Negative sentiment : 9.32475884244373
+Neutral sentiment : 57.87781350482315
+Sentiment NRC
+anger : 0.08188153310104529
+anticipation : 0.13240418118466898
+disgust : 0.06445993031358885
+fear : 0.10278745644599303
+joy : 0.1289198606271777
+negative : 0.12717770034843207
+positive : 0.1951219512195122
+sadness : 0.03484320557491289
+surprise : 0.059233449477351915
+trust : 0.09930313588850175
+Video Number : 142 --> MERCEDES E63S AMG MAINTENANCE COSTS HOW MUCH?!
+Sentiment Vader
+Positive sentiment : 39.68023255813954
+Negative sentiment : 13.372093023255813
+Neutral sentiment : 46.94767441860465
+Sentiment Afinn
+Positive sentiment : 30.813953488372093
+Negative sentiment : 6.540697674418605
+Neutral sentiment : 62.645348837209305
+Sentiment NRC
+anger : 0.02962962962962963
+anticipation : 0.12296296296296297
+disgust : 0.028148148148148148
+fear : 0.04
+joy : 0.10666666666666667
+negative : 0.08148148148148149
+positive : 0.21185185185185185
+sadness : 0.0362962962962963
+surprise : 0.045925925925925926
+trust : 0.10592592592592592
+Video Number : 143 --> The $300,000 Ferrari Lusso T Is AMAZING
+Sentiment Vader
+Positive sentiment : 51.83098591549295
+Negative sentiment : 15.211267605633802
+Neutral sentiment : 32.95774647887324
+Sentiment Afinn
+Positive sentiment : 41.690140845070424
+Negative sentiment : 12.676056338028168
+Neutral sentiment : 45.63380281690141
+Sentiment NRC
+anger : 0.061170212765957445
+anticipation : 0.07180851063829788
+disgust : 0.0598404255319149
+fear : 0.05319148936170213
+joy : 0.0797872340425532
+negative : 0.10904255319148937
+positive : 0.17287234042553193
+sadness : 0.061170212765957445
+surprise : 0.0398936170212766
+trust : 0.08111702127659574
+Video Number : 144 --> TEACHING MY SISTER HOW TO DRIVE MANUAL!
+Sentiment Vader
+Positive sentiment : 51.13333333333333
+Negative sentiment : 15.733333333333333
+Neutral sentiment : 33.13333333333333
+Sentiment Afinn
+Positive sentiment : 37.8
+Negative sentiment : 14.733333333333334
+Neutral sentiment : 47.46666666666667
+Sentiment NRC
+anger : 0.02914001421464108
+anticipation : 0.10963041933191187
+disgust : 0.03713574982231699
+fear : 0.03571428571428571
+joy : 0.06929637526652452
+negative : 0.05970149253731343
+positive : 0.19189765458422176
+sadness : 0.024875621890547265
+surprise : 0.05206112295664535
+trust : 0.20380241648898365
+Video Number : 145 --> TAKING DELIVERY OF MY FRIENDS NEW PORSCHE GT2RS!
+Sentiment Vader
+Positive sentiment : 45.656565656565654
+Negative sentiment : 11.717171717171718
+Neutral sentiment : 42.62626262626263
+Sentiment Afinn
+Positive sentiment : 36.56565656565657
+Negative sentiment : 10.707070707070706
+Neutral sentiment : 52.72727272727272
+Sentiment NRC
+anger : 0.036297640653357534
+anticipation : 0.08892921960072596
+disgust : 0.03901996370235935
+fear : 0.04900181488203267
+joy : 0.08802177858439202
+negative : 0.11070780399274047
+positive : 0.16878402903811252
+sadness : 0.056261343012704176
+surprise : 0.04900181488203267
+trust : 0.07441016333938294
+Video Number : 146 --> How To PASS Your Drivers Test - The Secrets
+Sentiment Vader
+Positive sentiment : 47.672778561354015
+Negative sentiment : 22.143864598025388
+Neutral sentiment : 30.18335684062059
+Sentiment Afinn
+Positive sentiment : 37.65867418899859
+Negative sentiment : 14.527503526093088
+Neutral sentiment : 47.81382228490832
+Sentiment NRC
+anger : 0.02654867256637168
+anticipation : 0.17920353982300885
+disgust : 0.016814159292035398
+fear : 0.06548672566371681
+joy : 0.06769911504424779
+negative : 0.08628318584070796
+positive : 0.13716814159292035
+sadness : 0.023451327433628318
+surprise : 0.05752212389380531
+trust : 0.08716814159292036
+Video Number : 147 --> HOUSE UPDATE: MY NEW DRIVEWAY + A NEW LAMBORGHINI
+Sentiment Vader
+Positive sentiment : 38.53333333333334
+Negative sentiment : 11.733333333333333
+Neutral sentiment : 49.733333333333334
+Sentiment Afinn
+Positive sentiment : 25.466666666666665
+Negative sentiment : 8.266666666666666
+Neutral sentiment : 66.26666666666667
+Sentiment NRC
+anger : 0.04099888184867685
+anticipation : 0.08758852031308237
+disgust : 0.04099888184867685
+fear : 0.04360790160268356
+joy : 0.06485277674245248
+negative : 0.1080879612374208
+positive : 0.14088706671636228
+sadness : 0.05888930301900857
+surprise : 0.025717480432351846
+trust : 0.0819977636973537
+Video Number : 148 --> 5 INSANE FEATURES OF THE LAMBORGHINI URUS
+Sentiment Vader
+Positive sentiment : 39.14728682170542
+Negative sentiment : 14.534883720930234
+Neutral sentiment : 46.31782945736434
+Sentiment Afinn
+Positive sentiment : 29.651162790697676
+Negative sentiment : 11.24031007751938
+Neutral sentiment : 59.10852713178295
+Sentiment NRC
+anger : 0.06271379703534778
+anticipation : 0.09007981755986318
+disgust : 0.06043329532497149
+fear : 0.07069555302166476
+joy : 0.07297605473204105
+negative : 0.12086659064994298
+positive : 0.17559863169897377
+sadness : 0.053591790193842644
+surprise : 0.036488027366020526
+trust : 0.08323831242873432
+Video Number : 149 --> The $250,000 Lamborghini Urus Is AMAZING
+Sentiment Vader
+Positive sentiment : 43.27538883806039
+Negative sentiment : 12.80878316559927
+Neutral sentiment : 43.91582799634035
+Sentiment Afinn
+Positive sentiment : 34.49222323879231
+Negative sentiment : 8.966148215919487
+Neutral sentiment : 56.541628545288205
+Sentiment NRC
+anger : 0.053588516746411484
+anticipation : 0.08851674641148326
+disgust : 0.05454545454545454
+fear : 0.05598086124401914
+joy : 0.08229665071770335
+negative : 0.10669856459330143
+positive : 0.16172248803827752
+sadness : 0.06363636363636363
+surprise : 0.045454545454545456
+trust : 0.08851674641148326
+Video Number : 150 --> HOUSE UPDATE: SOCAL FIRES BURNING EVERYTHING
+Sentiment Vader
+Positive sentiment : 42.75286757038582
+Negative sentiment : 18.248175182481752
+Neutral sentiment : 38.99895724713243
+Sentiment Afinn
+Positive sentiment : 33.05526590198123
+Negative sentiment : 14.389989572471324
+Neutral sentiment : 52.55474452554745
+Sentiment NRC
+anger : 0.0546448087431694
+anticipation : 0.14456035767511177
+disgust : 0.0546448087431694
+fear : 0.07203179334326876
+joy : 0.1395926477893691
+negative : 0.12419274714356682
+positive : 0.20765027322404372
+sadness : 0.04570293094883259
+surprise : 0.07004470938897168
+trust : 0.13859910581222057
+Video Number : 151 --> MERCEDES AMG GTR OWNER BETS $1000 HIS CAR IS FASTER LOL!
+Sentiment Vader
+Positive sentiment : 41.76744186046511
+Negative sentiment : 18.325581395348838
+Neutral sentiment : 39.906976744186046
+Sentiment Afinn
+Positive sentiment : 32.0
+Negative sentiment : 13.953488372093023
+Neutral sentiment : 54.04651162790698
+Sentiment NRC
+anger : 0.04101077050538525
+anticipation : 0.11681855840927921
+disgust : 0.04101077050538525
+fear : 0.05716652858326429
+joy : 0.07415078707539353
+negative : 0.11060480530240265
+positive : 0.15741507870753935
+sadness : 0.05302402651201325
+surprise : 0.04432477216238608
+trust : 0.07580778790389395
+Video Number : 152 --> 2019 BMW M2 Competition VS. 2017 M2 HEAD TO HEAD REVIEW!
+Sentiment Vader
+Positive sentiment : 54.54545454545454
+Negative sentiment : 10.173160173160174
+Neutral sentiment : 35.28138528138528
+Sentiment Afinn
+Positive sentiment : 45.67099567099567
+Negative sentiment : 7.575757575757576
+Neutral sentiment : 46.75324675324675
+Sentiment NRC
+anger : 0.02902155887230514
+anticipation : 0.12935323383084577
+disgust : 0.03731343283582089
+fear : 0.0538971807628524
+joy : 0.14096185737976782
+negative : 0.11276948590381426
+positive : 0.19485903814262023
+sadness : 0.0538971807628524
+surprise : 0.07296849087893864
+trust : 0.13930348258706468
+Video Number : 153 --> EVACUATING NEW HOUSE *SOCAL FIRES*
+Sentiment Vader
+Positive sentiment : 40.0
+Negative sentiment : 27.866666666666667
+Neutral sentiment : 32.13333333333333
+Sentiment Afinn
+Positive sentiment : 35.266666666666666
+Negative sentiment : 21.333333333333336
+Neutral sentiment : 43.4
+Sentiment NRC
+anger : 0.08297234255248251
+anticipation : 0.1826057980673109
+disgust : 0.06564478507164279
+fear : 0.14528490503165611
+joy : 0.18193935354881707
+negative : 0.14261912695768078
+positive : 0.23792069310229924
+sadness : 0.07697434188603798
+surprise : 0.11462845718093968
+trust : 0.18327224258580474
+Video Number : 154 --> GIRLS REACT TO LAMBORGHINI! *Hilarious*
+Sentiment Vader
+Positive sentiment : 43.77311960542541
+Negative sentiment : 10.850801479654747
+Neutral sentiment : 45.37607891491985
+Sentiment Afinn
+Positive sentiment : 26.140567200986435
+Negative sentiment : 7.891491985203452
+Neutral sentiment : 65.96794081381012
+Sentiment NRC
+anger : 0.06865177832919768
+anticipation : 0.08602150537634409
+disgust : 0.052109181141439205
+fear : 0.08436724565756824
+joy : 0.08519437551695616
+negative : 0.10339123242349049
+positive : 0.1695616211745244
+sadness : 0.060380479735318446
+surprise : 0.04714640198511166
+trust : 0.09511993382961124
+Video Number : 155 --> 5 INSANE Features Of The Ferrari 458 Speciale Aperta
+Sentiment Vader
+Positive sentiment : 46.201232032854215
+Negative sentiment : 11.704312114989733
+Neutral sentiment : 42.09445585215606
+Sentiment Afinn
+Positive sentiment : 31.416837782340863
+Negative sentiment : 6.981519507186857
+Neutral sentiment : 61.601642710472284
+Sentiment NRC
+anger : 0.06533776301218161
+anticipation : 0.08637873754152824
+disgust : 0.053156146179401995
+fear : 0.06866002214839424
+joy : 0.12846068660022147
+negative : 0.12956810631229235
+positive : 0.2115171650055371
+sadness : 0.05758582502768549
+surprise : 0.06201550387596899
+trust : 0.09302325581395349
+Video Number : 156 --> I BOUGHT MY FIRST HOUSE AT AGE 24!
+Sentiment Vader
+Positive sentiment : 45.800000000000004
+Negative sentiment : 14.533333333333335
+Neutral sentiment : 39.666666666666664
+Sentiment Afinn
+Positive sentiment : 35.53333333333333
+Negative sentiment : 13.133333333333333
+Neutral sentiment : 51.33333333333333
+Sentiment NRC
+anger : 0.04656669297553275
+anticipation : 0.13575374901341752
+disgust : 0.04209418574059458
+fear : 0.06287818995001315
+joy : 0.08708234675085504
+negative : 0.10181531176006314
+positive : 0.20652459878979215
+sadness : 0.0489344909234412
+surprise : 0.04867140226256248
+trust : 0.09523809523809523
+Video Number : 157 --> MEET THE 1000HP TWIN TURBO WIDEBODY LAMBORGHINI
+Sentiment Vader
+Positive sentiment : 35.78125
+Negative sentiment : 17.34375
+Neutral sentiment : 46.875
+Sentiment Afinn
+Positive sentiment : 27.34375
+Negative sentiment : 14.0625
+Neutral sentiment : 58.59375
+Sentiment NRC
+anger : 0.05683690280065898
+anticipation : 0.0815485996705107
+disgust : 0.06342668863261944
+fear : 0.054365733113673806
+joy : 0.09802306425041186
+negative : 0.12108731466227347
+positive : 0.18369028006589785
+sadness : 0.06342668863261944
+surprise : 0.036243822075782535
+trust : 0.09225700164744646
+Video Number : 158 --> How To Tune A Ford F-150 Raptor!
+Sentiment Vader
+Positive sentiment : 37.32057416267943
+Negative sentiment : 11.483253588516746
+Neutral sentiment : 51.196172248803826
+Sentiment Afinn
+Positive sentiment : 25.358851674641148
+Negative sentiment : 10.047846889952153
+Neutral sentiment : 64.5933014354067
+Sentiment NRC
+anger : 0.04271356783919598
+anticipation : 0.11306532663316583
+disgust : 0.035175879396984924
+fear : 0.0829145728643216
+joy : 0.06532663316582915
+negative : 0.09045226130653267
+positive : 0.12060301507537688
+sadness : 0.03015075376884422
+surprise : 0.052763819095477386
+trust : 0.12060301507537688
+Video Number : 159 --> Why I Spent $700,000 On My Ferrari 458 Speciale Aperta
+Sentiment Vader
+Positive sentiment : 48.580441640378545
+Negative sentiment : 12.145110410094636
+Neutral sentiment : 39.27444794952682
+Sentiment Afinn
+Positive sentiment : 38.64353312302839
+Negative sentiment : 8.3596214511041
+Neutral sentiment : 52.99684542586751
+Sentiment NRC
+anger : 0.04066265060240964
+anticipation : 0.10391566265060241
+disgust : 0.04819277108433735
+fear : 0.06099397590361446
+joy : 0.11746987951807229
+negative : 0.12123493975903614
+positive : 0.21084337349397592
+sadness : 0.05120481927710843
+surprise : 0.045180722891566265
+trust : 0.11521084337349398
+Video Number : 160 --> What It&#39;s Like To Drive An F1 Car! *Emotional*
+Sentiment Vader
+Positive sentiment : 43.53859496964441
+Negative sentiment : 16.131830008673028
+Neutral sentiment : 40.329575021682565
+Sentiment Afinn
+Positive sentiment : 32.52385082393756
+Negative sentiment : 12.22896790980052
+Neutral sentiment : 55.247181266261926
+Sentiment NRC
+anger : 0.05404425099746101
+anticipation : 0.0964816829887559
+disgust : 0.054769677185346394
+fear : 0.06782734856728329
+joy : 0.06927820094305405
+negative : 0.09503083061298513
+positive : 0.2049328980776206
+sadness : 0.038810301051867974
+surprise : 0.05077983315197679
+trust : 0.1381936887921654
+Video Number : 161 --> My First Drive Of A Porsche Carrera GT! *Amazing*
+Sentiment Vader
+Positive sentiment : 50.0
+Negative sentiment : 15.502183406113538
+Neutral sentiment : 34.49781659388647
+Sentiment Afinn
+Positive sentiment : 29.694323144104807
+Negative sentiment : 13.318777292576419
+Neutral sentiment : 56.98689956331878
+Sentiment NRC
+anger : 0.06588735387885228
+anticipation : 0.09351753453772582
+disgust : 0.057385759829968117
+fear : 0.07863974495217853
+joy : 0.077577045696068
+negative : 0.12539851222104145
+positive : 0.17109458023379384
+sadness : 0.06057385759829968
+surprise : 0.0563230605738576
+trust : 0.077577045696068
+Video Number : 162 --> I WENT SKYDIVING!!!
+Sentiment Vader
+Positive sentiment : 39.8671096345515
+Negative sentiment : 18.6046511627907
+Neutral sentiment : 41.52823920265781
+Sentiment Afinn
+Positive sentiment : 31.22923588039867
+Negative sentiment : 13.953488372093023
+Neutral sentiment : 54.81727574750831
+Sentiment NRC
+anger : 0.08045977011494253
+anticipation : 0.1360153256704981
+disgust : 0.04789272030651341
+fear : 0.1206896551724138
+joy : 0.09386973180076628
+negative : 0.14367816091954022
+positive : 0.19157088122605365
+sadness : 0.07662835249042145
+surprise : 0.04597701149425287
+trust : 0.07471264367816093
+Video Number : 163 --> I rented a CHEAP Lambo In Dubai!
+Sentiment Vader
+Positive sentiment : 41.943127962085306
+Negative sentiment : 13.507109004739338
+Neutral sentiment : 44.54976303317535
+Sentiment Afinn
+Positive sentiment : 32.46445497630332
+Negative sentiment : 10.189573459715639
+Neutral sentiment : 57.345971563981045
+Sentiment NRC
+anger : 0.03902439024390244
+anticipation : 0.10853658536585366
+disgust : 0.041463414634146344
+fear : 0.05853658536585366
+joy : 0.10853658536585366
+negative : 0.11219512195121951
+positive : 0.1926829268292683
+sadness : 0.05365853658536585
+surprise : 0.04390243902439024
+trust : 0.0975609756097561
+Video Number : 164 --> My Birthday Gift To USHER! *STRAIGHT PIPED Murcielago!*
+Sentiment Vader
+Positive sentiment : 39.32038834951456
+Negative sentiment : 15.048543689320388
+Neutral sentiment : 45.63106796116505
+Sentiment Afinn
+Positive sentiment : 27.9126213592233
+Negative sentiment : 13.106796116504855
+Neutral sentiment : 58.98058252427184
+Sentiment NRC
+anger : 0.0653061224489796
+anticipation : 0.12380952380952381
+disgust : 0.0653061224489796
+fear : 0.050340136054421766
+joy : 0.11836734693877551
+negative : 0.10748299319727891
+positive : 0.2789115646258503
+sadness : 0.061224489795918366
+surprise : 0.06258503401360545
+trust : 0.18231292517006803
+Video Number : 165 --> USHER AND I RACE LAMBO&#39;S TO THE STUDIO!
+Sentiment Vader
+Positive sentiment : 43.34975369458128
+Negative sentiment : 14.285714285714285
+Neutral sentiment : 42.364532019704434
+Sentiment Afinn
+Positive sentiment : 33.004926108374384
+Negative sentiment : 11.576354679802956
+Neutral sentiment : 55.41871921182266
+Sentiment NRC
+anger : 0.051181102362204724
+anticipation : 0.10236220472440945
+disgust : 0.06692913385826772
+fear : 0.049868766404199474
+joy : 0.08136482939632546
+negative : 0.11023622047244094
+positive : 0.26115485564304464
+sadness : 0.06824146981627296
+surprise : 0.03543307086614173
+trust : 0.19028871391076116
+Video Number : 166 --> 5 INSANE Features of The Rolls Royce Cullinan
+Sentiment Vader
+Positive sentiment : 34.6031746031746
+Negative sentiment : 14.920634920634921
+Neutral sentiment : 50.476190476190474
+Sentiment Afinn
+Positive sentiment : 27.3015873015873
+Negative sentiment : 10.793650793650794
+Neutral sentiment : 61.904761904761905
+Sentiment NRC
+anger : 0.04492753623188406
+anticipation : 0.057971014492753624
+disgust : 0.04782608695652174
+fear : 0.036231884057971016
+joy : 0.05507246376811594
+negative : 0.1072463768115942
+positive : 0.1492753623188406
+sadness : 0.043478260869565216
+surprise : 0.010144927536231883
+trust : 0.057971014492753624
+Video Number : 167 --> The Truth About Why I Bought a Mclaren 600LT
+Sentiment Vader
+Positive sentiment : 45.173745173745175
+Negative sentiment : 14.285714285714285
+Neutral sentiment : 40.54054054054054
+Sentiment Afinn
+Positive sentiment : 34.36293436293436
+Negative sentiment : 8.880308880308881
+Neutral sentiment : 56.75675675675676
+Sentiment NRC
+anger : 0.06223175965665236
+anticipation : 0.148068669527897
+disgust : 0.06223175965665236
+fear : 0.07296137339055794
+joy : 0.12446351931330472
+negative : 0.12017167381974249
+positive : 0.22746781115879827
+sadness : 0.06437768240343347
+surprise : 0.055793991416309016
+trust : 0.1459227467811159
+Video Number : 168 --> DRIVING MY $4 MILLION DOLLAR DREAM CAR!! *KOENIGSEGG AGERA RS*
+Sentiment Vader
+Positive sentiment : 44.135188866799204
+Negative sentiment : 16.10337972166998
+Neutral sentiment : 39.761431411530815
+Sentiment Afinn
+Positive sentiment : 36.779324055666
+Negative sentiment : 8.747514910536779
+Neutral sentiment : 54.47316103379721
+Sentiment NRC
+anger : 0.04878048780487805
+anticipation : 0.08585365853658537
+disgust : 0.04878048780487805
+fear : 0.0624390243902439
+joy : 0.06829268292682927
+negative : 0.1024390243902439
+positive : 0.1473170731707317
+sadness : 0.04390243902439024
+surprise : 0.037073170731707315
+trust : 0.06634146341463415
+Video Number : 169 --> The Mclaren 600LT is Actually Amazing *Better Than A 675LT!*
+Sentiment Vader
+Positive sentiment : 54.310344827586206
+Negative sentiment : 12.931034482758621
+Neutral sentiment : 32.758620689655174
+Sentiment Afinn
+Positive sentiment : 42.241379310344826
+Negative sentiment : 9.913793103448276
+Neutral sentiment : 47.8448275862069
+Sentiment NRC
+anger : 0.04523107177974434
+anticipation : 0.13962635201573254
+disgust : 0.051130776794493606
+fear : 0.06686332350049164
+joy : 0.127826941986234
+negative : 0.11012782694198624
+positive : 0.24188790560471976
+sadness : 0.07177974434611603
+surprise : 0.06981317600786627
+trust : 0.12586037364798427
+Video Number : 170 --> This $135,000 Van Will Make You MONEY
+Sentiment Vader
+Positive sentiment : 36.241610738255034
+Negative sentiment : 19.12751677852349
+Neutral sentiment : 44.63087248322148
+Sentiment Afinn
+Positive sentiment : 26.51006711409396
+Negative sentiment : 16.10738255033557
+Neutral sentiment : 57.38255033557047
+Sentiment NRC
+anger : 0.08139534883720931
+anticipation : 0.09966777408637874
+disgust : 0.11461794019933555
+fear : 0.046511627906976744
+joy : 0.09800664451827243
+negative : 0.17275747508305647
+positive : 0.16279069767441862
+sadness : 0.036544850498338874
+surprise : 0.04152823920265781
+trust : 0.09136212624584718
+Video Number : 171 --> This $150k Ford Raptor S is An Off-roading Rolls Royce!!!
+Sentiment Vader
+Positive sentiment : 35.16295025728988
+Negative sentiment : 14.922813036020582
+Neutral sentiment : 49.914236706689536
+Sentiment Afinn
+Positive sentiment : 28.81646655231561
+Negative sentiment : 9.948542024013722
+Neutral sentiment : 61.23499142367067
+Sentiment NRC
+anger : 0.052336448598130844
+anticipation : 0.09813084112149532
+disgust : 0.04953271028037383
+fear : 0.0514018691588785
+joy : 0.08598130841121496
+negative : 0.10373831775700934
+positive : 0.19813084112149532
+sadness : 0.037383177570093455
+surprise : 0.029906542056074768
+trust : 0.13925233644859814
+Video Number : 172 --> WHY I BOUGHT $2 MILLION DOLLARS OF CARS IN ONE WEEK! *Garage Update*
+Sentiment Vader
+Positive sentiment : 43.733333333333334
+Negative sentiment : 10.6
+Neutral sentiment : 45.666666666666664
+Sentiment Afinn
+Positive sentiment : 33.0
+Negative sentiment : 8.466666666666667
+Neutral sentiment : 58.53333333333334
+Sentiment NRC
+anger : 0.02984633569739953
+anticipation : 0.14391252955082742
+disgust : 0.030141843971631204
+fear : 0.07505910165484633
+joy : 0.09515366430260047
+negative : 0.08569739952718676
+positive : 0.18528368794326242
+sadness : 0.03693853427895981
+surprise : 0.04225768321513002
+trust : 0.10017730496453901
+Video Number : 173 --> MY NEW LAMBORGHINI AVENTADOR SVJ - Color Revealed!!
+Sentiment Vader
+Positive sentiment : 35.93333333333334
+Negative sentiment : 13.933333333333334
+Neutral sentiment : 50.13333333333333
+Sentiment Afinn
+Positive sentiment : 25.6
+Negative sentiment : 11.533333333333333
+Neutral sentiment : 62.866666666666674
+Sentiment NRC
+anger : 0.0352755905511811
+anticipation : 0.09007874015748031
+disgust : 0.050393700787401574
+fear : 0.03937007874015748
+joy : 0.0894488188976378
+negative : 0.11779527559055118
+positive : 0.16188976377952755
+sadness : 0.08724409448818897
+surprise : 0.032125984251968505
+trust : 0.10173228346456693
+Video Number : 174 --> I Straight Piped My V12 Rolls Royce - IT SOUNDS AMAZING
+Sentiment Vader
+Positive sentiment : 41.98855507868383
+Negative sentiment : 15.808297567954222
+Neutral sentiment : 42.20314735336195
+Sentiment Afinn
+Positive sentiment : 32.33190271816881
+Negative sentiment : 11.087267525035765
+Neutral sentiment : 56.580829756795424
+Sentiment NRC
+anger : 0.043153244988107374
+anticipation : 0.06965681277607882
+disgust : 0.045531770302412504
+fear : 0.04485219164118247
+joy : 0.07135575942915393
+negative : 0.11043153244988108
+positive : 0.1474685694869181
+sadness : 0.0564050288820931
+surprise : 0.031940197077811754
+trust : 0.072714916751614
+Video Number : 175 --> BUYING THE CHEAPEST ROLLS ROYCE IN THE WORLD!
+Sentiment Vader
+Positive sentiment : 35.72395128552097
+Negative sentiment : 12.381596752368065
+Neutral sentiment : 51.89445196211096
+Sentiment Afinn
+Positive sentiment : 25.50744248985115
+Negative sentiment : 10.419485791610285
+Neutral sentiment : 64.07307171853857
+Sentiment NRC
+anger : 0.03776737967914438
+anticipation : 0.08255347593582887
+disgust : 0.03308823529411765
+fear : 0.04712566844919786
+joy : 0.07453208556149733
+negative : 0.09224598930481283
+positive : 0.15040106951871657
+sadness : 0.04344919786096257
+surprise : 0.03342245989304813
+trust : 0.08455882352941177
+Video Number : 176 --> I BOUGHT A LAMBORGHINI AVENTADOR SVJ!!!
+Sentiment Vader
+Positive sentiment : 43.333333333333336
+Negative sentiment : 14.399999999999999
+Neutral sentiment : 42.266666666666666
+Sentiment Afinn
+Positive sentiment : 28.799999999999997
+Negative sentiment : 12.6
+Neutral sentiment : 58.599999999999994
+Sentiment NRC
+anger : 0.06096681096681097
+anticipation : 0.11291486291486291
+disgust : 0.05844155844155844
+fear : 0.05844155844155844
+joy : 0.1075036075036075
+negative : 0.13131313131313133
+positive : 0.18542568542568544
+sadness : 0.045815295815295816
+surprise : 0.04329004329004329
+trust : 0.11435786435786435
+Video Number : 177 --> Putting $100 Million Of Cars On A Private Jet?!
+Sentiment Vader
+Positive sentiment : 37.71551724137931
+Negative sentiment : 12.931034482758621
+Neutral sentiment : 49.353448275862064
+Sentiment Afinn
+Positive sentiment : 23.92241379310345
+Negative sentiment : 10.991379310344827
+Neutral sentiment : 65.08620689655173
+Sentiment NRC
+anger : 0.05338078291814947
+anticipation : 0.1162514827995255
+disgust : 0.03558718861209965
+fear : 0.05931198102016608
+joy : 0.08659549228944247
+negative : 0.14116251482799524
+positive : 0.16844602609727166
+sadness : 0.07947805456702253
+surprise : 0.06761565836298933
+trust : 0.1257413997627521
+Video Number : 178 --> $2 MILLION MCLAREN P1 TROLLS PORSCHE!
+Sentiment Vader
+Positive sentiment : 43.52750809061489
+Negative sentiment : 14.077669902912621
+Neutral sentiment : 42.394822006472495
+Sentiment Afinn
+Positive sentiment : 34.46601941747573
+Negative sentiment : 9.385113268608414
+Neutral sentiment : 56.148867313915865
+Sentiment NRC
+anger : 0.05403158769742311
+anticipation : 0.1288445552784705
+disgust : 0.04239401496259352
+fear : 0.08146300914380715
+joy : 0.15544472152950956
+negative : 0.1230257689110557
+positive : 0.23857024106400665
+sadness : 0.058187863674147966
+surprise : 0.058187863674147966
+trust : 0.13050706566916043
+Video Number : 179 --> I&#39;M DOING GUMBALL 3000!!! *Dream Come True*
+Sentiment Vader
+Positive sentiment : 48.23053589484327
+Negative sentiment : 7.482305358948432
+Neutral sentiment : 44.28715874620829
+Sentiment Afinn
+Positive sentiment : 33.56926188068756
+Negative sentiment : 4.448938321536906
+Neutral sentiment : 61.98179979777553
+Sentiment NRC
+anger : 0.04041641151255358
+anticipation : 0.15860379669320268
+disgust : 0.03061849357011635
+fear : 0.047764849969381504
+joy : 0.1475811390079608
+negative : 0.08144519289650949
+positive : 0.22045315370483773
+sadness : 0.03306797305572566
+surprise : 0.0679730557256583
+trust : 0.13717085119412126
+Video Number : 180 --> $367,000 Aston Martin Vanquish S Review - Better than a DB11?
+Sentiment Vader
+Positive sentiment : 47.13375796178344
+Negative sentiment : 13.05732484076433
+Neutral sentiment : 39.80891719745223
+Sentiment Afinn
+Positive sentiment : 39.171974522293
+Negative sentiment : 5.7324840764331215
+Neutral sentiment : 55.095541401273884
+Sentiment NRC
+anger : 0.04143646408839779
+anticipation : 0.0925414364640884
+disgust : 0.052486187845303865
+fear : 0.029005524861878452
+joy : 0.0856353591160221
+negative : 0.08287292817679558
+positive : 0.1919889502762431
+sadness : 0.03729281767955801
+surprise : 0.05386740331491713
+trust : 0.106353591160221
+Video Number : 181 --> Driving The World&#39;s Only $2 Million RWD Swapped Bugatti Veyron!
+Sentiment Vader
+Positive sentiment : 50.46620046620046
+Negative sentiment : 12.354312354312354
+Neutral sentiment : 37.17948717948718
+Sentiment Afinn
+Positive sentiment : 41.95804195804196
+Negative sentiment : 6.876456876456877
+Neutral sentiment : 51.16550116550117
+Sentiment NRC
+anger : 0.044743935309973046
+anticipation : 0.11752021563342319
+disgust : 0.04636118598382749
+fear : 0.05498652291105121
+joy : 0.1347708894878706
+negative : 0.1018867924528302
+positive : 0.22371967654986524
+sadness : 0.04851752021563342
+surprise : 0.07223719676549865
+trust : 0.10242587601078167
+Video Number : 182 --> This Mercedes Is SO LOUD It Should Be Illegal!!
+Sentiment Vader
+Positive sentiment : 34.40677966101695
+Negative sentiment : 13.898305084745763
+Neutral sentiment : 51.69491525423729
+Sentiment Afinn
+Positive sentiment : 28.983050847457626
+Negative sentiment : 11.186440677966102
+Neutral sentiment : 59.83050847457627
+Sentiment NRC
+anger : 0.03443429374560787
+anticipation : 0.09416725228390724
+disgust : 0.036542515811665496
+fear : 0.04708362614195362
+joy : 0.10049191848208011
+negative : 0.08995080815179199
+positive : 0.18903724525650034
+sadness : 0.04356992269852424
+surprise : 0.06605762473647224
+trust : 0.10962754743499649
+Video Number : 183 --> 2018 BMW M5 vs Mercedes AMG E63S DRAG RACE!
+Sentiment Vader
+Positive sentiment : 46.796657381615596
+Negative sentiment : 16.295264623955433
+Neutral sentiment : 36.908077994428965
+Sentiment Afinn
+Positive sentiment : 38.022284122562674
+Negative sentiment : 12.116991643454039
+Neutral sentiment : 49.86072423398329
+Sentiment NRC
+anger : 0.05800957956359766
+anticipation : 0.1027142096860032
+disgust : 0.05375199574241618
+fear : 0.0601383714741884
+joy : 0.08036189462480042
+negative : 0.12825971261309208
+positive : 0.17562533262373603
+sadness : 0.05268759978712081
+surprise : 0.036189462480042574
+trust : 0.09845662586482172
+Video Number : 184 --> F90 BMW M5 vs 2018 Mercedes AMG E63S Head To Head Review!
+Sentiment Vader
+Positive sentiment : 46.66221628838451
+Negative sentiment : 11.882510013351135
+Neutral sentiment : 41.45527369826435
+Sentiment Afinn
+Positive sentiment : 40.32042723631509
+Negative sentiment : 7.87716955941255
+Neutral sentiment : 51.802403204272366
+Sentiment NRC
+anger : 0.04945054945054945
+anticipation : 0.09017453135100194
+disgust : 0.05203619909502263
+fear : 0.039754363283775046
+joy : 0.09663865546218488
+negative : 0.10277957336780866
+positive : 0.2129928894634777
+sadness : 0.042986425339366516
+surprise : 0.03813833225597932
+trust : 0.12055591467356173
+Video Number : 185 --> TAKING DELIVERY OF A &#39;18 FORD RAPTOR AND IMMEDIATELY OFF-ROADING IT
+Sentiment Vader
+Positive sentiment : 45.38288288288289
+Negative sentiment : 14.752252252252251
+Neutral sentiment : 39.86486486486486
+Sentiment Afinn
+Positive sentiment : 36.711711711711715
+Negative sentiment : 12.162162162162163
+Neutral sentiment : 51.126126126126124
+Sentiment NRC
+anger : 0.05023094688221709
+anticipation : 0.09930715935334873
+disgust : 0.06004618937644342
+fear : 0.05889145496535797
+joy : 0.1258660508083141
+negative : 0.11720554272517321
+positive : 0.21535796766743648
+sadness : 0.05715935334872979
+surprise : 0.042725173210161664
+trust : 0.1426096997690531
+Video Number : 186 --> Horacio Pagani REDLINES His $25 Million V12 Zonda Barchetta
+Sentiment Vader
+Positive sentiment : 45.85858585858586
+Negative sentiment : 12.121212121212121
+Neutral sentiment : 42.02020202020202
+Sentiment Afinn
+Positive sentiment : 33.73737373737374
+Negative sentiment : 13.535353535353536
+Neutral sentiment : 52.72727272727272
+Sentiment NRC
+anger : 0.032388663967611336
+anticipation : 0.14412955465587043
+disgust : 0.024291497975708502
+fear : 0.048582995951417005
+joy : 0.14008097165991903
+negative : 0.08663967611336032
+positive : 0.21376518218623483
+sadness : 0.11983805668016194
+surprise : 0.1020242914979757
+trust : 0.16842105263157894
+Video Number : 187 --> MY DREAM RIDE IN THE $2.5 MILLION LAMBORGHINI CENTENARIO!!!
+Sentiment Vader
+Positive sentiment : 46.78111587982833
+Negative sentiment : 12.446351931330472
+Neutral sentiment : 40.772532188841204
+Sentiment Afinn
+Positive sentiment : 36.26609442060086
+Negative sentiment : 7.939914163090128
+Neutral sentiment : 55.793991416309005
+Sentiment NRC
+anger : 0.036004645760743324
+anticipation : 0.12427409988385599
+disgust : 0.026713124274099883
+fear : 0.03948896631823461
+joy : 0.11265969802555169
+negative : 0.08710801393728224
+positive : 0.19047619047619047
+sadness : 0.03716608594657375
+surprise : 0.04994192799070848
+trust : 0.0975609756097561
+Video Number : 188 --> CAMPING IN A MCLAREN!
+Sentiment Vader
+Positive sentiment : 49.9001996007984
+Negative sentiment : 10.578842315369261
+Neutral sentiment : 39.52095808383233
+Sentiment Afinn
+Positive sentiment : 34.930139720558884
+Negative sentiment : 9.980039920159681
+Neutral sentiment : 55.08982035928144
+Sentiment NRC
+anger : 0.043912175648702596
+anticipation : 0.13073852295409183
+disgust : 0.031936127744510975
+fear : 0.05888223552894212
+joy : 0.11077844311377245
+negative : 0.10878243512974052
+positive : 0.19860279441117765
+sadness : 0.043912175648702596
+surprise : 0.0658682634730539
+trust : 0.12275449101796407
+Video Number : 189 --> BEST SOUNDING V12 LAMBORGHINI COMPILATION!!!
+Sentiment Vader
+Positive sentiment : 53.15904139433552
+Negative sentiment : 11.76470588235294
+Neutral sentiment : 35.07625272331155
+Sentiment Afinn
+Positive sentiment : 41.17647058823529
+Negative sentiment : 6.753812636165578
+Neutral sentiment : 52.069716775599126
+Sentiment NRC
+anger : 0.04894179894179894
+anticipation : 0.09788359788359788
+disgust : 0.03835978835978836
+fear : 0.051587301587301584
+joy : 0.11772486772486772
+negative : 0.10317460317460317
+positive : 0.23544973544973544
+sadness : 0.047619047619047616
+surprise : 0.041005291005291
+trust : 0.10317460317460317
+Video Number : 190 --> Lamborghini Aventador vs. Murcielago vs. Diablo vs. Countach Head To Head Review!
+Sentiment Vader
+Positive sentiment : 54.056795131845846
+Negative sentiment : 9.837728194726166
+Neutral sentiment : 36.105476673427994
+Sentiment Afinn
+Positive sentiment : 41.17647058823529
+Negative sentiment : 7.200811359026369
+Neutral sentiment : 51.622718052738335
+Sentiment NRC
+anger : 0.04863925883034163
+anticipation : 0.11638679791546033
+disgust : 0.049797336421540245
+fear : 0.055587724377533294
+joy : 0.14418066010422698
+negative : 0.09612044006948466
+positive : 0.24377533294730747
+sadness : 0.056745801968731906
+surprise : 0.05442964678633468
+trust : 0.12275622466705269
+Video Number : 191 --> I MESSED UP BUYING THE E63S AMG...
+Sentiment Vader
+Positive sentiment : 39.473684210526315
+Negative sentiment : 12.969924812030076
+Neutral sentiment : 47.556390977443606
+Sentiment Afinn
+Positive sentiment : 26.691729323308273
+Negative sentiment : 13.533834586466165
+Neutral sentiment : 59.77443609022557
+Sentiment NRC
+anger : 0.04967801287948482
+anticipation : 0.09475620975160993
+disgust : 0.06071757129714812
+fear : 0.050597976080956765
+joy : 0.09199632014719411
+negative : 0.1297148114075437
+positive : 0.15731370745170192
+sadness : 0.05703771849126035
+surprise : 0.04231830726770929
+trust : 0.09383624655013799
+Video Number : 192 --> $4 Million Bugatti Chiron Races Pagani Huayra In Beverly Hills
+Sentiment Vader
+Positive sentiment : 42.07920792079208
+Negative sentiment : 13.531353135313532
+Neutral sentiment : 44.38943894389439
+Sentiment Afinn
+Positive sentiment : 34.65346534653465
+Negative sentiment : 7.590759075907591
+Neutral sentiment : 57.755775577557756
+Sentiment NRC
+anger : 0.04375497215592681
+anticipation : 0.10819411296738266
+disgust : 0.031821797931583136
+fear : 0.05091487669053302
+joy : 0.15354017501988862
+negative : 0.08910103420843278
+positive : 0.2315035799522673
+sadness : 0.04375497215592681
+surprise : 0.05489260143198091
+trust : 0.14399363564041368
+Video Number : 193 --> Picking Up UBER Riders In A Mclaren!
+Sentiment Vader
+Positive sentiment : 47.53333333333333
+Negative sentiment : 11.933333333333334
+Neutral sentiment : 40.53333333333333
+Sentiment Afinn
+Positive sentiment : 33.0
+Negative sentiment : 11.333333333333332
+Neutral sentiment : 55.666666666666664
+Sentiment NRC
+anger : 0.07820995399414471
+anticipation : 0.10455876202425764
+disgust : 0.06273525721455459
+fear : 0.07319113341698034
+joy : 0.08155583437892096
+negative : 0.12212463404433292
+positive : 0.17858636553743204
+sadness : 0.0644081974069427
+surprise : 0.04558762024257633
+trust : 0.09619406106231702
+Video Number : 194 --> What It&#39;s Like To Drive A Lamborghini LM002 (POV)!
+Sentiment Vader
+Positive sentiment : 37.368421052631575
+Negative sentiment : 11.578947368421053
+Neutral sentiment : 51.05263157894737
+Sentiment Afinn
+Positive sentiment : 30.526315789473685
+Negative sentiment : 8.421052631578947
+Neutral sentiment : 61.05263157894737
+Sentiment NRC
+anger : 0.028037383177570093
+anticipation : 0.0778816199376947
+disgust : 0.037383177570093455
+fear : 0.040498442367601244
+joy : 0.06230529595015576
+negative : 0.09345794392523364
+positive : 0.14018691588785046
+sadness : 0.04361370716510903
+surprise : 0.024922118380062305
+trust : 0.08411214953271028
+Video Number : 195 --> 2018 Range Rover SVR Review - Better Than An X5M?
+Sentiment Vader
+Positive sentiment : 51.208791208791204
+Negative sentiment : 12.087912087912088
+Neutral sentiment : 36.7032967032967
+Sentiment Afinn
+Positive sentiment : 39.120879120879124
+Negative sentiment : 5.714285714285714
+Neutral sentiment : 55.16483516483517
+Sentiment NRC
+anger : 0.04259438528557599
+anticipation : 0.09390125847047434
+disgust : 0.04356243949661181
+fear : 0.0484027105517909
+joy : 0.0909970958373669
+negative : 0.10454985479186835
+positive : 0.19554695062923524
+sadness : 0.05517909002904162
+surprise : 0.0484027105517909
+trust : 0.08906098741529525
+Video Number : 196 --> I BOUGHT MY DREAM WATCH AT AGE 23!
+Sentiment Vader
+Positive sentiment : 55.255023183925815
+Negative sentiment : 13.21483771251932
+Neutral sentiment : 31.530139103554866
+Sentiment Afinn
+Positive sentiment : 46.67697063369397
+Negative sentiment : 10.664605873261205
+Neutral sentiment : 42.65842349304482
+Sentiment NRC
+anger : 0.036105910671302484
+anticipation : 0.2816261032361594
+disgust : 0.036105910671302484
+fear : 0.20914683070339662
+joy : 0.10965498796469644
+negative : 0.08558438085049479
+positive : 0.1965766247659802
+sadness : 0.04011767852366943
+surprise : 0.05402514041187483
+trust : 0.10270125702059374
+Video Number : 197 --> THE TRUTH ABOUT MY MERCEDES S550...
+Sentiment Vader
+Positive sentiment : 30.69139966273187
+Negative sentiment : 6.913996627318718
+Neutral sentiment : 62.394603709949415
+Sentiment Afinn
+Positive sentiment : 21.922428330522767
+Negative sentiment : 4.215851602023609
+Neutral sentiment : 73.86172006745363
+Sentiment NRC
+anger : 0.036420395421436005
+anticipation : 0.10093652445369407
+disgust : 0.036420395421436005
+fear : 0.054110301768990635
+joy : 0.09365244536940687
+negative : 0.07804370447450572
+positive : 0.17898022892819979
+sadness : 0.04058272632674298
+surprise : 0.05619146722164412
+trust : 0.1529656607700312
+Video Number : 198 --> MY TUNED E63S AMG DOES 0-100MPH HOW FAST?!
+Sentiment Vader
+Positive sentiment : 37.37864077669903
+Negative sentiment : 14.320388349514563
+Neutral sentiment : 48.30097087378641
+Sentiment Afinn
+Positive sentiment : 29.126213592233007
+Negative sentiment : 11.165048543689322
+Neutral sentiment : 59.70873786407766
+Sentiment NRC
+anger : 0.029082774049217
+anticipation : 0.07755406413124534
+disgust : 0.027591349739000747
+fear : 0.035794183445190156
+joy : 0.05667412378821775
+negative : 0.10738255033557047
+positive : 0.16778523489932887
+sadness : 0.03206562266964952
+surprise : 0.042505592841163314
+trust : 0.12527964205816555
+Video Number : 199 --> BUBBLE CAR GETS INSANE REACTIONS
+Sentiment Vader
+Positive sentiment : 44.05594405594406
+Negative sentiment : 13.986013986013987
+Neutral sentiment : 41.95804195804196
+Sentiment Afinn
+Positive sentiment : 31.46853146853147
+Negative sentiment : 10.48951048951049
+Neutral sentiment : 58.04195804195804
+Sentiment NRC
+anger : 0.06909090909090909
+anticipation : 0.09272727272727273
+disgust : 0.034545454545454546
+fear : 0.06363636363636363
+joy : 0.10363636363636364
+negative : 0.1
+positive : 0.18545454545454546
+sadness : 0.034545454545454546
+surprise : 0.05454545454545454
+trust : 0.0890909090909091
+Video Number : 200 --> What It&#39;s Like To Drive The NEW Ferrari 488 GTB! (POV)
+Sentiment Vader
+Positive sentiment : 50.0
+Negative sentiment : 10.21505376344086
+Neutral sentiment : 39.784946236559136
+Sentiment Afinn
+Positive sentiment : 42.473118279569896
+Negative sentiment : 5.913978494623656
+Neutral sentiment : 51.61290322580645
+Sentiment NRC
+anger : 0.03225806451612903
+anticipation : 0.0967741935483871
+disgust : 0.04331797235023042
+fear : 0.04608294930875576
+joy : 0.1271889400921659
+negative : 0.07096774193548387
+positive : 0.2304147465437788
+sadness : 0.05161290322580645
+surprise : 0.035944700460829496
+trust : 0.09953917050691244

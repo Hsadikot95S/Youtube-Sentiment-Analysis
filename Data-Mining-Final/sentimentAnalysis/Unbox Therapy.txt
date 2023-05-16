@@ -1,0 +1,4000 @@
+Video Number : 1 --> Goodbye Samsung...
+Sentiment Vader
+Positive sentiment : 39.19597989949749
+Negative sentiment : 18.190954773869347
+Neutral sentiment : 42.61306532663316
+Sentiment Afinn
+Positive sentiment : 31.155778894472363
+Negative sentiment : 12.763819095477386
+Neutral sentiment : 56.08040201005026
+Sentiment NRC
+anger : 0.06686046511627906
+anticipation : 0.1308139534883721
+disgust : 0.050872093023255814
+fear : 0.07073643410852713
+joy : 0.09689922480620156
+negative : 0.13275193798449614
+positive : 0.17296511627906977
+sadness : 0.07655038759689922
+surprise : 0.05765503875968992
+trust : 0.11482558139534883
+Video Number : 2 --> You Should Buy The New iPhone SE
+Sentiment Vader
+Positive sentiment : 50.93333333333333
+Negative sentiment : 22.2
+Neutral sentiment : 26.866666666666667
+Sentiment Afinn
+Positive sentiment : 37.8
+Negative sentiment : 14.799999999999999
+Neutral sentiment : 47.4
+Sentiment NRC
+anger : 0.07764449291166849
+anticipation : 0.12693565976008725
+disgust : 0.06848418756815704
+fear : 0.08680479825517994
+joy : 0.07895310796074155
+negative : 0.13980370774263903
+positive : 0.1624863685932388
+sadness : 0.07742639040348964
+surprise : 0.040567066521264995
+trust : 0.10577971646673937
+Video Number : 3 --> DON&#39;T Buy The New iPhone SE
+Sentiment Vader
+Positive sentiment : 50.33333333333333
+Negative sentiment : 24.933333333333334
+Neutral sentiment : 24.73333333333333
+Sentiment Afinn
+Positive sentiment : 39.2
+Negative sentiment : 20.4
+Neutral sentiment : 40.400000000000006
+Sentiment NRC
+anger : 0.0738990738990739
+anticipation : 0.11491211491211491
+disgust : 0.06085806085806086
+fear : 0.07163107163107163
+joy : 0.08656208656208657
+negative : 0.1357021357021357
+positive : 0.18162918162918162
+sadness : 0.07163107163107163
+surprise : 0.05216405216405216
+trust : 0.11850311850311851
+Video Number : 4 --> The Flagship Smartphone Nobody Saw Coming
+Sentiment Vader
+Positive sentiment : 42.93333333333334
+Negative sentiment : 22.066666666666666
+Neutral sentiment : 35.0
+Sentiment Afinn
+Positive sentiment : 36.06666666666667
+Negative sentiment : 13.933333333333334
+Neutral sentiment : 50.0
+Sentiment NRC
+anger : 0.05290884104443427
+anticipation : 0.08932661475034356
+disgust : 0.03458543289051764
+fear : 0.060467246907924876
+joy : 0.07169033440219881
+negative : 0.11245991754466331
+positive : 0.15254237288135594
+sadness : 0.06092533211177279
+surprise : 0.05451213925790197
+trust : 0.10192395785616125
+Video Number : 5 --> This New Smartphone Just Launched. The Price Will Surprise You.
+Sentiment Vader
+Positive sentiment : 48.93333333333334
+Negative sentiment : 13.4
+Neutral sentiment : 37.666666666666664
+Sentiment Afinn
+Positive sentiment : 39.86666666666667
+Negative sentiment : 7.933333333333334
+Neutral sentiment : 52.2
+Sentiment NRC
+anger : 0.04896531623433401
+anticipation : 0.10492567764500146
+disgust : 0.027688720489653162
+fear : 0.048090935587292334
+joy : 0.08714660448848732
+negative : 0.0938501894491402
+positive : 0.176041970271058
+sadness : 0.03468376566598659
+surprise : 0.06674438939084815
+trust : 0.12153890993879335
+Video Number : 6 --> Unboxing All The Masks...
+Sentiment Vader
+Positive sentiment : 42.13333333333333
+Negative sentiment : 19.933333333333334
+Neutral sentiment : 37.93333333333334
+Sentiment Afinn
+Positive sentiment : 34.06666666666667
+Negative sentiment : 13.733333333333334
+Neutral sentiment : 52.2
+Sentiment NRC
+anger : 0.03262616522018644
+anticipation : 0.08244937319189971
+disgust : 0.038894246223079396
+fear : 0.0467695274831244
+joy : 0.05689488910318226
+negative : 0.1253616200578592
+positive : 0.16682738669238187
+sadness : 0.03567984570877531
+surprise : 0.034554805528768884
+trust : 0.12262937962070074
+Video Number : 7 --> This is the iPhone SE 2
+Sentiment Vader
+Positive sentiment : 47.13333333333333
+Negative sentiment : 19.933333333333334
+Neutral sentiment : 32.93333333333333
+Sentiment Afinn
+Positive sentiment : 39.0
+Negative sentiment : 13.933333333333334
+Neutral sentiment : 47.06666666666667
+Sentiment NRC
+anger : 0.044632550981146595
+anticipation : 0.10773374374759523
+disgust : 0.03693728357060408
+fear : 0.05463639861485187
+joy : 0.08714890342439399
+negative : 0.1110042323970758
+positive : 0.18141592920353983
+sadness : 0.05040400153905348
+surprise : 0.04078491727587533
+trust : 0.10465563678337822
+Video Number : 8 --> OnePlus 8 vs OnePlus 8 Pro - Which Is The Better Deal?
+Sentiment Vader
+Positive sentiment : 40.6
+Negative sentiment : 22.933333333333334
+Neutral sentiment : 36.46666666666666
+Sentiment Afinn
+Positive sentiment : 33.666666666666664
+Negative sentiment : 13.0
+Neutral sentiment : 53.333333333333336
+Sentiment NRC
+anger : 0.06366797044763146
+anticipation : 0.12690134724033028
+disgust : 0.030421555845284658
+fear : 0.0595393307257714
+joy : 0.07692307692307693
+negative : 0.12624945675793134
+positive : 0.18861364624076488
+sadness : 0.061277705345501955
+surprise : 0.0641025641025641
+trust : 0.11277705345501955
+Video Number : 9 --> OnePlus 8 Pro Unboxing - Should You Go Pro?
+Sentiment Vader
+Positive sentiment : 39.4
+Negative sentiment : 22.933333333333334
+Neutral sentiment : 37.666666666666664
+Sentiment Afinn
+Positive sentiment : 29.599999999999998
+Negative sentiment : 14.000000000000002
+Neutral sentiment : 56.39999999999999
+Sentiment NRC
+anger : 0.16330136294800607
+anticipation : 0.20090863200403836
+disgust : 0.03104492680464412
+fear : 0.056789500252397776
+joy : 0.05805148914689551
+negative : 0.22841998990408885
+positive : 0.1380615850580515
+sadness : 0.059818273599192326
+surprise : 0.04921756688541141
+trust : 0.0906108026249369
+Video Number : 10 --> Smartphone Screen Speed - Can You Spot The Difference?
+Sentiment Vader
+Positive sentiment : 44.6
+Negative sentiment : 21.933333333333334
+Neutral sentiment : 33.46666666666667
+Sentiment Afinn
+Positive sentiment : 36.0
+Negative sentiment : 16.400000000000002
+Neutral sentiment : 47.599999999999994
+Sentiment NRC
+anger : 0.04577033101757254
+anticipation : 0.09930527176134042
+disgust : 0.03821005312627707
+fear : 0.05353494074376788
+joy : 0.06885982836125869
+negative : 0.09991826726604004
+positive : 0.14425827543931344
+sadness : 0.04720065386187168
+surprise : 0.034940743767879034
+trust : 0.09011033919084593
+Video Number : 11 --> You&#39;ve Never Set Eyes On A Gadget Like This...
+Sentiment Vader
+Positive sentiment : 38.86666666666667
+Negative sentiment : 26.6
+Neutral sentiment : 34.53333333333333
+Sentiment Afinn
+Positive sentiment : 31.533333333333335
+Negative sentiment : 19.26666666666667
+Neutral sentiment : 49.2
+Sentiment NRC
+anger : 0.08257134940426711
+anticipation : 0.08672762538099196
+disgust : 0.0773067331670823
+fear : 0.07509005264616238
+joy : 0.06594624549736769
+negative : 0.15322804100858964
+positive : 0.15045719035743974
+sadness : 0.07342754225547243
+surprise : 0.05264616237184816
+trust : 0.08035466888334719
+Video Number : 12 --> Responding to this Escobar Fold Situation...
+Sentiment Vader
+Positive sentiment : 40.0
+Negative sentiment : 36.4
+Neutral sentiment : 23.599999999999998
+Sentiment Afinn
+Positive sentiment : 31.066666666666663
+Negative sentiment : 30.2
+Neutral sentiment : 38.733333333333334
+Sentiment NRC
+anger : 0.09225413402959094
+anticipation : 0.11517261386713083
+disgust : 0.08297069915868871
+fear : 0.08906295329271831
+joy : 0.0871772555845663
+negative : 0.1762402088772846
+positive : 0.18987525384392226
+sadness : 0.080794894110821
+surprise : 0.04960835509138381
+trust : 0.15709312445604873
+Video Number : 13 --> This is a Smartphone cable...
+Sentiment Vader
+Positive sentiment : 41.53333333333333
+Negative sentiment : 19.26666666666667
+Neutral sentiment : 39.2
+Sentiment Afinn
+Positive sentiment : 33.33333333333333
+Negative sentiment : 13.266666666666666
+Neutral sentiment : 53.400000000000006
+Sentiment NRC
+anger : 0.04839028244124037
+anticipation : 0.09302784910132332
+disgust : 0.027059055895714005
+fear : 0.05016788465336757
+joy : 0.06182105471064586
+negative : 0.10369346237408651
+positive : 0.225162946869445
+sadness : 0.05629073671736125
+surprise : 0.04898281651194944
+trust : 0.1277898479162552
+Video Number : 14 --> The Fastest Tiny Drive in The World
+Sentiment Vader
+Positive sentiment : 37.44360902255639
+Negative sentiment : 13.684210526315791
+Neutral sentiment : 48.87218045112782
+Sentiment Afinn
+Positive sentiment : 28.270676691729324
+Negative sentiment : 10.075187969924812
+Neutral sentiment : 61.65413533834586
+Sentiment NRC
+anger : 0.04002624671916011
+anticipation : 0.1010498687664042
+disgust : 0.03477690288713911
+fear : 0.049868766404199474
+joy : 0.08398950131233596
+negative : 0.10826771653543307
+positive : 0.16929133858267717
+sadness : 0.03740157480314961
+surprise : 0.048556430446194225
+trust : 0.10958005249343832
+Video Number : 15 --> A Smartphone Value Challenger Emerges...
+Sentiment Vader
+Positive sentiment : 49.13333333333333
+Negative sentiment : 14.2
+Neutral sentiment : 36.666666666666664
+Sentiment Afinn
+Positive sentiment : 39.6
+Negative sentiment : 8.266666666666666
+Neutral sentiment : 52.13333333333333
+Sentiment NRC
+anger : 0.03838383838383838
+anticipation : 0.11341991341991342
+disgust : 0.02712842712842713
+fear : 0.05887445887445888
+joy : 0.09927849927849929
+negative : 0.09581529581529581
+positive : 0.18181818181818182
+sadness : 0.04126984126984127
+surprise : 0.05772005772005772
+trust : 0.11544011544011544
+Video Number : 16 --> Samsung Galaxy S20 Ultra - What&#39;s The Problem?
+Sentiment Vader
+Positive sentiment : 27.46666666666667
+Negative sentiment : 38.4
+Neutral sentiment : 34.13333333333333
+Sentiment Afinn
+Positive sentiment : 19.0
+Negative sentiment : 45.733333333333334
+Neutral sentiment : 35.266666666666666
+Sentiment NRC
+anger : 0.07810526315789473
+anticipation : 0.12978947368421054
+disgust : 0.08094736842105263
+fear : 0.16894736842105262
+joy : 0.047473684210526314
+negative : 0.21442105263157896
+positive : 0.1628421052631579
+sadness : 0.16210526315789472
+surprise : 0.07652631578947368
+trust : 0.10947368421052632
+Video Number : 17 --> Unbox Therapy Coronavirus Update
+Sentiment Vader
+Positive sentiment : 52.733333333333334
+Negative sentiment : 21.8
+Neutral sentiment : 25.466666666666665
+Sentiment Afinn
+Positive sentiment : 44.2
+Negative sentiment : 19.26666666666667
+Neutral sentiment : 36.53333333333333
+Sentiment NRC
+anger : 0.03921267107488851
+anticipation : 0.13009380286021835
+disgust : 0.04767030601260956
+fear : 0.07919421805320621
+joy : 0.11271720744271875
+negative : 0.15192987851760725
+positive : 0.19406427802552667
+sadness : 0.05259111179455636
+surprise : 0.05474396432415808
+trust : 0.14777794863908966
+Video Number : 18 --> The Brightest Laptop Money Can Buy
+Sentiment Vader
+Positive sentiment : 42.70309130122214
+Negative sentiment : 18.69158878504673
+Neutral sentiment : 38.60531991373113
+Sentiment Afinn
+Positive sentiment : 33.50107836089145
+Negative sentiment : 13.371675053918045
+Neutral sentiment : 53.12724658519051
+Sentiment NRC
+anger : 0.06833631484794275
+anticipation : 0.1073345259391771
+disgust : 0.04686940966010734
+fear : 0.06905187835420394
+joy : 0.09516994633273702
+negative : 0.12701252236135957
+positive : 0.17924865831842576
+sadness : 0.059749552772808585
+surprise : 0.05259391771019678
+trust : 0.1259391771019678
+Video Number : 19 --> The Impossible Chair
+Sentiment Vader
+Positive sentiment : 38.4
+Negative sentiment : 23.0
+Neutral sentiment : 38.6
+Sentiment Afinn
+Positive sentiment : 28.26666666666667
+Negative sentiment : 19.733333333333334
+Neutral sentiment : 52.0
+Sentiment NRC
+anger : 0.06131019036954087
+anticipation : 0.09630459126539753
+disgust : 0.041993281075028
+fear : 0.05235162374020157
+joy : 0.06858902575587907
+negative : 0.16769316909294513
+positive : 0.13045912653975364
+sadness : 0.04955207166853304
+surprise : 0.04171332586786114
+trust : 0.0940649496080627
+Video Number : 20 --> Huawei Mate Xs Unboxing - Whoa.
+Sentiment Vader
+Positive sentiment : 40.33333333333333
+Negative sentiment : 20.933333333333334
+Neutral sentiment : 38.733333333333334
+Sentiment Afinn
+Positive sentiment : 30.2
+Negative sentiment : 16.466666666666665
+Neutral sentiment : 53.333333333333336
+Sentiment NRC
+anger : 0.04178145087235996
+anticipation : 0.08838383838383838
+disgust : 0.03466483011937557
+fear : 0.05325987144168962
+joy : 0.06198347107438017
+negative : 0.11317722681359045
+positive : 0.17332415059687786
+sadness : 0.05257116620752984
+surprise : 0.03581267217630854
+trust : 0.10445362718089991
+Video Number : 21 --> It&#39;s Like A Bathtub For Your Smartphone...
+Sentiment Vader
+Positive sentiment : 40.266666666666666
+Negative sentiment : 25.333333333333336
+Neutral sentiment : 34.4
+Sentiment Afinn
+Positive sentiment : 33.13333333333333
+Negative sentiment : 18.933333333333334
+Neutral sentiment : 47.93333333333333
+Sentiment NRC
+anger : 0.03223456565288654
+anticipation : 0.0872336550719359
+disgust : 0.06756510653797122
+fear : 0.09032963030413403
+joy : 0.07922054270624658
+negative : 0.15880531779275178
+positive : 0.14696776543434711
+sadness : 0.08340921507922054
+surprise : 0.030231287561464214
+trust : 0.10253141504279731
+Video Number : 22 --> The $99 Apple AirPods Killers
+Sentiment Vader
+Positive sentiment : 43.333333333333336
+Negative sentiment : 20.0
+Neutral sentiment : 36.666666666666664
+Sentiment Afinn
+Positive sentiment : 33.266666666666666
+Negative sentiment : 14.466666666666667
+Neutral sentiment : 52.26666666666666
+Sentiment NRC
+anger : 0.056681083541998634
+anticipation : 0.11905303892556339
+disgust : 0.02617801047120419
+fear : 0.05531527430002276
+joy : 0.07830639653994992
+negative : 0.11905303892556339
+positive : 0.18096972456180288
+sadness : 0.053949465058046896
+surprise : 0.07603004780332347
+trust : 0.0978829956749374
+Video Number : 23 --> World&#39;s Most Expensive vs Cheapest Toaster
+Sentiment Vader
+Positive sentiment : 38.800000000000004
+Negative sentiment : 17.2
+Neutral sentiment : 44.0
+Sentiment Afinn
+Positive sentiment : 30.06666666666667
+Negative sentiment : 14.666666666666666
+Neutral sentiment : 55.266666666666666
+Sentiment NRC
+anger : 0.03427004797806717
+anticipation : 0.11697509709846927
+disgust : 0.031528444139821796
+fear : 0.06031528444139822
+joy : 0.15924148960475212
+negative : 0.0975554032442312
+positive : 0.2538268220242175
+sadness : 0.028558373315055976
+surprise : 0.0363262508567512
+trust : 0.0840758510395248
+Video Number : 24 --> 5 Reasons To Buy The Samsung Galaxy S20 Ultra
+Sentiment Vader
+Positive sentiment : 46.0
+Negative sentiment : 18.46666666666667
+Neutral sentiment : 35.53333333333333
+Sentiment Afinn
+Positive sentiment : 36.13333333333333
+Negative sentiment : 14.2
+Neutral sentiment : 49.666666666666664
+Sentiment NRC
+anger : 0.043501903208265365
+anticipation : 0.10005437737901034
+disgust : 0.028094979155338047
+fear : 0.05455863694036614
+joy : 0.06905927134312126
+negative : 0.10259198839949248
+positive : 0.17998912452419794
+sadness : 0.04549574043864419
+surprise : 0.039332970817473265
+trust : 0.08428493746601413
+Video Number : 25 --> Samsung Galaxy Buds+ (vs AirPods, Galaxy Buds)
+Sentiment Vader
+Positive sentiment : 40.666666666666664
+Negative sentiment : 18.2
+Neutral sentiment : 41.13333333333333
+Sentiment Afinn
+Positive sentiment : 31.4
+Negative sentiment : 13.266666666666666
+Neutral sentiment : 55.333333333333336
+Sentiment NRC
+anger : 0.044727744165946416
+anticipation : 0.09485738980121003
+disgust : 0.032411408815903195
+fear : 0.05553154710458081
+joy : 0.07216940363007779
+negative : 0.11192739844425238
+positive : 0.14736387208297322
+sadness : 0.07087294727744166
+surprise : 0.04624027657735523
+trust : 0.08210890233362143
+Video Number : 26 --> Realme X50 Pro Hands On - 5G Flagship For Less
+Sentiment Vader
+Positive sentiment : 39.13333333333333
+Negative sentiment : 14.666666666666666
+Neutral sentiment : 46.2
+Sentiment Afinn
+Positive sentiment : 28.999999999999996
+Negative sentiment : 11.799999999999999
+Neutral sentiment : 59.199999999999996
+Sentiment NRC
+anger : 0.04143726456099681
+anticipation : 0.07215299913068676
+disgust : 0.029266879165459288
+fear : 0.043175891046073604
+joy : 0.11822660098522167
+negative : 0.11822660098522167
+positive : 0.19414662416690814
+sadness : 0.03824978267168937
+surprise : 0.03332367429730513
+trust : 0.13387423935091278
+Video Number : 27 --> The Amazing Double Laptop!!
+Sentiment Vader
+Positive sentiment : 41.6
+Negative sentiment : 20.0
+Neutral sentiment : 38.4
+Sentiment Afinn
+Positive sentiment : 34.0
+Negative sentiment : 14.266666666666666
+Neutral sentiment : 51.733333333333334
+Sentiment NRC
+anger : 0.041245561322043156
+anticipation : 0.09751434034416825
+disgust : 0.036875170718382956
+fear : 0.05080579076754985
+joy : 0.07101884730947829
+negative : 0.1089866156787763
+positive : 0.18929254302103252
+sadness : 0.04261130838568697
+surprise : 0.04561595192570336
+trust : 0.1029773285987435
+Video Number : 28 --> Your Soda Sounds Better Than You Think...
+Sentiment Vader
+Positive sentiment : 34.53333333333333
+Negative sentiment : 17.0
+Neutral sentiment : 48.46666666666667
+Sentiment Afinn
+Positive sentiment : 25.933333333333337
+Negative sentiment : 12.933333333333334
+Neutral sentiment : 61.133333333333326
+Sentiment NRC
+anger : 0.05979827089337176
+anticipation : 0.09762247838616715
+disgust : 0.03998559077809798
+fear : 0.07168587896253602
+joy : 0.08573487031700289
+negative : 0.14877521613832853
+positive : 0.1505763688760807
+sadness : 0.06159942363112392
+surprise : 0.05043227665706052
+trust : 0.07961095100864553
+Video Number : 29 --> Samsung Galaxy Z Flip Hands On - Better Than Razr?
+Sentiment Vader
+Positive sentiment : 43.333333333333336
+Negative sentiment : 19.0
+Neutral sentiment : 37.666666666666664
+Sentiment Afinn
+Positive sentiment : 35.86666666666667
+Negative sentiment : 13.333333333333334
+Neutral sentiment : 50.8
+Sentiment NRC
+anger : 0.04082465809348847
+anticipation : 0.08042457644417228
+disgust : 0.0385793018983466
+fear : 0.051643192488262914
+joy : 0.04715248009797918
+negative : 0.11635027556644213
+positive : 0.13186364564196776
+sadness : 0.049806082874055926
+surprise : 0.03225147989385589
+trust : 0.0708307817922025
+Video Number : 30 --> Samsung Galaxy S20 Hands On - A Better Deal?
+Sentiment Vader
+Positive sentiment : 45.33333333333333
+Negative sentiment : 20.599999999999998
+Neutral sentiment : 34.06666666666667
+Sentiment Afinn
+Positive sentiment : 38.53333333333334
+Negative sentiment : 12.666666666666668
+Neutral sentiment : 48.8
+Sentiment NRC
+anger : 0.04831013916500994
+anticipation : 0.10278330019880716
+disgust : 0.03359840954274354
+fear : 0.056262425447316106
+joy : 0.07296222664015904
+negative : 0.12306163021868788
+positive : 0.17216699801192842
+sadness : 0.06023856858846918
+surprise : 0.049900596421471176
+trust : 0.10198807157057654
+Video Number : 31 --> Samsung Galaxy S20 Ultra - Hands On With The Beast!
+Sentiment Vader
+Positive sentiment : 41.199999999999996
+Negative sentiment : 22.6
+Neutral sentiment : 36.199999999999996
+Sentiment Afinn
+Positive sentiment : 34.53333333333333
+Negative sentiment : 15.933333333333334
+Neutral sentiment : 49.53333333333333
+Sentiment NRC
+anger : 0.06431485481161507
+anticipation : 0.11567074634029277
+disgust : 0.04439644828413727
+fear : 0.07055435565154787
+joy : 0.07415406767458603
+negative : 0.14710823134149267
+positive : 0.15670746340292777
+sadness : 0.059755219582433405
+surprise : 0.047516198704103674
+trust : 0.09191264698824093
+Video Number : 32 --> Even Thinner Than AirPods...
+Sentiment Vader
+Positive sentiment : 44.800000000000004
+Negative sentiment : 21.933333333333334
+Neutral sentiment : 33.266666666666666
+Sentiment Afinn
+Positive sentiment : 38.53333333333334
+Negative sentiment : 15.933333333333334
+Neutral sentiment : 45.53333333333333
+Sentiment NRC
+anger : 0.05875981586785811
+anticipation : 0.09910641754670999
+disgust : 0.05199025182778229
+fear : 0.06119685892228541
+joy : 0.09558624424587056
+negative : 0.12185215272136475
+positive : 0.17871649065800163
+sadness : 0.05199025182778229
+surprise : 0.045762252910912536
+trust : 0.10208502572434336
+Video Number : 33 --> Sony Sent An Unexpected Package...
+Sentiment Vader
+Positive sentiment : 40.2
+Negative sentiment : 21.2
+Neutral sentiment : 38.6
+Sentiment Afinn
+Positive sentiment : 34.733333333333334
+Negative sentiment : 14.666666666666666
+Neutral sentiment : 50.6
+Sentiment NRC
+anger : 0.04820659971305596
+anticipation : 0.12998565279770444
+disgust : 0.043041606886657105
+fear : 0.06370157819225251
+joy : 0.1078909612625538
+negative : 0.1291248206599713
+positive : 0.181922525107604
+sadness : 0.0654232424677188
+surprise : 0.05164992826398852
+trust : 0.10444763271162123
+Video Number : 34 --> Gaming PC With Built-In Console V2 (XBOX or PlayStation)
+Sentiment Vader
+Positive sentiment : 42.53333333333333
+Negative sentiment : 16.53333333333333
+Neutral sentiment : 40.93333333333333
+Sentiment Afinn
+Positive sentiment : 32.53333333333333
+Negative sentiment : 13.066666666666665
+Neutral sentiment : 54.400000000000006
+Sentiment NRC
+anger : 0.050058207217694994
+anticipation : 0.0940046565774156
+disgust : 0.03550640279394645
+fear : 0.0640279394644936
+joy : 0.07683352735739232
+negative : 0.12223515715948778
+positive : 0.17665890570430734
+sadness : 0.06169965075669383
+surprise : 0.03783469150174622
+trust : 0.08963911525029103
+Video Number : 35 --> This Gaming Laptop has a Secret Trick...
+Sentiment Vader
+Positive sentiment : 35.92814371257485
+Negative sentiment : 17.365269461077844
+Neutral sentiment : 46.706586826347305
+Sentiment Afinn
+Positive sentiment : 26.272455089820358
+Negative sentiment : 11.452095808383234
+Neutral sentiment : 62.27544910179641
+Sentiment NRC
+anger : 0.04614733276883996
+anticipation : 0.10499576629974598
+disgust : 0.03767993226079593
+fear : 0.060118543607112614
+joy : 0.08763759525825572
+negative : 0.13166807790008467
+positive : 0.1685012701100762
+sadness : 0.060118543607112614
+surprise : 0.04784081287044877
+trust : 0.10203217612193057
+Video Number : 36 --> The Fastest Internet I&#39;ve Tested...
+Sentiment Vader
+Positive sentiment : 31.066666666666663
+Negative sentiment : 18.866666666666667
+Neutral sentiment : 50.06666666666667
+Sentiment Afinn
+Positive sentiment : 21.666666666666668
+Negative sentiment : 12.466666666666667
+Neutral sentiment : 65.86666666666666
+Sentiment NRC
+anger : 0.04925751539297356
+anticipation : 0.13400941687794277
+disgust : 0.043824701195219126
+fear : 0.08475190148496921
+joy : 0.0659181455994205
+negative : 0.10684534588917059
+positive : 0.1343716044911264
+sadness : 0.04092720028975009
+surprise : 0.04056501267656646
+trust : 0.086925027164071
+Video Number : 37 --> New Latercase Models and Price Change
+Sentiment Vader
+Positive sentiment : 42.6
+Negative sentiment : 21.2
+Neutral sentiment : 36.199999999999996
+Sentiment Afinn
+Positive sentiment : 34.8
+Negative sentiment : 13.266666666666666
+Neutral sentiment : 51.93333333333333
+Sentiment NRC
+anger : 0.053130511463844794
+anticipation : 0.0974426807760141
+disgust : 0.03505291005291005
+fear : 0.2034832451499118
+joy : 0.07958553791887125
+negative : 0.26631393298059963
+positive : 0.18055555555555555
+sadness : 0.21626984126984128
+surprise : 0.0496031746031746
+trust : 0.0958994708994709
+Video Number : 38 --> Galaxy Note 10 Plus Star Wars Edition Unboxing
+Sentiment Vader
+Positive sentiment : 43.46666666666666
+Negative sentiment : 22.733333333333334
+Neutral sentiment : 33.800000000000004
+Sentiment Afinn
+Positive sentiment : 35.13333333333333
+Negative sentiment : 17.8
+Neutral sentiment : 47.06666666666667
+Sentiment NRC
+anger : 0.052021632758176665
+anticipation : 0.12953901622456862
+disgust : 0.04223538501158898
+fear : 0.11666237445274273
+joy : 0.1220705639969096
+negative : 0.16095802214782384
+positive : 0.20113314447592068
+sadness : 0.0808653103270667
+surprise : 0.05150656708730363
+trust : 0.11588977594643317
+Video Number : 39 --> It&#39;s like an Apple MacBook Micro...
+Sentiment Vader
+Positive sentiment : 38.93333333333333
+Negative sentiment : 21.0
+Neutral sentiment : 40.06666666666667
+Sentiment Afinn
+Positive sentiment : 32.46666666666667
+Negative sentiment : 13.933333333333334
+Neutral sentiment : 53.6
+Sentiment NRC
+anger : 0.06242158092848181
+anticipation : 0.1006900878293601
+disgust : 0.051129234629861985
+fear : 0.08531994981179424
+joy : 0.06744040150564617
+negative : 0.16813048933500627
+positive : 0.1599749058971142
+sadness : 0.07559598494353827
+surprise : 0.04705144291091593
+trust : 0.08657465495608532
+Video Number : 40 --> The Levitating Sneaker
+Sentiment Vader
+Positive sentiment : 28.799999999999997
+Negative sentiment : 18.866666666666667
+Neutral sentiment : 52.33333333333333
+Sentiment Afinn
+Positive sentiment : 21.6
+Negative sentiment : 13.733333333333334
+Neutral sentiment : 64.66666666666666
+Sentiment NRC
+anger : 0.06028833551769332
+anticipation : 0.09436435124508519
+disgust : 0.04947575360419397
+fear : 0.07339449541284404
+joy : 0.0674967234600262
+negative : 0.1503931847968545
+positive : 0.21231979030144169
+sadness : 0.0828964613368283
+surprise : 0.040956749672346006
+trust : 0.1503931847968545
+Video Number : 41 --> Don&#39;t Ruin Your Smartphone
+Sentiment Vader
+Positive sentiment : 30.866666666666664
+Negative sentiment : 45.666666666666664
+Neutral sentiment : 23.466666666666665
+Sentiment Afinn
+Positive sentiment : 30.0
+Negative sentiment : 35.93333333333334
+Neutral sentiment : 34.06666666666667
+Sentiment NRC
+anger : 0.11440080563947634
+anticipation : 0.10735146022155086
+disgust : 0.1015105740181269
+fear : 0.1850956696878147
+joy : 0.07673716012084592
+negative : 0.2880161127895267
+positive : 0.1701913393756294
+sadness : 0.1959718026183283
+surprise : 0.06243705941591138
+trust : 0.1027190332326284
+Video Number : 42 --> A Very Strange Phone Emerges...
+Sentiment Vader
+Positive sentiment : 39.266666666666666
+Negative sentiment : 20.200000000000003
+Neutral sentiment : 40.53333333333333
+Sentiment Afinn
+Positive sentiment : 28.799999999999997
+Negative sentiment : 16.066666666666666
+Neutral sentiment : 55.13333333333333
+Sentiment NRC
+anger : 0.03535466547326024
+anticipation : 0.08256880733944955
+disgust : 0.03938241217274558
+fear : 0.061087491608861046
+joy : 0.0637726560751846
+negative : 0.1208324009845603
+positive : 0.1331394047885433
+sadness : 0.04989930633251287
+surprise : 0.037592302528529874
+trust : 0.0767509509957485
+Video Number : 43 --> The Best Smartphone You Won&#39;t Buy
+Sentiment Vader
+Positive sentiment : 43.6
+Negative sentiment : 20.0
+Neutral sentiment : 36.4
+Sentiment Afinn
+Positive sentiment : 32.86666666666667
+Negative sentiment : 14.2
+Neutral sentiment : 52.93333333333333
+Sentiment NRC
+anger : 0.047485320398263975
+anticipation : 0.11003318866479449
+disgust : 0.03803931580291039
+fear : 0.060760786316058205
+joy : 0.06280316568802655
+negative : 0.11411794740873117
+positive : 0.18764360479959152
+sadness : 0.04774061781976002
+surprise : 0.04084758743936686
+trust : 0.11462854225172325
+Video Number : 44 --> Google Stadia Founder&#39;s Edition Unboxing
+Sentiment Vader
+Positive sentiment : 39.2
+Negative sentiment : 23.533333333333335
+Neutral sentiment : 37.266666666666666
+Sentiment Afinn
+Positive sentiment : 28.066666666666666
+Negative sentiment : 18.6
+Neutral sentiment : 53.333333333333336
+Sentiment NRC
+anger : 0.050591016548463354
+anticipation : 0.11843971631205674
+disgust : 0.05390070921985816
+fear : 0.04018912529550828
+joy : 0.0635933806146572
+negative : 0.13333333333333333
+positive : 0.14728132387706855
+sadness : 0.05177304964539007
+surprise : 0.04373522458628842
+trust : 0.09645390070921986
+Video Number : 45 --> The Fastest Charging Smartphone In The World
+Sentiment Vader
+Positive sentiment : 31.333333333333336
+Negative sentiment : 19.8
+Neutral sentiment : 48.86666666666667
+Sentiment Afinn
+Positive sentiment : 26.13333333333333
+Negative sentiment : 12.6
+Neutral sentiment : 61.266666666666666
+Sentiment NRC
+anger : 0.036899119837508466
+anticipation : 0.0890318212593094
+disgust : 0.03419092755585647
+fear : 0.06093432633716994
+joy : 0.045700744752877456
+negative : 0.1046039268788084
+positive : 0.15978334461746785
+sadness : 0.05179417738659445
+surprise : 0.026404874746106973
+trust : 0.06939742721733243
+Video Number : 46 --> The World&#39;s Fastest Portable Charger
+Sentiment Vader
+Positive sentiment : 35.66820276497696
+Negative sentiment : 14.654377880184333
+Neutral sentiment : 49.67741935483871
+Sentiment Afinn
+Positive sentiment : 26.54377880184332
+Negative sentiment : 9.953917050691244
+Neutral sentiment : 63.50230414746544
+Sentiment NRC
+anger : 0.05611775528978841
+anticipation : 0.13385464581416742
+disgust : 0.028058877644894203
+fear : 0.052897884084636616
+joy : 0.06853725850965961
+negative : 0.10533578656853726
+positive : 0.21343146274149033
+sadness : 0.043698252069917204
+surprise : 0.06347746090156393
+trust : 0.14167433302667892
+Video Number : 47 --> My New Cheese Grater
+Sentiment Vader
+Positive sentiment : 32.733333333333334
+Negative sentiment : 24.0
+Neutral sentiment : 43.266666666666666
+Sentiment Afinn
+Positive sentiment : 25.666666666666664
+Negative sentiment : 16.400000000000002
+Neutral sentiment : 57.93333333333334
+Sentiment NRC
+anger : 0.07764078640453183
+anticipation : 0.11462845718093968
+disgust : 0.059646784405198265
+fear : 0.12395868043985338
+joy : 0.0546484505164945
+negative : 0.2502499166944352
+positive : 0.18427190936354548
+sadness : 0.1169610129956681
+surprise : 0.044318560479840056
+trust : 0.07964011996001333
+Video Number : 48 --> Unboxing The Enormous New Razer Blade
+Sentiment Vader
+Positive sentiment : 40.86666666666667
+Negative sentiment : 17.4
+Neutral sentiment : 41.733333333333334
+Sentiment Afinn
+Positive sentiment : 32.733333333333334
+Negative sentiment : 11.799999999999999
+Neutral sentiment : 55.46666666666666
+Sentiment NRC
+anger : 0.052902487846725764
+anticipation : 0.08721761509865598
+disgust : 0.03774663997712325
+fear : 0.052902487846725764
+joy : 0.061767229053474405
+negative : 0.10609093508721762
+positive : 0.18472976837289104
+sadness : 0.04775521875893623
+surprise : 0.04175007148984844
+trust : 0.08035458964826994
+Video Number : 49 --> Unboxing Edward Snowden&#39;s Favorite Laptop
+Sentiment Vader
+Positive sentiment : 42.46666666666667
+Negative sentiment : 20.666666666666668
+Neutral sentiment : 36.86666666666667
+Sentiment Afinn
+Positive sentiment : 30.266666666666666
+Negative sentiment : 16.6
+Neutral sentiment : 53.13333333333333
+Sentiment NRC
+anger : 0.08173865500273374
+anticipation : 0.08857299070530344
+disgust : 0.07025697102241663
+fear : 0.09540732640787315
+joy : 0.06478950246036086
+negative : 0.15855658829961727
+positive : 0.16867140513942044
+sadness : 0.057955166757791145
+surprise : 0.03608529250956807
+trust : 0.12001093493712411
+Video Number : 50 --> Don&#39;t Trade Your iPhone For This Phone
+Sentiment Vader
+Positive sentiment : 47.93333333333333
+Negative sentiment : 16.53333333333333
+Neutral sentiment : 35.53333333333333
+Sentiment Afinn
+Positive sentiment : 25.8
+Negative sentiment : 17.2
+Neutral sentiment : 56.99999999999999
+Sentiment NRC
+anger : 0.06187810945273632
+anticipation : 0.08706467661691543
+disgust : 0.06312189054726368
+fear : 0.05192786069651741
+joy : 0.06560945273631841
+negative : 0.13650497512437812
+positive : 0.13930348258706468
+sadness : 0.041355721393034825
+surprise : 0.04757462686567164
+trust : 0.10416666666666667
+Video Number : 51 --> The Apple iPad MacBook Pro
+Sentiment Vader
+Positive sentiment : 37.733333333333334
+Negative sentiment : 17.866666666666667
+Neutral sentiment : 44.4
+Sentiment Afinn
+Positive sentiment : 29.533333333333335
+Negative sentiment : 11.933333333333334
+Neutral sentiment : 58.53333333333334
+Sentiment NRC
+anger : 0.07906371911573472
+anticipation : 0.08816644993498049
+disgust : 0.06970091027308192
+fear : 0.050455136540962287
+joy : 0.059557867360208065
+negative : 0.13940182054616385
+positive : 0.15604681404421328
+sadness : 0.04993498049414825
+surprise : 0.03901170351105332
+trust : 0.09258777633289987
+Video Number : 52 --> Finding The Ultimate Wireless Charger
+Sentiment Vader
+Positive sentiment : 36.99604743083004
+Negative sentiment : 14.940711462450592
+Neutral sentiment : 48.06324110671937
+Sentiment Afinn
+Positive sentiment : 27.588932806324113
+Negative sentiment : 12.015810276679842
+Neutral sentiment : 60.39525691699604
+Sentiment NRC
+anger : 0.12190934065934066
+anticipation : 0.18406593406593408
+disgust : 0.033997252747252744
+fear : 0.0782967032967033
+joy : 0.06043956043956044
+negative : 0.10130494505494506
+positive : 0.29120879120879123
+sadness : 0.04979395604395604
+surprise : 0.11572802197802198
+trust : 0.07932692307692307
+Video Number : 53 --> The Beats Solo Pro Are The Best Beats Yet
+Sentiment Vader
+Positive sentiment : 40.6
+Negative sentiment : 19.133333333333333
+Neutral sentiment : 40.266666666666666
+Sentiment Afinn
+Positive sentiment : 34.733333333333334
+Negative sentiment : 13.933333333333334
+Neutral sentiment : 51.33333333333333
+Sentiment NRC
+anger : 0.055860349127182046
+anticipation : 0.09925187032418953
+disgust : 0.04413965087281795
+fear : 0.04763092269326683
+joy : 0.07057356608478803
+negative : 0.12693266832917705
+positive : 0.16134663341645886
+sadness : 0.06259351620947631
+surprise : 0.04837905236907731
+trust : 0.09251870324189526
+Video Number : 54 --> Unboxing Every Google Pixel 4
+Sentiment Vader
+Positive sentiment : 43.93333333333334
+Negative sentiment : 20.599999999999998
+Neutral sentiment : 35.46666666666667
+Sentiment Afinn
+Positive sentiment : 32.800000000000004
+Negative sentiment : 13.266666666666666
+Neutral sentiment : 53.93333333333333
+Sentiment NRC
+anger : 0.05413492927094668
+anticipation : 0.10636561479869423
+disgust : 0.04570184983677911
+fear : 0.04978237214363439
+joy : 0.07671381936887922
+negative : 0.13193688792165398
+positive : 0.1632208922742111
+sadness : 0.06392818280739934
+surprise : 0.03427638737758433
+trust : 0.10010881392818281
+Video Number : 55 --> Did I Just Find The Perfect Laptop? (2019)
+Sentiment Vader
+Positive sentiment : 44.53333333333334
+Negative sentiment : 18.666666666666668
+Neutral sentiment : 36.8
+Sentiment Afinn
+Positive sentiment : 37.666666666666664
+Negative sentiment : 11.866666666666667
+Neutral sentiment : 50.46666666666667
+Sentiment NRC
+anger : 0.04973118279569892
+anticipation : 0.1303763440860215
+disgust : 0.03494623655913978
+fear : 0.047311827956989246
+joy : 0.11102150537634409
+negative : 0.10483870967741936
+positive : 0.20053763440860214
+sadness : 0.04704301075268817
+surprise : 0.03951612903225806
+trust : 0.135752688172043
+Video Number : 56 --> WATER Edition Nike Air Max Unboxing
+Sentiment Vader
+Positive sentiment : 29.26666666666667
+Negative sentiment : 21.6
+Neutral sentiment : 49.13333333333333
+Sentiment Afinn
+Positive sentiment : 23.533333333333335
+Negative sentiment : 16.666666666666664
+Neutral sentiment : 59.8
+Sentiment NRC
+anger : 0.08367707719505009
+anticipation : 0.08691809074837949
+disgust : 0.05863288155568651
+fear : 0.07690041249263406
+joy : 0.08338243959929287
+negative : 0.17442545668827342
+positive : 0.15586328815556866
+sadness : 0.06452563347083087
+surprise : 0.03152622274602239
+trust : 0.13464938126104892
+Video Number : 57 --> Probably The Coolest Wallet In The World
+Sentiment Vader
+Positive sentiment : 36.8
+Negative sentiment : 24.933333333333334
+Neutral sentiment : 38.266666666666666
+Sentiment Afinn
+Positive sentiment : 28.666666666666668
+Negative sentiment : 18.73333333333333
+Neutral sentiment : 52.6
+Sentiment NRC
+anger : 0.09506363285769379
+anticipation : 0.11280370227535673
+disgust : 0.049749325106054766
+fear : 0.07558812186656383
+joy : 0.06324720401079831
+negative : 0.14462013112225222
+positive : 0.14866949479367528
+sadness : 0.07327419976860779
+surprise : 0.064789818742769
+trust : 0.09429232549170845
+Video Number : 58 --> A Curious New Smartphone Gadget...
+Sentiment Vader
+Positive sentiment : 42.06185567010309
+Negative sentiment : 17.0446735395189
+Neutral sentiment : 40.893470790378004
+Sentiment Afinn
+Positive sentiment : 32.85223367697594
+Negative sentiment : 12.508591065292096
+Neutral sentiment : 54.63917525773196
+Sentiment NRC
+anger : 0.03284023668639053
+anticipation : 0.09615384615384616
+disgust : 0.028402366863905324
+fear : 0.03431952662721893
+joy : 0.08727810650887574
+negative : 0.10473372781065089
+positive : 0.1742603550295858
+sadness : 0.04940828402366864
+surprise : 0.04437869822485207
+trust : 0.08254437869822485
+Video Number : 59 --> Apple Watch Series 5 - One New Key Feature
+Sentiment Vader
+Positive sentiment : 43.733333333333334
+Negative sentiment : 18.2
+Neutral sentiment : 38.06666666666666
+Sentiment Afinn
+Positive sentiment : 33.33333333333333
+Negative sentiment : 12.666666666666668
+Neutral sentiment : 54.0
+Sentiment NRC
+anger : 0.0411639460610362
+anticipation : 0.19990537023894014
+disgust : 0.03312041637094866
+fear : 0.16370948663354626
+joy : 0.08634965696711616
+negative : 0.099361249112846
+positive : 0.1767210787792761
+sadness : 0.0631653655074521
+surprise : 0.0383250532292406
+trust : 0.08422048734326947
+Video Number : 60 --> Don&#39;t Not Buy The iPhone 11 Pro
+Sentiment Vader
+Positive sentiment : 40.86666666666667
+Negative sentiment : 24.066666666666666
+Neutral sentiment : 35.06666666666667
+Sentiment Afinn
+Positive sentiment : 32.13333333333333
+Negative sentiment : 18.53333333333333
+Neutral sentiment : 49.333333333333336
+Sentiment NRC
+anger : 0.06430301695661748
+anticipation : 0.11341114292006166
+disgust : 0.05219114732437789
+fear : 0.07575423915437128
+joy : 0.10504294208324158
+negative : 0.13455186082360712
+positive : 0.20612199955956836
+sadness : 0.07157013873596124
+surprise : 0.04184100418410042
+trust : 0.13146883946267343
+Video Number : 61 --> OnePlus 7T Unboxing - The Price Is Right?
+Sentiment Vader
+Positive sentiment : 43.333333333333336
+Negative sentiment : 17.333333333333336
+Neutral sentiment : 39.33333333333333
+Sentiment Afinn
+Positive sentiment : 30.666666666666664
+Negative sentiment : 12.133333333333333
+Neutral sentiment : 57.199999999999996
+Sentiment NRC
+anger : 0.052027972027972026
+anticipation : 0.09426573426573427
+disgust : 0.03776223776223776
+fear : 0.05034965034965035
+joy : 0.06909090909090909
+negative : 0.10153846153846154
+positive : 0.1641958041958042
+sadness : 0.04363636363636364
+surprise : 0.0413986013986014
+trust : 0.09006993006993007
+Video Number : 62 --> They Claim It&#39;s The World&#39;s Thinnest...
+Sentiment Vader
+Positive sentiment : 35.64885496183206
+Negative sentiment : 18.244274809160306
+Neutral sentiment : 46.10687022900763
+Sentiment Afinn
+Positive sentiment : 27.633587786259543
+Negative sentiment : 12.366412213740457
+Neutral sentiment : 60.0
+Sentiment NRC
+anger : 0.04329461457233368
+anticipation : 0.08834917282646955
+disgust : 0.026047166490672298
+fear : 0.053502287926786345
+joy : 0.052094332981344596
+negative : 0.11897219288982752
+positive : 0.14044350580781415
+sadness : 0.04892643435410067
+surprise : 0.05103836677226329
+trust : 0.0858852516719465
+Video Number : 63 --> The &quot;Coolest&quot; iPhone 11 Cases
+Sentiment Vader
+Positive sentiment : 41.4
+Negative sentiment : 16.666666666666664
+Neutral sentiment : 41.93333333333334
+Sentiment Afinn
+Positive sentiment : 30.333333333333336
+Negative sentiment : 12.533333333333333
+Neutral sentiment : 57.13333333333333
+Sentiment NRC
+anger : 0.04130669546436285
+anticipation : 0.09152267818574514
+disgust : 0.032937365010799136
+fear : 0.1573974082073434
+joy : 0.06614470842332613
+negative : 0.19303455723542118
+positive : 0.17116630669546437
+sadness : 0.13660907127429806
+surprise : 0.03401727861771058
+trust : 0.0904427645788337
+Video Number : 64 --> Unboxing The &quot;Waterfall&quot; Smartphone
+Sentiment Vader
+Positive sentiment : 39.2
+Negative sentiment : 24.0
+Neutral sentiment : 36.8
+Sentiment Afinn
+Positive sentiment : 28.999999999999996
+Negative sentiment : 16.733333333333334
+Neutral sentiment : 54.266666666666666
+Sentiment NRC
+anger : 0.045925925925925926
+anticipation : 0.09807407407407408
+disgust : 0.045925925925925926
+fear : 0.05037037037037037
+joy : 0.06518518518518518
+negative : 0.13896296296296295
+positive : 0.18014814814814814
+sadness : 0.05748148148148148
+surprise : 0.050074074074074076
+trust : 0.11555555555555555
+Video Number : 65 --> I designed my own perfect gadget bag
+Sentiment Vader
+Positive sentiment : 49.2
+Negative sentiment : 16.933333333333334
+Neutral sentiment : 33.86666666666667
+Sentiment Afinn
+Positive sentiment : 39.06666666666666
+Negative sentiment : 11.133333333333335
+Neutral sentiment : 49.8
+Sentiment NRC
+anger : 0.04895738893925657
+anticipation : 0.09632819582955576
+disgust : 0.03921124206708976
+fear : 0.052357207615593836
+joy : 0.08046237533998186
+negative : 0.1115140525838622
+positive : 0.17157751586582048
+sadness : 0.049184043517679056
+surprise : 0.05031731640979148
+trust : 0.1056210335448776
+Video Number : 66 --> Unboxing The &quot;New&quot; Samsung Galaxy Fold
+Sentiment Vader
+Positive sentiment : 36.4
+Negative sentiment : 23.466666666666665
+Neutral sentiment : 40.13333333333333
+Sentiment Afinn
+Positive sentiment : 29.26666666666667
+Negative sentiment : 17.733333333333334
+Neutral sentiment : 53.0
+Sentiment NRC
+anger : 0.048454636091724824
+anticipation : 0.10249252243270189
+disgust : 0.04267198404785643
+fear : 0.054636091724825524
+joy : 0.05922233300099701
+negative : 0.1234297108673978
+positive : 0.15194416749750747
+sadness : 0.05722831505483549
+surprise : 0.03529411764705882
+trust : 0.0769690927218345
+Video Number : 67 --> It&#39;s Like Writing On Paper. It&#39;s Not Paper
+Sentiment Vader
+Positive sentiment : 43.266666666666666
+Negative sentiment : 18.066666666666666
+Neutral sentiment : 38.666666666666664
+Sentiment Afinn
+Positive sentiment : 35.46666666666667
+Negative sentiment : 12.066666666666666
+Neutral sentiment : 52.46666666666666
+Sentiment NRC
+anger : 0.03946569520340012
+anticipation : 0.0862173649058895
+disgust : 0.03258449706537138
+fear : 0.04007285974499089
+joy : 0.07791944950414896
+negative : 0.0890507994333131
+positive : 0.1710180125480672
+sadness : 0.0489779396883222
+surprise : 0.043311070633475
+trust : 0.10342036025096134
+Video Number : 68 --> $60 BlackPods 2 vs. $200 AirPods 2
+Sentiment Vader
+Positive sentiment : 35.53333333333333
+Negative sentiment : 26.93333333333333
+Neutral sentiment : 37.53333333333334
+Sentiment Afinn
+Positive sentiment : 29.666666666666668
+Negative sentiment : 20.599999999999998
+Neutral sentiment : 49.733333333333334
+Sentiment NRC
+anger : 0.057279838506182186
+anticipation : 0.13815291445874336
+disgust : 0.03419126924047439
+fear : 0.045041635124905374
+joy : 0.06081251577088065
+negative : 0.12919505425182942
+positive : 0.13171839515518546
+sadness : 0.07040121120363362
+surprise : 0.047943477163764826
+trust : 0.10080746908907394
+Video Number : 69 --> The Vaio SX12 Is The Anti-MacBook
+Sentiment Vader
+Positive sentiment : 43.6
+Negative sentiment : 21.6
+Neutral sentiment : 34.8
+Sentiment Afinn
+Positive sentiment : 35.06666666666667
+Negative sentiment : 16.666666666666664
+Neutral sentiment : 48.266666666666666
+Sentiment NRC
+anger : 0.055103018687110684
+anticipation : 0.10541447053186392
+disgust : 0.05318639195016771
+fear : 0.05797795879252515
+joy : 0.09056061332055582
+negative : 0.12721609966459033
+positive : 0.18375658840440826
+sadness : 0.05366554863440345
+surprise : 0.05366554863440345
+trust : 0.10445615716339243
+Video Number : 70 --> The Reno 2 Smartphone Has Some Fancy Tricks
+Sentiment Vader
+Positive sentiment : 46.53333333333333
+Negative sentiment : 14.266666666666666
+Neutral sentiment : 39.2
+Sentiment Afinn
+Positive sentiment : 36.4
+Negative sentiment : 9.066666666666666
+Neutral sentiment : 54.53333333333333
+Sentiment NRC
+anger : 0.037402752842609216
+anticipation : 0.08288450029922202
+disgust : 0.030221424296828246
+fear : 0.038300418910831836
+joy : 0.07809694793536805
+negative : 0.09395571514063435
+positive : 0.17474566128067026
+sadness : 0.03889886295631358
+surprise : 0.045481747456612806
+trust : 0.09724715739078396
+Video Number : 71 --> Human Headphones Just Changed The Game
+Sentiment Vader
+Positive sentiment : 40.06666666666667
+Negative sentiment : 22.733333333333334
+Neutral sentiment : 37.2
+Sentiment Afinn
+Positive sentiment : 33.733333333333334
+Negative sentiment : 17.866666666666667
+Neutral sentiment : 48.4
+Sentiment NRC
+anger : 0.07083221115001347
+anticipation : 0.09991920280096957
+disgust : 0.07729598707244816
+fear : 0.07217883113385402
+joy : 0.0783732830595206
+negative : 0.17721518987341772
+positive : 0.15513062213843254
+sadness : 0.07945057904659306
+surprise : 0.04309183948289792
+trust : 0.11230810665230272
+Video Number : 72 --> The Nubia Z20 Is A Very Different Smartphone
+Sentiment Vader
+Positive sentiment : 46.53333333333333
+Negative sentiment : 15.0
+Neutral sentiment : 38.46666666666667
+Sentiment Afinn
+Positive sentiment : 35.46666666666667
+Negative sentiment : 10.666666666666668
+Neutral sentiment : 53.86666666666666
+Sentiment NRC
+anger : 0.037497176417438445
+anticipation : 0.07363903320533093
+disgust : 0.028235825615541
+fear : 0.08267449740230404
+joy : 0.051050372712898126
+negative : 0.13914614863338604
+positive : 0.14411565394172127
+sadness : 0.08199683758753105
+surprise : 0.03862660944206009
+trust : 0.08041563135306076
+Video Number : 73 --> The LG V50 Smartphone Has Two Screens!
+Sentiment Vader
+Positive sentiment : 46.0
+Negative sentiment : 17.466666666666665
+Neutral sentiment : 36.53333333333333
+Sentiment Afinn
+Positive sentiment : 38.53333333333334
+Negative sentiment : 13.266666666666666
+Neutral sentiment : 48.199999999999996
+Sentiment NRC
+anger : 0.042741935483870966
+anticipation : 0.09193548387096774
+disgust : 0.03326612903225806
+fear : 0.05040322580645161
+joy : 0.06189516129032258
+negative : 0.09879032258064516
+positive : 0.15604838709677418
+sadness : 0.049193548387096775
+surprise : 0.034274193548387094
+trust : 0.07842741935483871
+Video Number : 74 --> The Mysterious Smartwatch I&#39;ve Been Wearing...
+Sentiment Vader
+Positive sentiment : 48.199999999999996
+Negative sentiment : 15.866666666666667
+Neutral sentiment : 35.93333333333334
+Sentiment Afinn
+Positive sentiment : 37.86666666666667
+Negative sentiment : 10.266666666666667
+Neutral sentiment : 51.866666666666674
+Sentiment NRC
+anger : 0.03878309335810497
+anticipation : 0.2299117510450534
+disgust : 0.025313516024152345
+fear : 0.18532280538783094
+joy : 0.06293543892243382
+negative : 0.08964235949837436
+positive : 0.16279609846725498
+sadness : 0.03274500696702276
+surprise : 0.04435671156525778
+trust : 0.09266140269391547
+Video Number : 75 --> I&#39;m Switching To The Galaxy Note 10
+Sentiment Vader
+Positive sentiment : 40.33333333333333
+Negative sentiment : 23.733333333333334
+Neutral sentiment : 35.93333333333334
+Sentiment Afinn
+Positive sentiment : 30.2
+Negative sentiment : 18.46666666666667
+Neutral sentiment : 51.33333333333333
+Sentiment NRC
+anger : 0.05499692181407757
+anticipation : 0.09008824132977632
+disgust : 0.0435050277036733
+fear : 0.05930638210547917
+joy : 0.06012723168479376
+negative : 0.12271701210753129
+positive : 0.1329776318489637
+sadness : 0.054586497024420276
+surprise : 0.03714344346398522
+trust : 0.07408167453314181
+Video Number : 76 --> The Huawei Windows MacBook Pro
+Sentiment Vader
+Positive sentiment : 39.93333333333333
+Negative sentiment : 22.466666666666665
+Neutral sentiment : 37.6
+Sentiment Afinn
+Positive sentiment : 33.33333333333333
+Negative sentiment : 17.266666666666666
+Neutral sentiment : 49.4
+Sentiment NRC
+anger : 0.05782540745702166
+anticipation : 0.10404108059834785
+disgust : 0.05112748381335119
+fear : 0.06318374637195803
+joy : 0.06519312346505916
+negative : 0.12793034159410582
+positive : 0.16342933690555927
+sadness : 0.05782540745702166
+surprise : 0.04398303192676937
+trust : 0.10649698593436034
+Video Number : 77 --> Bose 700 Headphones - Are They The Best?
+Sentiment Vader
+Positive sentiment : 46.86666666666667
+Negative sentiment : 20.333333333333332
+Neutral sentiment : 32.800000000000004
+Sentiment Afinn
+Positive sentiment : 39.33333333333333
+Negative sentiment : 14.666666666666666
+Neutral sentiment : 46.0
+Sentiment NRC
+anger : 0.04918691025898414
+anticipation : 0.101987552700261
+disgust : 0.043164023288496285
+fear : 0.05902429231078097
+joy : 0.09355551094157799
+negative : 0.13511343103794418
+positive : 0.20136518771331058
+sadness : 0.08231278859666734
+surprise : 0.04958843605701666
+trust : 0.12166231680385464
+Video Number : 78 --> Samsung Galaxy Note 10 Hands On
+Sentiment Vader
+Positive sentiment : 43.0
+Negative sentiment : 24.8
+Neutral sentiment : 32.2
+Sentiment Afinn
+Positive sentiment : 37.93333333333334
+Negative sentiment : 16.933333333333334
+Neutral sentiment : 45.13333333333333
+Sentiment NRC
+anger : 0.05084745762711865
+anticipation : 0.10843998616395711
+disgust : 0.03286060186786579
+fear : 0.0574195780006918
+joy : 0.06502940159114494
+negative : 0.11674161189899689
+positive : 0.15063991698374266
+sadness : 0.053441715669318574
+surprise : 0.04116222760290557
+trust : 0.08785887236250432
+Video Number : 79 --> The Most Powerful Smartphone In The World
+Sentiment Vader
+Positive sentiment : 42.06666666666667
+Negative sentiment : 18.666666666666668
+Neutral sentiment : 39.266666666666666
+Sentiment Afinn
+Positive sentiment : 32.0
+Negative sentiment : 13.733333333333334
+Neutral sentiment : 54.266666666666666
+Sentiment NRC
+anger : 0.05618247298919568
+anticipation : 0.09939975990396159
+disgust : 0.03529411764705882
+fear : 0.06074429771908763
+joy : 0.060024009603841535
+negative : 0.11548619447779111
+positive : 0.14237695078031212
+sadness : 0.041296518607442975
+surprise : 0.03985594237695078
+trust : 0.07635054021608643
+Video Number : 80 --> The Folding Phone You Can Buy Right Now
+Sentiment Vader
+Positive sentiment : 36.6
+Negative sentiment : 25.666666666666664
+Neutral sentiment : 37.733333333333334
+Sentiment Afinn
+Positive sentiment : 31.4
+Negative sentiment : 18.2
+Neutral sentiment : 50.4
+Sentiment NRC
+anger : 0.05033949894638258
+anticipation : 0.08452353078904237
+disgust : 0.048934675719971905
+fear : 0.048232264106766565
+joy : 0.04776398969796301
+negative : 0.13392648091781784
+positive : 0.12315616951533599
+sadness : 0.04776398969796301
+surprise : 0.04237883399672208
+trust : 0.07305080777335518
+Video Number : 81 --> This 2-Pound Laptop Has Super Powers...
+Sentiment Vader
+Positive sentiment : 42.46666666666667
+Negative sentiment : 15.733333333333333
+Neutral sentiment : 41.8
+Sentiment Afinn
+Positive sentiment : 29.933333333333334
+Negative sentiment : 11.799999999999999
+Neutral sentiment : 58.266666666666666
+Sentiment NRC
+anger : 0.06020066889632107
+anticipation : 0.10340022296544035
+disgust : 0.03762541806020067
+fear : 0.048773690078037904
+joy : 0.0721850613154961
+negative : 0.12040133779264214
+positive : 0.16276477146042365
+sadness : 0.04180602006688963
+surprise : 0.045429208472686736
+trust : 0.09225195094760312
+Video Number : 82 --> The Future Flagship Smartphones
+Sentiment Vader
+Positive sentiment : 35.58844256518675
+Negative sentiment : 22.41014799154334
+Neutral sentiment : 42.00140944326991
+Sentiment Afinn
+Positive sentiment : 27.977448907681467
+Negative sentiment : 15.503875968992247
+Neutral sentiment : 56.51867512332629
+Sentiment NRC
+anger : 0.05157297576070139
+anticipation : 0.08973697782362042
+disgust : 0.039711191335740074
+fear : 0.058793192367199584
+joy : 0.05260443527591542
+negative : 0.12454873646209386
+positive : 0.12506446621970088
+sadness : 0.05466735430634347
+surprise : 0.033522434244455904
+trust : 0.08303249097472924
+Video Number : 83 --> Every Console In One Box - The Origin Big O
+Sentiment Vader
+Positive sentiment : 36.6
+Negative sentiment : 19.400000000000002
+Neutral sentiment : 44.0
+Sentiment Afinn
+Positive sentiment : 31.266666666666666
+Negative sentiment : 13.933333333333334
+Neutral sentiment : 54.800000000000004
+Sentiment NRC
+anger : 0.05782747603833866
+anticipation : 0.08977635782747603
+disgust : 0.038977635782747606
+fear : 0.06389776357827476
+joy : 0.07699680511182108
+negative : 0.11182108626198083
+positive : 0.168370607028754
+sadness : 0.05015974440894569
+surprise : 0.04536741214057508
+trust : 0.10223642172523961
+Video Number : 84 --> The Other Type Of ThinkPad...
+Sentiment Vader
+Positive sentiment : 42.507068803016026
+Negative sentiment : 13.949104618284638
+Neutral sentiment : 43.54382657869934
+Sentiment Afinn
+Positive sentiment : 33.64750235626767
+Negative sentiment : 10.179076343072573
+Neutral sentiment : 56.173421300659754
+Sentiment NRC
+anger : 0.05307599517490953
+anticipation : 0.1037394451145959
+disgust : 0.033775633293124246
+fear : 0.04624045034177724
+joy : 0.08041817450743868
+negative : 0.10012062726176116
+positive : 0.17893043827905106
+sadness : 0.04463208685162847
+surprise : 0.04664254121431444
+trust : 0.09650180940892641
+Video Number : 85 --> What The iPhone 11 Will Actually Look Like
+Sentiment Vader
+Positive sentiment : 31.533333333333335
+Negative sentiment : 43.46666666666666
+Neutral sentiment : 25.0
+Sentiment Afinn
+Positive sentiment : 28.333333333333332
+Negative sentiment : 23.133333333333333
+Neutral sentiment : 48.53333333333333
+Sentiment NRC
+anger : 0.07523148148148148
+anticipation : 0.10706018518518519
+disgust : 0.0798611111111111
+fear : 0.08043981481481481
+joy : 0.06510416666666667
+negative : 0.1779513888888889
+positive : 0.16435185185185186
+sadness : 0.0720486111111111
+surprise : 0.040219907407407406
+trust : 0.08738425925925926
+Video Number : 86 --> The World&#39;s Most Expensive Phone Case
+Sentiment Vader
+Positive sentiment : 37.53333333333334
+Negative sentiment : 32.4
+Neutral sentiment : 30.06666666666667
+Sentiment Afinn
+Positive sentiment : 33.800000000000004
+Negative sentiment : 27.933333333333334
+Neutral sentiment : 38.266666666666666
+Sentiment NRC
+anger : 0.06045016077170418
+anticipation : 0.0720257234726688
+disgust : 0.049517684887459806
+fear : 0.16741693461950696
+joy : 0.05873526259378349
+negative : 0.2621650589496249
+positive : 0.17234726688102894
+sadness : 0.17020364415862807
+surprise : 0.05016077170418006
+trust : 0.0827438370846731
+Video Number : 87 --> Unboxing The World&#39;s Smallest Ultrabook
+Sentiment Vader
+Positive sentiment : 45.666666666666664
+Negative sentiment : 11.133333333333335
+Neutral sentiment : 43.2
+Sentiment Afinn
+Positive sentiment : 34.266666666666666
+Negative sentiment : 8.266666666666666
+Neutral sentiment : 57.46666666666667
+Sentiment NRC
+anger : 0.038613560352690784
+anticipation : 0.0896929157798723
+disgust : 0.026755852842809364
+fear : 0.052599574338704776
+joy : 0.06993006993006994
+negative : 0.10003040437823046
+positive : 0.1693523867436911
+sadness : 0.03922164791730009
+surprise : 0.04378230465186987
+trust : 0.08726056552143509
+Video Number : 88 --> What Makes These Headphones So Expensive?
+Sentiment Vader
+Positive sentiment : 43.92828035859821
+Negative sentiment : 14.343928280358597
+Neutral sentiment : 41.727791361043195
+Sentiment Afinn
+Positive sentiment : 31.703341483292586
+Negative sentiment : 11.491442542787286
+Neutral sentiment : 56.805215973920134
+Sentiment NRC
+anger : 0.06606606606606606
+anticipation : 0.11936936936936937
+disgust : 0.04804804804804805
+fear : 0.06156156156156156
+joy : 0.09834834834834835
+negative : 0.13063063063063063
+positive : 0.20908408408408408
+sadness : 0.06006006006006006
+surprise : 0.07357357357357357
+trust : 0.10885885885885886
+Video Number : 89 --> Why Is This Bluetooth Speaker So Popular?
+Sentiment Vader
+Positive sentiment : 51.33333333333333
+Negative sentiment : 13.4
+Neutral sentiment : 35.266666666666666
+Sentiment Afinn
+Positive sentiment : 38.93333333333333
+Negative sentiment : 10.533333333333333
+Neutral sentiment : 50.53333333333333
+Sentiment NRC
+anger : 0.046658851113716295
+anticipation : 0.09237983587338804
+disgust : 0.03540445486518171
+fear : 0.05087924970691676
+joy : 0.08558030480656506
+negative : 0.10199296600234467
+positive : 0.1563892145369285
+sadness : 0.05556858147713951
+surprise : 0.04806565064478312
+trust : 0.09706916764361079
+Video Number : 90 --> Unboxing a $25,000 Smartphone
+Sentiment Vader
+Positive sentiment : 33.2
+Negative sentiment : 30.2
+Neutral sentiment : 36.6
+Sentiment Afinn
+Positive sentiment : 29.26666666666667
+Negative sentiment : 20.533333333333335
+Neutral sentiment : 50.2
+Sentiment NRC
+anger : 0.08075191951284087
+anticipation : 0.1029917924278528
+disgust : 0.06645485835319036
+fear : 0.08763568970082075
+joy : 0.08234048186391316
+negative : 0.17924278527932222
+positive : 0.2004236166269526
+sadness : 0.08128144029653164
+surprise : 0.05824728620598359
+trust : 0.100344188509399
+Video Number : 91 --> The Sony Xperia 1 Deserves Your Attention
+Sentiment Vader
+Positive sentiment : 48.4
+Negative sentiment : 19.466666666666665
+Neutral sentiment : 32.13333333333333
+Sentiment Afinn
+Positive sentiment : 39.733333333333334
+Negative sentiment : 14.399999999999999
+Neutral sentiment : 45.86666666666667
+Sentiment NRC
+anger : 0.04873820073203622
+anticipation : 0.09689847813523406
+disgust : 0.0379502985937199
+fear : 0.05991138508957811
+joy : 0.07936813716047005
+negative : 0.11096127913696784
+positive : 0.15237911770371798
+sadness : 0.0556732806780967
+surprise : 0.03891350414178386
+trust : 0.08803698709304565
+Video Number : 92 --> The Craziest Laptop I&#39;ve Ever Seen
+Sentiment Vader
+Positive sentiment : 46.800000000000004
+Negative sentiment : 17.733333333333334
+Neutral sentiment : 35.46666666666667
+Sentiment Afinn
+Positive sentiment : 36.13333333333333
+Negative sentiment : 11.733333333333333
+Neutral sentiment : 52.13333333333333
+Sentiment NRC
+anger : 0.05112899039709318
+anticipation : 0.09447184012457825
+disgust : 0.03581624708019725
+fear : 0.0508694523747729
+joy : 0.0768232546067999
+negative : 0.1043342849727485
+positive : 0.17726446924474434
+sadness : 0.045938229950687776
+surprise : 0.04100700752660265
+trust : 0.09109784583441474
+Video Number : 93 --> OnePlus 7 Pro Is The Best Smartphone Overall
+Sentiment Vader
+Positive sentiment : 45.06666666666666
+Negative sentiment : 17.666666666666668
+Neutral sentiment : 37.266666666666666
+Sentiment Afinn
+Positive sentiment : 36.53333333333333
+Negative sentiment : 12.866666666666667
+Neutral sentiment : 50.6
+Sentiment NRC
+anger : 0.0697718995591336
+anticipation : 0.12018401380103508
+disgust : 0.03641939812152578
+fear : 0.058654399079930995
+joy : 0.07705577918343876
+negative : 0.11750047920260687
+positive : 0.1765382403680276
+sadness : 0.06823845121717462
+surprise : 0.0663216407897259
+trust : 0.097757331799885
+Video Number : 94 --> The Less Known Samsung Galaxy Phone...
+Sentiment Vader
+Positive sentiment : 44.0
+Negative sentiment : 13.333333333333334
+Neutral sentiment : 42.66666666666667
+Sentiment Afinn
+Positive sentiment : 33.33333333333333
+Negative sentiment : 9.333333333333334
+Neutral sentiment : 57.333333333333336
+Sentiment NRC
+anger : 0.050778443113772456
+anticipation : 0.11497005988023952
+disgust : 0.031137724550898204
+fear : 0.07449101796407186
+joy : 0.07904191616766468
+negative : 0.10083832335329342
+positive : 0.16119760479041917
+sadness : 0.05029940119760479
+surprise : 0.049820359281437125
+trust : 0.10179640718562874
+Video Number : 95 --> Wearbuds Are Like AirPods In Your Watch
+Sentiment Vader
+Positive sentiment : 42.0
+Negative sentiment : 17.866666666666667
+Neutral sentiment : 40.13333333333333
+Sentiment Afinn
+Positive sentiment : 32.266666666666666
+Negative sentiment : 11.200000000000001
+Neutral sentiment : 56.53333333333334
+Sentiment NRC
+anger : 0.05627258647392876
+anticipation : 0.18869385647909137
+disgust : 0.03820340733092411
+fear : 0.13009808982963345
+joy : 0.07589055240061951
+negative : 0.12157976251935984
+positive : 0.17114093959731544
+sadness : 0.06014455343314404
+surprise : 0.06117707795560145
+trust : 0.09395973154362416
+Video Number : 96 --> A Wild Smartphone Contraption Appears...
+Sentiment Vader
+Positive sentiment : 41.53333333333333
+Negative sentiment : 15.466666666666667
+Neutral sentiment : 43.0
+Sentiment Afinn
+Positive sentiment : 28.53333333333333
+Negative sentiment : 12.666666666666668
+Neutral sentiment : 58.8
+Sentiment NRC
+anger : 0.04921259842519685
+anticipation : 0.08891076115485565
+disgust : 0.03937007874015748
+fear : 0.056758530183727035
+joy : 0.06200787401574803
+negative : 0.11843832020997375
+positive : 0.15879265091863518
+sadness : 0.04954068241469816
+surprise : 0.04265091863517061
+trust : 0.08628608923884515
+Video Number : 97 --> Google Pixel 4 Leaked Model Hands On
+Sentiment Vader
+Positive sentiment : 38.93333333333333
+Negative sentiment : 28.53333333333333
+Neutral sentiment : 32.53333333333333
+Sentiment Afinn
+Positive sentiment : 32.0
+Negative sentiment : 20.533333333333335
+Neutral sentiment : 47.46666666666667
+Sentiment NRC
+anger : 0.05037837837837838
+anticipation : 0.088
+disgust : 0.04432432432432432
+fear : 0.05340540540540541
+joy : 0.06313513513513513
+negative : 0.1452972972972973
+positive : 0.15545945945945946
+sadness : 0.05664864864864865
+surprise : 0.044756756756756756
+trust : 0.10032432432432432
+Video Number : 98 --> AirPower Is Here... Sort Of
+Sentiment Vader
+Positive sentiment : 39.4
+Negative sentiment : 19.466666666666665
+Neutral sentiment : 41.13333333333333
+Sentiment Afinn
+Positive sentiment : 28.733333333333334
+Negative sentiment : 14.866666666666667
+Neutral sentiment : 56.39999999999999
+Sentiment NRC
+anger : 0.07700489257604765
+anticipation : 0.12295256328440757
+disgust : 0.029355456285896617
+fear : 0.06870878536481599
+joy : 0.04467134652201659
+negative : 0.10168049351201872
+positive : 0.21378430121250797
+sadness : 0.045522229312912145
+surprise : 0.06551797489895766
+trust : 0.07594128908742821
+Video Number : 99 --> A Very Futuristic Smartphone...
+Sentiment Vader
+Positive sentiment : 39.86666666666667
+Negative sentiment : 16.0
+Neutral sentiment : 44.13333333333333
+Sentiment Afinn
+Positive sentiment : 27.46666666666667
+Negative sentiment : 10.0
+Neutral sentiment : 62.53333333333333
+Sentiment NRC
+anger : 0.03653543307086614
+anticipation : 0.09385826771653544
+disgust : 0.027401574803149607
+fear : 0.051653543307086616
+joy : 0.06488188976377952
+negative : 0.11779527559055118
+positive : 0.15275590551181104
+sadness : 0.047244094488188976
+surprise : 0.048818897637795275
+trust : 0.09889763779527559
+Video Number : 100 --> The Incredible Dual Screen Laptop Is Here
+Sentiment Vader
+Positive sentiment : 43.06666666666666
+Negative sentiment : 19.6
+Neutral sentiment : 37.333333333333336
+Sentiment Afinn
+Positive sentiment : 33.666666666666664
+Negative sentiment : 14.000000000000002
+Neutral sentiment : 52.33333333333333
+Sentiment NRC
+anger : 0.046733798089336434
+anticipation : 0.10250451846114124
+disgust : 0.039504260263361735
+fear : 0.051381358120320166
+joy : 0.06480764265427318
+negative : 0.1192873741285825
+positive : 0.1667957655564162
+sadness : 0.052672347017815646
+surprise : 0.03692228246837077
+trust : 0.0844306738962045
+Video Number : 101 --> I used nothing but iPhone for 30 days
+Sentiment Vader
+Positive sentiment : 47.0
+Negative sentiment : 19.8
+Neutral sentiment : 33.2
+Sentiment Afinn
+Positive sentiment : 36.666666666666664
+Negative sentiment : 16.133333333333333
+Neutral sentiment : 47.199999999999996
+Sentiment NRC
+anger : 0.057854642783611285
+anticipation : 0.10067943174799258
+disgust : 0.04529544986617253
+fear : 0.06156063413629813
+joy : 0.08029647930821494
+negative : 0.12332715668107885
+positive : 0.17582870084414248
+sadness : 0.05579575869878526
+surprise : 0.044471896232242125
+trust : 0.11220918262301832
+Video Number : 102 --> The E-Ink Smartphone - One Charge Lasts Two Weeks
+Sentiment Vader
+Positive sentiment : 52.0
+Negative sentiment : 18.6
+Neutral sentiment : 29.4
+Sentiment Afinn
+Positive sentiment : 43.93333333333334
+Negative sentiment : 14.733333333333334
+Neutral sentiment : 41.333333333333336
+Sentiment NRC
+anger : 0.031854028142879236
+anticipation : 0.10282975104376063
+disgust : 0.027369723210143807
+fear : 0.05025514148755219
+joy : 0.0822638008350085
+negative : 0.08674810576774393
+positive : 0.15942477191897325
+sadness : 0.056285758466058454
+surprise : 0.04267821246327509
+trust : 0.08241843203958558
+Video Number : 103 --> The Most Futuristic 4D Sneakers
+Sentiment Vader
+Positive sentiment : 35.733333333333334
+Negative sentiment : 22.53333333333333
+Neutral sentiment : 41.733333333333334
+Sentiment Afinn
+Positive sentiment : 30.0
+Negative sentiment : 15.933333333333334
+Neutral sentiment : 54.06666666666666
+Sentiment NRC
+anger : 0.05888510861031144
+anticipation : 0.09735671290238157
+disgust : 0.056529704265898977
+fear : 0.055221146296780946
+joy : 0.08845851871237896
+negative : 0.1355666056006281
+positive : 0.16644857367181365
+sadness : 0.04815493326354357
+surprise : 0.04030358544883538
+trust : 0.12091075634650615
+Video Number : 104 --> The Gaming Smartphone Of Your Dreams...
+Sentiment Vader
+Positive sentiment : 46.46666666666667
+Negative sentiment : 15.466666666666667
+Neutral sentiment : 38.06666666666666
+Sentiment Afinn
+Positive sentiment : 34.333333333333336
+Negative sentiment : 11.866666666666667
+Neutral sentiment : 53.800000000000004
+Sentiment NRC
+anger : 0.05303252270729564
+anticipation : 0.08438324055083504
+disgust : 0.03222970993261061
+fear : 0.06358042777615001
+joy : 0.07002636976267214
+negative : 0.12364488719601524
+positive : 0.14093173161441547
+sadness : 0.05596249633753296
+surprise : 0.039847641371227656
+trust : 0.08028127746850279
+Video Number : 105 --> Is There A New Best Laptop 2019?
+Sentiment Vader
+Positive sentiment : 43.2
+Negative sentiment : 19.466666666666665
+Neutral sentiment : 37.333333333333336
+Sentiment Afinn
+Positive sentiment : 36.06666666666667
+Negative sentiment : 13.666666666666666
+Neutral sentiment : 50.26666666666667
+Sentiment NRC
+anger : 0.05366086334366802
+anticipation : 0.10851419031719532
+disgust : 0.03601240162175054
+fear : 0.049129501550202716
+joy : 0.08180300500834725
+negative : 0.11948485571190079
+positive : 0.186262818984021
+sadness : 0.055330312425471026
+surprise : 0.04626758883854042
+trust : 0.10946816122108276
+Video Number : 106 --> OnePlus 7 Pro Unboxing - It&#39;s ALL SCREEN
+Sentiment Vader
+Positive sentiment : 43.93333333333334
+Negative sentiment : 18.866666666666667
+Neutral sentiment : 37.2
+Sentiment Afinn
+Positive sentiment : 32.86666666666667
+Negative sentiment : 13.4
+Neutral sentiment : 53.733333333333334
+Sentiment NRC
+anger : 0.0569050832208727
+anticipation : 0.10706252811515969
+disgust : 0.02834008097165992
+fear : 0.06680161943319839
+joy : 0.06320287899235268
+negative : 0.12708052181736393
+positive : 0.15002249212775529
+sadness : 0.057579847053531266
+surprise : 0.048358074673864146
+trust : 0.0827710301394512
+Video Number : 107 --> Apple Powerbeats Pro Unboxing - Better Than AirPods?
+Sentiment Vader
+Positive sentiment : 46.733333333333334
+Negative sentiment : 19.466666666666665
+Neutral sentiment : 33.800000000000004
+Sentiment Afinn
+Positive sentiment : 39.13333333333333
+Negative sentiment : 15.2
+Neutral sentiment : 45.666666666666664
+Sentiment NRC
+anger : 0.058580413297394426
+anticipation : 0.11015274034141959
+disgust : 0.03827493261455526
+fear : 0.07115902964959568
+joy : 0.08481581311769991
+negative : 0.14249775381850854
+positive : 0.16927223719676548
+sadness : 0.08930817610062892
+surprise : 0.05786163522012579
+trust : 0.10026954177897573
+Video Number : 108 --> Black Apple AirPods 2 FINALLY!
+Sentiment Vader
+Positive sentiment : 38.2
+Negative sentiment : 23.466666666666665
+Neutral sentiment : 38.333333333333336
+Sentiment Afinn
+Positive sentiment : 28.866666666666667
+Negative sentiment : 20.066666666666666
+Neutral sentiment : 51.06666666666667
+Sentiment NRC
+anger : 0.05763688760806916
+anticipation : 0.09245917387127761
+disgust : 0.04346781940441883
+fear : 0.06532180595581172
+joy : 0.08093179634966378
+negative : 0.21805955811719502
+positive : 0.17387127761767532
+sadness : 0.14481268011527376
+surprise : 0.04226705091258405
+trust : 0.10662824207492795
+Video Number : 109 --> I&#39;m Going Back To iPhone.
+Sentiment Vader
+Positive sentiment : 38.86666666666667
+Negative sentiment : 22.400000000000002
+Neutral sentiment : 38.733333333333334
+Sentiment Afinn
+Positive sentiment : 29.46666666666667
+Negative sentiment : 16.6
+Neutral sentiment : 53.93333333333333
+Sentiment NRC
+anger : 0.0597971169247197
+anticipation : 0.10758142018152696
+disgust : 0.055525894287239724
+fear : 0.06994127068873465
+joy : 0.08168713294180459
+negative : 0.14655632674853178
+positive : 0.16631073144687666
+sadness : 0.06620395088093967
+surprise : 0.03897490656700481
+trust : 0.1003737319807795
+Video Number : 110 --> Goodbye Samsung Galaxy Fold...
+Sentiment Vader
+Positive sentiment : 32.13333333333333
+Negative sentiment : 19.400000000000002
+Neutral sentiment : 48.46666666666667
+Sentiment Afinn
+Positive sentiment : 26.466666666666665
+Negative sentiment : 14.333333333333334
+Neutral sentiment : 59.199999999999996
+Sentiment NRC
+anger : 0.04335119337554798
+anticipation : 0.08865075499269362
+disgust : 0.039698002922552364
+fear : 0.05260594252313687
+joy : 0.06039941548952752
+negative : 0.11885046273745738
+positive : 0.15611300535801267
+sadness : 0.05504140282513395
+surprise : 0.04042864101315149
+trust : 0.08889430102289332
+Video Number : 111 --> Samsung Galaxy Fold - What About Cases?
+Sentiment Vader
+Positive sentiment : 39.06666666666666
+Negative sentiment : 25.6
+Neutral sentiment : 35.333333333333336
+Sentiment Afinn
+Positive sentiment : 31.533333333333335
+Negative sentiment : 19.53333333333333
+Neutral sentiment : 48.93333333333334
+Sentiment NRC
+anger : 0.036328194222931064
+anticipation : 0.06184653553074606
+disgust : 0.029062555378344852
+fear : 0.12457912457912458
+joy : 0.04164451532872585
+negative : 0.1842991316675527
+positive : 0.14230019493177387
+sadness : 0.12085769980506822
+surprise : 0.03384724437356016
+trust : 0.08665603402445508
+Video Number : 112 --> Gaming On The Samsung Galaxy Fold
+Sentiment Vader
+Positive sentiment : 43.86666666666667
+Negative sentiment : 17.666666666666668
+Neutral sentiment : 38.46666666666667
+Sentiment Afinn
+Positive sentiment : 28.933333333333334
+Negative sentiment : 14.799999999999999
+Neutral sentiment : 56.266666666666666
+Sentiment NRC
+anger : 0.047017732401934444
+anticipation : 0.07630306286942504
+disgust : 0.030091348737238045
+fear : 0.054809242342826435
+joy : 0.04889844169801182
+negative : 0.12063406770553466
+positive : 0.12547017732401936
+sadness : 0.04030091348737238
+surprise : 0.03815153143471252
+trust : 0.08033315421816228
+Video Number : 113 --> Samsung Galaxy Fold vs Flagship Smartphones
+Sentiment Vader
+Positive sentiment : 41.6
+Negative sentiment : 19.133333333333333
+Neutral sentiment : 39.266666666666666
+Sentiment Afinn
+Positive sentiment : 34.46666666666667
+Negative sentiment : 13.600000000000001
+Neutral sentiment : 51.93333333333333
+Sentiment NRC
+anger : 0.037070200573065905
+anticipation : 0.08076647564469915
+disgust : 0.028116045845272206
+fear : 0.05282951289398281
+joy : 0.054978510028653296
+negative : 0.10547994269340974
+positive : 0.14308739255014327
+sadness : 0.04924785100286533
+surprise : 0.040293696275071636
+trust : 0.09777936962750716
+Video Number : 114 --> This Tiny Brick Can Power All Your Tech
+Sentiment Vader
+Positive sentiment : 38.4
+Negative sentiment : 17.0
+Neutral sentiment : 44.6
+Sentiment Afinn
+Positive sentiment : 31.6
+Negative sentiment : 10.933333333333334
+Neutral sentiment : 57.46666666666667
+Sentiment NRC
+anger : 0.040468819106590004
+anticipation : 0.08889871738168952
+disgust : 0.03184431667403804
+fear : 0.05771782397169394
+joy : 0.05417956656346749
+negative : 0.10946483856700574
+positive : 0.21207430340557276
+sadness : 0.042459088898717384
+surprise : 0.03759398496240601
+trust : 0.09486952675807164
+Video Number : 115 --> A Portable Arcade For The Super Wealthy
+Sentiment Vader
+Positive sentiment : 40.2
+Negative sentiment : 22.133333333333333
+Neutral sentiment : 37.666666666666664
+Sentiment Afinn
+Positive sentiment : 30.733333333333334
+Negative sentiment : 16.666666666666664
+Neutral sentiment : 52.6
+Sentiment NRC
+anger : 0.07355090112031173
+anticipation : 0.08304919629810034
+disgust : 0.05893813930832927
+fear : 0.04432537749634681
+joy : 0.08353628835849976
+negative : 0.14028251339503167
+positive : 0.16902094495859718
+sadness : 0.0472479298587433
+surprise : 0.04870920603994155
+trust : 0.08621529469069654
+Video Number : 116 --> The Other Hole-Punch Smartphone...
+Sentiment Vader
+Positive sentiment : 45.666666666666664
+Negative sentiment : 14.2
+Neutral sentiment : 40.13333333333333
+Sentiment Afinn
+Positive sentiment : 34.266666666666666
+Negative sentiment : 11.466666666666667
+Neutral sentiment : 54.266666666666666
+Sentiment NRC
+anger : 0.06957268627872021
+anticipation : 0.0800944814258106
+disgust : 0.027270775177152675
+fear : 0.08116813399184024
+joy : 0.04831436547133348
+negative : 0.1277646553575263
+positive : 0.15138501181017822
+sadness : 0.08846897144084175
+surprise : 0.06506334550139575
+trust : 0.11767232123684776
+Video Number : 117 --> Huawei P30 vs P30 Pro - Which Is The Better Deal?
+Sentiment Vader
+Positive sentiment : 38.53333333333334
+Negative sentiment : 13.933333333333334
+Neutral sentiment : 47.53333333333333
+Sentiment Afinn
+Positive sentiment : 29.46666666666667
+Negative sentiment : 9.2
+Neutral sentiment : 61.33333333333333
+Sentiment NRC
+anger : 0.07296890672016049
+anticipation : 0.11985957873620863
+disgust : 0.029087261785356068
+fear : 0.05391173520561685
+joy : 0.06619859578736209
+negative : 0.09528585757271815
+positive : 0.21288866599799397
+sadness : 0.045887662988966904
+surprise : 0.07998996990972919
+trust : 0.11158475426278837
+Video Number : 118 --> Galaxy S10 Hole-Punch Special Functionality
+Sentiment Vader
+Positive sentiment : 45.4
+Negative sentiment : 15.2
+Neutral sentiment : 39.4
+Sentiment Afinn
+Positive sentiment : 34.13333333333333
+Negative sentiment : 12.333333333333334
+Neutral sentiment : 53.53333333333333
+Sentiment NRC
+anger : 0.057029926595143984
+anticipation : 0.08921513269339357
+disgust : 0.03359683794466403
+fear : 0.06719367588932806
+joy : 0.06860530773574251
+negative : 0.10163749294184077
+positive : 0.16741953698475437
+sadness : 0.054771315640880856
+surprise : 0.059006211180124224
+trust : 0.09655561829474874
+Video Number : 119 --> Huawei P30 Pro Unboxing - Is The Galaxy S10 In Trouble?
+Sentiment Vader
+Positive sentiment : 42.86666666666667
+Negative sentiment : 19.8
+Neutral sentiment : 37.333333333333336
+Sentiment Afinn
+Positive sentiment : 32.2
+Negative sentiment : 16.066666666666666
+Neutral sentiment : 51.733333333333334
+Sentiment NRC
+anger : 0.06107688186445218
+anticipation : 0.10420573265470132
+disgust : 0.046879185641575144
+fear : 0.07072060005357621
+joy : 0.07393517278328422
+negative : 0.13956603268148943
+positive : 0.1647468523975355
+sadness : 0.057862309134744175
+surprise : 0.04929011518885615
+trust : 0.10554513795874632
+Video Number : 120 --> Samsung Galaxy S10 Review - 3 Weeks Later
+Sentiment Vader
+Positive sentiment : 42.199999999999996
+Negative sentiment : 20.466666666666665
+Neutral sentiment : 37.333333333333336
+Sentiment Afinn
+Positive sentiment : 34.93333333333333
+Negative sentiment : 16.266666666666666
+Neutral sentiment : 48.8
+Sentiment NRC
+anger : 0.05399282612799698
+anticipation : 0.09458183877666604
+disgust : 0.04096658485935435
+fear : 0.07362658108363225
+joy : 0.07136114781952048
+negative : 0.13026241268642627
+positive : 0.1578251840664527
+sadness : 0.0706060033981499
+surprise : 0.042476873702095526
+trust : 0.08646403624693223
+Video Number : 121 --> Samsung Galaxy Buds VS. Apple AirPods
+Sentiment Vader
+Positive sentiment : 47.091932457786115
+Negative sentiment : 17.88617886178862
+Neutral sentiment : 35.02188868042527
+Sentiment Afinn
+Positive sentiment : 39.9624765478424
+Negative sentiment : 14.884302689180737
+Neutral sentiment : 45.15322076297686
+Sentiment NRC
+anger : 0.05650747356908494
+anticipation : 0.09624498724024791
+disgust : 0.03609187021509296
+fear : 0.06562158220925994
+joy : 0.07546481954064893
+negative : 0.12705067444403936
+positive : 0.16022602989427634
+sadness : 0.07254830477579292
+surprise : 0.04702880058330295
+trust : 0.09569814072183741
+Video Number : 122 --> This Folding Phone Is Different...
+Sentiment Vader
+Positive sentiment : 53.93333333333333
+Negative sentiment : 16.266666666666666
+Neutral sentiment : 29.799999999999997
+Sentiment Afinn
+Positive sentiment : 45.13333333333333
+Negative sentiment : 13.0
+Neutral sentiment : 41.86666666666667
+Sentiment NRC
+anger : 0.0443898753305629
+anticipation : 0.09501322251605591
+disgust : 0.03230071779372875
+fear : 0.05005666792595391
+joy : 0.08386853041178693
+negative : 0.09841329807329052
+positive : 0.1639591990933132
+sadness : 0.0426898375519456
+surprise : 0.04646769928220627
+trust : 0.08972421609369097
+Video Number : 123 --> The Google Pixel 4 Is Coming...
+Sentiment Vader
+Positive sentiment : 43.4
+Negative sentiment : 24.0
+Neutral sentiment : 32.6
+Sentiment Afinn
+Positive sentiment : 36.46666666666666
+Negative sentiment : 17.0
+Neutral sentiment : 46.53333333333333
+Sentiment NRC
+anger : 0.07685967442818875
+anticipation : 0.09313826499072739
+disgust : 0.04409643519472491
+fear : 0.07047187306820524
+joy : 0.06738100144240676
+negative : 0.14588914073768802
+positive : 0.14671337317123428
+sadness : 0.07356274469400371
+surprise : 0.06635071090047394
+trust : 0.08613228930558417
+Video Number : 124 --> Samsung Galaxy S10 Fingerprint Trick
+Sentiment Vader
+Positive sentiment : 44.93333333333333
+Negative sentiment : 22.6
+Neutral sentiment : 32.46666666666667
+Sentiment Afinn
+Positive sentiment : 32.86666666666667
+Negative sentiment : 17.466666666666665
+Neutral sentiment : 49.666666666666664
+Sentiment NRC
+anger : 0.028985507246376812
+anticipation : 0.08589607635206786
+disgust : 0.03092965712265818
+fear : 0.04383174266525274
+joy : 0.043478260869565216
+negative : 0.11717921527041357
+positive : 0.10622127960410038
+sadness : 0.049487451396253095
+surprise : 0.04277129727819017
+trust : 0.0662778366914104
+Video Number : 125 --> The Most Expensive Phone I&#39;ll Never Use...
+Sentiment Vader
+Positive sentiment : 38.6
+Negative sentiment : 18.53333333333333
+Neutral sentiment : 42.86666666666667
+Sentiment Afinn
+Positive sentiment : 29.599999999999998
+Negative sentiment : 13.733333333333334
+Neutral sentiment : 56.666666666666664
+Sentiment NRC
+anger : 0.047665847665847666
+anticipation : 0.0945945945945946
+disgust : 0.03783783783783784
+fear : 0.05380835380835381
+joy : 0.09312039312039312
+negative : 0.10737100737100737
+positive : 0.16093366093366093
+sadness : 0.07223587223587223
+surprise : 0.04176904176904177
+trust : 0.08820638820638821
+Video Number : 126 --> Samsung Galaxy S10 Unlock Hack (WARNING)
+Sentiment Vader
+Positive sentiment : 41.86666666666667
+Negative sentiment : 23.200000000000003
+Neutral sentiment : 34.93333333333333
+Sentiment Afinn
+Positive sentiment : 29.533333333333335
+Negative sentiment : 20.333333333333332
+Neutral sentiment : 50.13333333333333
+Sentiment NRC
+anger : 0.03793427230046948
+anticipation : 0.06647887323943662
+disgust : 0.039248826291079814
+fear : 0.051830985915492955
+joy : 0.04488262910798122
+negative : 0.1132394366197183
+positive : 0.12075117370892019
+sadness : 0.044131455399061034
+surprise : 0.03436619718309859
+trust : 0.08619718309859155
+Video Number : 127 --> This is the OnePlus 7
+Sentiment Vader
+Positive sentiment : 38.2
+Negative sentiment : 26.6
+Neutral sentiment : 35.199999999999996
+Sentiment Afinn
+Positive sentiment : 35.733333333333334
+Negative sentiment : 16.266666666666666
+Neutral sentiment : 48.0
+Sentiment NRC
+anger : 0.0848987108655617
+anticipation : 0.1263351749539595
+disgust : 0.034806629834254144
+fear : 0.053775322283609574
+joy : 0.061878453038674036
+negative : 0.1434622467771639
+positive : 0.18158379373848987
+sadness : 0.05267034990791897
+surprise : 0.1007366482504604
+trust : 0.09097605893186003
+Video Number : 128 --> 5 Unexpectedly Cool Gadgets Under $30
+Sentiment Vader
+Positive sentiment : 45.4
+Negative sentiment : 17.8
+Neutral sentiment : 36.8
+Sentiment Afinn
+Positive sentiment : 34.599999999999994
+Negative sentiment : 13.666666666666666
+Neutral sentiment : 51.733333333333334
+Sentiment NRC
+anger : 0.047593293672255274
+anticipation : 0.07003785830178474
+disgust : 0.03163872363439697
+fear : 0.06327744726879395
+joy : 0.0662520281233099
+negative : 0.11871281773931855
+positive : 0.183071930773391
+sadness : 0.055164954029204974
+surprise : 0.05191995673336939
+trust : 0.09113034072471607
+Video Number : 129 --> Behold The $2000 Samsung Galaxy Fold
+Sentiment Vader
+Positive sentiment : 39.6
+Negative sentiment : 21.6
+Neutral sentiment : 38.800000000000004
+Sentiment Afinn
+Positive sentiment : 34.66666666666667
+Negative sentiment : 15.8
+Neutral sentiment : 49.53333333333333
+Sentiment NRC
+anger : 0.040522875816993466
+anticipation : 0.09430438842203548
+disgust : 0.03361344537815126
+fear : 0.04519140989729225
+joy : 0.058823529411764705
+negative : 0.11895424836601307
+positive : 0.14939309056956115
+sadness : 0.04295051353874883
+surprise : 0.03436041083099907
+trust : 0.08534080298786181
+Video Number : 130 --> Samsung Galaxy S10+ Hands On
+Sentiment Vader
+Positive sentiment : 43.53333333333333
+Negative sentiment : 18.066666666666666
+Neutral sentiment : 38.4
+Sentiment Afinn
+Positive sentiment : 33.4
+Negative sentiment : 13.066666666666665
+Neutral sentiment : 53.53333333333333
+Sentiment NRC
+anger : 0.055423765365538065
+anticipation : 0.11257278412766875
+disgust : 0.03730860470131551
+fear : 0.08043993961613112
+joy : 0.06469700237222342
+negative : 0.13284451153763208
+positive : 0.15160664222557688
+sadness : 0.06620659909424197
+surprise : 0.046581841708000865
+trust : 0.09575156351089066
+Video Number : 131 --> The New Notch-Less Smartphone
+Sentiment Vader
+Positive sentiment : 43.6
+Negative sentiment : 16.733333333333334
+Neutral sentiment : 39.666666666666664
+Sentiment Afinn
+Positive sentiment : 36.13333333333333
+Negative sentiment : 10.866666666666665
+Neutral sentiment : 53.0
+Sentiment NRC
+anger : 0.04591977869986169
+anticipation : 0.09626556016597511
+disgust : 0.02987551867219917
+fear : 0.05726141078838174
+joy : 0.06804979253112033
+negative : 0.10816044260027663
+positive : 0.1598893499308437
+sadness : 0.048409405255878286
+surprise : 0.0627939142461964
+trust : 0.09488243430152143
+Video Number : 132 --> This Is The Worst Smartphone.
+Sentiment Vader
+Positive sentiment : 33.800000000000004
+Negative sentiment : 30.333333333333336
+Neutral sentiment : 35.86666666666667
+Sentiment Afinn
+Positive sentiment : 24.6
+Negative sentiment : 27.333333333333332
+Neutral sentiment : 48.06666666666667
+Sentiment NRC
+anger : 0.07400667273278738
+anticipation : 0.10888686684865029
+disgust : 0.0570215347285411
+fear : 0.10494388838337883
+joy : 0.051562026084319076
+negative : 0.17561419472247497
+positive : 0.1240521686381559
+sadness : 0.08674552623597209
+surprise : 0.05489839247801031
+trust : 0.07734303912647862
+Video Number : 133 --> The Best Selling 4K TV On Amazon...
+Sentiment Vader
+Positive sentiment : 46.53333333333333
+Negative sentiment : 18.333333333333332
+Neutral sentiment : 35.13333333333333
+Sentiment Afinn
+Positive sentiment : 37.266666666666666
+Negative sentiment : 13.266666666666666
+Neutral sentiment : 49.46666666666666
+Sentiment NRC
+anger : 0.04646306447402767
+anticipation : 0.11850691725398069
+disgust : 0.04019838162359697
+fear : 0.060819629339598016
+joy : 0.09788566953797964
+negative : 0.12242234403549987
+positive : 0.19263899765074394
+sadness : 0.05716523101018011
+surprise : 0.06003654398329418
+trust : 0.11615766118506918
+Video Number : 134 --> The Weirdest Gadget On Amazon...
+Sentiment Vader
+Positive sentiment : 40.733333333333334
+Negative sentiment : 24.2
+Neutral sentiment : 35.06666666666667
+Sentiment Afinn
+Positive sentiment : 24.46666666666667
+Negative sentiment : 19.933333333333334
+Neutral sentiment : 55.60000000000001
+Sentiment NRC
+anger : 0.08260689082606891
+anticipation : 0.11913657119136571
+disgust : 0.07970112079701121
+fear : 0.10834371108343711
+joy : 0.10170195101701951
+negative : 0.17102532171025323
+positive : 0.1797426317974263
+sadness : 0.0767953507679535
+surprise : 0.056870070568700706
+trust : 0.0942299709422997
+Video Number : 135 --> Nike Adapt BB Unboxing - Futuristic Self Lacing Sneakers
+Sentiment Vader
+Positive sentiment : 30.0
+Negative sentiment : 27.066666666666666
+Neutral sentiment : 42.93333333333334
+Sentiment Afinn
+Positive sentiment : 23.933333333333334
+Negative sentiment : 19.26666666666667
+Neutral sentiment : 56.8
+Sentiment NRC
+anger : 0.08556417312984739
+anticipation : 0.0778083562672004
+disgust : 0.0417813360020015
+fear : 0.07980985739304479
+joy : 0.0542907180385289
+negative : 0.1646234676007005
+positive : 0.15786840130097574
+sadness : 0.07480610457843383
+surprise : 0.03427570678008506
+trust : 0.11758819114335751
+Video Number : 136 --> Dave2D Says Don&#39;t Buy These Laptops
+Sentiment Vader
+Positive sentiment : 54.13333333333333
+Negative sentiment : 17.933333333333334
+Neutral sentiment : 27.933333333333334
+Sentiment Afinn
+Positive sentiment : 46.733333333333334
+Negative sentiment : 13.333333333333334
+Neutral sentiment : 39.93333333333333
+Sentiment NRC
+anger : 0.05590955806783145
+anticipation : 0.11038026721479959
+disgust : 0.03597122302158273
+fear : 0.050770811921891056
+joy : 0.10709146968139774
+negative : 0.10215827338129496
+positive : 0.22816032887975335
+sadness : 0.05467625899280575
+surprise : 0.05303186022610483
+trust : 0.12929085303186022
+Video Number : 137 --> Lose Weight Without Exercise
+Sentiment Vader
+Positive sentiment : 33.53333333333333
+Negative sentiment : 28.799999999999997
+Neutral sentiment : 37.666666666666664
+Sentiment Afinn
+Positive sentiment : 26.266666666666666
+Negative sentiment : 21.666666666666668
+Neutral sentiment : 52.06666666666667
+Sentiment NRC
+anger : 0.09603624009060023
+anticipation : 0.14699886749716876
+disgust : 0.16851642129105324
+fear : 0.16036240090600226
+joy : 0.11075877689694225
+negative : 0.26862967157417894
+positive : 0.19909399773499434
+sadness : 0.17055492638731598
+surprise : 0.11981879954699887
+trust : 0.1463193657984145
+Video Number : 138 --> OnePlus Beats iPhone In India
+Sentiment Vader
+Positive sentiment : 43.93333333333334
+Negative sentiment : 19.133333333333333
+Neutral sentiment : 36.93333333333334
+Sentiment Afinn
+Positive sentiment : 32.733333333333334
+Negative sentiment : 15.266666666666667
+Neutral sentiment : 52.0
+Sentiment NRC
+anger : 0.060810810810810814
+anticipation : 0.11649580615097857
+disgust : 0.03960857409133271
+fear : 0.057082945013979494
+joy : 0.09133271202236719
+negative : 0.12045666356011184
+positive : 0.20293569431500466
+sadness : 0.04706430568499534
+surprise : 0.05149114631873253
+trust : 0.12255358807082944
+Video Number : 139 --> Don&#39;t Make This AirPods Mistake...
+Sentiment Vader
+Positive sentiment : 45.13333333333333
+Negative sentiment : 19.333333333333332
+Neutral sentiment : 35.53333333333333
+Sentiment Afinn
+Positive sentiment : 32.86666666666667
+Negative sentiment : 17.0
+Neutral sentiment : 50.13333333333333
+Sentiment NRC
+anger : 0.05891619407687461
+anticipation : 0.1414618777567738
+disgust : 0.052930056710775046
+fear : 0.08947700063011972
+joy : 0.13736609955891618
+negative : 0.15784499054820417
+positive : 0.21392564587271581
+sadness : 0.07088846880907372
+surprise : 0.10869565217391304
+trust : 0.09388783868935098
+Video Number : 140 --> Check Out The Back Of This Smartphone
+Sentiment Vader
+Positive sentiment : 38.93333333333333
+Negative sentiment : 20.200000000000003
+Neutral sentiment : 40.86666666666667
+Sentiment Afinn
+Positive sentiment : 30.866666666666664
+Negative sentiment : 12.8
+Neutral sentiment : 56.333333333333336
+Sentiment NRC
+anger : 0.0583729529846804
+anticipation : 0.10353935552033809
+disgust : 0.052033808769149495
+fear : 0.0549392498679345
+joy : 0.06920232435287903
+negative : 0.12387744321183307
+positive : 0.1526677231907026
+sadness : 0.04463814051769678
+surprise : 0.04094030639197042
+trust : 0.0948230322239831
+Video Number : 141 --> The iPhone XI Smartphone Powered Laptop
+Sentiment Vader
+Positive sentiment : 44.86666666666667
+Negative sentiment : 20.0
+Neutral sentiment : 35.13333333333333
+Sentiment Afinn
+Positive sentiment : 39.2
+Negative sentiment : 15.8
+Neutral sentiment : 45.0
+Sentiment NRC
+anger : 0.041474654377880185
+anticipation : 0.09376878381085954
+disgust : 0.024644359847725908
+fear : 0.05109196553796834
+joy : 0.06551793227810059
+negative : 0.10218393107593668
+positive : 0.17231015828491283
+sadness : 0.05069124423963134
+surprise : 0.03907032658785815
+trust : 0.08615507914245642
+Video Number : 142 --> The Top Wireless Earbuds On Amazon Are Only $17
+Sentiment Vader
+Positive sentiment : 54.93333333333334
+Negative sentiment : 15.0
+Neutral sentiment : 30.06666666666667
+Sentiment Afinn
+Positive sentiment : 43.6
+Negative sentiment : 13.0
+Neutral sentiment : 43.4
+Sentiment NRC
+anger : 0.06720195496596265
+anticipation : 0.1345784604643044
+disgust : 0.029499039972071914
+fear : 0.053237912375632745
+joy : 0.09495548961424333
+negative : 0.10368301623319952
+positive : 0.20876243672543202
+sadness : 0.05341246290801187
+surprise : 0.09390818641996858
+trust : 0.11799615988828766
+Video Number : 143 --> Does MKBHD Like The Xiaomi Folding Phone?
+Sentiment Vader
+Positive sentiment : 42.0
+Negative sentiment : 20.4
+Neutral sentiment : 37.6
+Sentiment Afinn
+Positive sentiment : 36.93333333333334
+Negative sentiment : 15.533333333333331
+Neutral sentiment : 47.53333333333333
+Sentiment NRC
+anger : 0.032246310803425035
+anticipation : 0.07396611404627437
+disgust : 0.025141191473856805
+fear : 0.048824922572417565
+joy : 0.04827837493168154
+negative : 0.10493714702131536
+positive : 0.13044270358899618
+sadness : 0.04190198578976134
+surprise : 0.030788850428128987
+trust : 0.06995809801421024
+Video Number : 144 --> You Guys Asked For Weird Gadgets...
+Sentiment Vader
+Positive sentiment : 42.86666666666667
+Negative sentiment : 17.733333333333334
+Neutral sentiment : 39.4
+Sentiment Afinn
+Positive sentiment : 33.266666666666666
+Negative sentiment : 15.2
+Neutral sentiment : 51.53333333333333
+Sentiment NRC
+anger : 0.10031964593066142
+anticipation : 0.09613966068355052
+disgust : 0.03614457831325301
+fear : 0.06687976395377428
+joy : 0.0494221785099582
+negative : 0.13203835751167936
+positive : 0.15834767641996558
+sadness : 0.054093926727317436
+surprise : 0.04647160068846816
+trust : 0.06269977870666339
+Video Number : 145 --> It&#39;s The Best Selling Smartphone On Amazon... But Why?
+Sentiment Vader
+Positive sentiment : 50.2
+Negative sentiment : 14.6
+Neutral sentiment : 35.199999999999996
+Sentiment Afinn
+Positive sentiment : 39.733333333333334
+Negative sentiment : 12.466666666666667
+Neutral sentiment : 47.8
+Sentiment NRC
+anger : 0.05749338465239355
+anticipation : 0.0947798893432764
+disgust : 0.03776762088044263
+fear : 0.06422901130623046
+joy : 0.07794082270868415
+negative : 0.1197979312003849
+positive : 0.17416406062063988
+sadness : 0.05893673322107289
+surprise : 0.054606687515034884
+trust : 0.11378397883088766
+Video Number : 146 --> I&#39;ve got some bad news.
+Sentiment Vader
+Positive sentiment : 29.133333333333333
+Negative sentiment : 36.0
+Neutral sentiment : 34.86666666666667
+Sentiment Afinn
+Positive sentiment : 23.200000000000003
+Negative sentiment : 29.533333333333335
+Neutral sentiment : 47.266666666666666
+Sentiment NRC
+anger : 0.049560749212663686
+anticipation : 0.11868059008785016
+disgust : 0.04574838388861263
+fear : 0.08503232222774738
+joy : 0.051052544339466266
+negative : 0.1531576330183988
+positive : 0.12613956572186308
+sadness : 0.08503232222774738
+surprise : 0.03232222774738936
+trust : 0.0730979612133267
+Video Number : 147 --> Switching To iPhone Could Save Your Life...
+Sentiment Vader
+Positive sentiment : 42.46666666666667
+Negative sentiment : 29.46666666666667
+Neutral sentiment : 28.066666666666666
+Sentiment Afinn
+Positive sentiment : 38.2
+Negative sentiment : 24.066666666666666
+Neutral sentiment : 37.733333333333334
+Sentiment NRC
+anger : 0.06272661348803481
+anticipation : 0.1653372008701958
+disgust : 0.044053662073966646
+fear : 0.14557650471356054
+joy : 0.10025380710659898
+negative : 0.14231327048585932
+positive : 0.2037708484408992
+sadness : 0.06979695431472081
+surprise : 0.044053662073966646
+trust : 0.1562726613488035
+Video Number : 148 --> This Is Not A Laptop...
+Sentiment Vader
+Positive sentiment : 41.199999999999996
+Negative sentiment : 18.666666666666668
+Neutral sentiment : 40.13333333333333
+Sentiment Afinn
+Positive sentiment : 33.800000000000004
+Negative sentiment : 12.133333333333333
+Neutral sentiment : 54.06666666666666
+Sentiment NRC
+anger : 0.044230294044971585
+anticipation : 0.08401284902396837
+disgust : 0.038299975290338524
+fear : 0.04843093649617
+joy : 0.07635285396590066
+negative : 0.10773412404250061
+positive : 0.17963923894242648
+sadness : 0.04595997034840623
+surprise : 0.04398319743019521
+trust : 0.10575735112428959
+Video Number : 149 --> Could This Actually Be The iPhone 11?
+Sentiment Vader
+Positive sentiment : 39.13333333333333
+Negative sentiment : 26.866666666666667
+Neutral sentiment : 34.0
+Sentiment Afinn
+Positive sentiment : 33.733333333333334
+Negative sentiment : 16.6
+Neutral sentiment : 49.666666666666664
+Sentiment NRC
+anger : 0.046420141620771044
+anticipation : 0.08733280881195908
+disgust : 0.036585365853658534
+fear : 0.05350118017309206
+joy : 0.06215578284815106
+negative : 0.11467348544453186
+positive : 0.16601101494885917
+sadness : 0.05527143981117231
+surprise : 0.036585365853658534
+trust : 0.08910306845003933
+Video Number : 150 --> Can You Spot The Hidden Tech?
+Sentiment Vader
+Positive sentiment : 45.06666666666666
+Negative sentiment : 12.466666666666667
+Neutral sentiment : 42.46666666666667
+Sentiment Afinn
+Positive sentiment : 33.666666666666664
+Negative sentiment : 9.466666666666667
+Neutral sentiment : 56.86666666666667
+Sentiment NRC
+anger : 0.05002476473501734
+anticipation : 0.08098068350668648
+disgust : 0.0237741456166419
+fear : 0.050767706785537395
+joy : 0.060178306092124816
+negative : 0.11119366022783556
+positive : 0.14611193660227836
+sadness : 0.03467062902426944
+surprise : 0.03863298662704309
+trust : 0.09732540861812779
+Video Number : 151 --> The Redmi Note 7 Could Be Smartphone Value Champion
+Sentiment Vader
+Positive sentiment : 50.06666666666667
+Negative sentiment : 15.466666666666667
+Neutral sentiment : 34.46666666666667
+Sentiment Afinn
+Positive sentiment : 40.6
+Negative sentiment : 10.933333333333334
+Neutral sentiment : 48.46666666666667
+Sentiment NRC
+anger : 0.03753203954595386
+anticipation : 0.10618820944708898
+disgust : 0.019772976931526912
+fear : 0.045953863053826434
+joy : 0.0719516660563896
+negative : 0.09923105089710729
+positive : 0.16440864152325155
+sadness : 0.038813621384108384
+surprise : 0.05034785792749909
+trust : 0.11149761991944343
+Video Number : 152 --> Humans Are Physically Attacking Self-Driving Cars
+Sentiment Vader
+Positive sentiment : 35.46666666666667
+Negative sentiment : 39.93333333333333
+Neutral sentiment : 24.6
+Sentiment Afinn
+Positive sentiment : 29.933333333333334
+Negative sentiment : 34.46666666666667
+Neutral sentiment : 35.6
+Sentiment NRC
+anger : 0.09668943772990016
+anticipation : 0.09209143457698371
+disgust : 0.04466631634261692
+fear : 0.11127167630057803
+joy : 0.0604308985811876
+negative : 0.18234366789280085
+positive : 0.17143983184445613
+sadness : 0.07566999474513926
+surprise : 0.04125065685759327
+trust : 0.09327377824487651
+Video Number : 153 --> Apple Is Finally Making Friends...
+Sentiment Vader
+Positive sentiment : 46.6
+Negative sentiment : 23.133333333333333
+Neutral sentiment : 30.266666666666666
+Sentiment Afinn
+Positive sentiment : 41.66666666666667
+Negative sentiment : 16.0
+Neutral sentiment : 42.333333333333336
+Sentiment NRC
+anger : 0.05059337913803873
+anticipation : 0.12242348532167395
+disgust : 0.041016031646887365
+fear : 0.059129710597543204
+joy : 0.1128461378305226
+negative : 0.10847387049760567
+positive : 0.2171559442015407
+sadness : 0.05850510097855507
+surprise : 0.05225900478867374
+trust : 0.14012075785967104
+Video Number : 154 --> The Most Minimalist Phone
+Sentiment Vader
+Positive sentiment : 40.93333333333333
+Negative sentiment : 17.8
+Neutral sentiment : 41.266666666666666
+Sentiment Afinn
+Positive sentiment : 33.13333333333333
+Negative sentiment : 13.666666666666666
+Neutral sentiment : 53.2
+Sentiment NRC
+anger : 0.039638386648122394
+anticipation : 0.10083449235048679
+disgust : 0.034075104311543813
+fear : 0.056096430227167364
+joy : 0.06235512285581827
+negative : 0.10662957811775614
+positive : 0.14812239221140472
+sadness : 0.03337969401947149
+surprise : 0.03546592489568846
+trust : 0.09967547519703292
+Video Number : 155 --> Can You Spot The Notch?
+Sentiment Vader
+Positive sentiment : 40.13333333333333
+Negative sentiment : 13.8
+Neutral sentiment : 46.06666666666667
+Sentiment Afinn
+Positive sentiment : 26.93333333333333
+Negative sentiment : 9.4
+Neutral sentiment : 63.66666666666667
+Sentiment NRC
+anger : 0.04906887378066804
+anticipation : 0.08394915755246822
+disgust : 0.03488028377180018
+fear : 0.061483890038427434
+joy : 0.06059710316287319
+negative : 0.10582323381613952
+positive : 0.1563700857227313
+sadness : 0.05852793378657996
+surprise : 0.03901862252438664
+trust : 0.09074785693171741
+Video Number : 156 --> The Best Noise Cancelling Headphones... Bose or Sony?
+Sentiment Vader
+Positive sentiment : 50.66666666666667
+Negative sentiment : 17.133333333333333
+Neutral sentiment : 32.2
+Sentiment Afinn
+Positive sentiment : 44.93333333333333
+Negative sentiment : 12.466666666666667
+Neutral sentiment : 42.6
+Sentiment NRC
+anger : 0.04694119640738858
+anticipation : 0.1221826809015421
+disgust : 0.028130825283850195
+fear : 0.05236400610066091
+joy : 0.09439078122352143
+negative : 0.13235044907642773
+positive : 0.19284866971699713
+sadness : 0.08845958312150483
+surprise : 0.04948313845110998
+trust : 0.11862396204033215
+Video Number : 157 --> This Is Not A Flamethrower...
+Sentiment Vader
+Positive sentiment : 33.06666666666666
+Negative sentiment : 22.733333333333334
+Neutral sentiment : 44.2
+Sentiment Afinn
+Positive sentiment : 22.933333333333334
+Negative sentiment : 19.133333333333333
+Neutral sentiment : 57.93333333333334
+Sentiment NRC
+anger : 0.09543147208121827
+anticipation : 0.08595600676818951
+disgust : 0.05177664974619289
+fear : 0.12284263959390863
+joy : 0.06463620981387479
+negative : 0.17292724196277495
+positive : 0.14213197969543148
+sadness : 0.047038917089678514
+surprise : 0.046700507614213196
+trust : 0.09170896785109983
+Video Number : 158 --> They Sent A Special OnePlus 6T…
+Sentiment Vader
+Positive sentiment : 43.86666666666667
+Negative sentiment : 16.733333333333334
+Neutral sentiment : 39.4
+Sentiment Afinn
+Positive sentiment : 32.0
+Negative sentiment : 10.266666666666667
+Neutral sentiment : 57.733333333333334
+Sentiment NRC
+anger : 0.09114735002912056
+anticipation : 0.11560861968549796
+disgust : 0.0378567268491555
+fear : 0.049796156086196856
+joy : 0.0669772859638905
+negative : 0.13803145020384391
+positive : 0.18142108328479906
+sadness : 0.040768782760629
+surprise : 0.036983110075713456
+trust : 0.0809551543389633
+Video Number : 159 --> Wait... This Headset Does WHAT?
+Sentiment Vader
+Positive sentiment : 45.6
+Negative sentiment : 13.466666666666665
+Neutral sentiment : 40.93333333333333
+Sentiment Afinn
+Positive sentiment : 33.6
+Negative sentiment : 11.666666666666666
+Neutral sentiment : 54.733333333333334
+Sentiment NRC
+anger : 0.062401512763945795
+anticipation : 0.11125118184683265
+disgust : 0.04128584935392373
+fear : 0.06618342262842736
+joy : 0.08320201701859439
+negative : 0.12322722975102426
+positive : 0.20327765521588403
+sadness : 0.04569807752915222
+surprise : 0.04254648597541759
+trust : 0.0986448156318941
+Video Number : 160 --> The Truth About The iPad Pro...
+Sentiment Vader
+Positive sentiment : 48.53333333333333
+Negative sentiment : 18.266666666666666
+Neutral sentiment : 33.2
+Sentiment Afinn
+Positive sentiment : 37.8
+Negative sentiment : 14.066666666666666
+Neutral sentiment : 48.13333333333333
+Sentiment NRC
+anger : 0.038677685950413224
+anticipation : 0.09305785123966942
+disgust : 0.0315702479338843
+fear : 0.05702479338842975
+joy : 0.07289256198347108
+negative : 0.09702479338842976
+positive : 0.1894214876033058
+sadness : 0.056859504132231405
+surprise : 0.03933884297520661
+trust : 0.10479338842975207
+Video Number : 161 --> Can The Google Pixel Slate Beat The iPad Pro?
+Sentiment Vader
+Positive sentiment : 38.93333333333333
+Negative sentiment : 18.8
+Neutral sentiment : 42.266666666666666
+Sentiment Afinn
+Positive sentiment : 29.4
+Negative sentiment : 12.333333333333334
+Neutral sentiment : 58.266666666666666
+Sentiment NRC
+anger : 0.0444831013916501
+anticipation : 0.08275347912524851
+disgust : 0.03628230616302187
+fear : 0.04970178926441352
+joy : 0.06336978131212724
+negative : 0.10636182902584493
+positive : 0.22738568588469185
+sadness : 0.04473161033797217
+surprise : 0.03578528827037773
+trust : 0.09244532803180915
+Video Number : 162 --> Is The Huawei Mate 20 Pro As Good As They Say?
+Sentiment Vader
+Positive sentiment : 46.0
+Negative sentiment : 20.066666666666666
+Neutral sentiment : 33.93333333333333
+Sentiment Afinn
+Positive sentiment : 37.13333333333333
+Negative sentiment : 15.266666666666667
+Neutral sentiment : 47.599999999999994
+Sentiment NRC
+anger : 0.05290673358427436
+anticipation : 0.09953994144709327
+disgust : 0.0397323295692179
+fear : 0.06231702216645755
+joy : 0.08113759933082393
+negative : 0.11898787118360518
+positive : 0.21162693433709745
+sadness : 0.054997908824759516
+surprise : 0.050606440819740695
+trust : 0.16311166875784192
+Video Number : 163 --> Is Nokia Back?
+Sentiment Vader
+Positive sentiment : 43.733333333333334
+Negative sentiment : 17.133333333333333
+Neutral sentiment : 39.13333333333333
+Sentiment Afinn
+Positive sentiment : 33.06666666666666
+Negative sentiment : 12.666666666666668
+Neutral sentiment : 54.266666666666666
+Sentiment NRC
+anger : 0.049347258485639686
+anticipation : 0.09712793733681462
+disgust : 0.03994778067885117
+fear : 0.0577023498694517
+joy : 0.07023498694516972
+negative : 0.11618798955613577
+positive : 0.1639686684073107
+sadness : 0.05274151436031332
+surprise : 0.05221932114882506
+trust : 0.10704960835509138
+Video Number : 164 --> The Enormous Microsoft Surface Studio 2
+Sentiment Vader
+Positive sentiment : 45.2
+Negative sentiment : 16.933333333333334
+Neutral sentiment : 37.86666666666667
+Sentiment Afinn
+Positive sentiment : 34.46666666666667
+Negative sentiment : 12.2
+Neutral sentiment : 53.333333333333336
+Sentiment NRC
+anger : 0.05359477124183006
+anticipation : 0.10457516339869281
+disgust : 0.0457516339869281
+fear : 0.061699346405228755
+joy : 0.08444444444444445
+negative : 0.10562091503267974
+positive : 0.18352941176470589
+sadness : 0.05830065359477124
+surprise : 0.05019607843137255
+trust : 0.09281045751633987
+Video Number : 165 --> The Incredible Dual Screen Smartphone...
+Sentiment Vader
+Positive sentiment : 46.666666666666664
+Negative sentiment : 12.6
+Neutral sentiment : 40.733333333333334
+Sentiment Afinn
+Positive sentiment : 33.800000000000004
+Negative sentiment : 9.533333333333333
+Neutral sentiment : 56.666666666666664
+Sentiment NRC
+anger : 0.03493684493415748
+anticipation : 0.07417360924482666
+disgust : 0.022574576726686373
+fear : 0.07202364955657081
+joy : 0.06261757592045149
+negative : 0.12012899758129535
+positive : 0.15882827196990057
+sadness : 0.06261757592045149
+surprise : 0.03654931470034937
+trust : 0.07524858908895458
+Video Number : 166 --> Is The iPad Pro Worth Laptop Money?
+Sentiment Vader
+Positive sentiment : 47.53333333333333
+Negative sentiment : 14.799999999999999
+Neutral sentiment : 37.666666666666664
+Sentiment Afinn
+Positive sentiment : 37.46666666666666
+Negative sentiment : 10.133333333333333
+Neutral sentiment : 52.400000000000006
+Sentiment NRC
+anger : 0.049069373942470386
+anticipation : 0.11985335589396504
+disgust : 0.03102086858432036
+fear : 0.07473209249858996
+joy : 0.1063169768753525
+negative : 0.08657642413987592
+positive : 0.19712351945854484
+sadness : 0.0532994923857868
+surprise : 0.05781161872532431
+trust : 0.10913705583756345
+Video Number : 167 --> Is This The Best Laptop For Most People?
+Sentiment Vader
+Positive sentiment : 40.93333333333333
+Negative sentiment : 22.26666666666667
+Neutral sentiment : 36.8
+Sentiment Afinn
+Positive sentiment : 33.666666666666664
+Negative sentiment : 14.799999999999999
+Neutral sentiment : 51.53333333333333
+Sentiment NRC
+anger : 0.05066815144766147
+anticipation : 0.10189309576837416
+disgust : 0.039161098737936155
+fear : 0.05400890868596882
+joy : 0.08184855233853007
+negative : 0.10133630289532294
+positive : 0.19042316258351893
+sadness : 0.046956198960653305
+surprise : 0.04602821083890126
+trust : 0.10393466963622866
+Video Number : 168 --> The Project Tesla Solar Powered Smartphone
+Sentiment Vader
+Positive sentiment : 37.8
+Negative sentiment : 28.199999999999996
+Neutral sentiment : 34.0
+Sentiment Afinn
+Positive sentiment : 29.06666666666667
+Negative sentiment : 19.333333333333332
+Neutral sentiment : 51.6
+Sentiment NRC
+anger : 0.06677265500794913
+anticipation : 0.10353736089030206
+disgust : 0.04570747217806041
+fear : 0.05584260731319555
+joy : 0.07750397456279809
+negative : 0.13374403815580285
+positive : 0.17289348171701113
+sadness : 0.05286168521462639
+surprise : 0.07174085850556439
+trust : 0.11824324324324324
+Video Number : 169 --> 3 Unusual Gadgets With Secret Features...
+Sentiment Vader
+Positive sentiment : 46.6
+Negative sentiment : 12.6
+Neutral sentiment : 40.8
+Sentiment Afinn
+Positive sentiment : 33.33333333333333
+Negative sentiment : 9.6
+Neutral sentiment : 57.06666666666666
+Sentiment NRC
+anger : 0.09140369967355821
+anticipation : 0.1368335146898803
+disgust : 0.02720348204570185
+fear : 0.03509249183895539
+joy : 0.06746463547334058
+negative : 0.08269858541893363
+positive : 0.2769314472252448
+sadness : 0.03536452665941241
+surprise : 0.0941240478781284
+trust : 0.0941240478781284
+Video Number : 170 --> The Red Hydrogen One Holographic Smartphone
+Sentiment Vader
+Positive sentiment : 39.4
+Negative sentiment : 22.0
+Neutral sentiment : 38.6
+Sentiment Afinn
+Positive sentiment : 30.8
+Negative sentiment : 15.0
+Neutral sentiment : 54.2
+Sentiment NRC
+anger : 0.04747774480712166
+anticipation : 0.08148824469299247
+disgust : 0.04428212736818078
+fear : 0.049075553526592104
+joy : 0.05797763067792741
+negative : 0.10636840903903219
+positive : 0.17712850947272313
+sadness : 0.044053868979685
+surprise : 0.03515179182834969
+trust : 0.12074868751426615
+Video Number : 171 --> OnePlus 6T - Is This My Next Smartphone?
+Sentiment Vader
+Positive sentiment : 45.53333333333333
+Negative sentiment : 18.2
+Neutral sentiment : 36.266666666666666
+Sentiment Afinn
+Positive sentiment : 34.8
+Negative sentiment : 13.200000000000001
+Neutral sentiment : 52.0
+Sentiment NRC
+anger : 0.054641909814323604
+anticipation : 0.10097259062776304
+disgust : 0.030415561450044207
+fear : 0.053934571175950484
+joy : 0.060123784261715295
+negative : 0.09425287356321839
+positive : 0.1605658709106985
+sadness : 0.04792219274977896
+surprise : 0.04420866489832007
+trust : 0.09301503094606543
+Video Number : 172 --> Unboxing Every iPhone XR
+Sentiment Vader
+Positive sentiment : 37.6
+Negative sentiment : 10.466666666666667
+Neutral sentiment : 51.93333333333333
+Sentiment Afinn
+Positive sentiment : 29.2
+Negative sentiment : 6.4
+Neutral sentiment : 64.4
+Sentiment NRC
+anger : 0.03179860881086453
+anticipation : 0.12189466710831401
+disgust : 0.020867837032129844
+fear : 0.04935409075852931
+joy : 0.12222590261676052
+negative : 0.12885061278569063
+positive : 0.1762172904935409
+sadness : 0.16926134481616428
+surprise : 0.030142431268631996
+trust : 0.12620072871811858
+Video Number : 173 --> Is The Pixel 3 A Scratch Magnet?
+Sentiment Vader
+Positive sentiment : 37.86666666666667
+Negative sentiment : 22.6
+Neutral sentiment : 39.53333333333333
+Sentiment Afinn
+Positive sentiment : 27.6
+Negative sentiment : 18.266666666666666
+Neutral sentiment : 54.13333333333333
+Sentiment NRC
+anger : 0.04535762744717969
+anticipation : 0.06396588486140725
+disgust : 0.03896103896103896
+fear : 0.0986625314983524
+joy : 0.05059119984493119
+negative : 0.1560379918588874
+positive : 0.12289203333979454
+sadness : 0.10137623570459392
+surprise : 0.030044582283388254
+trust : 0.0924597790269432
+Video Number : 174 --> This Smartphone Will Change Everything...
+Sentiment Vader
+Positive sentiment : 36.4
+Negative sentiment : 23.200000000000003
+Neutral sentiment : 40.400000000000006
+Sentiment Afinn
+Positive sentiment : 29.133333333333333
+Negative sentiment : 17.066666666666666
+Neutral sentiment : 53.800000000000004
+Sentiment NRC
+anger : 0.049444003177124704
+anticipation : 0.0949166004765687
+disgust : 0.043486894360603656
+fear : 0.06930103256552819
+joy : 0.06254964257347101
+negative : 0.11179507545671168
+positive : 0.1556791104050834
+sadness : 0.05540111199364575
+surprise : 0.037132644956314534
+trust : 0.09809372517871326
+Video Number : 175 --> Is This The Most Underrated Smartphone Right Now?
+Sentiment Vader
+Positive sentiment : 44.93333333333333
+Negative sentiment : 13.933333333333334
+Neutral sentiment : 41.13333333333333
+Sentiment Afinn
+Positive sentiment : 31.466666666666665
+Negative sentiment : 10.333333333333334
+Neutral sentiment : 58.199999999999996
+Sentiment NRC
+anger : 0.04072063178677197
+anticipation : 0.08415597235932873
+disgust : 0.02788746298124383
+fear : 0.04417571569595262
+joy : 0.07058242843040474
+negative : 0.09279368213228036
+positive : 0.1690523198420533
+sadness : 0.04146100691016782
+surprise : 0.044422507403751234
+trust : 0.11327739387956565
+Video Number : 176 --> Razer Phone 2 Unboxing - Can It Compete?
+Sentiment Vader
+Positive sentiment : 45.800000000000004
+Negative sentiment : 16.266666666666666
+Neutral sentiment : 37.93333333333334
+Sentiment Afinn
+Positive sentiment : 34.2
+Negative sentiment : 11.133333333333335
+Neutral sentiment : 54.666666666666664
+Sentiment NRC
+anger : 0.03981883374221551
+anticipation : 0.07171164370635968
+disgust : 0.02755236837139083
+fear : 0.05151915455746367
+joy : 0.04831100207586337
+negative : 0.08473296848461974
+positive : 0.22683525193432724
+sadness : 0.04208341196452161
+surprise : 0.03510096244574448
+trust : 0.0790715229288545
+Video Number : 177 --> I&#39;m Switching To The Google Pixel 3 XL...
+Sentiment Vader
+Positive sentiment : 39.6
+Negative sentiment : 27.266666666666666
+Neutral sentiment : 33.13333333333333
+Sentiment Afinn
+Positive sentiment : 30.8
+Negative sentiment : 20.933333333333334
+Neutral sentiment : 48.266666666666666
+Sentiment NRC
+anger : 0.06390770921076726
+anticipation : 0.10016480498077275
+disgust : 0.049990844167734846
+fear : 0.06793627540743453
+joy : 0.06518952572788866
+negative : 0.1344076176524446
+positive : 0.14869071598608313
+sadness : 0.06317524262955503
+surprise : 0.03918696209485442
+trust : 0.09229078923274125
+Video Number : 178 --> The iPhone XS Max Is Great. Don&#39;t Buy It.
+Sentiment Vader
+Positive sentiment : 45.06666666666666
+Negative sentiment : 20.466666666666665
+Neutral sentiment : 34.46666666666667
+Sentiment Afinn
+Positive sentiment : 37.333333333333336
+Negative sentiment : 16.8
+Neutral sentiment : 45.86666666666667
+Sentiment NRC
+anger : 0.07240437158469945
+anticipation : 0.11124121779859485
+disgust : 0.05523028883684621
+fear : 0.07884465261514442
+joy : 0.07864949258391882
+negative : 0.13017174082747854
+positive : 0.1678376268540203
+sadness : 0.0585480093676815
+surprise : 0.04488680718188915
+trust : 0.09270101483216238
+Video Number : 179 --> Dear Google...
+Sentiment Vader
+Positive sentiment : 45.0
+Negative sentiment : 29.599999999999998
+Neutral sentiment : 25.4
+Sentiment Afinn
+Positive sentiment : 37.0
+Negative sentiment : 24.46666666666667
+Neutral sentiment : 38.53333333333334
+Sentiment NRC
+anger : 0.052207001522070015
+anticipation : 0.10319634703196347
+disgust : 0.048249619482496196
+fear : 0.06986301369863014
+joy : 0.054642313546423134
+negative : 0.1248097412480974
+positive : 0.17595129375951293
+sadness : 0.06955859969558599
+surprise : 0.031659056316590564
+trust : 0.0832572298325723
+Video Number : 180 --> Unboxing Every Google Pixel 3 XL + Pixel 3
+Sentiment Vader
+Positive sentiment : 44.53333333333334
+Negative sentiment : 25.866666666666667
+Neutral sentiment : 29.599999999999998
+Sentiment Afinn
+Positive sentiment : 34.93333333333333
+Negative sentiment : 18.6
+Neutral sentiment : 46.46666666666667
+Sentiment NRC
+anger : 0.07929794882639035
+anticipation : 0.0896595474730387
+disgust : 0.05286529921759357
+fear : 0.05942059632057518
+joy : 0.07168534573905688
+negative : 0.142947769084373
+positive : 0.16049904842461407
+sadness : 0.06322689786424192
+surprise : 0.041023472192852614
+trust : 0.09558046098540918
+Video Number : 181 --> This Smartphone Has 5 Cameras... But Why?
+Sentiment Vader
+Positive sentiment : 49.46666666666666
+Negative sentiment : 11.600000000000001
+Neutral sentiment : 38.93333333333333
+Sentiment Afinn
+Positive sentiment : 34.4
+Negative sentiment : 9.466666666666667
+Neutral sentiment : 56.13333333333333
+Sentiment NRC
+anger : 0.0351746346296755
+anticipation : 0.09883576913549666
+disgust : 0.02848649987614565
+fear : 0.04954173891503592
+joy : 0.07901907356948229
+negative : 0.08818429526876394
+positive : 0.1808273470398811
+sadness : 0.043349021550656425
+surprise : 0.04260589546693089
+trust : 0.0946247213277186
+Video Number : 182 --> The Levitating Turntable - What Magic Is This?
+Sentiment Vader
+Positive sentiment : 42.333333333333336
+Negative sentiment : 22.866666666666667
+Neutral sentiment : 34.8
+Sentiment Afinn
+Positive sentiment : 34.733333333333334
+Negative sentiment : 16.266666666666666
+Neutral sentiment : 49.0
+Sentiment NRC
+anger : 0.05877517468146321
+anticipation : 0.08528565556925606
+disgust : 0.048910809699958896
+fear : 0.048910809699958896
+joy : 0.08672420879572544
+negative : 0.12782572955199342
+positive : 0.20550760378133992
+sadness : 0.06391286477599671
+surprise : 0.048910809699958896
+trust : 0.11570078092889437
+Video Number : 183 --> The iPhone XS Has A Serious Problem...
+Sentiment Vader
+Positive sentiment : 32.33333333333333
+Negative sentiment : 29.733333333333334
+Neutral sentiment : 37.93333333333334
+Sentiment Afinn
+Positive sentiment : 24.066666666666666
+Negative sentiment : 25.8
+Neutral sentiment : 50.13333333333333
+Sentiment NRC
+anger : 0.057822336208906505
+anticipation : 0.13546281184425274
+disgust : 0.04499883422709256
+fear : 0.11960830030310096
+joy : 0.062019118675681974
+negative : 0.1706691536488692
+positive : 0.15528095127069247
+sadness : 0.11587782699930053
+surprise : 0.043833061319654934
+trust : 0.07274422942410819
+Video Number : 184 --> iPhone XS + XR Actual Battery Capacity Revealed
+Sentiment Vader
+Positive sentiment : 51.4
+Negative sentiment : 24.066666666666666
+Neutral sentiment : 24.53333333333333
+Sentiment Afinn
+Positive sentiment : 39.93333333333333
+Negative sentiment : 20.866666666666667
+Neutral sentiment : 39.2
+Sentiment NRC
+anger : 0.07385103011093502
+anticipation : 0.1098256735340729
+disgust : 0.0473851030110935
+fear : 0.06259904912836767
+joy : 0.06402535657686212
+negative : 0.13391442155309033
+positive : 0.15705229793977812
+sadness : 0.05356576862123613
+surprise : 0.03724247226624406
+trust : 0.101743264659271
+Video Number : 185 --> Pocophone F1 Review - Is It Really That Good?
+Sentiment Vader
+Positive sentiment : 43.266666666666666
+Negative sentiment : 11.333333333333332
+Neutral sentiment : 45.4
+Sentiment Afinn
+Positive sentiment : 31.533333333333335
+Negative sentiment : 8.0
+Neutral sentiment : 60.46666666666667
+Sentiment NRC
+anger : 0.03959886860375418
+anticipation : 0.09539727436358961
+disgust : 0.02674209308305477
+fear : 0.05682694780149138
+joy : 0.07071226536384674
+negative : 0.09848290048855747
+positive : 0.16482386217536643
+sadness : 0.04937001799948573
+surprise : 0.04705579840575984
+trust : 0.1195680123425045
+Video Number : 186 --> Is This The Ultimate Gaming Smartphone?
+Sentiment Vader
+Positive sentiment : 42.66666666666667
+Negative sentiment : 16.400000000000002
+Neutral sentiment : 40.93333333333333
+Sentiment Afinn
+Positive sentiment : 31.0
+Negative sentiment : 10.466666666666667
+Neutral sentiment : 58.53333333333334
+Sentiment NRC
+anger : 0.04063456721402728
+anticipation : 0.07542443640411912
+disgust : 0.03145004174784303
+fear : 0.04898413581964932
+joy : 0.05093236849429446
+negative : 0.15585861397161146
+positive : 0.128026718619538
+sadness : 0.07264124686891177
+surprise : 0.0328416365154467
+trust : 0.06902310047314222
+Video Number : 187 --> The Samsung Foldable Smartphone is Real...
+Sentiment Vader
+Positive sentiment : 37.06666666666666
+Negative sentiment : 18.6
+Neutral sentiment : 44.333333333333336
+Sentiment Afinn
+Positive sentiment : 29.86666666666667
+Negative sentiment : 14.066666666666666
+Neutral sentiment : 56.06666666666666
+Sentiment NRC
+anger : 0.039505187549880284
+anticipation : 0.10295291300877893
+disgust : 0.03391859537110934
+fear : 0.05227454110135674
+joy : 0.056863527533918594
+negative : 0.10434956105347166
+positive : 0.14385474860335196
+sadness : 0.041699920191540306
+surprise : 0.04229848363926576
+trust : 0.0824022346368715
+Video Number : 188 --> You&#39;ve Never Seen A Backpack Do This...
+Sentiment Vader
+Positive sentiment : 38.46666666666667
+Negative sentiment : 17.533333333333335
+Neutral sentiment : 44.0
+Sentiment Afinn
+Positive sentiment : 27.333333333333332
+Negative sentiment : 15.4
+Neutral sentiment : 57.266666666666666
+Sentiment NRC
+anger : 0.08065099457504521
+anticipation : 0.081374321880651
+disgust : 0.06148282097649186
+fear : 0.08824593128390597
+joy : 0.0810126582278481
+negative : 0.15045207956600362
+positive : 0.17938517179023508
+sadness : 0.06980108499095841
+surprise : 0.058589511754068714
+trust : 0.12043399638336347
+Video Number : 189 --> The Truth About The Huawei P20 Pro...
+Sentiment Vader
+Positive sentiment : 41.6
+Negative sentiment : 12.733333333333333
+Neutral sentiment : 45.666666666666664
+Sentiment Afinn
+Positive sentiment : 31.066666666666663
+Negative sentiment : 9.8
+Neutral sentiment : 59.13333333333334
+Sentiment NRC
+anger : 0.04988066825775656
+anticipation : 0.10071599045346062
+disgust : 0.029116945107398567
+fear : 0.050119331742243436
+joy : 0.07183770883054892
+negative : 0.10238663484486873
+positive : 0.20501193317422434
+sadness : 0.041288782816229115
+surprise : 0.047971360381861575
+trust : 0.13389021479713603
+Video Number : 190 --> Honor Play Player Edition Unboxing &amp; Giveaway
+Sentiment Vader
+Positive sentiment : 76.8
+Negative sentiment : 6.066666666666666
+Neutral sentiment : 17.133333333333333
+Sentiment Afinn
+Positive sentiment : 64.0
+Negative sentiment : 3.5333333333333337
+Neutral sentiment : 32.46666666666667
+Sentiment NRC
+anger : 0.02756619513964454
+anticipation : 0.16068190061661225
+disgust : 0.018135654697134566
+fear : 0.03989844033369604
+joy : 0.16068190061661225
+negative : 0.09503083061298513
+positive : 0.3188248095756257
+sadness : 0.050417120058034094
+surprise : 0.1048240841494378
+trust : 0.20203119332607908
+Video Number : 191 --> The $3000 Sony Aibo Robot Dog
+Sentiment Vader
+Positive sentiment : 47.0
+Negative sentiment : 19.466666666666665
+Neutral sentiment : 33.53333333333333
+Sentiment Afinn
+Positive sentiment : 39.2
+Negative sentiment : 13.8
+Neutral sentiment : 47.0
+Sentiment NRC
+anger : 0.05229283990345937
+anticipation : 0.08125502815768303
+disgust : 0.040493429873960846
+fear : 0.06301957629391258
+joy : 0.07642799678197908
+negative : 0.11906677393403058
+positive : 0.23813354786806115
+sadness : 0.04612496647894878
+surprise : 0.04076159828372218
+trust : 0.13220702601233575
+Video Number : 192 --> The Most Dangerous Unboxing Yet...
+Sentiment Vader
+Positive sentiment : 40.13333333333333
+Negative sentiment : 24.266666666666666
+Neutral sentiment : 35.6
+Sentiment Afinn
+Positive sentiment : 25.066666666666666
+Negative sentiment : 19.6
+Neutral sentiment : 55.333333333333336
+Sentiment NRC
+anger : 0.05341953045253488
+anticipation : 0.08234093228989452
+disgust : 0.04321197686287853
+fear : 0.11194283769989792
+joy : 0.10615855733242599
+negative : 0.10411704661449472
+positive : 0.18339571282749234
+sadness : 0.0874447090847227
+surprise : 0.037767948281728476
+trust : 0.07825791085403198
+Video Number : 193 --> Pocophone F1 - How Is This Smartphone Possible?
+Sentiment Vader
+Positive sentiment : 43.333333333333336
+Negative sentiment : 17.533333333333335
+Neutral sentiment : 39.13333333333333
+Sentiment Afinn
+Positive sentiment : 31.8
+Negative sentiment : 13.666666666666666
+Neutral sentiment : 54.53333333333333
+Sentiment NRC
+anger : 0.049800796812749
+anticipation : 0.11977091633466136
+disgust : 0.034113545816733065
+fear : 0.07270916334661355
+joy : 0.07544820717131474
+negative : 0.11429282868525896
+positive : 0.15014940239043825
+sadness : 0.04805776892430279
+surprise : 0.05303784860557769
+trust : 0.11354581673306773
+Video Number : 194 --> The Best Smartphone For YouTube
+Sentiment Vader
+Positive sentiment : 50.0
+Negative sentiment : 15.8
+Neutral sentiment : 34.2
+Sentiment Afinn
+Positive sentiment : 38.266666666666666
+Negative sentiment : 11.600000000000001
+Neutral sentiment : 50.13333333333333
+Sentiment NRC
+anger : 0.03992015968063872
+anticipation : 0.13259195893926431
+disgust : 0.033932135728542916
+fear : 0.09552323923581409
+joy : 0.05959509552323924
+negative : 0.09666381522668947
+positive : 0.13686911890504705
+sadness : 0.039064727687482176
+surprise : 0.038209295694325636
+trust : 0.08896492728828058
+Video Number : 195 --> Is The Galaxy Note 9 The Best Smartphone of 2018?
+Sentiment Vader
+Positive sentiment : 48.733333333333334
+Negative sentiment : 16.933333333333334
+Neutral sentiment : 34.333333333333336
+Sentiment Afinn
+Positive sentiment : 38.333333333333336
+Negative sentiment : 12.333333333333334
+Neutral sentiment : 49.333333333333336
+Sentiment NRC
+anger : 0.04659973479825725
+anticipation : 0.10570183746921766
+disgust : 0.028793332070467893
+fear : 0.06630043568857738
+joy : 0.07330933888994128
+negative : 0.09528319757529835
+positive : 0.1488918355749195
+sadness : 0.05019890130706573
+surprise : 0.03769653343436257
+trust : 0.07785565448001515
+Video Number : 196 --> How is this thing even real??
+Sentiment Vader
+Positive sentiment : 42.06666666666667
+Negative sentiment : 10.866666666666665
+Neutral sentiment : 47.06666666666667
+Sentiment Afinn
+Positive sentiment : 28.000000000000004
+Negative sentiment : 8.533333333333333
+Neutral sentiment : 63.46666666666667
+Sentiment NRC
+anger : 0.027700831024930747
+anticipation : 0.06454293628808865
+disgust : 0.026869806094182824
+fear : 0.033795013850415515
+joy : 0.06620498614958449
+negative : 0.0778393351800554
+positive : 0.15041551246537396
+sadness : 0.031301939058171746
+surprise : 0.03351800554016621
+trust : 0.08393351800554016
+Video Number : 197 --> Be VERY skeptical of this smartphone &quot;enhancement&quot;...
+Sentiment Vader
+Positive sentiment : 39.13333333333333
+Negative sentiment : 24.666666666666668
+Neutral sentiment : 36.199999999999996
+Sentiment Afinn
+Positive sentiment : 29.46666666666667
+Negative sentiment : 20.866666666666667
+Neutral sentiment : 49.666666666666664
+Sentiment NRC
+anger : 0.05180903446799401
+anticipation : 0.06165703275529865
+disgust : 0.04238921001926782
+fear : 0.057589381288803254
+joy : 0.045172339970027835
+negative : 0.16056518946692358
+positive : 0.16506101477199744
+sadness : 0.06957824876900022
+surprise : 0.029758081781203167
+trust : 0.11731963177049883
+Video Number : 198 --> APPLE RESPONDS
+Sentiment Vader
+Positive sentiment : 36.13333333333333
+Negative sentiment : 38.53333333333334
+Neutral sentiment : 25.333333333333336
+Sentiment Afinn
+Positive sentiment : 32.33333333333333
+Negative sentiment : 32.46666666666667
+Neutral sentiment : 35.199999999999996
+Sentiment NRC
+anger : 0.09897084048027444
+anticipation : 0.10600343053173242
+disgust : 0.06775300171526587
+fear : 0.0711835334476844
+joy : 0.07855917667238423
+negative : 0.16569468267581475
+positive : 0.1967409948542024
+sadness : 0.056946826758147516
+surprise : 0.05711835334476844
+trust : 0.11526586620926244
+Video Number : 199 --> The Surprising Truth About The iPhone X…
+Sentiment Vader
+Positive sentiment : 42.4
+Negative sentiment : 25.4
+Neutral sentiment : 32.2
+Sentiment Afinn
+Positive sentiment : 34.2
+Negative sentiment : 19.866666666666667
+Neutral sentiment : 45.93333333333333
+Sentiment NRC
+anger : 0.05765575501583949
+anticipation : 0.11657866948257656
+disgust : 0.05195353748680042
+fear : 0.0665258711721225
+joy : 0.06462513199577613
+negative : 0.1341077085533263
+positive : 0.15417106652587118
+sadness : 0.05786694825765575
+surprise : 0.03801478352692714
+trust : 0.10158394931362197
+Video Number : 200 --> Is The 2018 MacBook Pro Hot Garbage?
+Sentiment Vader
+Positive sentiment : 41.8
+Negative sentiment : 24.2
+Neutral sentiment : 34.0
+Sentiment Afinn
+Positive sentiment : 34.13333333333333
+Negative sentiment : 19.333333333333332
+Neutral sentiment : 46.53333333333333
+Sentiment NRC
+anger : 0.0967551622418879
+anticipation : 0.10285152409046214
+disgust : 0.05644051130776794
+fear : 0.0607669616519174
+joy : 0.0831858407079646
+negative : 0.13785644051130777
+positive : 0.19665683382497542
+sadness : 0.06155358898721731
+surprise : 0.057227138643067846
+trust : 0.11032448377581121

@@ -10,6 +10,7 @@ Determining the sentiment of comments that use sarcasm or irony can be difficult
 An automated system is needed to efficiently and accurately analyze the sentiment of YouTube comments
 Such a system would enable researchers to gather valuable insights into public opinion and user engagement on the platform
 Data-driven decisions and effective strategies can be developed based on these insights
+
 Libraries Used
 googleapiclient.discovery: Google API client library to access various Google APIs, such as Google Sheets or Google Drive.
 pandas: A powerful data manipulation and analysis library, providing data structures like DataFrames and Series.

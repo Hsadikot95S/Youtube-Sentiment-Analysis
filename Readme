@@ -18,17 +18,20 @@ os: A module for interacting with the operating system, like reading from or wri
 numpy: A library for working with numerical data, supporting arrays, matrices, and various mathematical functions.
 Json: A library for working with data in JavaScript Object Notation (JSON) format.Statistics: A library for performing statistical operations and calculations in Python.
 Itertools: A library for creating and manipulating iterators and iterable objects in Python.Time: A library for working with dates, times, and time intervals in Python, including functions for measuring and benchmarking execution times.
-Data visualization packages:
+
+## Data visualization packages:
 seaborn: A statistical data visualization library built on Matplotlib that provides a high-level interface for drawing informative and attractive graphs.
 matplotlib.pyplot: A plotting library for creating static, animated, and interactive visualizations in Python.
 matplotlib.ticker: A module for customizing tick locators and formatters in Matplotlib plots.
-NLP
+
+## NLP
 nltk: A library for working with human language data (text), providing tools for text processing, classification, tokenization, stemming, tagging, and parsing.
 nltk.corpus.stopwords: A module containing a list of common words that can be filtered out when processing natural language data.
 nltk.tokenize: A module for breaking up text into words, phrases, symbols, or other meaningful elements (tokens).
 wordcloud: A library for creating word cloud visualizations from text data.
 Keras: A library used for artificial neural networks and as a prerequisite for TensorFlow.
-User-Defined-Functions:
+
+## User-Defined-Functions:
 Extractcomments(ec): Extracts comments from each videos.
 Sentiment_vader(sv): Calculates sentiment score for each comment.
 Visualizations(vis): Plots visualizations.

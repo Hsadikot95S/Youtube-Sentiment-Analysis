@@ -99,7 +99,18 @@ def Linear_Poly_Regression(dates_df, dataframe, algoName, channelName, algo):
     rmse_pr = np.sqrt(np.mean(np.power((np.transpose(np.array(y_test)) - np.array(poly_pred)), 2)))
 
     print(rmse_lr, rmse_pr)
-
+    # Linear Zoomed
+    # plt.figure(figsize=(12, 6))
+    # plt.plot(org_dates[len(X_train) :], polarities[len(X_train) :], color="black", label="Data")
+    # plt.plot(org_dates[len(X_train) :], lr_pred, color="red", label="Linear Regression")
+    # plt.xlabel("Date")
+    # plt.ylabel("Polarities")
+    # plt.legend()
+    # ax = plt.axes()
+    # ax.xaxis.set_major_locator(ticker.MultipleLocator(100))
+    # plt.suptitle("Linear Regression Sentiment Predictions for " + channelName + " Using" + algo, fontsize=25)
+    # plt.savefig("images/" + channelName + "_Linear_Zoomed_" + algoName + ".png")
+    # plt.show()
     # Linear
     plt.figure(figsize=(12, 6))
     plt.plot(org_dates, polarities, color="black", label="Data")
@@ -114,7 +125,15 @@ def Linear_Poly_Regression(dates_df, dataframe, algoName, channelName, algo):
     plt.suptitle("Linear Regression Sentiment Predictions for " + channelName + " Using" + algo, fontsize=25)
     plt.savefig("images/" + channelName + "_Linear_" + algo + ".png")
     plt.show()
-
+    # Polynomial Zommed
+    # plt.figure(figsize=(12, 6))
+    # plt.plot(org_dates[len(X_train) :], polarities[len(X_train) :], color="black", label="Data")
+    # plt.plot(org_dates[len(X_train) :], poly_pred, color="blue", label="Polynomial Regression")
+    # plt.xlabel("Date")
+    # plt.ylabel("Polarities")
+    # plt.legend()
+    # plt.savefig("images/" + channelName + "_Polynomial_Zoomed_" + algoName + ".png")
+    # plt.show()
     # Polynomial
     plt.figure(figsize=(12, 6))
     plt.plot(org_dates, polarities, color="black", label="Data")
@@ -133,6 +152,8 @@ def Linear_Poly_Regression(dates_df, dataframe, algoName, channelName, algo):
 
 # Driver function
 def performPredictions(data, channelName):
-    dataframe = pd.DataFrame(data, columns=["date", "polarity_vader_avg"])
+    dataframe = pd.DataFrame(data, columns=["date", "polarity_vader_avg", "no_comments", "afinn_score_avg"])
     LongShortTermMemory(dataframe[["date", "polarity_vader_avg"]], "polarity_vader_avg", channelName, "Vader")
+    LongShortTermMemory(dataframe[["date", "afinn_score_avg"]], "afinn_score_avg", channelName, "Afinn")
     Linear_Poly_Regression(dataframe[["date", "polarity_vader_avg"]], dataframe, "polarity_vader_avg", channelName, "Vader")
+    Linear_Poly_Regression(dataframe[["date", "afinn_score_avg"]], dataframe, "afinn_score_avg", channelName, "Afinn")

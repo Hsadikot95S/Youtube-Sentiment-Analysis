@@ -1,50 +1,50 @@
-Video Number : 1 --> World&#39;s Brightest Flashlight | OT38
+Video Number : 1 --> Road Trip Stereotypes
 Sentiment Vader
-Positive sentiment : 40.316969462698104
-Negative sentiment : 36.5287978353305
-Neutral sentiment : 23.154232701971395
-Video Number : 2 --> Which level took the longest?? 🤯
+Positive sentiment : 51.0
+Negative sentiment : 17.0
+Neutral sentiment : 32.0
+Video Number : 2 --> MARK ATE THE BASKETBALL 🤯🏀
 Sentiment Vader
-Positive sentiment : 27.189265536723163
-Negative sentiment : 16.73728813559322
-Neutral sentiment : 56.07344632768362
-Video Number : 3 --> tbh he made it farther than we thought he would
+Positive sentiment : 41.83673469387755
+Negative sentiment : 12.244897959183673
+Neutral sentiment : 45.91836734693878
+Video Number : 3 --> FREAK Athlete
 Sentiment Vader
-Positive sentiment : 44.436519258202566
-Negative sentiment : 17.76034236804565
-Neutral sentiment : 37.803138373751786
-Video Number : 4 --> Hotel Stereotypes
+Positive sentiment : 40.4040404040404
+Negative sentiment : 18.181818181818183
+Neutral sentiment : 41.41414141414141
+Video Number : 4 --> CAN’T BELIEVE COBY IS AN ASTRONAUT 🚀
 Sentiment Vader
-Positive sentiment : 42.247018083878416
-Negative sentiment : 17.699115044247787
-Neutral sentiment : 40.0538668718738
-Video Number : 5 --> Can We Outrun a Police Dog? | Animal Olympics
+Positive sentiment : 33.0
+Negative sentiment : 15.0
+Neutral sentiment : 52.0
+Video Number : 5 --> BUZZER BEATER!!! 🚨
 Sentiment Vader
-Positive sentiment : 53.68000000000001
-Negative sentiment : 15.28
-Neutral sentiment : 31.04
-Video Number : 6 --> Well that escalated QUICKLY 😳🎱
+Positive sentiment : 40.0
+Negative sentiment : 16.0
+Neutral sentiment : 44.0
+Video Number : 6 --> Angry Birds in Real Life
 Sentiment Vader
-Positive sentiment : 38.66871873797614
-Negative sentiment : 25.163524432474027
-Neutral sentiment : 36.16775682954982
-Video Number : 7 --> Oreo Roll Roulette! 🤢
+Positive sentiment : 46.0
+Negative sentiment : 18.0
+Neutral sentiment : 36.0
+Video Number : 7 --> Who else wants to try this? 🤯💎
 Sentiment Vader
-Positive sentiment : 33.36
-Negative sentiment : 20.560000000000002
-Neutral sentiment : 46.08
-Video Number : 8 --> Ultimate Mini Games Battle 3
+Positive sentiment : 54.0
+Negative sentiment : 9.0
+Neutral sentiment : 37.0
+Video Number : 8 --> Dudes vs Fans 2v2 👀
 Sentiment Vader
-Positive sentiment : 61.50885296381831
-Negative sentiment : 11.316397228637413
-Neutral sentiment : 27.174749807544263
-Video Number : 9 --> Dude Perfect EXPOSED (Part 2) 🤫
+Positive sentiment : 57.99999999999999
+Negative sentiment : 5.0
+Neutral sentiment : 37.0
+Video Number : 9 --> We Made a REAL Plasma Blaster | OT39
 Sentiment Vader
-Positive sentiment : 33.48
-Negative sentiment : 30.84
-Neutral sentiment : 35.68
-Video Number : 10 --> Cake Flip Challenge! 😳🎂 #shorts
+Positive sentiment : 50.0
+Negative sentiment : 19.0
+Neutral sentiment : 31.0
+Video Number : 10 --> HOW did he do that many?? 😳 #dudeperfect #shorts
 Sentiment Vader
-Positive sentiment : 36.480000000000004
-Negative sentiment : 39.68
-Neutral sentiment : 23.84
+Positive sentiment : 34.0
+Negative sentiment : 24.0
+Neutral sentiment : 42.0

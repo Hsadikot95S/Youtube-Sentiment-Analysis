@@ -12,7 +12,8 @@ import googleapiclient.discovery
 import google_auth_oauthlib
 import getVideoStatistics as vs
 import pandas as p
-
+import sentiment_afinn as sa
+import sentiment_NRC as snrc
 import mapper
 import predictionModels as pred
 import createTimeSeriesData as ctsd
@@ -42,7 +43,7 @@ videoIds = [x["id"]["videoId"] for x in vlist]
 stats = vs.getStatistics(youtube, videoIds)
 
 
-filePath = "sentAnalysis/" + str(channelName) + ".txt"
+filePath = "sentimentAnalysis/" + str(channelName) + ".txt"
 sentimentFile = open(filePath, "w", encoding="utf-8")
 commentsInfo = []
 # Loop over the videos to extract comments and perform sentiment analysis
@@ -55,8 +56,10 @@ for index, v in enumerate(vlist):
     total_comments.extend(comments)
     if len(comments) > 0:
         sent_vader, commentListWithDate = sv.analyze_sentiment(commentListWithDate, sentimentFile)
+        sent_afinn, commentListWithDate = sa.analyze_sentiment(commentListWithDate, sentimentFile)
+        sent_NRC = snrc.sentimentNRC(comments, sentimentFile)
         stats[index]["title"] = "Video Number : " + str(index + 1) + " --> " + title + "\n"
-        stats[index] = mapper.mapObject(sent_vader, stats[index], comments)
+        stats[index] = mapper.mapObject(sent_vader, sent_afinn, sent_NRC, stats[index], comments)
         total_sentiment.append(sent_vader)
         commentsWithDate.extend(commentListWithDate)
 

@@ -1,50 +1,50 @@
-Video Number : 1 --> RESIDENT EVIL 4 REMAKE CHAINSAW DEMO PS5 Full Walkthrough Gameplay Part 1 &amp; ENDING (RE4 REMAKE)
+Video Number : 1 --> RESIDENT EVIL 4 REMAKE SEPARATE WAYS Walkthrough Gameplay Part 7 - U-3 PESANTA BOSS (RE4 DLC)
 Sentiment Vader
-Positive sentiment : 67.62246117084827
-Negative sentiment : 16.845878136200717
-Neutral sentiment : 15.531660692951016
-Video Number : 2 --> STRAY PS5 Walkthrough Gameplay Part 6 - THE EYES (FULL GAME)
+Positive sentiment : 57.971014492753625
+Negative sentiment : 14.492753623188406
+Neutral sentiment : 27.536231884057973
+Video Number : 2 --> CYBERPUNK 2077 2.0 PHANTOM LIBERTY Walkthrough Gameplay Part 5 - SLIDER (FULL GAME)
 Sentiment Vader
-Positive sentiment : 58.25825825825825
-Negative sentiment : 11.11111111111111
-Neutral sentiment : 30.630630630630627
-Video Number : 3 --> LOOPMANCER Walkthrough Gameplay Part 1 - INTRO (FULL GAME)
+Positive sentiment : 52.0
+Negative sentiment : 14.666666666666666
+Neutral sentiment : 33.33333333333333
+Video Number : 3 --> CYBERPUNK 2077 2.0 PHANTOM LIBERTY Walkthrough Gameplay Part 4 - ALEX (FULL GAME)
 Sentiment Vader
-Positive sentiment : 59.04365904365905
-Negative sentiment : 16.424116424116423
-Neutral sentiment : 24.532224532224532
-Video Number : 4 --> OUTRIDERS WORLDSLAYER Walkthrough Gameplay Part 1 - INTRO (FULL GAME)
+Positive sentiment : 64.1025641025641
+Negative sentiment : 11.538461538461538
+Neutral sentiment : 24.358974358974358
+Video Number : 4 --> RESIDENT EVIL 4 REMAKE SEPARATE WAYS Walkthrough Gameplay Part 6 - LORD OF THE WATERWAY (RE4 DLC)
 Sentiment Vader
-Positive sentiment : 59.92217898832685
-Negative sentiment : 14.396887159533073
-Neutral sentiment : 25.680933852140075
-Video Number : 5 --> THE QUARRY Walkthrough Gameplay Part 23 - SILAS (FULL GAME)
+Positive sentiment : 62.62626262626263
+Negative sentiment : 13.131313131313133
+Neutral sentiment : 24.242424242424242
+Video Number : 5 --> CYBERPUNK 2077 2.0 PHANTOM LIBERTY Walkthrough Gameplay Part 3 - REED (FULL GAME)
 Sentiment Vader
-Positive sentiment : 54.70383275261324
-Negative sentiment : 22.299651567944252
-Neutral sentiment : 22.99651567944251
-Video Number : 6 --> THE QUARRY Walkthrough Gameplay Part 22 - SCRAPYARD (FULL GAME)
+Positive sentiment : 57.99999999999999
+Negative sentiment : 17.0
+Neutral sentiment : 25.0
+Video Number : 6 --> RESIDENT EVIL 4 REMAKE SEPARATE WAYS Walkthrough Gameplay Part 5 - PARASITE (RE4 DLC)
 Sentiment Vader
-Positive sentiment : 57.92880258899677
-Negative sentiment : 19.41747572815534
-Neutral sentiment : 22.653721682847898
-Video Number : 7 --> THE QUARRY Walkthrough Gameplay Part 6 - KAITLYN (FULL GAME)
+Positive sentiment : 54.54545454545454
+Negative sentiment : 15.151515151515152
+Neutral sentiment : 30.303030303030305
+Video Number : 7 --> RESIDENT EVIL 4 REMAKE SEPARATE WAYS Walkthrough Gameplay Part 3 - EL GIGANTE BOSS (RE4 DLC)
 Sentiment Vader
-Positive sentiment : 52.84552845528455
-Negative sentiment : 21.680216802168022
-Neutral sentiment : 25.474254742547426
-Video Number : 8 --> THE QUARRY Walkthrough Gameplay Part 5 - RYAN (FULL GAME)
+Positive sentiment : 48.0
+Negative sentiment : 27.0
+Neutral sentiment : 25.0
+Video Number : 8 --> RESIDENT EVIL 4 REMAKE SEPARATE WAYS Walkthrough Gameplay Part 2 - ADA (RE4 DLC)
 Sentiment Vader
-Positive sentiment : 54.02298850574713
-Negative sentiment : 21.379310344827587
-Neutral sentiment : 24.597701149425287
-Video Number : 9 --> THE QUARRY Walkthrough Gameplay Part 1 - PROLOGUE (FULL GAME)
+Positive sentiment : 60.60606060606061
+Negative sentiment : 19.19191919191919
+Neutral sentiment : 20.2020202020202
+Video Number : 9 --> RESIDENT EVIL 4 REMAKE SEPARATE WAYS Walkthrough Gameplay Part 1 - INTRO (RE4 DLC)
 Sentiment Vader
-Positive sentiment : 46.400000000000006
-Negative sentiment : 29.360000000000003
-Neutral sentiment : 24.240000000000002
-Video Number : 10 --> SNIPER ELITE 5 Walkthrough Gameplay Part 3 - SECRET ROOM (FULL GAME)
+Positive sentiment : 55.00000000000001
+Negative sentiment : 22.0
+Neutral sentiment : 23.0
+Video Number : 10 --> AD INFINITUM Walkthrough Gameplay Part 1 - INTRO (FULL GAME)
 Sentiment Vader
-Positive sentiment : 60.08583690987125
-Negative sentiment : 18.4549356223176
-Neutral sentiment : 21.45922746781116
+Positive sentiment : 51.0
+Negative sentiment : 24.0
+Neutral sentiment : 25.0

@@ -1,6 +1,4000 @@
-Video Number : 1 --> RESIDENT EVIL 4 REMAKE CHAINSAW DEMO PS5 Full Walkthrough Gameplay Part 1 &amp; ENDING (RE4 REMAKE)
+Video Number : 1 --> RESIDENT EVIL 4 REMAKE SEPARATE WAYS Walkthrough Gameplay Part 7 - U-3 PESANTA BOSS (RE4 DLC)
 Sentiment Vader
-Positive sentiment : 67.71084337349397
-Negative sentiment : 16.867469879518072
-Neutral sentiment : 15.421686746987953
-Video Number : 2 --> STRAY PS5 Walkthrough Gameplay Part 6 - THE EYES (FULL GAME)
+Positive sentiment : 58.57142857142858
+Negative sentiment : 14.285714285714285
+Neutral sentiment : 27.142857142857142
+Sentiment Afinn
+Positive sentiment : 40.0
+Negative sentiment : 12.857142857142856
+Neutral sentiment : 47.14285714285714
+Sentiment NRC
+anger : 0.0782122905027933
+anticipation : 0.16759776536312848
+disgust : 0.05027932960893855
+fear : 0.1340782122905028
+joy : 0.12849162011173185
+negative : 0.10614525139664804
+positive : 0.20670391061452514
+sadness : 0.0335195530726257
+surprise : 0.0223463687150838
+trust : 0.1340782122905028
+Video Number : 2 --> CYBERPUNK 2077 2.0 PHANTOM LIBERTY Walkthrough Gameplay Part 5 - SLIDER (FULL GAME)
+Sentiment Vader
+Positive sentiment : 51.31578947368421
+Negative sentiment : 15.789473684210526
+Neutral sentiment : 32.89473684210527
+Sentiment Afinn
+Positive sentiment : 34.21052631578947
+Negative sentiment : 11.842105263157894
+Neutral sentiment : 53.94736842105263
+Sentiment NRC
+anger : 0.06329113924050633
+anticipation : 0.1518987341772152
+disgust : 0.0379746835443038
+fear : 0.10126582278481013
+joy : 0.0949367088607595
+negative : 0.12658227848101267
+positive : 0.1962025316455696
+sadness : 0.056962025316455694
+surprise : 0.0379746835443038
+trust : 0.0949367088607595
+Video Number : 3 --> CYBERPUNK 2077 2.0 PHANTOM LIBERTY Walkthrough Gameplay Part 4 - ALEX (FULL GAME)
+Sentiment Vader
+Positive sentiment : 64.1025641025641
+Negative sentiment : 11.538461538461538
+Neutral sentiment : 24.358974358974358
+Sentiment Afinn
+Positive sentiment : 38.46153846153847
+Negative sentiment : 8.974358974358974
+Neutral sentiment : 52.56410256410257
+Sentiment NRC
+anger : 0.052083333333333336
+anticipation : 0.11458333333333333
+disgust : 0.036458333333333336
+fear : 0.11458333333333333
+joy : 0.13020833333333334
+negative : 0.15104166666666666
+positive : 0.19791666666666666
+sadness : 0.0625
+surprise : 0.041666666666666664
+trust : 0.07291666666666667
+Video Number : 4 --> CYBERPUNK 2077 2.0 PHANTOM LIBERTY Walkthrough Gameplay Part 3 - REED (FULL GAME)
+Sentiment Vader
+Positive sentiment : 57.99999999999999
+Negative sentiment : 17.0
+Neutral sentiment : 25.0
+Sentiment Afinn
+Positive sentiment : 32.0
+Negative sentiment : 16.0
+Neutral sentiment : 52.0
+Sentiment NRC
+anger : 0.07480314960629922
+anticipation : 0.09055118110236221
+disgust : 0.023622047244094488
+fear : 0.08661417322834646
+joy : 0.11023622047244094
+negative : 0.11811023622047244
+positive : 0.1732283464566929
+sadness : 0.031496062992125984
+surprise : 0.05511811023622047
+trust : 0.05905511811023622
+Video Number : 5 --> CYBERPUNK 2077 2.0 PHANTOM LIBERTY Walkthrough Gameplay Part 2 - SONGBIRD (FULL GAME)
+Sentiment Vader
+Positive sentiment : 54.54545454545454
+Negative sentiment : 22.22222222222222
+Neutral sentiment : 23.232323232323232
+Sentiment Afinn
+Positive sentiment : 38.38383838383838
+Negative sentiment : 23.232323232323232
+Neutral sentiment : 38.38383838383838
+Sentiment NRC
+anger : 0.10571428571428572
+anticipation : 0.13428571428571429
+disgust : 0.06571428571428571
+fear : 0.16285714285714287
+joy : 0.12857142857142856
+negative : 0.14857142857142858
+positive : 0.20857142857142857
+sadness : 0.07714285714285714
+surprise : 0.07714285714285714
+trust : 0.11142857142857143
+Video Number : 6 --> CYBERPUNK 2077 2.0 PHANTOM LIBERTY Walkthrough Gameplay Part 1 - INTRO (FULL GAME)
+Sentiment Vader
+Positive sentiment : 57.99999999999999
+Negative sentiment : 19.0
+Neutral sentiment : 23.0
+Sentiment Afinn
+Positive sentiment : 46.0
+Negative sentiment : 16.0
+Neutral sentiment : 38.0
+Sentiment NRC
+anger : 0.05569620253164557
+anticipation : 0.1569620253164557
+disgust : 0.030379746835443037
+fear : 0.1240506329113924
+joy : 0.1240506329113924
+negative : 0.12151898734177215
+positive : 0.1949367088607595
+sadness : 0.060759493670886074
+surprise : 0.05063291139240506
+trust : 0.09367088607594937
+Video Number : 7 --> RESIDENT EVIL 4 REMAKE SEPARATE WAYS Walkthrough Gameplay Part 5 - PARASITE (RE4 DLC)
+Sentiment Vader
+Positive sentiment : 54.54545454545454
+Negative sentiment : 15.151515151515152
+Neutral sentiment : 30.303030303030305
+Sentiment Afinn
+Positive sentiment : 34.34343434343434
+Negative sentiment : 19.19191919191919
+Neutral sentiment : 46.464646464646464
+Sentiment NRC
+anger : 0.05405405405405406
+anticipation : 0.09009009009009009
+disgust : 0.03903903903903904
+fear : 0.08708708708708708
+joy : 0.06906906906906907
+negative : 0.13213213213213212
+positive : 0.15615615615615616
+sadness : 0.036036036036036036
+surprise : 0.02702702702702703
+trust : 0.06306306306306306
+Video Number : 8 --> RESIDENT EVIL 4 REMAKE SEPARATE WAYS Walkthrough Gameplay Part 4 - LUIS (RE4 DLC)
+Sentiment Vader
+Positive sentiment : 69.0
+Negative sentiment : 14.000000000000002
+Neutral sentiment : 17.0
+Sentiment Afinn
+Positive sentiment : 45.0
+Negative sentiment : 16.0
+Neutral sentiment : 39.0
+Sentiment NRC
+anger : 0.09027777777777778
+anticipation : 0.12152777777777778
+disgust : 0.05555555555555555
+fear : 0.09722222222222222
+joy : 0.1111111111111111
+negative : 0.1076388888888889
+positive : 0.18055555555555555
+sadness : 0.06944444444444445
+surprise : 0.03819444444444445
+trust : 0.0763888888888889
+Video Number : 9 --> RESIDENT EVIL 4 REMAKE SEPARATE WAYS Walkthrough Gameplay Part 3 - EL GIGANTE BOSS (RE4 DLC)
+Sentiment Vader
+Positive sentiment : 48.0
+Negative sentiment : 27.0
+Neutral sentiment : 25.0
+Sentiment Afinn
+Positive sentiment : 40.0
+Negative sentiment : 25.0
+Neutral sentiment : 35.0
+Sentiment NRC
+anger : 0.12
+anticipation : 0.13846153846153847
+disgust : 0.08307692307692308
+fear : 0.18769230769230769
+joy : 0.1076923076923077
+negative : 0.17846153846153845
+positive : 0.17846153846153845
+sadness : 0.10461538461538461
+surprise : 0.046153846153846156
+trust : 0.09230769230769231
+Video Number : 10 --> RESIDENT EVIL 4 REMAKE SEPARATE WAYS Walkthrough Gameplay Part 2 - ADA (RE4 DLC)
+Sentiment Vader
+Positive sentiment : 60.60606060606061
+Negative sentiment : 19.19191919191919
+Neutral sentiment : 20.2020202020202
+Sentiment Afinn
+Positive sentiment : 38.38383838383838
+Negative sentiment : 22.22222222222222
+Neutral sentiment : 39.39393939393939
+Sentiment NRC
+anger : 0.0702247191011236
+anticipation : 0.13764044943820225
+disgust : 0.06460674157303371
+fear : 0.09550561797752809
+joy : 0.1151685393258427
+negative : 0.12640449438202248
+positive : 0.1544943820224719
+sadness : 0.06741573033707865
+surprise : 0.03932584269662921
+trust : 0.07303370786516854
+Video Number : 11 --> RESIDENT EVIL 4 REMAKE SEPARATE WAYS Walkthrough Gameplay Part 1 - INTRO (RE4 DLC)
+Sentiment Vader
+Positive sentiment : 55.00000000000001
+Negative sentiment : 22.0
+Neutral sentiment : 23.0
+Sentiment Afinn
+Positive sentiment : 42.0
+Negative sentiment : 18.0
+Neutral sentiment : 40.0
+Sentiment NRC
+anger : 0.09032258064516129
+anticipation : 0.15806451612903225
+disgust : 0.06451612903225806
+fear : 0.11612903225806452
+joy : 0.12580645161290321
+negative : 0.18064516129032257
+positive : 0.1935483870967742
+sadness : 0.07096774193548387
+surprise : 0.05161290322580645
+trust : 0.11290322580645161
+Video Number : 12 --> AD INFINITUM Walkthrough Gameplay Part 1 - INTRO (FULL GAME)
+Sentiment Vader
+Positive sentiment : 51.0
+Negative sentiment : 24.0
+Neutral sentiment : 25.0
+Sentiment Afinn
+Positive sentiment : 35.0
+Negative sentiment : 18.0
+Neutral sentiment : 47.0
+Sentiment NRC
+anger : 0.06686046511627906
+anticipation : 0.15988372093023256
+disgust : 0.05232558139534884
+fear : 0.1511627906976744
+joy : 0.10174418604651163
+negative : 0.14825581395348839
+positive : 0.1686046511627907
+sadness : 0.06976744186046512
+surprise : 0.07267441860465117
+trust : 0.0872093023255814
+Video Number : 13 --> MORTAL KOMBAT 1 STORY MODE ENDING / FINAL BOSS - Walkthrough Gameplay Part 13 (MK1 2023)
+Sentiment Vader
+Positive sentiment : 59.0
+Negative sentiment : 20.0
+Neutral sentiment : 21.0
+Sentiment Afinn
+Positive sentiment : 43.0
+Negative sentiment : 20.0
+Neutral sentiment : 37.0
+Sentiment NRC
+anger : 0.07671232876712329
+anticipation : 0.14794520547945206
+disgust : 0.043835616438356165
+fear : 0.12054794520547946
+joy : 0.12876712328767123
+negative : 0.1780821917808219
+positive : 0.2
+sadness : 0.03561643835616438
+surprise : 0.0410958904109589
+trust : 0.1178082191780822
+Video Number : 14 --> MORTAL KOMBAT 1 STORY MODE Walkthrough Gameplay Part 12 - LIU KANG (MK1 2023)
+Sentiment Vader
+Positive sentiment : 43.0
+Negative sentiment : 34.0
+Neutral sentiment : 23.0
+Sentiment Afinn
+Positive sentiment : 26.0
+Negative sentiment : 27.0
+Neutral sentiment : 47.0
+Sentiment NRC
+anger : 0.1220472440944882
+anticipation : 0.14960629921259844
+disgust : 0.05905511811023622
+fear : 0.14566929133858267
+joy : 0.08267716535433071
+negative : 0.27165354330708663
+positive : 0.15354330708661418
+sadness : 0.15354330708661418
+surprise : 0.04330708661417323
+trust : 0.04330708661417323
+Video Number : 15 --> MORTAL KOMBAT 1 STORY MODE Walkthrough Gameplay Part 11 - SHANG TSUNG (MK1 2023)
+Sentiment Vader
+Positive sentiment : 50.0
+Negative sentiment : 26.0
+Neutral sentiment : 24.0
+Sentiment Afinn
+Positive sentiment : 35.0
+Negative sentiment : 21.0
+Neutral sentiment : 44.0
+Sentiment NRC
+anger : 0.09060402684563758
+anticipation : 0.1610738255033557
+disgust : 0.05704697986577181
+fear : 0.11073825503355705
+joy : 0.12080536912751678
+negative : 0.18120805369127516
+positive : 0.17785234899328858
+sadness : 0.087248322147651
+surprise : 0.06375838926174497
+trust : 0.11073825503355705
+Video Number : 16 --> MORTAL KOMBAT 1 STORY MODE Walkthrough Gameplay Part 10 - TANYA (MK1 2023)
+Sentiment Vader
+Positive sentiment : 64.0
+Negative sentiment : 19.0
+Neutral sentiment : 17.0
+Sentiment Afinn
+Positive sentiment : 46.0
+Negative sentiment : 28.999999999999996
+Neutral sentiment : 25.0
+Sentiment NRC
+anger : 0.10850439882697947
+anticipation : 0.12903225806451613
+disgust : 0.05278592375366569
+fear : 0.16129032258064516
+joy : 0.12023460410557185
+negative : 0.19941348973607037
+positive : 0.20234604105571846
+sadness : 0.08797653958944282
+surprise : 0.04398826979472141
+trust : 0.093841642228739
+Video Number : 17 --> STRAY PS5 Walkthrough Gameplay Part 7 - ANTVILLAGE (FULL GAME)
+Sentiment Vader
+Positive sentiment : 55.00000000000001
+Negative sentiment : 18.0
+Neutral sentiment : 27.0
+Sentiment Afinn
+Positive sentiment : 39.0
+Negative sentiment : 14.000000000000002
+Neutral sentiment : 47.0
+Sentiment NRC
+anger : 0.04337899543378995
+anticipation : 0.1324200913242009
+disgust : 0.03881278538812785
+fear : 0.0547945205479452
+joy : 0.1415525114155251
+negative : 0.07534246575342465
+positive : 0.2054794520547945
+sadness : 0.0273972602739726
+surprise : 0.0502283105022831
+trust : 0.1141552511415525
+Video Number : 18 --> STRAY PS5 Walkthrough Gameplay Part 6 - THE EYES (FULL GAME)
+Sentiment Vader
+Positive sentiment : 55.00000000000001
+Negative sentiment : 16.0
+Neutral sentiment : 28.999999999999996
+Sentiment Afinn
+Positive sentiment : 50.0
+Negative sentiment : 10.0
+Neutral sentiment : 40.0
+Sentiment NRC
+anger : 0.03546099290780142
+anticipation : 0.08983451536643026
+disgust : 0.037825059101654845
+fear : 0.07565011820330969
+joy : 0.09692671394799054
+negative : 0.10401891252955082
+positive : 0.15130023640661938
+sadness : 0.05200945626477541
+surprise : 0.028368794326241134
+trust : 0.06619385342789598
+Video Number : 19 --> FORZA HORIZON 5 HOT WHEELS DLC Campaign Walkthrough Gameplay Part 1 - INTRO (FULL GAME)
+Sentiment Vader
+Positive sentiment : 59.0
+Negative sentiment : 20.0
+Neutral sentiment : 21.0
+Sentiment Afinn
+Positive sentiment : 48.0
+Negative sentiment : 13.0
+Neutral sentiment : 39.0
+Sentiment NRC
+anger : 0.07458563535911603
+anticipation : 0.16298342541436464
+disgust : 0.049723756906077346
+fear : 0.06077348066298342
+joy : 0.11878453038674033
+negative : 0.11602209944751381
+positive : 0.20994475138121546
+sadness : 0.052486187845303865
+surprise : 0.052486187845303865
+trust : 0.08839779005524862
+Video Number : 20 --> LOOPMANCER Walkthrough Gameplay Part 1 - INTRO (FULL GAME)
+Sentiment Vader
+Positive sentiment : 55.00000000000001
+Negative sentiment : 17.0
+Neutral sentiment : 28.000000000000004
+Sentiment Afinn
+Positive sentiment : 48.0
+Negative sentiment : 13.0
+Neutral sentiment : 39.0
+Sentiment NRC
+anger : 0.02795698924731183
+anticipation : 0.17634408602150536
+disgust : 0.023655913978494623
+fear : 0.11397849462365592
+joy : 0.12688172043010754
+negative : 0.08602150537634409
+positive : 0.1956989247311828
+sadness : 0.03655913978494624
+surprise : 0.04946236559139785
+trust : 0.1053763440860215
+Video Number : 21 --> CUPHEAD DLC THE DELICIOUS LAST COURSE Walkthrough Gameplay Part 1 - INTRO (FULL GAME)
+Sentiment Vader
+Positive sentiment : 62.0
+Negative sentiment : 23.0
+Neutral sentiment : 15.0
+Sentiment Afinn
+Positive sentiment : 51.0
+Negative sentiment : 13.0
+Neutral sentiment : 36.0
+Sentiment NRC
+anger : 0.056657223796033995
+anticipation : 0.14730878186968838
+disgust : 0.0339943342776204
+fear : 0.09915014164305949
+joy : 0.1388101983002833
+negative : 0.10198300283286119
+positive : 0.22946175637393768
+sadness : 0.05099150141643059
+surprise : 0.056657223796033995
+trust : 0.09348441926345609
+Video Number : 22 --> OUTRIDERS WORLDSLAYER Walkthrough Gameplay Part 1 - INTRO (FULL GAME)
+Sentiment Vader
+Positive sentiment : 52.0
+Negative sentiment : 20.0
+Neutral sentiment : 28.000000000000004
+Sentiment Afinn
+Positive sentiment : 41.0
+Negative sentiment : 16.0
+Neutral sentiment : 43.0
+Sentiment NRC
+anger : 0.0273972602739726
+anticipation : 0.14794520547945206
+disgust : 0.019178082191780823
+fear : 0.0958904109589041
+joy : 0.13150684931506848
+negative : 0.08767123287671233
+positive : 0.22465753424657534
+sadness : 0.0410958904109589
+surprise : 0.0547945205479452
+trust : 0.1232876712328767
+Video Number : 23 --> THE QUARRY Walkthrough Gameplay Part 23 - SILAS (FULL GAME)
+Sentiment Vader
+Positive sentiment : 54.0
+Negative sentiment : 31.0
+Neutral sentiment : 15.0
+Sentiment Afinn
+Positive sentiment : 39.0
+Negative sentiment : 32.0
+Neutral sentiment : 28.999999999999996
+Sentiment NRC
+anger : 0.06609808102345416
+anticipation : 0.13219616204690832
+disgust : 0.06396588486140725
+fear : 0.1535181236673774
+joy : 0.1300639658848614
+negative : 0.17484008528784648
+positive : 0.2068230277185501
+sadness : 0.11087420042643924
+surprise : 0.053304904051172705
+trust : 0.13432835820895522
+Video Number : 24 --> THE QUARRY Walkthrough Gameplay Part 22 - SCRAPYARD (FULL GAME)
+Sentiment Vader
+Positive sentiment : 56.99999999999999
+Negative sentiment : 27.0
+Neutral sentiment : 16.0
+Sentiment Afinn
+Positive sentiment : 44.0
+Negative sentiment : 26.0
+Neutral sentiment : 30.0
+Sentiment NRC
+anger : 0.08858267716535433
+anticipation : 0.13188976377952755
+disgust : 0.045275590551181105
+fear : 0.14173228346456693
+joy : 0.09645669291338582
+negative : 0.15354330708661418
+positive : 0.15748031496062992
+sadness : 0.08661417322834646
+surprise : 0.0610236220472441
+trust : 0.1141732283464567
+Video Number : 25 --> TEENAGE MUTANT NINJA TURTLES SHREDDER&#39;S REVENGE Walkthrough Gameplay Part 1 - INTRO (TMNT)
+Sentiment Vader
+Positive sentiment : 66.0
+Negative sentiment : 14.000000000000002
+Neutral sentiment : 20.0
+Sentiment Afinn
+Positive sentiment : 47.0
+Negative sentiment : 9.0
+Neutral sentiment : 44.0
+Sentiment NRC
+anger : 0.03333333333333333
+anticipation : 0.1111111111111111
+disgust : 0.02962962962962963
+fear : 0.07037037037037037
+joy : 0.12962962962962962
+negative : 0.09259259259259259
+positive : 0.1962962962962963
+sadness : 0.018518518518518517
+surprise : 0.011111111111111112
+trust : 0.0962962962962963
+Video Number : 26 --> THE QUARRY Walkthrough Gameplay Part 13 - NICK (FULL GAME)
+Sentiment Vader
+Positive sentiment : 48.0
+Negative sentiment : 31.0
+Neutral sentiment : 21.0
+Sentiment Afinn
+Positive sentiment : 35.0
+Negative sentiment : 25.0
+Neutral sentiment : 40.0
+Sentiment NRC
+anger : 0.0957683741648107
+anticipation : 0.10022271714922049
+disgust : 0.08240534521158129
+fear : 0.12694877505567928
+joy : 0.0757238307349666
+negative : 0.18930957683741648
+positive : 0.16926503340757237
+sadness : 0.0801781737193764
+surprise : 0.0645879732739421
+trust : 0.07349665924276169
+Video Number : 27 --> THE QUARRY Walkthrough Gameplay Part 10 - DYLAN (FULL GAME)
+Sentiment Vader
+Positive sentiment : 46.0
+Negative sentiment : 26.0
+Neutral sentiment : 28.000000000000004
+Sentiment Afinn
+Positive sentiment : 36.0
+Negative sentiment : 24.0
+Neutral sentiment : 40.0
+Sentiment NRC
+anger : 0.125
+anticipation : 0.08673469387755102
+disgust : 0.07908163265306123
+fear : 0.14030612244897958
+joy : 0.07653061224489796
+negative : 0.14795918367346939
+positive : 0.1760204081632653
+sadness : 0.06377551020408163
+surprise : 0.07908163265306123
+trust : 0.08163265306122448
+Video Number : 28 --> THE QUARRY Walkthrough Gameplay Part 8 - JACOB (FULL GAME)
+Sentiment Vader
+Positive sentiment : 47.0
+Negative sentiment : 32.0
+Neutral sentiment : 21.0
+Sentiment Afinn
+Positive sentiment : 32.0
+Negative sentiment : 30.0
+Neutral sentiment : 38.0
+Sentiment NRC
+anger : 0.06937799043062201
+anticipation : 0.12679425837320574
+disgust : 0.07416267942583732
+fear : 0.11004784688995216
+joy : 0.11722488038277512
+negative : 0.14114832535885166
+positive : 0.17703349282296652
+sadness : 0.0645933014354067
+surprise : 0.05741626794258373
+trust : 0.11961722488038277
+Video Number : 29 --> THE QUARRY Walkthrough Gameplay Part 7 - TRUTH OR DARE (FULL GAME)
+Sentiment Vader
+Positive sentiment : 51.0
+Negative sentiment : 32.0
+Neutral sentiment : 17.0
+Sentiment Afinn
+Positive sentiment : 44.0
+Negative sentiment : 25.0
+Neutral sentiment : 31.0
+Sentiment NRC
+anger : 0.08522727272727272
+anticipation : 0.1875
+disgust : 0.06818181818181818
+fear : 0.11931818181818182
+joy : 0.15625
+negative : 0.15056818181818182
+positive : 0.2556818181818182
+sadness : 0.09375
+surprise : 0.09659090909090909
+trust : 0.14204545454545456
+Video Number : 30 --> THE QUARRY Walkthrough Gameplay Part 6 - KAITLYN (FULL GAME)
+Sentiment Vader
+Positive sentiment : 50.0
+Negative sentiment : 36.0
+Neutral sentiment : 14.000000000000002
+Sentiment Afinn
+Positive sentiment : 44.0
+Negative sentiment : 28.000000000000004
+Neutral sentiment : 28.000000000000004
+Sentiment NRC
+anger : 0.10966057441253264
+anticipation : 0.09399477806788512
+disgust : 0.09399477806788512
+fear : 0.1566579634464752
+joy : 0.09660574412532637
+negative : 0.27676240208877284
+positive : 0.14882506527415143
+sadness : 0.10966057441253264
+surprise : 0.12532637075718014
+trust : 0.0835509138381201
+Video Number : 31 --> THE QUARRY Walkthrough Gameplay Part 5 - RYAN (FULL GAME)
+Sentiment Vader
+Positive sentiment : 57.99999999999999
+Negative sentiment : 28.999999999999996
+Neutral sentiment : 13.0
+Sentiment Afinn
+Positive sentiment : 45.0
+Negative sentiment : 26.0
+Neutral sentiment : 28.999999999999996
+Sentiment NRC
+anger : 0.07671232876712329
+anticipation : 0.11232876712328767
+disgust : 0.0410958904109589
+fear : 0.10410958904109589
+joy : 0.1095890410958904
+negative : 0.1589041095890411
+positive : 0.19726027397260273
+sadness : 0.057534246575342465
+surprise : 0.06301369863013699
+trust : 0.13972602739726028
+Video Number : 32 --> THE QUARRY Walkthrough Gameplay Part 4 - EVIDENCE (FULL GAME)
+Sentiment Vader
+Positive sentiment : 46.0
+Negative sentiment : 24.0
+Neutral sentiment : 30.0
+Sentiment Afinn
+Positive sentiment : 40.0
+Negative sentiment : 17.0
+Neutral sentiment : 43.0
+Sentiment NRC
+anger : 0.08414239482200647
+anticipation : 0.13592233009708737
+disgust : 0.061488673139158574
+fear : 0.10355987055016182
+joy : 0.09385113268608414
+negative : 0.15857605177993528
+positive : 0.19093851132686085
+sadness : 0.08090614886731391
+surprise : 0.05825242718446602
+trust : 0.11326860841423948
+Video Number : 33 --> THE QUARRY Walkthrough Gameplay Part 3 - ELIZA (FULL GAME)
+Sentiment Vader
+Positive sentiment : 68.0
+Negative sentiment : 13.0
+Neutral sentiment : 19.0
+Sentiment Afinn
+Positive sentiment : 56.00000000000001
+Negative sentiment : 14.000000000000002
+Neutral sentiment : 30.0
+Sentiment NRC
+anger : 0.03896103896103896
+anticipation : 0.16666666666666666
+disgust : 0.05194805194805195
+fear : 0.07792207792207792
+joy : 0.10606060606060606
+negative : 0.10822510822510822
+positive : 0.20562770562770563
+sadness : 0.03896103896103896
+surprise : 0.04329004329004329
+trust : 0.09956709956709957
+Video Number : 34 --> THE QUARRY Walkthrough Gameplay Part 2 - EMMA (FULL GAME)
+Sentiment Vader
+Positive sentiment : 52.0
+Negative sentiment : 19.0
+Neutral sentiment : 28.999999999999996
+Sentiment Afinn
+Positive sentiment : 41.0
+Negative sentiment : 15.0
+Neutral sentiment : 44.0
+Sentiment NRC
+anger : 0.07317073170731707
+anticipation : 0.0948509485094851
+disgust : 0.04878048780487805
+fear : 0.08943089430894309
+joy : 0.11382113821138211
+negative : 0.12195121951219512
+positive : 0.17615176151761516
+sadness : 0.06504065040650407
+surprise : 0.07317073170731707
+trust : 0.1002710027100271
+Video Number : 35 --> THE QUARRY Walkthrough Gameplay Part 1 - PROLOGUE (FULL GAME)
+Sentiment Vader
+Positive sentiment : 46.0
+Negative sentiment : 30.0
+Neutral sentiment : 24.0
+Sentiment Afinn
+Positive sentiment : 39.0
+Negative sentiment : 21.0
+Neutral sentiment : 40.0
+Sentiment NRC
+anger : 0.07142857142857142
+anticipation : 0.10344827586206896
+disgust : 0.054187192118226604
+fear : 0.11083743842364532
+joy : 0.09852216748768473
+negative : 0.1354679802955665
+positive : 0.18226600985221675
+sadness : 0.08374384236453201
+surprise : 0.05665024630541872
+trust : 0.08866995073891626
+Video Number : 36 --> BATMAN ARKHAM KNIGHT 2022 Walkthrough Gameplay Part 5 - THE CREEPER (FULL GAME)
+Sentiment Vader
+Positive sentiment : 51.0
+Negative sentiment : 23.0
+Neutral sentiment : 26.0
+Sentiment Afinn
+Positive sentiment : 36.0
+Negative sentiment : 12.0
+Neutral sentiment : 52.0
+Sentiment NRC
+anger : 0.05214723926380368
+anticipation : 0.13190184049079753
+disgust : 0.049079754601226995
+fear : 0.1196319018404908
+joy : 0.10122699386503067
+negative : 0.13190184049079753
+positive : 0.1687116564417178
+sadness : 0.046012269938650305
+surprise : 0.03374233128834356
+trust : 0.07975460122699386
+Video Number : 37 --> SNIPER ELITE 5 Walkthrough Gameplay Part 6 - ARMORED TANKS (FULL GAME)
+Sentiment Vader
+Positive sentiment : 65.0
+Negative sentiment : 18.0
+Neutral sentiment : 17.0
+Sentiment Afinn
+Positive sentiment : 49.0
+Negative sentiment : 13.0
+Neutral sentiment : 38.0
+Sentiment NRC
+anger : 0.08011049723756906
+anticipation : 0.10497237569060773
+disgust : 0.019337016574585635
+fear : 0.1464088397790055
+joy : 0.10220994475138122
+negative : 0.14917127071823205
+positive : 0.18232044198895028
+sadness : 0.049723756906077346
+surprise : 0.052486187845303865
+trust : 0.09392265193370165
+Video Number : 38 --> SNIPER ELITE 5 Walkthrough Gameplay Part 5 - ESCAPE THE ISLAND (FULL GAME)
+Sentiment Vader
+Positive sentiment : 59.0
+Negative sentiment : 19.0
+Neutral sentiment : 22.0
+Sentiment Afinn
+Positive sentiment : 37.0
+Negative sentiment : 23.0
+Neutral sentiment : 40.0
+Sentiment NRC
+anger : 0.06068601583113457
+anticipation : 0.13984168865435356
+disgust : 0.0316622691292876
+fear : 0.15303430079155672
+joy : 0.10026385224274406
+negative : 0.13720316622691292
+positive : 0.13984168865435356
+sadness : 0.06068601583113457
+surprise : 0.0870712401055409
+trust : 0.07651715039577836
+Video Number : 39 --> THE LONGEST SNIPE OF THE SERIES - SNIPER ELITE 5 Walkthrough Gameplay Part 4 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 46.0
+Negative sentiment : 27.0
+Neutral sentiment : 27.0
+Sentiment Afinn
+Positive sentiment : 34.0
+Negative sentiment : 25.0
+Neutral sentiment : 41.0
+Sentiment NRC
+anger : 0.12151898734177215
+anticipation : 0.12658227848101267
+disgust : 0.0379746835443038
+fear : 0.12151898734177215
+joy : 0.08607594936708861
+negative : 0.18734177215189873
+positive : 0.14936708860759493
+sadness : 0.07341772151898734
+surprise : 0.08607594936708861
+trust : 0.08354430379746836
+Video Number : 40 --> SNIPER ELITE 5 Walkthrough Gameplay Part 3 - SECRET ROOM (FULL GAME)
+Sentiment Vader
+Positive sentiment : 57.99999999999999
+Negative sentiment : 24.0
+Neutral sentiment : 18.0
+Sentiment Afinn
+Positive sentiment : 48.0
+Negative sentiment : 20.0
+Neutral sentiment : 32.0
+Sentiment NRC
+anger : 0.097799511002445
+anticipation : 0.14180929095354522
+disgust : 0.03178484107579462
+fear : 0.1466992665036675
+joy : 0.1198044009779951
+negative : 0.15403422982885084
+positive : 0.18092909535452323
+sadness : 0.061124694376528114
+surprise : 0.07334963325183375
+trust : 0.11246943765281174
+Video Number : 41 --> SNIPER ELITE 5 Walkthrough Gameplay Part 2 - SURVIVAL (FULL GAME)
+Sentiment Vader
+Positive sentiment : 57.99999999999999
+Negative sentiment : 14.000000000000002
+Neutral sentiment : 28.000000000000004
+Sentiment Afinn
+Positive sentiment : 45.0
+Negative sentiment : 14.000000000000002
+Neutral sentiment : 41.0
+Sentiment NRC
+anger : 0.07017543859649122
+anticipation : 0.13450292397660818
+disgust : 0.04093567251461988
+fear : 0.12573099415204678
+joy : 0.10526315789473684
+negative : 0.12573099415204678
+positive : 0.17251461988304093
+sadness : 0.05263157894736842
+surprise : 0.07894736842105263
+trust : 0.0935672514619883
+Video Number : 42 --> SNIPER ELITE 5 Walkthrough Gameplay Part 1 - INTRO (FULL GAME)
+Sentiment Vader
+Positive sentiment : 53.0
+Negative sentiment : 26.0
+Neutral sentiment : 21.0
+Sentiment Afinn
+Positive sentiment : 38.0
+Negative sentiment : 21.0
+Neutral sentiment : 41.0
+Sentiment NRC
+anger : 0.05513784461152882
+anticipation : 0.12781954887218044
+disgust : 0.03007518796992481
+fear : 0.12531328320802004
+joy : 0.08270676691729323
+negative : 0.12280701754385964
+positive : 0.14536340852130325
+sadness : 0.05764411027568922
+surprise : 0.03759398496240601
+trust : 0.09774436090225563
+Video Number : 43 --> EVIL DEAD THE GAME Walkthrough Gameplay Part 2 - ASH (FULL GAME)
+Sentiment Vader
+Positive sentiment : 56.00000000000001
+Negative sentiment : 26.0
+Neutral sentiment : 18.0
+Sentiment Afinn
+Positive sentiment : 43.0
+Negative sentiment : 25.0
+Neutral sentiment : 32.0
+Sentiment NRC
+anger : 0.0861244019138756
+anticipation : 0.14354066985645933
+disgust : 0.08133971291866028
+fear : 0.12440191387559808
+joy : 0.11961722488038277
+negative : 0.145933014354067
+positive : 0.215311004784689
+sadness : 0.08133971291866028
+surprise : 0.07416267942583732
+trust : 0.12200956937799043
+Video Number : 44 --> EVIL DEAD THE GAME Walkthrough Gameplay Part 1 - INTRO (FULL GAME)
+Sentiment Vader
+Positive sentiment : 48.0
+Negative sentiment : 31.0
+Neutral sentiment : 21.0
+Sentiment Afinn
+Positive sentiment : 45.0
+Negative sentiment : 23.0
+Neutral sentiment : 32.0
+Sentiment NRC
+anger : 0.1271186440677966
+anticipation : 0.09887005649717515
+disgust : 0.1016949152542373
+fear : 0.1553672316384181
+joy : 0.09887005649717515
+negative : 0.19491525423728814
+positive : 0.1751412429378531
+sadness : 0.12994350282485875
+surprise : 0.062146892655367235
+trust : 0.11299435028248588
+Video Number : 45 --> BATMAN ARKHAM KNIGHT 2022 Walkthrough Gameplay Part 4 - NIGHTWING (FULL GAME)
+Sentiment Vader
+Positive sentiment : 63.0
+Negative sentiment : 12.0
+Neutral sentiment : 25.0
+Sentiment Afinn
+Positive sentiment : 52.0
+Negative sentiment : 9.0
+Neutral sentiment : 39.0
+Sentiment NRC
+anger : 0.05357142857142857
+anticipation : 0.14030612244897958
+disgust : 0.03571428571428571
+fear : 0.07142857142857142
+joy : 0.14540816326530612
+negative : 0.11224489795918367
+positive : 0.24489795918367346
+sadness : 0.03826530612244898
+surprise : 0.05612244897959184
+trust : 0.09948979591836735
+Video Number : 46 --> TREK TO YOMI PS5 Walkthrough Gameplay Part 1 - INTRO (FULL GAME)
+Sentiment Vader
+Positive sentiment : 57.99999999999999
+Negative sentiment : 9.0
+Neutral sentiment : 33.0
+Sentiment Afinn
+Positive sentiment : 42.0
+Negative sentiment : 11.0
+Neutral sentiment : 47.0
+Sentiment NRC
+anger : 0.04891304347826087
+anticipation : 0.13858695652173914
+disgust : 0.02717391304347826
+fear : 0.11684782608695653
+joy : 0.14945652173913043
+negative : 0.08967391304347826
+positive : 0.2391304347826087
+sadness : 0.057065217391304345
+surprise : 0.06793478260869565
+trust : 0.10869565217391304
+Video Number : 47 --> STAR WARS THE FORCE UNLEASHED Walkthrough Gameplay Part 1 - INTRO (NINTENDO SWITCH)
+Sentiment Vader
+Positive sentiment : 51.0
+Negative sentiment : 20.0
+Neutral sentiment : 28.999999999999996
+Sentiment Afinn
+Positive sentiment : 38.0
+Negative sentiment : 16.0
+Neutral sentiment : 46.0
+Sentiment NRC
+anger : 0.06647398843930635
+anticipation : 0.10982658959537572
+disgust : 0.031791907514450865
+fear : 0.06358381502890173
+joy : 0.0838150289017341
+negative : 0.0953757225433526
+positive : 0.1329479768786127
+sadness : 0.04046242774566474
+surprise : 0.046242774566473986
+trust : 0.07514450867052024
+Video Number : 48 --> RADAGON / ELDEN BEAST (FINAL BOSS) ENDING in ELDEN RING PS5 Walkthrough Gameplay Part 44 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 65.0
+Negative sentiment : 18.0
+Neutral sentiment : 17.0
+Sentiment Afinn
+Positive sentiment : 44.0
+Negative sentiment : 14.000000000000002
+Neutral sentiment : 42.0
+Sentiment NRC
+anger : 0.05672268907563025
+anticipation : 0.19747899159663865
+disgust : 0.023109243697478993
+fear : 0.13655462184873948
+joy : 0.11134453781512606
+negative : 0.10084033613445378
+positive : 0.19327731092436976
+sadness : 0.03361344537815126
+surprise : 0.03991596638655462
+trust : 0.08403361344537816
+Video Number : 49 --> MALIKETH BLACK BLADE &amp; HOARAH LOUX BOSSES in ELDEN RING PS5 Walkthrough Gameplay Part 43 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 46.0
+Negative sentiment : 23.0
+Neutral sentiment : 31.0
+Sentiment Afinn
+Positive sentiment : 33.0
+Negative sentiment : 22.0
+Neutral sentiment : 45.0
+Sentiment NRC
+anger : 0.07936507936507936
+anticipation : 0.10793650793650794
+disgust : 0.02857142857142857
+fear : 0.11746031746031746
+joy : 0.13015873015873017
+negative : 0.14603174603174604
+positive : 0.20317460317460317
+sadness : 0.04126984126984127
+surprise : 0.06349206349206349
+trust : 0.08888888888888889
+Video Number : 50 --> ICE LIGHTNING SWORD (DRAGONSCALE BLADE) in ELDEN RING PS5 Walkthrough Gameplay Part 42 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 47.0
+Negative sentiment : 30.0
+Neutral sentiment : 23.0
+Sentiment Afinn
+Positive sentiment : 33.0
+Negative sentiment : 23.0
+Neutral sentiment : 44.0
+Sentiment NRC
+anger : 0.06497175141242938
+anticipation : 0.1271186440677966
+disgust : 0.014124293785310734
+fear : 0.11016949152542373
+joy : 0.07909604519774012
+negative : 0.1553672316384181
+positive : 0.1327683615819209
+sadness : 0.0423728813559322
+surprise : 0.02824858757062147
+trust : 0.07062146892655367
+Video Number : 51 --> VAMPIRE BUILD VS COMMANDER NIALL BOSS in ELDEN RING PS5 Walkthrough Gameplay Part 36 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 50.0
+Negative sentiment : 25.0
+Neutral sentiment : 25.0
+Sentiment Afinn
+Positive sentiment : 36.0
+Negative sentiment : 26.0
+Neutral sentiment : 38.0
+Sentiment NRC
+anger : 0.0861344537815126
+anticipation : 0.08823529411764706
+disgust : 0.04411764705882353
+fear : 0.11134453781512606
+joy : 0.06302521008403361
+negative : 0.15546218487394958
+positive : 0.17436974789915966
+sadness : 0.058823529411764705
+surprise : 0.03571428571428571
+trust : 0.06722689075630252
+Video Number : 52 --> RYKARD, LORD OF BLASPHEMY (NO SPEAR) in ELDEN RING PS5 Walkthrough Gameplay Part 34 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 47.0
+Negative sentiment : 34.0
+Neutral sentiment : 19.0
+Sentiment Afinn
+Positive sentiment : 43.0
+Negative sentiment : 28.999999999999996
+Neutral sentiment : 28.000000000000004
+Sentiment NRC
+anger : 0.1024
+anticipation : 0.1264
+disgust : 0.048
+fear : 0.2048
+joy : 0.0832
+negative : 0.2144
+positive : 0.1696
+sadness : 0.0608
+surprise : 0.04
+trust : 0.0832
+Video Number : 53 --> DISCOVERING A SECRET UNDERGROUND CITY in ELDEN RING PS5 Walkthrough Gameplay Part 32 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 46.0
+Negative sentiment : 28.000000000000004
+Neutral sentiment : 26.0
+Sentiment Afinn
+Positive sentiment : 32.0
+Negative sentiment : 23.0
+Neutral sentiment : 45.0
+Sentiment NRC
+anger : 0.07223476297968397
+anticipation : 0.10609480812641084
+disgust : 0.024830699774266364
+fear : 0.12189616252821671
+joy : 0.08577878103837472
+negative : 0.1489841986455982
+positive : 0.17607223476297967
+sadness : 0.07223476297968397
+surprise : 0.03160270880361174
+trust : 0.08577878103837472
+Video Number : 54 --> MORGOTT, THE OMEN KING &amp; GODFREY BOSSES in ELDEN RING PS5 Walkthrough Gameplay Part 31 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 56.99999999999999
+Negative sentiment : 24.0
+Neutral sentiment : 19.0
+Sentiment Afinn
+Positive sentiment : 44.0
+Negative sentiment : 26.0
+Neutral sentiment : 30.0
+Sentiment NRC
+anger : 0.06827309236947791
+anticipation : 0.142570281124498
+disgust : 0.030120481927710843
+fear : 0.12650602409638553
+joy : 0.11646586345381527
+negative : 0.12449799196787148
+positive : 0.23092369477911648
+sadness : 0.03614457831325301
+surprise : 0.040160642570281124
+trust : 0.12248995983935743
+Video Number : 55 --> DRACONIC TREE SENTINEL BOSS in ELDEN RING PS5 Walkthrough Gameplay Part 30 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 52.0
+Negative sentiment : 28.000000000000004
+Neutral sentiment : 20.0
+Sentiment Afinn
+Positive sentiment : 44.0
+Negative sentiment : 23.0
+Neutral sentiment : 33.0
+Sentiment NRC
+anger : 0.08024691358024691
+anticipation : 0.11522633744855967
+disgust : 0.047325102880658436
+fear : 0.10699588477366255
+joy : 0.11934156378600823
+negative : 0.12139917695473251
+positive : 0.24279835390946503
+sadness : 0.04938271604938271
+surprise : 0.053497942386831275
+trust : 0.12962962962962962
+Video Number : 56 --> FULL-GROWN FALLINGSTAR BEAST IS INSANE in ELDEN RING PS5 Walkthrough Gameplay Part 29 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 43.0
+Negative sentiment : 32.0
+Neutral sentiment : 25.0
+Sentiment Afinn
+Positive sentiment : 39.0
+Negative sentiment : 28.000000000000004
+Neutral sentiment : 33.0
+Sentiment NRC
+anger : 0.08993576017130621
+anticipation : 0.11563169164882227
+disgust : 0.042826552462526764
+fear : 0.16916488222698073
+joy : 0.07494646680942184
+negative : 0.21841541755888652
+positive : 0.16916488222698073
+sadness : 0.07066381156316917
+surprise : 0.05139186295503212
+trust : 0.08779443254817987
+Video Number : 57 --> TINY TINA&#39;S WONDERLANDS Walkthrough Gameplay Part 2 - GRAVEBORN CLASS (FULL GAME)
+Sentiment Vader
+Positive sentiment : 45.0
+Negative sentiment : 24.0
+Neutral sentiment : 31.0
+Sentiment Afinn
+Positive sentiment : 32.0
+Negative sentiment : 17.0
+Neutral sentiment : 51.0
+Sentiment NRC
+anger : 0.04644808743169399
+anticipation : 0.11475409836065574
+disgust : 0.0273224043715847
+fear : 0.06557377049180328
+joy : 0.09836065573770492
+negative : 0.12568306010928962
+positive : 0.1912568306010929
+sadness : 0.04644808743169399
+surprise : 0.04644808743169399
+trust : 0.08196721311475409
+Video Number : 58 --> MAGMA WYRM BOSS (VOLCANO MANOR) in ELDEN RING PS5 Walkthrough Gameplay Part 28 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 44.0
+Negative sentiment : 33.0
+Neutral sentiment : 23.0
+Sentiment Afinn
+Positive sentiment : 39.0
+Negative sentiment : 26.0
+Neutral sentiment : 35.0
+Sentiment NRC
+anger : 0.0718562874251497
+anticipation : 0.08582834331337326
+disgust : 0.04590818363273453
+fear : 0.1437125748502994
+joy : 0.07584830339321358
+negative : 0.13572854291417166
+positive : 0.1437125748502994
+sadness : 0.05389221556886228
+surprise : 0.027944111776447105
+trust : 0.06986027944111776
+Video Number : 59 --> GHOSTWIRE TOKYO PS5 Walkthrough Gameplay Part 3 - DOGS (FULL GAME)
+Sentiment Vader
+Positive sentiment : 63.0
+Negative sentiment : 12.0
+Neutral sentiment : 25.0
+Sentiment Afinn
+Positive sentiment : 39.0
+Negative sentiment : 16.0
+Neutral sentiment : 45.0
+Sentiment NRC
+anger : 0.08086253369272237
+anticipation : 0.16442048517520216
+disgust : 0.05121293800539083
+fear : 0.04851752021563342
+joy : 0.18059299191374664
+negative : 0.09164420485175202
+positive : 0.2749326145552561
+sadness : 0.03234501347708895
+surprise : 0.12129380053908356
+trust : 0.14824797843665768
+Video Number : 60 --> THIS BOSS MADE ME MUTE MYSELF in ELDEN RING PS5 Walkthrough Gameplay Part 27 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 47.0
+Negative sentiment : 31.0
+Neutral sentiment : 22.0
+Sentiment Afinn
+Positive sentiment : 33.0
+Negative sentiment : 28.000000000000004
+Neutral sentiment : 39.0
+Sentiment NRC
+anger : 0.07894736842105263
+anticipation : 0.10964912280701754
+disgust : 0.03508771929824561
+fear : 0.12280701754385964
+joy : 0.09429824561403509
+negative : 0.16885964912280702
+positive : 0.19517543859649122
+sadness : 0.06359649122807018
+surprise : 0.02850877192982456
+trust : 0.1206140350877193
+Video Number : 61 --> TINY TINA&#39;S WONDERLANDS Walkthrough Gameplay Part 1 - INTRO (FULL GAME)
+Sentiment Vader
+Positive sentiment : 56.99999999999999
+Negative sentiment : 17.0
+Neutral sentiment : 26.0
+Sentiment Afinn
+Positive sentiment : 46.0
+Negative sentiment : 14.000000000000002
+Neutral sentiment : 40.0
+Sentiment NRC
+anger : 0.03951367781155015
+anticipation : 0.10638297872340426
+disgust : 0.03343465045592705
+fear : 0.06382978723404255
+joy : 0.11854103343465046
+negative : 0.10638297872340426
+positive : 0.2127659574468085
+sadness : 0.06990881458966565
+surprise : 0.03343465045592705
+trust : 0.0851063829787234
+Video Number : 62 --> MOONVEIL KATANA IS INSANELY POWERFUL in ELDEN RING PS5 Walkthrough Gameplay Part 26 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 46.0
+Negative sentiment : 30.0
+Neutral sentiment : 24.0
+Sentiment Afinn
+Positive sentiment : 39.0
+Negative sentiment : 19.0
+Neutral sentiment : 42.0
+Sentiment NRC
+anger : 0.06935123042505593
+anticipation : 0.10067114093959731
+disgust : 0.026845637583892617
+fear : 0.12527964205816555
+joy : 0.08277404921700224
+negative : 0.1319910514541387
+positive : 0.18568232662192394
+sadness : 0.05145413870246085
+surprise : 0.017897091722595078
+trust : 0.10738255033557047
+Video Number : 63 --> GHOSTWIRE TOKYO PS5 Walkthrough Gameplay Part 2 - AKITO (FULL GAME)
+Sentiment Vader
+Positive sentiment : 45.0
+Negative sentiment : 27.0
+Neutral sentiment : 28.000000000000004
+Sentiment Afinn
+Positive sentiment : 35.0
+Negative sentiment : 24.0
+Neutral sentiment : 41.0
+Sentiment NRC
+anger : 0.08143322475570032
+anticipation : 0.15960912052117263
+disgust : 0.05537459283387622
+fear : 0.0749185667752443
+joy : 0.09446254071661238
+negative : 0.10749185667752444
+positive : 0.18892508143322476
+sadness : 0.035830618892508145
+surprise : 0.09120521172638436
+trust : 0.10749185667752444
+Video Number : 64 --> GHOSTWIRE TOKYO PS5 Walkthrough Gameplay Part 1 - INTRO (FULL GAME)
+Sentiment Vader
+Positive sentiment : 56.00000000000001
+Negative sentiment : 14.000000000000002
+Neutral sentiment : 30.0
+Sentiment Afinn
+Positive sentiment : 30.0
+Negative sentiment : 22.0
+Neutral sentiment : 48.0
+Sentiment NRC
+anger : 0.06713780918727916
+anticipation : 0.14840989399293286
+disgust : 0.07420494699646643
+fear : 0.1413427561837456
+joy : 0.08833922261484099
+negative : 0.13780918727915195
+positive : 0.18374558303886926
+sadness : 0.08833922261484099
+surprise : 0.05653710247349823
+trust : 0.08480565371024736
+Video Number : 65 --> STARSCOURGE RADAHN BOSS in ELDEN RING PS5 Walkthrough Gameplay Part 24 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 49.0
+Negative sentiment : 32.0
+Neutral sentiment : 19.0
+Sentiment Afinn
+Positive sentiment : 45.0
+Negative sentiment : 25.0
+Neutral sentiment : 30.0
+Sentiment NRC
+anger : 0.08256880733944955
+anticipation : 0.10550458715596331
+disgust : 0.03669724770642202
+fear : 0.14220183486238533
+joy : 0.0779816513761468
+negative : 0.16055045871559634
+positive : 0.22477064220183487
+sadness : 0.06880733944954129
+surprise : 0.02522935779816514
+trust : 0.1353211009174312
+Video Number : 66 --> SWORD OF NIGHT AND FLAME IS AMAZING in ELDEN RING PS5 Walkthrough Gameplay Part 23 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 46.0
+Negative sentiment : 33.0
+Neutral sentiment : 21.0
+Sentiment Afinn
+Positive sentiment : 47.0
+Negative sentiment : 16.0
+Neutral sentiment : 37.0
+Sentiment NRC
+anger : 0.07042253521126761
+anticipation : 0.12910798122065728
+disgust : 0.028169014084507043
+fear : 0.11737089201877934
+joy : 0.09859154929577464
+negative : 0.11267605633802817
+positive : 0.17136150234741784
+sadness : 0.04929577464788732
+surprise : 0.04929577464788732
+trust : 0.08215962441314555
+Video Number : 67 --> I FOUND THE BIGGEST DRAGON IN THE GAME - ELDEN RING PS5 Walkthrough Gameplay Part 22 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 56.99999999999999
+Negative sentiment : 20.0
+Neutral sentiment : 23.0
+Sentiment Afinn
+Positive sentiment : 41.0
+Negative sentiment : 27.0
+Neutral sentiment : 32.0
+Sentiment NRC
+anger : 0.06914893617021277
+anticipation : 0.14627659574468085
+disgust : 0.03723404255319149
+fear : 0.2047872340425532
+joy : 0.0851063829787234
+negative : 0.16489361702127658
+positive : 0.1622340425531915
+sadness : 0.09308510638297872
+surprise : 0.047872340425531915
+trust : 0.06914893617021277
+Video Number : 68 --> MOST UNEXPECTED ENDING TO A BOSS FIGHT in ELDEN RING PS5 Walkthrough Gameplay Part 21 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 54.0
+Negative sentiment : 24.0
+Neutral sentiment : 22.0
+Sentiment Afinn
+Positive sentiment : 41.0
+Negative sentiment : 25.0
+Neutral sentiment : 34.0
+Sentiment NRC
+anger : 0.09267241379310345
+anticipation : 0.1206896551724138
+disgust : 0.036637931034482756
+fear : 0.18318965517241378
+joy : 0.08189655172413793
+negative : 0.16594827586206898
+positive : 0.16379310344827586
+sadness : 0.04525862068965517
+surprise : 0.023706896551724137
+trust : 0.09267241379310345
+Video Number : 69 --> RENNALA, QUEEN OF THE FULL MOON in ELDEN RING PS5 Walkthrough Gameplay Part 20 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 48.0
+Negative sentiment : 26.0
+Neutral sentiment : 26.0
+Sentiment Afinn
+Positive sentiment : 42.0
+Negative sentiment : 21.0
+Neutral sentiment : 37.0
+Sentiment NRC
+anger : 0.07476635514018691
+anticipation : 0.11214953271028037
+disgust : 0.02336448598130841
+fear : 0.12383177570093458
+joy : 0.07710280373831775
+negative : 0.1261682242990654
+positive : 0.20327102803738317
+sadness : 0.0514018691588785
+surprise : 0.03271028037383177
+trust : 0.102803738317757
+Video Number : 70 --> GLINTSTONE DRAGON SMARAG BOSS in ELDEN RING PS5 Walkthrough Gameplay Part 19 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 59.0
+Negative sentiment : 19.0
+Neutral sentiment : 22.0
+Sentiment Afinn
+Positive sentiment : 45.0
+Negative sentiment : 19.0
+Neutral sentiment : 36.0
+Sentiment NRC
+anger : 0.0425531914893617
+anticipation : 0.10851063829787234
+disgust : 0.014893617021276596
+fear : 0.11063829787234042
+joy : 0.09787234042553192
+negative : 0.08936170212765958
+positive : 0.1829787234042553
+sadness : 0.02127659574468085
+surprise : 0.031914893617021274
+trust : 0.07234042553191489
+Video Number : 71 --> HORIZON FORBIDDEN WEST ENDING / FINAL BOSS - PS5 Walkthrough Gameplay Part 37 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 51.0
+Negative sentiment : 30.0
+Neutral sentiment : 19.0
+Sentiment Afinn
+Positive sentiment : 49.0
+Negative sentiment : 25.0
+Neutral sentiment : 26.0
+Sentiment NRC
+anger : 0.0600375234521576
+anticipation : 0.1726078799249531
+disgust : 0.028142589118198873
+fear : 0.10694183864915573
+joy : 0.1125703564727955
+negative : 0.14634146341463414
+positive : 0.2326454033771107
+sadness : 0.05065666041275797
+surprise : 0.04690431519699812
+trust : 0.09380863039399624
+Video Number : 72 --> HOW TO GET THE GRAFTED GREATSWORD in ELDEN RING PS5 Walkthrough Gameplay Part 18 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 57.99999999999999
+Negative sentiment : 14.000000000000002
+Neutral sentiment : 28.000000000000004
+Sentiment Afinn
+Positive sentiment : 49.0
+Negative sentiment : 11.0
+Neutral sentiment : 40.0
+Sentiment NRC
+anger : 0.06516290726817042
+anticipation : 0.11779448621553884
+disgust : 0.05263157894736842
+fear : 0.12030075187969924
+joy : 0.10025062656641603
+negative : 0.11027568922305764
+positive : 0.22807017543859648
+sadness : 0.06516290726817042
+surprise : 0.047619047619047616
+trust : 0.11278195488721804
+Video Number : 73 --> DELIVERING IRINA&#39;S LETTER in ELDEN RING PS5 Walkthrough Gameplay Part 17 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 59.0
+Negative sentiment : 18.0
+Neutral sentiment : 23.0
+Sentiment Afinn
+Positive sentiment : 45.0
+Negative sentiment : 23.0
+Neutral sentiment : 32.0
+Sentiment NRC
+anger : 0.05639913232104121
+anticipation : 0.13449023861171366
+disgust : 0.028199566160520606
+fear : 0.13232104121475055
+joy : 0.10629067245119306
+negative : 0.1279826464208243
+positive : 0.21475054229934923
+sadness : 0.05856832971800434
+surprise : 0.03470715835140998
+trust : 0.0911062906724512
+Video Number : 74 --> I HOPE I NEVER SEE THIS ENEMY AGAIN - ELDEN RING PS5 Walkthrough Gameplay Part 16 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 54.0
+Negative sentiment : 27.0
+Neutral sentiment : 19.0
+Sentiment Afinn
+Positive sentiment : 28.999999999999996
+Negative sentiment : 25.0
+Neutral sentiment : 46.0
+Sentiment NRC
+anger : 0.08705882352941176
+anticipation : 0.07529411764705882
+disgust : 0.06588235294117648
+fear : 0.1411764705882353
+joy : 0.05411764705882353
+negative : 0.1976470588235294
+positive : 0.1623529411764706
+sadness : 0.07529411764705882
+surprise : 0.03764705882352941
+trust : 0.07764705882352942
+Video Number : 75 --> HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 34 - TILDA (FULL GAME)
+Sentiment Vader
+Positive sentiment : 54.0
+Negative sentiment : 20.0
+Neutral sentiment : 26.0
+Sentiment Afinn
+Positive sentiment : 42.0
+Negative sentiment : 16.0
+Neutral sentiment : 42.0
+Sentiment NRC
+anger : 0.022535211267605635
+anticipation : 0.17464788732394365
+disgust : 0.016901408450704224
+fear : 0.08732394366197183
+joy : 0.12112676056338029
+negative : 0.08732394366197183
+positive : 0.2084507042253521
+sadness : 0.036619718309859155
+surprise : 0.036619718309859155
+trust : 0.09577464788732394
+Video Number : 76 --> THE BOSS UNDER THE MAP (ANCESTOR SPIRIT) in ELDEN RING PS5 Walkthrough Gameplay Part 15 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 52.0
+Negative sentiment : 24.0
+Neutral sentiment : 24.0
+Sentiment Afinn
+Positive sentiment : 46.0
+Negative sentiment : 15.0
+Neutral sentiment : 39.0
+Sentiment NRC
+anger : 0.07228915662650602
+anticipation : 0.07429718875502007
+disgust : 0.014056224899598393
+fear : 0.11244979919678715
+joy : 0.11044176706827309
+negative : 0.13654618473895583
+positive : 0.19678714859437751
+sadness : 0.060240963855421686
+surprise : 0.03815261044176707
+trust : 0.08835341365461848
+Video Number : 77 --> ASSASSIN&#39;S CREED VALHALLA DAWN OF RAGNAROK Walkthrough Gameplay Part 1 - INTRO (PS5)
+Sentiment Vader
+Positive sentiment : 38.0
+Negative sentiment : 37.0
+Neutral sentiment : 25.0
+Sentiment Afinn
+Positive sentiment : 28.999999999999996
+Negative sentiment : 24.0
+Neutral sentiment : 47.0
+Sentiment NRC
+anger : 0.12129380053908356
+anticipation : 0.12129380053908356
+disgust : 0.0646900269541779
+fear : 0.1725067385444744
+joy : 0.09164420485175202
+negative : 0.16711590296495957
+positive : 0.18328840970350405
+sadness : 0.08086253369272237
+surprise : 0.05660377358490566
+trust : 0.11320754716981132
+Video Number : 78 --> THE FASTEST BOSS FIGHT I&#39;VE HAD in ELDEN RING PS5 Walkthrough Gameplay Part 14 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 52.0
+Negative sentiment : 24.0
+Neutral sentiment : 24.0
+Sentiment Afinn
+Positive sentiment : 36.0
+Negative sentiment : 22.0
+Neutral sentiment : 42.0
+Sentiment NRC
+anger : 0.0787037037037037
+anticipation : 0.11574074074074074
+disgust : 0.05324074074074074
+fear : 0.11574074074074074
+joy : 0.11342592592592593
+negative : 0.16435185185185186
+positive : 0.21064814814814814
+sadness : 0.06712962962962964
+surprise : 0.06018518518518518
+trust : 0.09027777777777778
+Video Number : 79 --> GODRICK THE GRAFTED BOSS in ELDEN RING PS5 Walkthrough Gameplay Part 13 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 61.0
+Negative sentiment : 22.0
+Neutral sentiment : 17.0
+Sentiment Afinn
+Positive sentiment : 43.0
+Negative sentiment : 26.0
+Neutral sentiment : 31.0
+Sentiment NRC
+anger : 0.06769825918762089
+anticipation : 0.09477756286266925
+disgust : 0.048355899419729204
+fear : 0.11605415860735009
+joy : 0.06576402321083172
+negative : 0.13346228239845262
+positive : 0.1760154738878143
+sadness : 0.06576402321083172
+surprise : 0.015473887814313346
+trust : 0.09090909090909091
+Video Number : 80 --> HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 31 - CEO (FULL GAME)
+Sentiment Vader
+Positive sentiment : 44.0
+Negative sentiment : 28.000000000000004
+Neutral sentiment : 28.000000000000004
+Sentiment Afinn
+Positive sentiment : 36.0
+Negative sentiment : 16.0
+Neutral sentiment : 48.0
+Sentiment NRC
+anger : 0.07453416149068323
+anticipation : 0.11387163561076605
+disgust : 0.053830227743271224
+fear : 0.13043478260869565
+joy : 0.08902691511387163
+negative : 0.13250517598343686
+positive : 0.18012422360248448
+sadness : 0.08281573498964803
+surprise : 0.045548654244306416
+trust : 0.09730848861283643
+Video Number : 81 --> GRAN TURISMO 7 PS5 Walkthrough Gameplay Part 1 - INTRO (GT7)
+Sentiment Vader
+Positive sentiment : 65.0
+Negative sentiment : 17.0
+Neutral sentiment : 18.0
+Sentiment Afinn
+Positive sentiment : 56.99999999999999
+Negative sentiment : 14.000000000000002
+Neutral sentiment : 28.999999999999996
+Sentiment NRC
+anger : 0.02748414376321353
+anticipation : 0.13107822410147993
+disgust : 0.023255813953488372
+fear : 0.035940803382663845
+joy : 0.10782241014799154
+negative : 0.06976744186046512
+positive : 0.18604651162790697
+sadness : 0.03382663847780127
+surprise : 0.05708245243128964
+trust : 0.08879492600422834
+Video Number : 82 --> THE RUNEBEAR BOSS (GIANT GRIZZLY BEAR) in ELDEN RING PS5 Walkthrough Gameplay Part 11 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 64.0
+Negative sentiment : 15.0
+Neutral sentiment : 21.0
+Sentiment Afinn
+Positive sentiment : 54.0
+Negative sentiment : 15.0
+Neutral sentiment : 31.0
+Sentiment NRC
+anger : 0.054466230936819175
+anticipation : 0.12636165577342048
+disgust : 0.054466230936819175
+fear : 0.11764705882352941
+joy : 0.11328976034858387
+negative : 0.13507625272331156
+positive : 0.17647058823529413
+sadness : 0.06100217864923747
+surprise : 0.0392156862745098
+trust : 0.08714596949891068
+Video Number : 83 --> HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 29 - DEMETER (FULL GAME)
+Sentiment Vader
+Positive sentiment : 54.0
+Negative sentiment : 19.0
+Neutral sentiment : 27.0
+Sentiment Afinn
+Positive sentiment : 41.0
+Negative sentiment : 17.0
+Neutral sentiment : 42.0
+Sentiment NRC
+anger : 0.033264033264033266
+anticipation : 0.15592515592515593
+disgust : 0.016632016632016633
+fear : 0.060291060291060294
+joy : 0.09355509355509356
+negative : 0.11642411642411643
+positive : 0.20582120582120583
+sadness : 0.05405405405405406
+surprise : 0.037422037422037424
+trust : 0.09771309771309772
+Video Number : 84 --> MARGIT, THE FELL OMEN BOSS in ELDEN RING PS5 Walkthrough Gameplay Part 10 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 56.00000000000001
+Negative sentiment : 21.0
+Neutral sentiment : 23.0
+Sentiment Afinn
+Positive sentiment : 45.0
+Negative sentiment : 21.0
+Neutral sentiment : 34.0
+Sentiment NRC
+anger : 0.07740585774058577
+anticipation : 0.10669456066945607
+disgust : 0.03765690376569038
+fear : 0.10460251046025104
+joy : 0.08577405857740586
+negative : 0.16108786610878661
+positive : 0.19246861924686193
+sadness : 0.09205020920502092
+surprise : 0.0397489539748954
+trust : 0.13389121338912133
+Video Number : 85 --> THIS BOSS ALMOST ENDED MY SERIES - ELDEN RING PS5 Walkthrough Gameplay Part 9 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 50.0
+Negative sentiment : 33.0
+Neutral sentiment : 17.0
+Sentiment Afinn
+Positive sentiment : 36.0
+Negative sentiment : 25.0
+Neutral sentiment : 39.0
+Sentiment NRC
+anger : 0.10796915167095116
+anticipation : 0.11568123393316196
+disgust : 0.03598971722365039
+fear : 0.14395886889460155
+joy : 0.10282776349614396
+negative : 0.17480719794344474
+positive : 0.2133676092544987
+sadness : 0.05912596401028278
+surprise : 0.056555269922879174
+trust : 0.11568123393316196
+Video Number : 86 --> ELDEN RING PS5 Walkthrough Gameplay Part 8 - SORCERESS SELLEN (FULL GAME)
+Sentiment Vader
+Positive sentiment : 54.0
+Negative sentiment : 25.0
+Neutral sentiment : 21.0
+Sentiment Afinn
+Positive sentiment : 43.0
+Negative sentiment : 16.0
+Neutral sentiment : 41.0
+Sentiment NRC
+anger : 0.0997624703087886
+anticipation : 0.08076009501187649
+disgust : 0.028503562945368172
+fear : 0.1163895486935867
+joy : 0.08788598574821853
+negative : 0.14251781472684086
+positive : 0.18052256532066507
+sadness : 0.04513064133016627
+surprise : 0.03800475059382423
+trust : 0.07838479809976247
+Video Number : 87 --> HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 26 - TIDERIPPER BOSS (FULL GAME)
+Sentiment Vader
+Positive sentiment : 60.0
+Negative sentiment : 14.000000000000002
+Neutral sentiment : 26.0
+Sentiment Afinn
+Positive sentiment : 44.0
+Negative sentiment : 17.0
+Neutral sentiment : 39.0
+Sentiment NRC
+anger : 0.035634743875278395
+anticipation : 0.155902004454343
+disgust : 0.028953229398663696
+fear : 0.07349665924276169
+joy : 0.10467706013363029
+negative : 0.08463251670378619
+positive : 0.24053452115812918
+sadness : 0.035634743875278395
+surprise : 0.035634743875278395
+trust : 0.12694877505567928
+Video Number : 88 --> ELDEN RING PS5 Walkthrough Gameplay Part 7 - TREE SENTINEL (FULL GAME)
+Sentiment Vader
+Positive sentiment : 59.0
+Negative sentiment : 24.0
+Neutral sentiment : 17.0
+Sentiment Afinn
+Positive sentiment : 47.0
+Negative sentiment : 17.0
+Neutral sentiment : 36.0
+Sentiment NRC
+anger : 0.059850374064837904
+anticipation : 0.1371571072319202
+disgust : 0.02743142144638404
+fear : 0.10972568578553615
+joy : 0.12967581047381546
+negative : 0.12219451371571072
+positive : 0.23690773067331672
+sadness : 0.057356608478802994
+surprise : 0.04987531172069826
+trust : 0.13466334164588528
+Video Number : 89 --> DISCOVERING LAS VEGAS in HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 25 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 54.0
+Negative sentiment : 16.0
+Neutral sentiment : 30.0
+Sentiment Afinn
+Positive sentiment : 38.0
+Negative sentiment : 17.0
+Neutral sentiment : 45.0
+Sentiment NRC
+anger : 0.05417607223476298
+anticipation : 0.11738148984198646
+disgust : 0.020316027088036117
+fear : 0.11286681715575621
+joy : 0.09480812641083522
+negative : 0.11060948081264109
+positive : 0.16930022573363432
+sadness : 0.05191873589164785
+surprise : 0.03837471783295711
+trust : 0.08126410835214447
+Video Number : 90 --> ELDEN RING PS5 Walkthrough Gameplay Part 6 - FIA AND THE ROUNDTABLE (FULL GAME)
+Sentiment Vader
+Positive sentiment : 63.0
+Negative sentiment : 13.0
+Neutral sentiment : 24.0
+Sentiment Afinn
+Positive sentiment : 51.0
+Negative sentiment : 13.0
+Neutral sentiment : 36.0
+Sentiment NRC
+anger : 0.035545023696682464
+anticipation : 0.12322274881516587
+disgust : 0.02132701421800948
+fear : 0.06398104265402843
+joy : 0.1066350710900474
+negative : 0.07819905213270142
+positive : 0.23696682464454977
+sadness : 0.030805687203791468
+surprise : 0.04028436018957346
+trust : 0.13270142180094788
+Video Number : 91 --> HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 24 - LEGENDARY ARMOR (FULL GAME)
+Sentiment Vader
+Positive sentiment : 50.0
+Negative sentiment : 22.0
+Neutral sentiment : 28.000000000000004
+Sentiment Afinn
+Positive sentiment : 42.0
+Negative sentiment : 14.000000000000002
+Neutral sentiment : 44.0
+Sentiment NRC
+anger : 0.030107526881720432
+anticipation : 0.12258064516129032
+disgust : 0.012903225806451613
+fear : 0.07526881720430108
+joy : 0.1010752688172043
+negative : 0.11397849462365592
+positive : 0.24301075268817204
+sadness : 0.043010752688172046
+surprise : 0.034408602150537634
+trust : 0.11182795698924732
+Video Number : 92 --> ELDEN RING PS5 Walkthrough Gameplay Part 5 - BLOODHOUND KNIGHT DARRIWIL (FULL GAME)
+Sentiment Vader
+Positive sentiment : 47.0
+Negative sentiment : 23.0
+Neutral sentiment : 30.0
+Sentiment Afinn
+Positive sentiment : 41.0
+Negative sentiment : 21.0
+Neutral sentiment : 38.0
+Sentiment NRC
+anger : 0.05459770114942529
+anticipation : 0.08908045977011494
+disgust : 0.031609195402298854
+fear : 0.14367816091954022
+joy : 0.06609195402298851
+negative : 0.12931034482758622
+positive : 0.16379310344827586
+sadness : 0.05747126436781609
+surprise : 0.034482758620689655
+trust : 0.09770114942528736
+Video Number : 93 --> HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 23 - BETA (FULL GAME)
+Sentiment Vader
+Positive sentiment : 53.0
+Negative sentiment : 22.0
+Neutral sentiment : 25.0
+Sentiment Afinn
+Positive sentiment : 46.0
+Negative sentiment : 18.0
+Neutral sentiment : 36.0
+Sentiment NRC
+anger : 0.06651376146788991
+anticipation : 0.12614678899082568
+disgust : 0.03211009174311927
+fear : 0.12385321100917432
+joy : 0.10550458715596331
+negative : 0.13990825688073394
+positive : 0.19954128440366972
+sadness : 0.05733944954128441
+surprise : 0.0389908256880734
+trust : 0.09862385321100918
+Video Number : 94 --> ELDEN RING PS5 Walkthrough Gameplay Part 4 - ERDTREE BURIAL WATCHDOG BOSS (FULL GAME)
+Sentiment Vader
+Positive sentiment : 57.99999999999999
+Negative sentiment : 20.0
+Neutral sentiment : 22.0
+Sentiment Afinn
+Positive sentiment : 46.0
+Negative sentiment : 19.0
+Neutral sentiment : 35.0
+Sentiment NRC
+anger : 0.08900523560209424
+anticipation : 0.1099476439790576
+disgust : 0.041884816753926704
+fear : 0.14921465968586387
+joy : 0.09947643979057591
+negative : 0.1387434554973822
+positive : 0.20418848167539266
+sadness : 0.06806282722513089
+surprise : 0.028795811518324606
+trust : 0.08376963350785341
+Video Number : 95 --> ELDEN RING PS5 Walkthrough Gameplay Part 3 - LIMGRAVE TUNNELS BOSS (FULL GAME)
+Sentiment Vader
+Positive sentiment : 41.0
+Negative sentiment : 31.0
+Neutral sentiment : 28.000000000000004
+Sentiment Afinn
+Positive sentiment : 37.0
+Negative sentiment : 23.0
+Neutral sentiment : 40.0
+Sentiment NRC
+anger : 0.10306406685236769
+anticipation : 0.10027855153203342
+disgust : 0.07242339832869081
+fear : 0.13370473537604458
+joy : 0.06406685236768803
+negative : 0.181058495821727
+positive : 0.14763231197771587
+sadness : 0.07799442896935933
+surprise : 0.04456824512534819
+trust : 0.07242339832869081
+Video Number : 96 --> HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 21 - KULRUT (FULL GAME)
+Sentiment Vader
+Positive sentiment : 47.0
+Negative sentiment : 21.0
+Neutral sentiment : 32.0
+Sentiment Afinn
+Positive sentiment : 31.0
+Negative sentiment : 19.0
+Neutral sentiment : 50.0
+Sentiment NRC
+anger : 0.052054794520547946
+anticipation : 0.13150684931506848
+disgust : 0.021917808219178082
+fear : 0.10410958904109589
+joy : 0.06027397260273973
+negative : 0.10410958904109589
+positive : 0.15616438356164383
+sadness : 0.0410958904109589
+surprise : 0.0273972602739726
+trust : 0.06575342465753424
+Video Number : 97 --> ELDEN RING PS5 Walkthrough Gameplay Part 2 - SNOW WITCH (FULL GAME)
+Sentiment Vader
+Positive sentiment : 46.0
+Negative sentiment : 28.000000000000004
+Neutral sentiment : 26.0
+Sentiment Afinn
+Positive sentiment : 37.0
+Negative sentiment : 20.0
+Neutral sentiment : 43.0
+Sentiment NRC
+anger : 0.06371191135734072
+anticipation : 0.1329639889196676
+disgust : 0.038781163434903045
+fear : 0.11357340720221606
+joy : 0.08310249307479224
+negative : 0.15512465373961218
+positive : 0.19113573407202217
+sadness : 0.08033240997229917
+surprise : 0.030470914127423823
+trust : 0.08587257617728532
+Video Number : 98 --> MAMMOTH &quot;TREMORTUSK&quot; BOSS in HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 20 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 60.0
+Negative sentiment : 25.0
+Neutral sentiment : 15.0
+Sentiment Afinn
+Positive sentiment : 37.0
+Negative sentiment : 32.0
+Neutral sentiment : 31.0
+Sentiment NRC
+anger : 0.08352668213457076
+anticipation : 0.10440835266821345
+disgust : 0.030162412993039442
+fear : 0.13921113689095127
+joy : 0.09744779582366589
+negative : 0.1531322505800464
+positive : 0.19721577726218098
+sadness : 0.07424593967517401
+surprise : 0.037122969837587005
+trust : 0.11832946635730858
+Video Number : 99 --> HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 18 - HEKARRO (FULL GAME)
+Sentiment Vader
+Positive sentiment : 59.0
+Negative sentiment : 18.0
+Neutral sentiment : 23.0
+Sentiment Afinn
+Positive sentiment : 52.0
+Negative sentiment : 17.0
+Neutral sentiment : 31.0
+Sentiment NRC
+anger : 0.06017699115044248
+anticipation : 0.14513274336283186
+disgust : 0.02831858407079646
+fear : 0.07787610619469026
+joy : 0.09734513274336283
+negative : 0.09911504424778761
+positive : 0.23893805309734514
+sadness : 0.035398230088495575
+surprise : 0.04424778761061947
+trust : 0.0920353982300885
+Video Number : 100 --> HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 16 - EYE OF THE EARTH (FULL GAME)
+Sentiment Vader
+Positive sentiment : 57.99999999999999
+Negative sentiment : 18.0
+Neutral sentiment : 24.0
+Sentiment Afinn
+Positive sentiment : 32.0
+Negative sentiment : 25.0
+Neutral sentiment : 43.0
+Sentiment NRC
+anger : 0.07090464547677261
+anticipation : 0.1491442542787286
+disgust : 0.03178484107579462
+fear : 0.13447432762836187
+joy : 0.07823960880195599
+negative : 0.14180929095354522
+positive : 0.18337408312958436
+sadness : 0.05134474327628362
+surprise : 0.034229828850855744
+trust : 0.07090464547677261
+Video Number : 101 --> HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 18 - HEKARRO (FULL GAME)
+Sentiment Vader
+Positive sentiment : 59.0
+Negative sentiment : 18.0
+Neutral sentiment : 23.0
+Sentiment Afinn
+Positive sentiment : 52.0
+Negative sentiment : 17.0
+Neutral sentiment : 31.0
+Sentiment NRC
+anger : 0.06017699115044248
+anticipation : 0.14513274336283186
+disgust : 0.02831858407079646
+fear : 0.07787610619469026
+joy : 0.09734513274336283
+negative : 0.09911504424778761
+positive : 0.23893805309734514
+sadness : 0.035398230088495575
+surprise : 0.04424778761061947
+trust : 0.0920353982300885
+Video Number : 102 --> HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 16 - EYE OF THE EARTH (FULL GAME)
+Sentiment Vader
+Positive sentiment : 57.99999999999999
+Negative sentiment : 18.0
+Neutral sentiment : 24.0
+Sentiment Afinn
+Positive sentiment : 32.0
+Negative sentiment : 25.0
+Neutral sentiment : 43.0
+Sentiment NRC
+anger : 0.07090464547677261
+anticipation : 0.1491442542787286
+disgust : 0.03178484107579462
+fear : 0.13447432762836187
+joy : 0.07823960880195599
+negative : 0.14180929095354522
+positive : 0.18337408312958436
+sadness : 0.05134474327628362
+surprise : 0.034229828850855744
+trust : 0.07090464547677261
+Video Number : 103 --> HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 15 - ZO (FULL GAME)
+Sentiment Vader
+Positive sentiment : 56.00000000000001
+Negative sentiment : 19.0
+Neutral sentiment : 25.0
+Sentiment Afinn
+Positive sentiment : 43.0
+Negative sentiment : 16.0
+Neutral sentiment : 41.0
+Sentiment NRC
+anger : 0.04239401496259352
+anticipation : 0.1172069825436409
+disgust : 0.03740648379052369
+fear : 0.08229426433915212
+joy : 0.08977556109725686
+negative : 0.10473815461346633
+positive : 0.20947630922693267
+sadness : 0.05236907730673317
+surprise : 0.032418952618453865
+trust : 0.08977556109725686
+Video Number : 104 --> HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 14 - THE STRANGERS (FULL GAME)
+Sentiment Vader
+Positive sentiment : 51.0
+Negative sentiment : 22.0
+Neutral sentiment : 27.0
+Sentiment Afinn
+Positive sentiment : 43.0
+Negative sentiment : 20.0
+Neutral sentiment : 37.0
+Sentiment NRC
+anger : 0.05343511450381679
+anticipation : 0.15267175572519084
+disgust : 0.03307888040712468
+fear : 0.12468193384223919
+joy : 0.089058524173028
+negative : 0.13740458015267176
+positive : 0.18829516539440203
+sadness : 0.06615776081424936
+surprise : 0.04580152671755725
+trust : 0.07633587786259542
+Video Number : 105 --> HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 13 - GAIA (FULL GAME)
+Sentiment Vader
+Positive sentiment : 68.0
+Negative sentiment : 12.0
+Neutral sentiment : 20.0
+Sentiment Afinn
+Positive sentiment : 45.0
+Negative sentiment : 13.0
+Neutral sentiment : 42.0
+Sentiment NRC
+anger : 0.04573170731707317
+anticipation : 0.17682926829268292
+disgust : 0.039634146341463415
+fear : 0.0975609756097561
+joy : 0.13109756097560976
+negative : 0.125
+positive : 0.22865853658536586
+sadness : 0.054878048780487805
+surprise : 0.054878048780487805
+trust : 0.10365853658536585
+Video Number : 106 --> HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 12 - HADES (FULL GAME)
+Sentiment Vader
+Positive sentiment : 45.0
+Negative sentiment : 30.0
+Neutral sentiment : 25.0
+Sentiment Afinn
+Positive sentiment : 34.0
+Negative sentiment : 25.0
+Neutral sentiment : 41.0
+Sentiment NRC
+anger : 0.08093994778067885
+anticipation : 0.10182767624020887
+disgust : 0.04699738903394256
+fear : 0.09921671018276762
+joy : 0.08877284595300261
+negative : 0.1671018276762402
+positive : 0.195822454308094
+sadness : 0.06527415143603134
+surprise : 0.031331592689295036
+trust : 0.06788511749347259
+Video Number : 107 --> CLIMBING THE FIRST TALLNECK in HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 10 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 46.0
+Negative sentiment : 25.0
+Neutral sentiment : 28.999999999999996
+Sentiment Afinn
+Positive sentiment : 45.0
+Negative sentiment : 20.0
+Neutral sentiment : 35.0
+Sentiment NRC
+anger : 0.03389830508474576
+anticipation : 0.13347457627118645
+disgust : 0.02754237288135593
+fear : 0.0826271186440678
+joy : 0.08898305084745763
+negative : 0.09745762711864407
+positive : 0.2097457627118644
+sadness : 0.03389830508474576
+surprise : 0.03389830508474576
+trust : 0.08050847457627118
+Video Number : 108 --> HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 9 - REGALLA (FULL GAME)
+Sentiment Vader
+Positive sentiment : 51.0
+Negative sentiment : 27.0
+Neutral sentiment : 22.0
+Sentiment Afinn
+Positive sentiment : 46.0
+Negative sentiment : 28.000000000000004
+Neutral sentiment : 26.0
+Sentiment NRC
+anger : 0.09216589861751152
+anticipation : 0.09216589861751152
+disgust : 0.03686635944700461
+fear : 0.1313364055299539
+joy : 0.08986175115207373
+negative : 0.1889400921658986
+positive : 0.1912442396313364
+sadness : 0.06221198156682028
+surprise : 0.03456221198156682
+trust : 0.10599078341013825
+Video Number : 109 --> HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 8 - THE EMBASSY (FULL GAME)
+Sentiment Vader
+Positive sentiment : 56.99999999999999
+Negative sentiment : 12.0
+Neutral sentiment : 31.0
+Sentiment Afinn
+Positive sentiment : 37.0
+Negative sentiment : 17.0
+Neutral sentiment : 46.0
+Sentiment NRC
+anger : 0.0399002493765586
+anticipation : 0.16957605985037408
+disgust : 0.022443890274314215
+fear : 0.08977556109725686
+joy : 0.09975062344139651
+negative : 0.10723192019950124
+positive : 0.20199501246882792
+sadness : 0.057356608478802994
+surprise : 0.032418952618453865
+trust : 0.10723192019950124
+Video Number : 110 --> HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 7 - BRISTLEBACKS (FULL GAME)
+Sentiment Vader
+Positive sentiment : 46.0
+Negative sentiment : 33.0
+Neutral sentiment : 21.0
+Sentiment Afinn
+Positive sentiment : 48.0
+Negative sentiment : 24.0
+Neutral sentiment : 28.000000000000004
+Sentiment NRC
+anger : 0.09905660377358491
+anticipation : 0.09433962264150944
+disgust : 0.049528301886792456
+fear : 0.12264150943396226
+joy : 0.09198113207547169
+negative : 0.19339622641509435
+positive : 0.1792452830188679
+sadness : 0.05188679245283019
+surprise : 0.030660377358490566
+trust : 0.08490566037735849
+Video Number : 111 --> HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 6 - SKILLS (FULL GAME)
+Sentiment Vader
+Positive sentiment : 55.00000000000001
+Negative sentiment : 25.0
+Neutral sentiment : 20.0
+Sentiment Afinn
+Positive sentiment : 47.0
+Negative sentiment : 23.0
+Neutral sentiment : 30.0
+Sentiment NRC
+anger : 0.033816425120772944
+anticipation : 0.11352657004830918
+disgust : 0.04106280193236715
+fear : 0.09420289855072464
+joy : 0.08454106280193237
+negative : 0.11352657004830918
+positive : 0.19806763285024154
+sadness : 0.06280193236714976
+surprise : 0.04106280193236715
+trust : 0.0821256038647343
+Video Number : 112 --> HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 5 - PETRA (FULL GAME)
+Sentiment Vader
+Positive sentiment : 55.00000000000001
+Negative sentiment : 22.0
+Neutral sentiment : 23.0
+Sentiment Afinn
+Positive sentiment : 43.0
+Negative sentiment : 20.0
+Neutral sentiment : 37.0
+Sentiment NRC
+anger : 0.06004618937644342
+anticipation : 0.18475750577367206
+disgust : 0.03464203233256351
+fear : 0.10854503464203233
+joy : 0.09930715935334873
+negative : 0.10854503464203233
+positive : 0.18937644341801385
+sadness : 0.046189376443418015
+surprise : 0.05542725173210162
+trust : 0.10392609699769054
+Video Number : 113 --> HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 3 - VARL (FULL GAME)
+Sentiment Vader
+Positive sentiment : 67.0
+Negative sentiment : 12.0
+Neutral sentiment : 21.0
+Sentiment Afinn
+Positive sentiment : 50.0
+Negative sentiment : 13.0
+Neutral sentiment : 37.0
+Sentiment NRC
+anger : 0.04825737265415549
+anticipation : 0.1447721179624665
+disgust : 0.040214477211796246
+fear : 0.10455764075067024
+joy : 0.13136729222520108
+negative : 0.11796246648793565
+positive : 0.2386058981233244
+sadness : 0.058981233243967826
+surprise : 0.05630026809651475
+trust : 0.12332439678284182
+Video Number : 114 --> HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 2 - ALOY (FULL GAME)
+Sentiment Vader
+Positive sentiment : 56.00000000000001
+Negative sentiment : 28.999999999999996
+Neutral sentiment : 15.0
+Sentiment Afinn
+Positive sentiment : 34.0
+Negative sentiment : 32.0
+Neutral sentiment : 34.0
+Sentiment NRC
+anger : 0.07722007722007722
+anticipation : 0.10424710424710425
+disgust : 0.05791505791505792
+fear : 0.1138996138996139
+joy : 0.08494208494208494
+negative : 0.16023166023166024
+positive : 0.17953667953667954
+sadness : 0.07142857142857142
+surprise : 0.04247104247104247
+trust : 0.07142857142857142
+Video Number : 115 --> HORIZON FORBIDDEN WEST PS5 Walkthrough Gameplay Part 1 - INTRO (FULL GAME)
+Sentiment Vader
+Positive sentiment : 51.0
+Negative sentiment : 21.0
+Neutral sentiment : 28.000000000000004
+Sentiment Afinn
+Positive sentiment : 34.0
+Negative sentiment : 17.0
+Neutral sentiment : 49.0
+Sentiment NRC
+anger : 0.04854368932038835
+anticipation : 0.1883495145631068
+disgust : 0.03495145631067961
+fear : 0.09514563106796116
+joy : 0.10485436893203884
+negative : 0.11067961165048544
+positive : 0.17475728155339806
+sadness : 0.05631067961165048
+surprise : 0.04660194174757282
+trust : 0.09514563106796116
+Video Number : 116 --> DYING LIGHT 2 ENDING / FINAL BOSS - Walkthrough Gameplay Part 47 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 56.99999999999999
+Negative sentiment : 26.0
+Neutral sentiment : 17.0
+Sentiment Afinn
+Positive sentiment : 48.0
+Negative sentiment : 28.999999999999996
+Neutral sentiment : 23.0
+Sentiment NRC
+anger : 0.05664488017429194
+anticipation : 0.11328976034858387
+disgust : 0.037037037037037035
+fear : 0.12418300653594772
+joy : 0.1394335511982571
+negative : 0.10021786492374728
+positive : 0.22875816993464052
+sadness : 0.07407407407407407
+surprise : 0.04357298474945534
+trust : 0.13071895424836602
+Video Number : 117 --> DYING LIGHT 2 Walkthrough Gameplay Part 46 - MIA &amp; AIDEN (FULL GAME)
+Sentiment Vader
+Positive sentiment : 41.0
+Negative sentiment : 31.0
+Neutral sentiment : 28.000000000000004
+Sentiment Afinn
+Positive sentiment : 34.0
+Negative sentiment : 23.0
+Neutral sentiment : 43.0
+Sentiment NRC
+anger : 0.07758620689655173
+anticipation : 0.10344827586206896
+disgust : 0.040229885057471264
+fear : 0.11494252873563218
+joy : 0.06896551724137931
+negative : 0.16091954022988506
+positive : 0.16954022988505746
+sadness : 0.07471264367816093
+surprise : 0.03735632183908046
+trust : 0.09195402298850575
+Video Number : 118 --> DYING LIGHT 2 Walkthrough Gameplay Part 45 - THE COLONEL (FULL GAME)
+Sentiment Vader
+Positive sentiment : 42.0
+Negative sentiment : 43.0
+Neutral sentiment : 15.0
+Sentiment Afinn
+Positive sentiment : 28.999999999999996
+Negative sentiment : 39.0
+Neutral sentiment : 32.0
+Sentiment NRC
+anger : 0.09043478260869565
+anticipation : 0.08695652173913043
+disgust : 0.04521739130434783
+fear : 0.13391304347826086
+joy : 0.0782608695652174
+negative : 0.19652173913043477
+positive : 0.18782608695652173
+sadness : 0.0817391304347826
+surprise : 0.04
+trust : 0.16
+Video Number : 119 --> BEGINNING OF THE EPILOGUE in DYING LIGHT 2 Walkthrough Gameplay Part 44 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 57.99999999999999
+Negative sentiment : 30.0
+Neutral sentiment : 12.0
+Sentiment Afinn
+Positive sentiment : 50.0
+Negative sentiment : 26.0
+Neutral sentiment : 24.0
+Sentiment NRC
+anger : 0.06991525423728813
+anticipation : 0.09322033898305085
+disgust : 0.03177966101694915
+fear : 0.09957627118644068
+joy : 0.10805084745762712
+negative : 0.13135593220338984
+positive : 0.2563559322033898
+sadness : 0.046610169491525424
+surprise : 0.0423728813559322
+trust : 0.18220338983050846
+Video Number : 120 --> WOLVERINE CLAWS in DYING LIGHT 2 Walkthrough Gameplay Part 41 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 46.0
+Negative sentiment : 36.0
+Neutral sentiment : 18.0
+Sentiment Afinn
+Positive sentiment : 35.0
+Negative sentiment : 40.0
+Neutral sentiment : 25.0
+Sentiment NRC
+anger : 0.06321839080459771
+anticipation : 0.10057471264367816
+disgust : 0.031609195402298854
+fear : 0.1781609195402299
+joy : 0.1206896551724138
+negative : 0.1781609195402299
+positive : 0.16379310344827586
+sadness : 0.10344827586206896
+surprise : 0.040229885057471264
+trust : 0.06896551724137931
+Video Number : 121 --> DYING LIGHT 2 Walkthrough Gameplay Part 40 - HAKON BOSS (FULL GAME)
+Sentiment Vader
+Positive sentiment : 40.0
+Negative sentiment : 46.0
+Neutral sentiment : 14.000000000000002
+Sentiment Afinn
+Positive sentiment : 34.0
+Negative sentiment : 43.0
+Neutral sentiment : 23.0
+Sentiment NRC
+anger : 0.14699331848552338
+anticipation : 0.11358574610244988
+disgust : 0.0556792873051225
+fear : 0.20044543429844097
+joy : 0.111358574610245
+negative : 0.26057906458797325
+positive : 0.19376391982182628
+sadness : 0.11804008908685969
+surprise : 0.0400890868596882
+trust : 0.111358574610245
+Video Number : 122 --> LAWAN&#39;S BACKSTORY in DYING LIGHT 2 Walkthrough Gameplay Part 38 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 52.0
+Negative sentiment : 28.000000000000004
+Neutral sentiment : 20.0
+Sentiment Afinn
+Positive sentiment : 38.0
+Negative sentiment : 27.0
+Neutral sentiment : 35.0
+Sentiment NRC
+anger : 0.07494646680942184
+anticipation : 0.10492505353319058
+disgust : 0.047109207708779445
+fear : 0.11777301927194861
+joy : 0.059957173447537475
+negative : 0.139186295503212
+positive : 0.15845824411134904
+sadness : 0.07494646680942184
+surprise : 0.032119914346895075
+trust : 0.10492505353319058
+Video Number : 123 --> CLIMBING THE TALLEST TOWER in DYING LIGHT 2 Walkthrough Gameplay Part 37 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 49.0
+Negative sentiment : 31.0
+Neutral sentiment : 20.0
+Sentiment Afinn
+Positive sentiment : 34.0
+Negative sentiment : 21.0
+Neutral sentiment : 45.0
+Sentiment NRC
+anger : 0.05263157894736842
+anticipation : 0.12894736842105264
+disgust : 0.031578947368421054
+fear : 0.10789473684210527
+joy : 0.07894736842105263
+negative : 0.12631578947368421
+positive : 0.16842105263157894
+sadness : 0.05
+surprise : 0.031578947368421054
+trust : 0.08421052631578947
+Video Number : 124 --> CALL OF DUTY REFERENCE in DYING LIGHT 2 Walkthrough Gameplay Part 36 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 38.0
+Negative sentiment : 38.0
+Neutral sentiment : 24.0
+Sentiment Afinn
+Positive sentiment : 20.0
+Negative sentiment : 39.0
+Neutral sentiment : 41.0
+Sentiment NRC
+anger : 0.12779552715654952
+anticipation : 0.08945686900958466
+disgust : 0.11182108626198083
+fear : 0.1853035143769968
+joy : 0.051118210862619806
+negative : 0.23003194888178913
+positive : 0.14696485623003194
+sadness : 0.14376996805111822
+surprise : 0.03514376996805112
+trust : 0.07028753993610223
+Video Number : 125 --> DYING LIGHT 2 Walkthrough Gameplay Part 35 - RENEGADE OFFICER (FULL GAME)
+Sentiment Vader
+Positive sentiment : 56.99999999999999
+Negative sentiment : 28.000000000000004
+Neutral sentiment : 15.0
+Sentiment Afinn
+Positive sentiment : 47.0
+Negative sentiment : 23.0
+Neutral sentiment : 30.0
+Sentiment NRC
+anger : 0.09710743801652892
+anticipation : 0.09710743801652892
+disgust : 0.03512396694214876
+fear : 0.11363636363636363
+joy : 0.08471074380165289
+negative : 0.15495867768595042
+positive : 0.20041322314049587
+sadness : 0.06198347107438017
+surprise : 0.026859504132231406
+trust : 0.11776859504132231
+Video Number : 126 --> THE BEST STORY MISSION (CATHEDRAL) IN DYING LIGHT 2 Walkthrough Gameplay Part 34 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 53.0
+Negative sentiment : 21.0
+Neutral sentiment : 26.0
+Sentiment Afinn
+Positive sentiment : 37.0
+Negative sentiment : 20.0
+Neutral sentiment : 43.0
+Sentiment NRC
+anger : 0.05217391304347826
+anticipation : 0.14782608695652175
+disgust : 0.03695652173913044
+fear : 0.08260869565217391
+joy : 0.15217391304347827
+negative : 0.12173913043478261
+positive : 0.21956521739130436
+sadness : 0.05434782608695652
+surprise : 0.05434782608695652
+trust : 0.09565217391304348
+Video Number : 127 --> DYING LIGHT 2 Walkthrough Gameplay Part 33 - THE PARTY (FULL GAME)
+Sentiment Vader
+Positive sentiment : 54.0
+Negative sentiment : 23.0
+Neutral sentiment : 23.0
+Sentiment Afinn
+Positive sentiment : 45.0
+Negative sentiment : 16.0
+Neutral sentiment : 39.0
+Sentiment NRC
+anger : 0.06175771971496437
+anticipation : 0.1021377672209026
+disgust : 0.0498812351543943
+fear : 0.10688836104513064
+joy : 0.10926365795724466
+negative : 0.16152019002375298
+positive : 0.19714964370546317
+sadness : 0.09738717339667459
+surprise : 0.040380047505938245
+trust : 0.11401425178147269
+Video Number : 128 --> DYING LIGHT 2 Walkthrough Gameplay Part 32 - THE ART COLLECTOR (FULL GAME)
+Sentiment Vader
+Positive sentiment : 54.0
+Negative sentiment : 26.0
+Neutral sentiment : 20.0
+Sentiment Afinn
+Positive sentiment : 45.0
+Negative sentiment : 20.0
+Neutral sentiment : 35.0
+Sentiment NRC
+anger : 0.07941176470588235
+anticipation : 0.12058823529411765
+disgust : 0.03823529411764706
+fear : 0.10294117647058823
+joy : 0.1
+negative : 0.15
+positive : 0.19117647058823528
+sadness : 0.058823529411764705
+surprise : 0.03823529411764706
+trust : 0.09411764705882353
+Video Number : 129 --> DYING LIGHT 2 Walkthrough Gameplay Part 31 - PEACEKEEPER SHIP (FULL GAME)
+Sentiment Vader
+Positive sentiment : 41.0
+Negative sentiment : 40.0
+Neutral sentiment : 19.0
+Sentiment Afinn
+Positive sentiment : 26.0
+Negative sentiment : 34.0
+Neutral sentiment : 40.0
+Sentiment NRC
+anger : 0.04559270516717325
+anticipation : 0.0851063829787234
+disgust : 0.0243161094224924
+fear : 0.060790273556231005
+joy : 0.08206686930091185
+negative : 0.11246200607902736
+positive : 0.20364741641337386
+sadness : 0.057750759878419454
+surprise : 0.030395136778115502
+trust : 0.0972644376899696
+Video Number : 130 --> DYING LIGHT 2 Walkthrough Gameplay Part 30 - JACK MATT (FULL GAME)
+Sentiment Vader
+Positive sentiment : 54.0
+Negative sentiment : 31.0
+Neutral sentiment : 15.0
+Sentiment Afinn
+Positive sentiment : 34.0
+Negative sentiment : 26.0
+Neutral sentiment : 40.0
+Sentiment NRC
+anger : 0.10023866348448687
+anticipation : 0.1026252983293556
+disgust : 0.03579952267303103
+fear : 0.14558472553699284
+joy : 0.08353221957040573
+negative : 0.18615751789976134
+positive : 0.17422434367541767
+sadness : 0.07159904534606205
+surprise : 0.03341288782816229
+trust : 0.0883054892601432
+Video Number : 131 --> DYING LIGHT 2 Walkthrough Gameplay Part 29 - FISH EYE (FULL GAME)
+Sentiment Vader
+Positive sentiment : 55.00000000000001
+Negative sentiment : 15.0
+Neutral sentiment : 30.0
+Sentiment Afinn
+Positive sentiment : 39.0
+Negative sentiment : 11.0
+Neutral sentiment : 50.0
+Sentiment NRC
+anger : 0.04225352112676056
+anticipation : 0.08450704225352113
+disgust : 0.06338028169014084
+fear : 0.08450704225352113
+joy : 0.07746478873239436
+negative : 0.13028169014084506
+positive : 0.16901408450704225
+sadness : 0.04929577464788732
+surprise : 0.03873239436619718
+trust : 0.07394366197183098
+Video Number : 132 --> UNLOCKING PARAGLIDING in DYING LIGHT 2 Walkthrough Gameplay Part 28 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 48.0
+Negative sentiment : 28.999999999999996
+Neutral sentiment : 23.0
+Sentiment Afinn
+Positive sentiment : 37.0
+Negative sentiment : 22.0
+Neutral sentiment : 41.0
+Sentiment NRC
+anger : 0.07692307692307693
+anticipation : 0.10875331564986737
+disgust : 0.0636604774535809
+fear : 0.09018567639257294
+joy : 0.08488063660477453
+negative : 0.14323607427055704
+positive : 0.16976127320954906
+sadness : 0.05570291777188329
+surprise : 0.08753315649867374
+trust : 0.06631299734748011
+Video Number : 133 --> DYING LIGHT 2 Walkthrough Gameplay Part 27 - ZOMBIE AIDEN (FULL GAME)
+Sentiment Vader
+Positive sentiment : 46.0
+Negative sentiment : 28.000000000000004
+Neutral sentiment : 26.0
+Sentiment Afinn
+Positive sentiment : 43.0
+Negative sentiment : 20.0
+Neutral sentiment : 37.0
+Sentiment NRC
+anger : 0.06921241050119331
+anticipation : 0.1431980906921241
+disgust : 0.045346062052505964
+fear : 0.1288782816229117
+joy : 0.11694510739856802
+negative : 0.14558472553699284
+positive : 0.18138424821002386
+sadness : 0.07398568019093078
+surprise : 0.06205250596658711
+trust : 0.09785202863961814
+Video Number : 134 --> DYING LIGHT 2 Walkthrough Gameplay Part 26 - MEETING LAWAN (FULL GAME)
+Sentiment Vader
+Positive sentiment : 38.0
+Negative sentiment : 32.0
+Neutral sentiment : 30.0
+Sentiment Afinn
+Positive sentiment : 34.0
+Negative sentiment : 17.0
+Neutral sentiment : 49.0
+Sentiment NRC
+anger : 0.10344827586206896
+anticipation : 0.09655172413793103
+disgust : 0.06896551724137931
+fear : 0.1413793103448276
+joy : 0.11379310344827587
+negative : 0.1793103448275862
+positive : 0.18275862068965518
+sadness : 0.11379310344827587
+surprise : 0.034482758620689655
+trust : 0.1
+Video Number : 135 --> DESTROYING A WINDMILL in DYING LIGHT 2 Walkthrough Gameplay Part 25 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 43.0
+Negative sentiment : 34.0
+Neutral sentiment : 23.0
+Sentiment Afinn
+Positive sentiment : 32.0
+Negative sentiment : 23.0
+Neutral sentiment : 45.0
+Sentiment NRC
+anger : 0.084375
+anticipation : 0.078125
+disgust : 0.05625
+fear : 0.128125
+joy : 0.05625
+negative : 0.196875
+positive : 0.153125
+sadness : 0.1
+surprise : 0.040625
+trust : 0.0625
+Video Number : 136 --> DYING LIGHT 2 Walkthrough Gameplay Part 23 - BUDDY THE DOG (FULL GAME)
+Sentiment Vader
+Positive sentiment : 32.0
+Negative sentiment : 55.00000000000001
+Neutral sentiment : 13.0
+Sentiment Afinn
+Positive sentiment : 22.0
+Negative sentiment : 45.0
+Neutral sentiment : 33.0
+Sentiment NRC
+anger : 0.06809338521400778
+anticipation : 0.07392996108949416
+disgust : 0.06614785992217899
+fear : 0.14591439688715954
+joy : 0.07003891050583658
+negative : 0.22568093385214008
+positive : 0.15953307392996108
+sadness : 0.14591439688715954
+surprise : 0.0311284046692607
+trust : 0.09922178988326848
+Video Number : 137 --> DYING LIGHT 2 Walkthrough Gameplay Part 22 - TRUE FRIENDS (FULL GAME)
+Sentiment Vader
+Positive sentiment : 56.00000000000001
+Negative sentiment : 20.0
+Neutral sentiment : 24.0
+Sentiment Afinn
+Positive sentiment : 44.0
+Negative sentiment : 21.0
+Neutral sentiment : 35.0
+Sentiment NRC
+anger : 0.07482993197278912
+anticipation : 0.13151927437641722
+disgust : 0.061224489795918366
+fear : 0.1292517006802721
+joy : 0.1111111111111111
+negative : 0.17913832199546487
+positive : 0.1927437641723356
+sadness : 0.09070294784580499
+surprise : 0.05215419501133787
+trust : 0.08843537414965986
+Video Number : 138 --> DYING LIGHT 2 Walkthrough Gameplay Part 20 - PEACEKEEPERS / SURVIVORS (FULL GAME)
+Sentiment Vader
+Positive sentiment : 60.0
+Negative sentiment : 19.0
+Neutral sentiment : 21.0
+Sentiment Afinn
+Positive sentiment : 51.0
+Negative sentiment : 21.0
+Neutral sentiment : 28.000000000000004
+Sentiment NRC
+anger : 0.05472636815920398
+anticipation : 0.18407960199004975
+disgust : 0.029850746268656716
+fear : 0.14925373134328357
+joy : 0.1865671641791045
+negative : 0.12686567164179105
+positive : 0.29850746268656714
+sadness : 0.0845771144278607
+surprise : 0.04975124378109453
+trust : 0.1417910447761194
+Video Number : 139 --> DYING LIGHT 2 Walkthrough Gameplay Part 19 - THE RAID (FULL GAME)
+Sentiment Vader
+Positive sentiment : 44.0
+Negative sentiment : 35.0
+Neutral sentiment : 21.0
+Sentiment Afinn
+Positive sentiment : 35.0
+Negative sentiment : 40.0
+Neutral sentiment : 25.0
+Sentiment NRC
+anger : 0.07458563535911603
+anticipation : 0.12430939226519337
+disgust : 0.052486187845303865
+fear : 0.13812154696132597
+joy : 0.09944751381215469
+negative : 0.212707182320442
+positive : 0.19613259668508287
+sadness : 0.09944751381215469
+surprise : 0.04696132596685083
+trust : 0.09116022099447514
+Video Number : 140 --> DYING LIGHT 2 Walkthrough Gameplay Part 17 - JACK AND JOE (FULL GAME)
+Sentiment Vader
+Positive sentiment : 56.99999999999999
+Negative sentiment : 18.0
+Neutral sentiment : 25.0
+Sentiment Afinn
+Positive sentiment : 53.0
+Negative sentiment : 15.0
+Neutral sentiment : 32.0
+Sentiment NRC
+anger : 0.05172413793103448
+anticipation : 0.16379310344827586
+disgust : 0.040229885057471264
+fear : 0.13793103448275862
+joy : 0.12643678160919541
+negative : 0.13793103448275862
+positive : 0.20689655172413793
+sadness : 0.08333333333333333
+surprise : 0.05747126436781609
+trust : 0.08908045977011494
+Video Number : 141 --> DYING LIGHT 2 Walkthrough Gameplay Part 16 - GRE ANOMALY BOSS (FULL GAME)
+Sentiment Vader
+Positive sentiment : 53.0
+Negative sentiment : 22.0
+Neutral sentiment : 25.0
+Sentiment Afinn
+Positive sentiment : 44.0
+Negative sentiment : 18.0
+Neutral sentiment : 38.0
+Sentiment NRC
+anger : 0.04643962848297214
+anticipation : 0.17956656346749225
+disgust : 0.021671826625386997
+fear : 0.11455108359133127
+joy : 0.15170278637770898
+negative : 0.1238390092879257
+positive : 0.21981424148606812
+sadness : 0.08359133126934984
+surprise : 0.04953560371517028
+trust : 0.14241486068111456
+Video Number : 142 --> DYING LIGHT 2 Walkthrough Gameplay Part 15 - GOON ENCOUNTER (FULL GAME)
+Sentiment Vader
+Positive sentiment : 57.99999999999999
+Negative sentiment : 19.0
+Neutral sentiment : 23.0
+Sentiment Afinn
+Positive sentiment : 39.0
+Negative sentiment : 18.0
+Neutral sentiment : 43.0
+Sentiment NRC
+anger : 0.07709750566893424
+anticipation : 0.12244897959183673
+disgust : 0.047619047619047616
+fear : 0.14965986394557823
+joy : 0.08616780045351474
+negative : 0.15419501133786848
+positive : 0.16099773242630386
+sadness : 0.06349206349206349
+surprise : 0.03854875283446712
+trust : 0.09750566893424037
+Video Number : 143 --> DYING LIGHT 2 Walkthrough Gameplay Part 14 - UNRULY BROTHER (FULL GAME)
+Sentiment Vader
+Positive sentiment : 53.0
+Negative sentiment : 23.0
+Neutral sentiment : 24.0
+Sentiment Afinn
+Positive sentiment : 49.0
+Negative sentiment : 21.0
+Neutral sentiment : 30.0
+Sentiment NRC
+anger : 0.046703296703296704
+anticipation : 0.13186813186813187
+disgust : 0.03296703296703297
+fear : 0.1043956043956044
+joy : 0.1043956043956044
+negative : 0.14560439560439561
+positive : 0.22527472527472528
+sadness : 0.07142857142857142
+surprise : 0.04945054945054945
+trust : 0.09340659340659341
+Video Number : 144 --> SIFU PS5 Walkthrough Gameplay Part 1 - INTRO (FULL GAME)
+Sentiment Vader
+Positive sentiment : 53.0
+Negative sentiment : 19.0
+Neutral sentiment : 28.000000000000004
+Sentiment Afinn
+Positive sentiment : 38.0
+Negative sentiment : 14.000000000000002
+Neutral sentiment : 48.0
+Sentiment NRC
+anger : 0.08602150537634409
+anticipation : 0.13620071684587814
+disgust : 0.04121863799283154
+fear : 0.11290322580645161
+joy : 0.10215053763440861
+negative : 0.13440860215053763
+positive : 0.1881720430107527
+sadness : 0.06451612903225806
+surprise : 0.043010752688172046
+trust : 0.1003584229390681
+Video Number : 145 --> DYING LIGHT 2 Walkthrough Gameplay Part 13 - WINDMILL (FULL GAME)
+Sentiment Vader
+Positive sentiment : 53.0
+Negative sentiment : 22.0
+Neutral sentiment : 25.0
+Sentiment Afinn
+Positive sentiment : 31.0
+Negative sentiment : 23.0
+Neutral sentiment : 46.0
+Sentiment NRC
+anger : 0.057971014492753624
+anticipation : 0.09057971014492754
+disgust : 0.03260869565217391
+fear : 0.09420289855072464
+joy : 0.07246376811594203
+negative : 0.16666666666666666
+positive : 0.19927536231884058
+sadness : 0.07246376811594203
+surprise : 0.036231884057971016
+trust : 0.07971014492753623
+Video Number : 146 --> DYING LIGHT 2 Walkthrough Gameplay Part 12 - SOPHIE (FULL GAME)
+Sentiment Vader
+Positive sentiment : 59.0
+Negative sentiment : 14.000000000000002
+Neutral sentiment : 27.0
+Sentiment Afinn
+Positive sentiment : 42.0
+Negative sentiment : 11.0
+Neutral sentiment : 47.0
+Sentiment NRC
+anger : 0.06312292358803986
+anticipation : 0.11627906976744186
+disgust : 0.053156146179401995
+fear : 0.07973421926910298
+joy : 0.08970099667774087
+negative : 0.17275747508305647
+positive : 0.1760797342192691
+sadness : 0.06312292358803986
+surprise : 0.036544850498338874
+trust : 0.09302325581395349
+Video Number : 147 --> DYING LIGHT 2 Walkthrough Gameplay Part 11 - AITOR (FULL GAME)
+Sentiment Vader
+Positive sentiment : 49.0
+Negative sentiment : 32.0
+Neutral sentiment : 19.0
+Sentiment Afinn
+Positive sentiment : 36.0
+Negative sentiment : 25.0
+Neutral sentiment : 39.0
+Sentiment NRC
+anger : 0.05555555555555555
+anticipation : 0.12962962962962962
+disgust : 0.0291005291005291
+fear : 0.08994708994708994
+joy : 0.10846560846560846
+negative : 0.12698412698412698
+positive : 0.1931216931216931
+sadness : 0.06613756613756613
+surprise : 0.03439153439153439
+trust : 0.07142857142857142
+Video Number : 148 --> DYING LIGHT 2 Walkthrough Gameplay Part 10 - LAZARUS (FULL GAME)
+Sentiment Vader
+Positive sentiment : 50.0
+Negative sentiment : 30.0
+Neutral sentiment : 20.0
+Sentiment Afinn
+Positive sentiment : 37.0
+Negative sentiment : 26.0
+Neutral sentiment : 37.0
+Sentiment NRC
+anger : 0.06683804627249357
+anticipation : 0.14910025706940874
+disgust : 0.06426735218508997
+fear : 0.15167095115681234
+joy : 0.12082262210796915
+negative : 0.16195372750642673
+positive : 0.20565552699228792
+sadness : 0.08997429305912596
+surprise : 0.043701799485861184
+trust : 0.09768637532133675
+Video Number : 149 --> DYING LIGHT 2 Walkthrough Gameplay Part 9 - GEAR UPGRADES (FULL GAME)
+Sentiment Vader
+Positive sentiment : 42.0
+Negative sentiment : 35.0
+Neutral sentiment : 23.0
+Sentiment Afinn
+Positive sentiment : 32.0
+Negative sentiment : 31.0
+Neutral sentiment : 37.0
+Sentiment NRC
+anger : 0.07967032967032966
+anticipation : 0.13186813186813187
+disgust : 0.046703296703296704
+fear : 0.16483516483516483
+joy : 0.08241758241758242
+negative : 0.18956043956043955
+positive : 0.16758241758241757
+sadness : 0.07692307692307693
+surprise : 0.054945054945054944
+trust : 0.06318681318681318
+Video Number : 150 --> DYING LIGHT 2 Walkthrough Gameplay Part 8 - MARCO BOSS (FULL GAME)
+Sentiment Vader
+Positive sentiment : 51.0
+Negative sentiment : 35.0
+Neutral sentiment : 14.000000000000002
+Sentiment Afinn
+Positive sentiment : 48.0
+Negative sentiment : 26.0
+Neutral sentiment : 26.0
+Sentiment NRC
+anger : 0.08656036446469248
+anticipation : 0.10250569476082004
+disgust : 0.04783599088838269
+fear : 0.1366742596810934
+joy : 0.11161731207289294
+negative : 0.1776765375854214
+positive : 0.17312072892938496
+sadness : 0.0979498861047836
+surprise : 0.0387243735763098
+trust : 0.08200455580865604
+Video Number : 151 --> DYING LIGHT 2 Walkthrough Gameplay Part 6 - BAZAAR (FULL GAME)
+Sentiment Vader
+Positive sentiment : 43.0
+Negative sentiment : 18.0
+Neutral sentiment : 39.0
+Sentiment Afinn
+Positive sentiment : 34.0
+Negative sentiment : 15.0
+Neutral sentiment : 51.0
+Sentiment NRC
+anger : 0.03089887640449438
+anticipation : 0.11797752808988764
+disgust : 0.03089887640449438
+fear : 0.08146067415730338
+joy : 0.11235955056179775
+negative : 0.09269662921348315
+positive : 0.18258426966292135
+sadness : 0.06179775280898876
+surprise : 0.016853932584269662
+trust : 0.1151685393258427
+Video Number : 152 --> DYING LIGHT 2 Walkthrough Gameplay Part 5 - VILLEDOR (FULL GAME)
+Sentiment Vader
+Positive sentiment : 51.0
+Negative sentiment : 25.0
+Neutral sentiment : 24.0
+Sentiment Afinn
+Positive sentiment : 39.0
+Negative sentiment : 25.0
+Neutral sentiment : 36.0
+Sentiment NRC
+anger : 0.04261363636363636
+anticipation : 0.13920454545454544
+disgust : 0.036931818181818184
+fear : 0.09090909090909091
+joy : 0.10511363636363637
+negative : 0.13636363636363635
+positive : 0.16477272727272727
+sadness : 0.05965909090909091
+surprise : 0.048295454545454544
+trust : 0.09659090909090909
+Video Number : 153 --> DYING LIGHT 2 Walkthrough Gameplay Part 4 - HAKON (FULL GAME)
+Sentiment Vader
+Positive sentiment : 52.0
+Negative sentiment : 23.0
+Neutral sentiment : 25.0
+Sentiment Afinn
+Positive sentiment : 44.0
+Negative sentiment : 20.0
+Neutral sentiment : 36.0
+Sentiment NRC
+anger : 0.07712082262210797
+anticipation : 0.09254498714652956
+disgust : 0.056555269922879174
+fear : 0.10025706940874037
+joy : 0.10025706940874037
+negative : 0.15424164524421594
+positive : 0.1953727506426735
+sadness : 0.08483290488431877
+surprise : 0.043701799485861184
+trust : 0.10796915167095116
+Video Number : 154 --> DYING LIGHT 2 Walkthrough Gameplay Part 1 - INTRO (FULL GAME)
+Sentiment Vader
+Positive sentiment : 39.0
+Negative sentiment : 41.0
+Neutral sentiment : 20.0
+Sentiment Afinn
+Positive sentiment : 28.000000000000004
+Negative sentiment : 41.0
+Neutral sentiment : 31.0
+Sentiment NRC
+anger : 0.05761316872427984
+anticipation : 0.11934156378600823
+disgust : 0.03909465020576132
+fear : 0.11728395061728394
+joy : 0.09670781893004116
+negative : 0.1748971193415638
+positive : 0.16049382716049382
+sadness : 0.08436213991769548
+surprise : 0.03497942386831276
+trust : 0.06172839506172839
+Video Number : 155 --> RAINBOW SIX EXTRACTION PS5 Walkthrough Gameplay Part 1 - INTRO (PlayStation 5)
+Sentiment Vader
+Positive sentiment : 59.0
+Negative sentiment : 13.0
+Neutral sentiment : 28.000000000000004
+Sentiment Afinn
+Positive sentiment : 44.0
+Negative sentiment : 13.0
+Neutral sentiment : 43.0
+Sentiment NRC
+anger : 0.022284122562674095
+anticipation : 0.13649025069637882
+disgust : 0.036211699164345405
+fear : 0.06128133704735376
+joy : 0.11977715877437325
+negative : 0.10306406685236769
+positive : 0.181058495821727
+sadness : 0.05013927576601671
+surprise : 0.052924791086350974
+trust : 0.09192200557103064
+Video Number : 156 --> THE MATRIX AWAKENS: AN UNREAL ENGINE 5 EXPERIENCE Walkthrough Gameplay Part 1 - INTRO (PS5)
+Sentiment Vader
+Positive sentiment : 48.0
+Negative sentiment : 22.0
+Neutral sentiment : 30.0
+Sentiment Afinn
+Positive sentiment : 40.0
+Negative sentiment : 18.0
+Neutral sentiment : 42.0
+Sentiment NRC
+anger : 0.056451612903225805
+anticipation : 0.10483870967741936
+disgust : 0.04838709677419355
+fear : 0.06451612903225806
+joy : 0.08064516129032258
+negative : 0.13172043010752688
+positive : 0.21505376344086022
+sadness : 0.03225806451612903
+surprise : 0.04838709677419355
+trust : 0.11827956989247312
+Video Number : 157 --> SPIDER-MAN &quot;WITH GREAT POWER&quot; EVENT (MARVEL&#39;S AVENGERS) PS5 Walkthrough Gameplay Part 1 - INTRO
+Sentiment Vader
+Positive sentiment : 42.0
+Negative sentiment : 14.000000000000002
+Neutral sentiment : 44.0
+Sentiment Afinn
+Positive sentiment : 32.0
+Negative sentiment : 11.0
+Neutral sentiment : 56.99999999999999
+Sentiment NRC
+anger : 0.046263345195729534
+anticipation : 0.12099644128113879
+disgust : 0.06405693950177936
+fear : 0.09252669039145907
+joy : 0.09252669039145907
+negative : 0.1103202846975089
+positive : 0.13167259786476868
+sadness : 0.060498220640569395
+surprise : 0.046263345195729534
+trust : 0.06405693950177936
+Video Number : 158 --> FAR CRY 6 VAAS INSANITY PS5 Walkthrough Gameplay Part 1 - INTRO (FC6 VAAS DLC)
+Sentiment Vader
+Positive sentiment : 46.0
+Negative sentiment : 36.0
+Neutral sentiment : 18.0
+Sentiment Afinn
+Positive sentiment : 37.0
+Negative sentiment : 20.0
+Neutral sentiment : 43.0
+Sentiment NRC
+anger : 0.06629834254143646
+anticipation : 0.1464088397790055
+disgust : 0.04143646408839779
+fear : 0.12430939226519337
+joy : 0.10220994475138122
+negative : 0.16574585635359115
+positive : 0.1712707182320442
+sadness : 0.06629834254143646
+surprise : 0.049723756906077346
+trust : 0.08839779005524862
+Video Number : 159 --> GUARDIANS OF THE GALAXY ENDING / FINAL BOSS PS5 Walkthrough Gameplay Part 29 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 67.0
+Negative sentiment : 16.0
+Neutral sentiment : 17.0
+Sentiment Afinn
+Positive sentiment : 56.99999999999999
+Negative sentiment : 15.0
+Neutral sentiment : 28.000000000000004
+Sentiment NRC
+anger : 0.06870229007633588
+anticipation : 0.16539440203562342
+disgust : 0.043256997455470736
+fear : 0.11450381679389313
+joy : 0.15267175572519084
+negative : 0.12468193384223919
+positive : 0.22900763358778625
+sadness : 0.05597964376590331
+surprise : 0.04834605597964377
+trust : 0.10432569974554708
+Video Number : 160 --> GRAND THEFT AUTO VICE CITY PS5 Walkthrough Gameplay Part 1 - INTRO (GTA Definitive Remastered)
+Sentiment Vader
+Positive sentiment : 60.0
+Negative sentiment : 19.0
+Neutral sentiment : 21.0
+Sentiment Afinn
+Positive sentiment : 33.0
+Negative sentiment : 18.0
+Neutral sentiment : 49.0
+Sentiment NRC
+anger : 0.05489260143198091
+anticipation : 0.0883054892601432
+disgust : 0.04295942720763723
+fear : 0.06443914081145585
+joy : 0.07159904534606205
+negative : 0.1288782816229117
+positive : 0.1360381861575179
+sadness : 0.045346062052505964
+surprise : 0.031026252983293555
+trust : 0.06205250596658711
+Video Number : 161 --> THE BEST STAR-LORD OUTFIT in GUARDIANS OF THE GALAXY PS5 Walkthrough Gameplay Part 22 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 61.0
+Negative sentiment : 18.0
+Neutral sentiment : 21.0
+Sentiment Afinn
+Positive sentiment : 40.0
+Negative sentiment : 18.0
+Neutral sentiment : 42.0
+Sentiment NRC
+anger : 0.06472491909385113
+anticipation : 0.13915857605177995
+disgust : 0.045307443365695796
+fear : 0.08414239482200647
+joy : 0.11326860841423948
+negative : 0.13268608414239483
+positive : 0.1941747572815534
+sadness : 0.06796116504854369
+surprise : 0.05501618122977346
+trust : 0.10679611650485436
+Video Number : 162 --> ELDEN RING PS5 Walkthrough Gameplay Part 1 - INTRO (PlayStation 5)
+Sentiment Vader
+Positive sentiment : 51.0
+Negative sentiment : 27.0
+Neutral sentiment : 22.0
+Sentiment Afinn
+Positive sentiment : 42.0
+Negative sentiment : 21.0
+Neutral sentiment : 37.0
+Sentiment NRC
+anger : 0.05211726384364821
+anticipation : 0.13680781758957655
+disgust : 0.035830618892508145
+fear : 0.09446254071661238
+joy : 0.14332247557003258
+negative : 0.11400651465798045
+positive : 0.23127035830618892
+sadness : 0.08469055374592833
+surprise : 0.05537459283387622
+trust : 0.1270358306188925
+Video Number : 163 --> NOVA EASTER EGG in GUARDIANS OF THE GALAXY PS5 Walkthrough Gameplay Part 21 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 55.00000000000001
+Negative sentiment : 20.0
+Neutral sentiment : 25.0
+Sentiment Afinn
+Positive sentiment : 42.0
+Negative sentiment : 16.0
+Neutral sentiment : 42.0
+Sentiment NRC
+anger : 0.06690140845070422
+anticipation : 0.13380281690140844
+disgust : 0.045774647887323945
+fear : 0.10915492957746478
+joy : 0.0880281690140845
+negative : 0.09507042253521127
+positive : 0.18661971830985916
+sadness : 0.045774647887323945
+surprise : 0.0528169014084507
+trust : 0.0880281690140845
+Video Number : 164 --> CALL OF DUTY VANGUARD ENDING / FINAL MISSION - PS5 Walkthrough Gameplay Part 12 (COD Campaign)
+Sentiment Vader
+Positive sentiment : 45.0
+Negative sentiment : 26.0
+Neutral sentiment : 28.999999999999996
+Sentiment Afinn
+Positive sentiment : 38.0
+Negative sentiment : 22.0
+Neutral sentiment : 40.0
+Sentiment NRC
+anger : 0.057441253263707574
+anticipation : 0.09660574412532637
+disgust : 0.015665796344647518
+fear : 0.10704960835509138
+joy : 0.07049608355091384
+negative : 0.1409921671018277
+positive : 0.1462140992167102
+sadness : 0.057441253263707574
+surprise : 0.028720626631853787
+trust : 0.0731070496083551
+Video Number : 165 --> CALL OF DUTY VANGUARD PS5 Walkthrough Gameplay Part 11 - ESCAPE (COD Campaign)
+Sentiment Vader
+Positive sentiment : 46.0
+Negative sentiment : 31.0
+Neutral sentiment : 23.0
+Sentiment Afinn
+Positive sentiment : 34.0
+Negative sentiment : 31.0
+Neutral sentiment : 35.0
+Sentiment NRC
+anger : 0.1094224924012158
+anticipation : 0.0851063829787234
+disgust : 0.0547112462006079
+fear : 0.1702127659574468
+joy : 0.057750759878419454
+negative : 0.1762917933130699
+positive : 0.14893617021276595
+sadness : 0.06990881458966565
+surprise : 0.04559270516717325
+trust : 0.1033434650455927
+Video Number : 166 --> THE BEST ZOMBIE GAME ON THE NINTENDO SWITCH (WORLD WAR Z)
+Sentiment Vader
+Positive sentiment : 59.0
+Negative sentiment : 26.0
+Neutral sentiment : 15.0
+Sentiment Afinn
+Positive sentiment : 40.0
+Negative sentiment : 28.000000000000004
+Neutral sentiment : 32.0
+Sentiment NRC
+anger : 0.07516339869281045
+anticipation : 0.07516339869281045
+disgust : 0.049019607843137254
+fear : 0.12745098039215685
+joy : 0.10130718954248366
+negative : 0.16339869281045752
+positive : 0.17320261437908496
+sadness : 0.08823529411764706
+surprise : 0.03594771241830065
+trust : 0.08823529411764706
+Video Number : 167 --> CALL OF DUTY VANGUARD PS5 Walkthrough Gameplay Part 10 - ALAMEIN (COD Campaign)
+Sentiment Vader
+Positive sentiment : 45.0
+Negative sentiment : 23.0
+Neutral sentiment : 32.0
+Sentiment Afinn
+Positive sentiment : 34.0
+Negative sentiment : 16.0
+Neutral sentiment : 50.0
+Sentiment NRC
+anger : 0.07142857142857142
+anticipation : 0.1
+disgust : 0.03571428571428571
+fear : 0.12142857142857143
+joy : 0.07857142857142857
+negative : 0.1392857142857143
+positive : 0.17857142857142858
+sadness : 0.05
+surprise : 0.05
+trust : 0.09285714285714286
+Video Number : 168 --> CALL OF DUTY VANGUARD PS5 Walkthrough Gameplay Part 9 - LUCAS RIGGS (COD Campaign)
+Sentiment Vader
+Positive sentiment : 44.0
+Negative sentiment : 28.000000000000004
+Neutral sentiment : 28.000000000000004
+Sentiment Afinn
+Positive sentiment : 32.0
+Negative sentiment : 20.0
+Neutral sentiment : 48.0
+Sentiment NRC
+anger : 0.09947643979057591
+anticipation : 0.08115183246073299
+disgust : 0.05759162303664921
+fear : 0.1387434554973822
+joy : 0.07591623036649214
+negative : 0.18848167539267016
+positive : 0.1806282722513089
+sadness : 0.05759162303664921
+surprise : 0.04712041884816754
+trust : 0.09424083769633508
+Video Number : 169 --> CALL OF DUTY VANGUARD PS5 Walkthrough Gameplay Part 7 - LADY NIGHTINGALE (COD Campaign)
+Sentiment Vader
+Positive sentiment : 41.0
+Negative sentiment : 31.0
+Neutral sentiment : 28.000000000000004
+Sentiment Afinn
+Positive sentiment : 30.0
+Negative sentiment : 24.0
+Neutral sentiment : 46.0
+Sentiment NRC
+anger : 0.128125
+anticipation : 0.1
+disgust : 0.04375
+fear : 0.18125
+joy : 0.084375
+negative : 0.1875
+positive : 0.1875
+sadness : 0.1125
+surprise : 0.065625
+trust : 0.115625
+Video Number : 170 --> CALL OF DUTY VANGUARD PS5 Walkthrough Gameplay Part 6 - THE 93rd (COD Campaign)
+Sentiment Vader
+Positive sentiment : 44.0
+Negative sentiment : 28.000000000000004
+Neutral sentiment : 28.000000000000004
+Sentiment Afinn
+Positive sentiment : 28.999999999999996
+Negative sentiment : 22.0
+Neutral sentiment : 49.0
+Sentiment NRC
+anger : 0.09686609686609686
+anticipation : 0.1168091168091168
+disgust : 0.06837606837606838
+fear : 0.11965811965811966
+joy : 0.07977207977207977
+negative : 0.13105413105413105
+positive : 0.15954415954415954
+sadness : 0.07977207977207977
+surprise : 0.05128205128205128
+trust : 0.09401709401709402
+Video Number : 171 --> CALL OF DUTY VANGUARD PS5 Walkthrough Gameplay Part 4 - AIRPLANE (COD Campaign)
+Sentiment Vader
+Positive sentiment : 45.0
+Negative sentiment : 35.0
+Neutral sentiment : 20.0
+Sentiment Afinn
+Positive sentiment : 30.0
+Negative sentiment : 33.0
+Neutral sentiment : 37.0
+Sentiment NRC
+anger : 0.08653846153846154
+anticipation : 0.09294871794871795
+disgust : 0.035256410256410256
+fear : 0.16666666666666666
+joy : 0.05128205128205128
+negative : 0.16666666666666666
+positive : 0.11858974358974358
+sadness : 0.09294871794871795
+surprise : 0.04807692307692308
+trust : 0.0673076923076923
+Video Number : 172 --> CALL OF DUTY VANGUARD PS5 Walkthrough Gameplay Part 3 - REQUIEM (COD Campaign)
+Sentiment Vader
+Positive sentiment : 49.0
+Negative sentiment : 22.0
+Neutral sentiment : 28.999999999999996
+Sentiment Afinn
+Positive sentiment : 37.0
+Negative sentiment : 21.0
+Neutral sentiment : 42.0
+Sentiment NRC
+anger : 0.07142857142857142
+anticipation : 0.08695652173913043
+disgust : 0.018633540372670808
+fear : 0.13354037267080746
+joy : 0.08074534161490683
+negative : 0.12732919254658384
+positive : 0.15527950310559005
+sadness : 0.07763975155279502
+surprise : 0.027950310559006212
+trust : 0.09937888198757763
+Video Number : 173 --> CALL OF DUTY VANGUARD PS5 Walkthrough Gameplay Part 2 - POLINA (COD Campaign)
+Sentiment Vader
+Positive sentiment : 49.0
+Negative sentiment : 20.0
+Neutral sentiment : 31.0
+Sentiment Afinn
+Positive sentiment : 39.0
+Negative sentiment : 21.0
+Neutral sentiment : 40.0
+Sentiment NRC
+anger : 0.06070287539936102
+anticipation : 0.11182108626198083
+disgust : 0.03514376996805112
+fear : 0.11182108626198083
+joy : 0.08626198083067092
+negative : 0.13738019169329074
+positive : 0.19808306709265175
+sadness : 0.08306709265175719
+surprise : 0.06070287539936102
+trust : 0.12460063897763578
+Video Number : 174 --> CALL OF DUTY VANGUARD PS5 Walkthrough Gameplay Part 1 - INTRO (COD Campaign)
+Sentiment Vader
+Positive sentiment : 57.99999999999999
+Negative sentiment : 16.0
+Neutral sentiment : 26.0
+Sentiment Afinn
+Positive sentiment : 46.0
+Negative sentiment : 11.0
+Neutral sentiment : 43.0
+Sentiment NRC
+anger : 0.045871559633027525
+anticipation : 0.1162079510703364
+disgust : 0.024464831804281346
+fear : 0.10091743119266056
+joy : 0.10091743119266056
+negative : 0.10703363914373089
+positive : 0.1834862385321101
+sadness : 0.0856269113149847
+surprise : 0.039755351681957186
+trust : 0.07951070336391437
+Video Number : 175 --> GUARDIANS OF THE GALAXY PS5 Walkthrough Gameplay Part 15 - RAKER (FULL GAME)
+Sentiment Vader
+Positive sentiment : 53.0
+Negative sentiment : 23.0
+Neutral sentiment : 24.0
+Sentiment Afinn
+Positive sentiment : 49.0
+Negative sentiment : 16.0
+Neutral sentiment : 35.0
+Sentiment NRC
+anger : 0.09271523178807947
+anticipation : 0.11258278145695365
+disgust : 0.046357615894039736
+fear : 0.08167770419426049
+joy : 0.12141280353200883
+negative : 0.10375275938189846
+positive : 0.22075055187637968
+sadness : 0.06181015452538632
+surprise : 0.052980132450331126
+trust : 0.11258278145695365
+Video Number : 176 --> SECRET ALTERNATE &quot;ENDING&quot; in GUARDIANS OF THE GALAXY PS5 Walkthrough Gameplay Part 13 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 56.99999999999999
+Negative sentiment : 23.0
+Neutral sentiment : 20.0
+Sentiment Afinn
+Positive sentiment : 34.0
+Negative sentiment : 19.0
+Neutral sentiment : 47.0
+Sentiment NRC
+anger : 0.06626506024096386
+anticipation : 0.12951807228915663
+disgust : 0.02710843373493976
+fear : 0.11144578313253012
+joy : 0.0783132530120482
+negative : 0.1355421686746988
+positive : 0.14759036144578314
+sadness : 0.0572289156626506
+surprise : 0.030120481927710843
+trust : 0.08433734939759036
+Video Number : 177 --> HOW WELL DOES CRYSIS REMASTERED TRILOGY RUN ON NEXT GEN (PS5 Walkthrough Gameplay)
+Sentiment Vader
+Positive sentiment : 60.0
+Negative sentiment : 21.0
+Neutral sentiment : 19.0
+Sentiment Afinn
+Positive sentiment : 42.0
+Negative sentiment : 21.0
+Neutral sentiment : 37.0
+Sentiment NRC
+anger : 0.056818181818181816
+anticipation : 0.13920454545454544
+disgust : 0.04261363636363636
+fear : 0.08806818181818182
+joy : 0.10511363636363637
+negative : 0.1278409090909091
+positive : 0.16477272727272727
+sadness : 0.0625
+surprise : 0.056818181818181816
+trust : 0.06818181818181818
+Video Number : 178 --> GUARDIANS OF THE GALAXY PS5 Walkthrough Gameplay Part 10 - GAREK AND ROSSON BOSS FIGHT (FULL GAME)
+Sentiment Vader
+Positive sentiment : 43.0
+Negative sentiment : 26.0
+Neutral sentiment : 31.0
+Sentiment Afinn
+Positive sentiment : 26.0
+Negative sentiment : 23.0
+Neutral sentiment : 51.0
+Sentiment NRC
+anger : 0.08881578947368421
+anticipation : 0.14802631578947367
+disgust : 0.046052631578947366
+fear : 0.10197368421052631
+joy : 0.09868421052631579
+negative : 0.14473684210526316
+positive : 0.19407894736842105
+sadness : 0.05592105263157895
+surprise : 0.05263157894736842
+trust : 0.12171052631578948
+Video Number : 179 --> GUARDIANS OF THE GALAXY PS5 Walkthrough Gameplay Part 8 - KO-REL&#39;S SHIP (FULL GAME)
+Sentiment Vader
+Positive sentiment : 53.0
+Negative sentiment : 28.000000000000004
+Neutral sentiment : 19.0
+Sentiment Afinn
+Positive sentiment : 43.0
+Negative sentiment : 17.0
+Neutral sentiment : 40.0
+Sentiment NRC
+anger : 0.10344827586206896
+anticipation : 0.109717868338558
+disgust : 0.04075235109717868
+fear : 0.11598746081504702
+joy : 0.08463949843260188
+negative : 0.13479623824451412
+positive : 0.20376175548589343
+sadness : 0.050156739811912224
+surprise : 0.050156739811912224
+trust : 0.12539184952978055
+Video Number : 180 --> GUARDIANS OF THE GALAXY PS5 Walkthrough Gameplay Part 7 - THE ROCK (FULL GAME)
+Sentiment Vader
+Positive sentiment : 61.0
+Negative sentiment : 10.0
+Neutral sentiment : 28.999999999999996
+Sentiment Afinn
+Positive sentiment : 45.0
+Negative sentiment : 8.0
+Neutral sentiment : 47.0
+Sentiment NRC
+anger : 0.05223880597014925
+anticipation : 0.09701492537313433
+disgust : 0.03482587064676617
+fear : 0.07462686567164178
+joy : 0.1044776119402985
+negative : 0.08706467661691543
+positive : 0.21890547263681592
+sadness : 0.05223880597014925
+surprise : 0.03233830845771144
+trust : 0.11442786069651742
+Video Number : 181 --> GUARDIANS OF THE GALAXY PS5 Walkthrough Gameplay Part 6 - DWELLER-IN-DARKNESS BOSS FIGHT (FULL GAME)
+Sentiment Vader
+Positive sentiment : 52.0
+Negative sentiment : 17.0
+Neutral sentiment : 31.0
+Sentiment Afinn
+Positive sentiment : 38.0
+Negative sentiment : 15.0
+Neutral sentiment : 47.0
+Sentiment NRC
+anger : 0.12063492063492064
+anticipation : 0.10158730158730159
+disgust : 0.047619047619047616
+fear : 0.07936507936507936
+joy : 0.11428571428571428
+negative : 0.12380952380952381
+positive : 0.1873015873015873
+sadness : 0.05396825396825397
+surprise : 0.044444444444444446
+trust : 0.09841269841269841
+Video Number : 182 --> GUARDIANS OF THE GALAXY PS5 Walkthrough Gameplay Part 5 - APOCALYPSE GROOT (FULL GAME)
+Sentiment Vader
+Positive sentiment : 53.0
+Negative sentiment : 18.0
+Neutral sentiment : 28.999999999999996
+Sentiment Afinn
+Positive sentiment : 41.0
+Negative sentiment : 11.0
+Neutral sentiment : 48.0
+Sentiment NRC
+anger : 0.10658307210031348
+anticipation : 0.10031347962382445
+disgust : 0.06269592476489028
+fear : 0.09090909090909091
+joy : 0.109717868338558
+negative : 0.13479623824451412
+positive : 0.1974921630094044
+sadness : 0.06269592476489028
+surprise : 0.05642633228840126
+trust : 0.12225705329153605
+Video Number : 183 --> GUARDIANS OF THE GALAXY PS5 Walkthrough Gameplay Part 3 - GAMORA MOVIE OUTFIT (FULL GAME)
+Sentiment Vader
+Positive sentiment : 51.0
+Negative sentiment : 24.0
+Neutral sentiment : 25.0
+Sentiment Afinn
+Positive sentiment : 38.0
+Negative sentiment : 24.0
+Neutral sentiment : 38.0
+Sentiment NRC
+anger : 0.09776536312849161
+anticipation : 0.10335195530726257
+disgust : 0.06983240223463687
+fear : 0.11173184357541899
+joy : 0.11452513966480447
+negative : 0.1564245810055866
+positive : 0.20391061452513967
+sadness : 0.04748603351955307
+surprise : 0.06424581005586592
+trust : 0.10614525139664804
+Video Number : 184 --> GUARDIANS OF THE GALAXY PS5 Walkthrough Gameplay Part 2 - STAR-LORD (FULL GAME)
+Sentiment Vader
+Positive sentiment : 49.0
+Negative sentiment : 22.0
+Neutral sentiment : 28.999999999999996
+Sentiment Afinn
+Positive sentiment : 35.0
+Negative sentiment : 19.0
+Neutral sentiment : 46.0
+Sentiment NRC
+anger : 0.07951070336391437
+anticipation : 0.15902140672782875
+disgust : 0.06116207951070336
+fear : 0.10397553516819572
+joy : 0.13761467889908258
+negative : 0.1620795107033639
+positive : 0.23547400611620795
+sadness : 0.0672782874617737
+surprise : 0.04281345565749235
+trust : 0.10091743119266056
+Video Number : 185 --> HOUSE OF ASHES (THE DARK PICTURES) PS5 Walkthrough Gameplay Part 1 - INTRO (FULL GAME)
+Sentiment Vader
+Positive sentiment : 53.0
+Negative sentiment : 28.000000000000004
+Neutral sentiment : 19.0
+Sentiment Afinn
+Positive sentiment : 38.0
+Negative sentiment : 24.0
+Neutral sentiment : 38.0
+Sentiment NRC
+anger : 0.07125890736342043
+anticipation : 0.1330166270783848
+disgust : 0.06413301662707839
+fear : 0.11163895486935867
+joy : 0.0997624703087886
+negative : 0.16389548693586697
+positive : 0.17814726840855108
+sadness : 0.09263657957244656
+surprise : 0.052256532066508314
+trust : 0.1021377672209026
+Video Number : 186 --> FAR CRY 6 ENDING / VAAS EPILOGUE - PS5 Walkthrough Gameplay Part 36 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 49.0
+Negative sentiment : 34.0
+Neutral sentiment : 17.0
+Sentiment Afinn
+Positive sentiment : 47.0
+Negative sentiment : 17.0
+Neutral sentiment : 36.0
+Sentiment NRC
+anger : 0.07226890756302522
+anticipation : 0.12605042016806722
+disgust : 0.05714285714285714
+fear : 0.13445378151260504
+joy : 0.08235294117647059
+negative : 0.14453781512605043
+positive : 0.16302521008403362
+sadness : 0.07394957983193277
+surprise : 0.047058823529411764
+trust : 0.09243697478991597
+Video Number : 187 --> CAPTAIN LASERHAWK BLOOD DRAGON REMIX in FAR CRY 6 PS5 Walkthrough Gameplay Part 32 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 39.0
+Negative sentiment : 32.0
+Neutral sentiment : 28.999999999999996
+Sentiment Afinn
+Positive sentiment : 20.0
+Negative sentiment : 31.0
+Neutral sentiment : 49.0
+Sentiment NRC
+anger : 0.11290322580645161
+anticipation : 0.09946236559139784
+disgust : 0.07526881720430108
+fear : 0.15053763440860216
+joy : 0.051075268817204304
+negative : 0.18548387096774194
+positive : 0.1478494623655914
+sadness : 0.0913978494623656
+surprise : 0.0456989247311828
+trust : 0.12903225806451613
+Video Number : 188 --> JASON BRODY FAR CRY 3 REFERENCE in FAR CRY 6 PS5 Walkthrough Gameplay Part 31 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 43.0
+Negative sentiment : 30.0
+Neutral sentiment : 27.0
+Sentiment Afinn
+Positive sentiment : 34.0
+Negative sentiment : 23.0
+Neutral sentiment : 43.0
+Sentiment NRC
+anger : 0.08086253369272237
+anticipation : 0.12668463611859837
+disgust : 0.016172506738544475
+fear : 0.12129380053908356
+joy : 0.09973045822102426
+negative : 0.1752021563342318
+positive : 0.16172506738544473
+sadness : 0.07008086253369272
+surprise : 0.026954177897574125
+trust : 0.09164420485175202
+Video Number : 189 --> WATCH DOGS LEGION GEAR SET in FAR CRY 6 PS5 Walkthrough Gameplay Part 30 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 50.0
+Negative sentiment : 25.0
+Neutral sentiment : 25.0
+Sentiment Afinn
+Positive sentiment : 35.0
+Negative sentiment : 17.0
+Neutral sentiment : 48.0
+Sentiment NRC
+anger : 0.07079646017699115
+anticipation : 0.12094395280235988
+disgust : 0.04129793510324484
+fear : 0.10029498525073746
+joy : 0.10324483775811209
+negative : 0.12094395280235988
+positive : 0.1592920353982301
+sadness : 0.05309734513274336
+surprise : 0.035398230088495575
+trust : 0.07964601769911504
+Video Number : 190 --> CAVEIRA ARMOR FROM RAINBOW SIX SIEGE in FAR CRY 6 PS5 Walkthrough Gameplay Part 26 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 32.0
+Negative sentiment : 45.0
+Neutral sentiment : 23.0
+Sentiment Afinn
+Positive sentiment : 27.0
+Negative sentiment : 33.0
+Neutral sentiment : 40.0
+Sentiment NRC
+anger : 0.15135135135135136
+anticipation : 0.0918918918918919
+disgust : 0.08648648648648649
+fear : 0.1864864864864865
+joy : 0.06756756756756757
+negative : 0.22702702702702704
+positive : 0.16756756756756758
+sadness : 0.11891891891891893
+surprise : 0.04594594594594595
+trust : 0.08648648648648649
+Video Number : 191 --> ANTON&#39;S ADMIRAL BENITEZ BOSS in FAR CRY 6 PS5 Walkthrough Gameplay Part 23 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 54.0
+Negative sentiment : 27.0
+Neutral sentiment : 19.0
+Sentiment Afinn
+Positive sentiment : 39.0
+Negative sentiment : 24.0
+Neutral sentiment : 37.0
+Sentiment NRC
+anger : 0.07459207459207459
+anticipation : 0.08857808857808858
+disgust : 0.039627039627039624
+fear : 0.1282051282051282
+joy : 0.08857808857808858
+negative : 0.14918414918414918
+positive : 0.17016317016317017
+sadness : 0.06993006993006994
+surprise : 0.06293706293706294
+trust : 0.07692307692307693
+Video Number : 192 --> THE DENTIST BOSS FIGHT in FAR CRY 6 PS5 Walkthrough Gameplay Part 21 (FULL GAME)
+Sentiment Vader
+Positive sentiment : 57.99999999999999
+Negative sentiment : 20.0
+Neutral sentiment : 22.0
+Sentiment Afinn
+Positive sentiment : 46.0
+Negative sentiment : 19.0
+Neutral sentiment : 35.0
+Sentiment NRC
+anger : 0.08401084010840108
+anticipation : 0.08401084010840108
+disgust : 0.024390243902439025
+fear : 0.14363143631436315
+joy : 0.12195121951219512
+negative : 0.14905149051490515
+positive : 0.21951219512195122
+sadness : 0.07859078590785908
+surprise : 0.06233062330623306
+trust : 0.08130081300813008
+Video Number : 193 --> FAR CRY 6 PS5 Walkthrough Gameplay Part 17 - YELENA MORALES (FULL GAME)
+Sentiment Vader
+Positive sentiment : 51.0
+Negative sentiment : 34.0
+Neutral sentiment : 15.0
+Sentiment Afinn
+Positive sentiment : 42.0
+Negative sentiment : 35.0
+Neutral sentiment : 23.0
+Sentiment NRC
+anger : 0.11368421052631579
+anticipation : 0.11368421052631579
+disgust : 0.02736842105263158
+fear : 0.15578947368421053
+joy : 0.10105263157894737
+negative : 0.17894736842105263
+positive : 0.15789473684210525
+sadness : 0.04
+surprise : 0.05263157894736842
+trust : 0.09263157894736843
+Video Number : 194 --> FAR CRY 6 PS5 Walkthrough Gameplay Part 15 - DIESEL DAISY (FULL GAME)
+Sentiment Vader
+Positive sentiment : 45.0
+Negative sentiment : 43.0
+Neutral sentiment : 12.0
+Sentiment Afinn
+Positive sentiment : 27.0
+Negative sentiment : 50.0
+Neutral sentiment : 23.0
+Sentiment NRC
+anger : 0.08971962616822429
+anticipation : 0.08785046728971962
+disgust : 0.041121495327102804
+fear : 0.1308411214953271
+joy : 0.059813084112149535
+negative : 0.19626168224299065
+positive : 0.12710280373831775
+sadness : 0.07289719626168224
+surprise : 0.029906542056074768
+trust : 0.05794392523364486
+Video Number : 195 --> INSURGENCY SANDSTORM PS5 MULTIPLAYER GAMEPLAY - INTENSE FIRST MATCH! (PlayStation 5)
+Sentiment Vader
+Positive sentiment : 47.0
+Negative sentiment : 27.0
+Neutral sentiment : 26.0
+Sentiment Afinn
+Positive sentiment : 36.0
+Negative sentiment : 22.0
+Neutral sentiment : 42.0
+Sentiment NRC
+anger : 0.07977207977207977
+anticipation : 0.09401709401709402
+disgust : 0.05128205128205128
+fear : 0.1168091168091168
+joy : 0.08547008547008547
+negative : 0.17663817663817663
+positive : 0.17663817663817663
+sadness : 0.09116809116809117
+surprise : 0.02849002849002849
+trust : 0.09401709401709402
+Video Number : 196 --> FAR CRY 6 PS5 Walkthrough Gameplay Part 14 - CROCODILE TEARS (FULL GAME)
+Sentiment Vader
+Positive sentiment : 51.0
+Negative sentiment : 32.0
+Neutral sentiment : 17.0
+Sentiment Afinn
+Positive sentiment : 37.0
+Negative sentiment : 24.0
+Neutral sentiment : 39.0
+Sentiment NRC
+anger : 0.0851063829787234
+anticipation : 0.0729483282674772
+disgust : 0.015197568389057751
+fear : 0.1398176291793313
+joy : 0.06990881458966565
+negative : 0.15501519756838905
+positive : 0.12158054711246201
+sadness : 0.030395136778115502
+surprise : 0.030395136778115502
+trust : 0.06382978723404255
+Video Number : 197 --> FAR CRY 6 PS5 Walkthrough Gameplay Part 13 - HATCHET (FULL GAME)
+Sentiment Vader
+Positive sentiment : 59.0
+Negative sentiment : 23.0
+Neutral sentiment : 18.0
+Sentiment Afinn
+Positive sentiment : 44.0
+Negative sentiment : 19.0
+Neutral sentiment : 37.0
+Sentiment NRC
+anger : 0.08695652173913043
+anticipation : 0.11884057971014493
+disgust : 0.03768115942028986
+fear : 0.13623188405797101
+joy : 0.10434782608695652
+negative : 0.1391304347826087
+positive : 0.19130434782608696
+sadness : 0.07246376811594203
+surprise : 0.03768115942028986
+trust : 0.06956521739130435
+Video Number : 198 --> FAR CRY 6 PS5 Walkthrough Gameplay Part 12 - DIEGO (FULL GAME)
+Sentiment Vader
+Positive sentiment : 37.0
+Negative sentiment : 36.0
+Neutral sentiment : 27.0
+Sentiment Afinn
+Positive sentiment : 28.999999999999996
+Negative sentiment : 28.999999999999996
+Neutral sentiment : 42.0
+Sentiment NRC
+anger : 0.10240963855421686
+anticipation : 0.1355421686746988
+disgust : 0.06325301204819277
+fear : 0.12349397590361445
+joy : 0.08433734939759036
+negative : 0.1716867469879518
+positive : 0.18674698795180722
+sadness : 0.0963855421686747
+surprise : 0.06927710843373494
+trust : 0.10542168674698796
+Video Number : 199 --> FAR CRY 6 PS5 Walkthrough Gameplay Part 11 - EL TIGRE (FULL GAME)
+Sentiment Vader
+Positive sentiment : 56.99999999999999
+Negative sentiment : 21.0
+Neutral sentiment : 22.0
+Sentiment Afinn
+Positive sentiment : 36.0
+Negative sentiment : 22.0
+Neutral sentiment : 42.0
+Sentiment NRC
+anger : 0.07481296758104738
+anticipation : 0.10723192019950124
+disgust : 0.02493765586034913
+fear : 0.11221945137157108
+joy : 0.08478802992518704
+negative : 0.14713216957605985
+positive : 0.1596009975062344
+sadness : 0.057356608478802994
+surprise : 0.05486284289276808
+trust : 0.08977556109725686
+Video Number : 200 --> FAR CRY 6 PS5 Walkthrough Gameplay Part 10 - ESPADA (FULL GAME)
+Sentiment Vader
+Positive sentiment : 42.0
+Negative sentiment : 33.0
+Neutral sentiment : 25.0
+Sentiment Afinn
+Positive sentiment : 37.0
+Negative sentiment : 24.0
+Neutral sentiment : 39.0
+Sentiment NRC
+anger : 0.05361930294906166
+anticipation : 0.09651474530831099
+disgust : 0.029490616621983913
+fear : 0.08847184986595175
+joy : 0.08847184986595175
+negative : 0.1126005361930295
+positive : 0.16353887399463807
+sadness : 0.04289544235924933
+surprise : 0.04825737265415549
+trust : 0.09651474530831099

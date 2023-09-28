@@ -20,6 +20,7 @@ def getDateWiseGrouped(channelName):
     for key, value in groups:
         listOfvals = list(value)
         vaderval = [c["polarity_vader"] for c in listOfvals]
-        customJSON.append({"date": key, "polarity_vader_avg": mean(vaderval)})
+        afinnval = [c["afinn_score"] for c in listOfvals]
+        customJSON.append({"date": key, "polarity_vader_avg": mean(vaderval), "no_comments": len(listOfvals), "afinn_score_avg": mean(afinnval)})
 
     return customJSON
